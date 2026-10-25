@@ -35,6 +35,21 @@
 
 ---
 
+## Tình trạng hoàn thành — ✅ 7/7 phần
+
+| Phần | Nội dung | Dung lượng | Trạng thái |
+|:---:|---|:--:|:--:|
+| **1** | Phân tích ma trận – bản đặc tả & lộ trình ôn tập | 228 dòng | ✅ |
+| **2** | Lý thuyết thể loại thần thoại | 546 dòng | ✅ |
+| **3** | Văn bản trong SGK – phân tích & đáp án | 641 dòng | ✅ |
+| **4** | Kỹ năng đọc hiểu – 10 dạng câu hỏi | 413 dòng | ✅ |
+| **5** | Đề minh họa + đáp án + biểu điểm (4 đề) | 746 dòng | ✅ |
+| **6** | Kỹ năng viết nghị luận (3 bài mẫu) | 439 dòng | ✅ |
+| **7** | Sổ tay ghi nhớ + 40 câu TN + đáp án | 433 dòng | ✅ |
+| | **Tổng** | **≈ 3.450 dòng** | **✅** |
+
+---
+
 ## Ba con số phải nhớ
 
 > **60 – 40 – 90**
