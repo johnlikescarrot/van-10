@@ -53,7 +53,7 @@ Tuyệt đối không viết bài khi chưa trả lời xong phần đọc hiể
 | **10–14 ngày** | 01 → 02 → 03 → 04 → 06 → 05 (làm đề) → 07 (ôn lặp) → 08 |
 | **5–7 ngày** | 01 → 02 (chỉ bảng tổng hợp) → 03 → 04 → 05 → 07 (flashcard) |
 | **1–2 ngày** | 07 (flashcard + sơ đồ) → 04 (công thức trả lời) → 06 (dàn ý) → 05 (học bài mẫu) |
-| **Cấp tốc 3 giờ** | `07` mục *"Trang bị tối thiểu"* → `04` mục *"Công thức 5 câu trả lời"* → `06` mục *"Dàn ý 4 phần"* |
+| **Cấp tốc 3 giờ** | `07` mục *"Trang bị tối thiểu"* → `04` *"Bảng tra nhanh: lệnh hỏi → công thức"* → `06` *"Dàn ý vạn năng"* → `05` đọc **bài văn mẫu A** |
 
 ---
 
