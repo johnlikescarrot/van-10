@@ -70,6 +70,7 @@ TOC_MD = """# MỤC LỤC
 | **Phần 6** | Kĩ năng viết nghị luận phân tích, đánh giá tác phẩm truyện: dàn ý, câu mẫu, bài mẫu, rubric |
 | **Phần 7** | Sơ đồ tư duy, bảng tổng hợp, 10 câu thần chú, flashcard, kế hoạch ôn 7 ngày, bí kíp phòng thi |
 | **Phần 8** | **02 đề minh họa + đáp án chi tiết, biểu điểm** (đúng cấu trúc ma trận) |
+| **Phụ lục** | Nguồn tham khảo, ghi chú biên soạn và những hạn chế cần lưu ý |
 
 **Hướng dẫn sử dụng:** (1) đọc Phần 0 để biết “học gì – bỏ gì”; (2) học theo thứ tự Phần 1 → Phần 6, tự kiểm tra bằng ô **CHỐT 30 GIÂY** cuối mỗi phần; (3) làm Phần 8 khi đã học xong, bấm giờ 90 phút; (4) trước ngày thi đọc Phần 7.
 
