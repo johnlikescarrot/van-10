@@ -133,7 +133,7 @@ D. Giải thích nguồn gốc các loài chim.
 > Hàng nghìn năm sau, người anh hùng Hê-ra-clét đi qua dãy núi ấy, đã bắn chết con diều hâu và bẻ gãy xiềng xích, giải thoát cho Prô-mê-tê. Nhưng thần Dớt vẫn không nguôi giận. Người sai các thần tạo ra người đàn bà đầu tiên, đặt tên là Pan-đô-ra, trao cho nàng một chiếc hộp kín và dặn không được mở. Pan-đô-ra tò mò mở nắp, mọi tai hoạ — bệnh tật, chiến tranh, đói nghèo, ganh ghét — liền bay ra khắp nhân gian. Chỉ còn một thứ nằm lại ở đáy hộp: ấy là niềm hy vọng. Từ đó, loài người phải sống cùng tai hoạ, nhưng không bao giờ mất hy vọng.
 
 **Câu 1 (NB – 0,5đ).** Theo văn bản, loài người được tạo ra từ
-A. đất và nước. B. lửa và gió. C. tro và đá. D. bùn và dây thừng.
+A. tro và đá. B. lửa và gió. C. đất và nước. D. bùn và dây thừng.
 
 **Câu 2 (NB – 0,5đ).** Prô-mê-tê lấy trộm lửa ở đâu?
 A. Trong hang núi. B. Từ cỗ xe mặt trời trên thiên đình.
@@ -149,10 +149,10 @@ D. "Cuối đời Hồ".
 A. thiên đình. B. dãy núi Cáp-ca-dơ. C. mặt đất (nơi loài người sống). D. cõi âm phủ.
 
 **Câu 5 (NB – 0,5đ).** Hình phạt Dớt dành cho Prô-mê-tê là
-A. trói vào vách núi, mỗi ngày diều hâu mổ gan, ban đêm gan mọc lại.
-B. biến thành đá.
-C. đày xuống làm người phàm.
-D. ném xuống biển.
+A. biến thành đá.
+B. đày xuống làm người phàm.
+C. ném xuống biển.
+D. trói vào vách núi, mỗi ngày diều hâu mổ gan, ban đêm gan mọc lại.
 
 **Câu 6 (NB – 0,5đ).** Chi tiết con người "từ chỗ sợ hãi thú dữ đã trở thành kẻ làm chủ mặt đất" cho thấy
 A. sức mạnh thể chất của loài người vượt trội mọi loài.
@@ -161,15 +161,15 @@ C. loài người không cần thần linh.
 D. truyện ca ngợi chiến tranh.
 
 **Câu 7 (TH – 0,5đ).** Vì sao Dớt **cấm** ban lửa cho loài người?
-A. Vì lửa nguy hiểm.
-B. Vì Dớt muốn giữ loài người ở cảnh yếu hèn để dễ cai trị.
+A. Vì Dớt muốn giữ loài người ở cảnh yếu hèn để dễ cai trị.
+B. Vì lửa nguy hiểm.
 C. Vì Prô-mê-tê chưa xin phép.
 D. Vì loài người chưa biết dùng lửa.
 
 **Câu 8 (TH – 0,5đ).** Chi tiết "chỉ còn niềm hy vọng nằm lại ở đáy hộp" có ý nghĩa gì?
 A. Chứng tỏ con người không bao giờ gặp tai hoạ.
-B. Khẳng định rằng dù tai hoạ tràn khắp nhân gian, **hy vọng** vẫn là thứ cuối cùng còn lại, giúp con người tiếp tục sống — vừa bi quan vừa lạc quan.
-C. Giải thích nguồn gốc của chiếc hộp.
+B. Giải thích nguồn gốc của chiếc hộp.
+C. Khẳng định rằng dù tai hoạ tràn khắp nhân gian, **hy vọng** vẫn là thứ cuối cùng còn lại, giúp con người tiếp tục sống — vừa bi quan vừa lạc quan.
 D. Phê phán tính tò mò của phụ nữ.
 
 **Câu 9 (TH – 1,0đ).** Tóm tắt cốt truyện (5–7 dòng) và lí giải vì sao Prô-mê-tê được gọi là một **nhân vật văn hoá** của thần thoại.
@@ -188,17 +188,17 @@ D. Phê phán tính tò mò của phụ nữ.
 
 | Câu | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| ĐA | **A** | **B** | **A** | **D** | **A** | **B** | **B** | **B** |
+| ĐA | **C** | **B** | **A** | **D** | **D** | **B** | **A** | **C** |
 
 **Giải thích nhanh:**
-- **1 – A.** "Lấy đất và nước nhào thành những hình giống thần linh".
+- **1 – C.** "Lấy đất và nước nhào thành những hình giống thần linh".
 - **2 – B.** "Lấy trộm lửa từ cỗ xe mặt trời".
 - **3 – A.** Mốc **sau cuộc chiến giữa các thần** — dù vẫn mang tính huyền thoại, đây là cách xác định **trước/sau** trong thế giới thần. ⚠ Đừng chọn B: "chín ngày chín đêm" là thời gian **hành động**, không phải mốc mở truyện.
 - **4 – D.** Không có **âm phủ**.
-- **5 – A.** Trói vào vách núi Cáp-ca-dơ, diều hâu mổ gan.
+- **5 – D.** Trói vào vách núi Cáp-ca-dơ, diều hâu mổ gan.
 - **6 – B.** Lửa + nghề + chữ = **tri thức và công cụ** — thông điệp trung tâm của thần thoại văn hoá.
-- **7 – B.** "Muốn giữ họ ở mãi trong cảnh yếu hèn để dễ cai trị" — nguyên văn trong văn bản.
-- **8 – B.** Đáp án **đầy đủ hai vế** (bi quan + lạc quan) — dạng câu hỏi "ý nghĩa chi tiết" luôn cần **hai vế**.
+- **7 – A.** "Muốn giữ họ ở mãi trong cảnh yếu hèn để dễ cai trị" — nguyên văn trong văn bản.
+- **8 – C.** Đáp án **đầy đủ hai vế** (bi quan + lạc quan) — dạng câu hỏi "ý nghĩa chi tiết" luôn cần **hai vế**.
 
 ### Tự luận
 

@@ -58,21 +58,21 @@ C. Nguồn gốc của mưa, hạn hán, lụt lội – những hiện tượng
 D. Tình cảm gia đình và sự hy sinh của người mẹ.
 
 **Câu 6 (NB – 0,5đ).** Chi tiết *"muôn loài kéo nhau lên kiện Trời"* phản ánh rõ nhất bối cảnh lịch sử – văn hoá nào?
-A. Xã hội phong kiến với bộ máy quan lại chặt chẽ.
-B. Xã hội nguyên thuỷ – nông nghiệp, với tín ngưỡng đa thần và tư duy hồn nhiên chưa có khoa học.
+A. Xã hội nguyên thuỷ – nông nghiệp, với tín ngưỡng đa thần và tư duy hồn nhiên chưa có khoa học.
+B. Xã hội phong kiến với bộ máy quan lại chặt chẽ.
 C. Xã hội đô thị hiện đại với pháp luật và toà án.
 D. Xã hội chiến binh du mục, trọng sức mạnh thể chất.
 
 **Câu 7 (TH – 0,5đ).** Chi tiết thần Mưa *"hay quên"* có tác dụng chủ yếu gì?
 A. Nhằm chế giễu, hạ thấp các vị thần.
-B. Lí giải hiện tượng hạn hán, lụt lội và thể hiện cách người xưa hình dung tự nhiên như một lực lượng vừa ban ơn vừa gây hoạ.
-C. Nhằm kéo dài câu chuyện cho hấp dẫn.
-D. Nhằm ca ngợi tài năng của cá chép.
+B. Nhằm kéo dài câu chuyện cho hấp dẫn.
+C. Nhằm ca ngợi tài năng của cá chép.
+D. Lí giải hiện tượng hạn hán, lụt lội và thể hiện cách người xưa hình dung tự nhiên như một lực lượng vừa ban ơn vừa gây hoạ.
 
 **Câu 8 (TH – 0,5đ).** Việc sử dụng người kể chuyện ngôi thứ ba, ẩn danh có tác dụng gì?
 A. Khiến câu chuyện trở nên chủ quan, giàu cảm xúc cá nhân.
-B. Cho phép người kể bao quát cả thiên đình và hạ giới, đồng thời tạo giọng điệu khách quan, trang trọng như đang thuật lại một sự thật nguyên thuỷ.
-C. Giúp người đọc biết rõ tác giả là ai.
+B. Giúp người đọc biết rõ tác giả là ai.
+C. Cho phép người kể bao quát cả thiên đình và hạ giới, đồng thời tạo giọng điệu khách quan, trang trọng như đang thuật lại một sự thật nguyên thuỷ.
 D. Làm cho câu chuyện ngắn gọn hơn.
 
 **Câu 9 (TH – 1,0đ).** Tóm tắt cốt truyện *Thần Mưa* trong khoảng 5–7 dòng và cho biết vì sao truyện được xếp vào nhóm **thần thoại suy nguyên**.
@@ -91,7 +91,7 @@ D. Làm cho câu chuyện ngắn gọn hơn.
 
 | Câu | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|
-| **Đáp án** | **B** | **D** | **C** | **B** | **C** | **B** | **B** | **B** |
+| **Đáp án** | **B** | **D** | **C** | **B** | **C** | **A** | **D** | **C** |
 
 **Giải thích nhanh (để học, không để chép):**
 
@@ -100,9 +100,9 @@ D. Làm cho câu chuyện ngắn gọn hơn.
 - **Câu 3 – C.** Thần Mưa xuất hiện từ đầu đến cuối và là **trung tâm** của mọi sự kiện. Cá chép chỉ là nhân vật của **truyện lồng** (cuộc thi).
 - **Câu 4 – B.** Cốt truyện vận động theo **mâu thuẫn**: tự nhiên mất cân bằng (hạn hán) → con người phản ứng (kiện) → giải pháp (thi hoá rồng). A, D chỉ là **chi tiết/hoàn cảnh**; C là **kết quả** của một tuyến phụ.
 - **Câu 5 – C.** Đề tài = *phạm vi đời sống* được phản ánh: hiện tượng mưa – hạn – lụt. Đáp án A là đề tài của *Nữ Oa*, B của truyền thuyết, D của truyện cổ tích.
-- **Câu 6 – B.** "Kiện Trời" cho thấy: (a) niềm tin vào **thần linh** (đa thần); (b) **tư duy hồn nhiên**: giải thích tự nhiên bằng quan hệ xã hội; (c) xã hội **nông nghiệp** lệ thuộc mưa nắng. ⚠ Loại C vì "kiện" ở đây là **kiện lên Trời**, không phải toà án pháp luật.
-- **Câu 7 – B.** Một chi tiết thực hiện **hai chức năng**: *nhận thức* (lí giải hạn/lụt) và *thế giới quan* (tự nhiên vừa ban ơn vừa tai hoạ). ⚠ Không chọn A: người xưa **không** chế giễu thần — họ kể với thái độ vừa kính vừa thân mật.
-- **Câu 8 – B.** Ngôi thứ ba **ẩn danh** → không ai "chứng kiến" nhưng vẫn kể được cả trời và đất; giọng **khách quan, trang trọng**. ⚠ Câu B là đáp án **dài và đầy đủ nhất** — trong đề TN về lí luận, đáp án thường là câu diễn đạt **đủ hai vế** (tác dụng với việc kể + tác dụng với người đọc).
+- **Câu 6 – A.** "Kiện Trời" cho thấy: (a) niềm tin vào **thần linh** (đa thần); (b) **tư duy hồn nhiên**: giải thích tự nhiên bằng quan hệ xã hội; (c) xã hội **nông nghiệp** lệ thuộc mưa nắng. ⚠ Loại C vì "kiện" ở đây là **kiện lên Trời**, không phải toà án pháp luật.
+- **Câu 7 – D.** Một chi tiết thực hiện **hai chức năng**: *nhận thức* (lí giải hạn/lụt) và *thế giới quan* (tự nhiên vừa ban ơn vừa tai hoạ). ⚠ Không chọn A: người xưa **không** chế giễu thần — họ kể với thái độ vừa kính vừa thân mật.
+- **Câu 8 – C.** Ngôi thứ ba **ẩn danh** → không ai "chứng kiến" nhưng vẫn kể được cả trời và đất; giọng **khách quan, trang trọng**. ⚠ Đáp án đúng thường là câu **dài và đầy đủ nhất** — trong đề TN về lí luận, đáp án thường là câu diễn đạt **đủ hai vế** (tác dụng với việc kể + tác dụng với người đọc).
 
 ### 2. Đáp án tự luận đọc hiểu
 
