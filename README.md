@@ -16,26 +16,33 @@ bám sát Chương trình GDPT 2018 — bộ sách **Kết nối tri thức vớ
 
 ## Mục lục
 
-| Phần | Tệp | Nội dung | Trạng thái |
-|---|---|---|---|
-| 1 | [01-PHAN-TICH-MA-TRAN-VA-CHIEN-LUOC-ON.md](01-PHAN-TICH-MA-TRAN-VA-CHIEN-LUOC-ON.md) | Giải mã ma trận + bản đặc tả, cấu trúc đề, chiến lược ôn 21 ngày, phân bổ 90 phút, 5 "điểm mù" | ✅ |
-| 2 | [02-LY-THUYET-THE-LOAI-THAN-THOAI.md](02-LY-THUYET-THE-LOAI-THAN-THOAI.md) | Toàn bộ lý thuyết thể loại + mở rộng: 5 đặc trưng, so sánh 4 thể loại, bản đồ thần thoại thế giới, mô-típ, từ điển thuật ngữ | ✅ |
-| 3 | `03-CAC-VAN-BAN-TRONG-SGK.md` | Phân tích chi tiết các văn bản Bài 1 (KNTT) | Đang soạn |
-| 4 | `04-KY-NANG-DOC-HIEU.md` | 8 dạng câu hỏi + công thức trả lời theo đúng bản đặc tả | Đang soạn |
-| 5 | `05-DE-KIEM-TRA-VA-DAP-AN.md` | **Đề kiểm tra đầy đủ 11 câu + đáp án chi tiết + thang điểm** | Đang soạn |
-| 6 | `06-KY-NANG-VIET-NGHI-LUAN.md` | Khung bài viết 4 điểm, kho từ vựng, bài mẫu | Đang soạn |
-| 7 | `07-SO-DO-TU-DUY-MEO-GHI-NHO.md` | Sơ đồ tư duy, flashcard, mẹo nhớ, lịch ôn | Đang soạn |
-| 8 | `08-DE-LUYEN-TAP-BO-SUNG.md` | Đề luyện thêm + đáp án | Đang soạn |
-| 9 | `09-PHU-LUC-NGU-LIEU.md` | Tuyển tập ngữ liệu thần thoại để luyện đọc hiểu | Đang soạn |
+| Phần | Tệp | Nội dung |
+|---|---|---|
+| 1 | [01-PHAN-TICH-MA-TRAN-VA-CHIEN-LUOC-ON.md](01-PHAN-TICH-MA-TRAN-VA-CHIEN-LUOC-ON.md) | Giải mã ma trận + bản đặc tả, cấu trúc đề, đối chiếu **20/20 yêu cầu cần đạt**, chiến lược ôn 21 ngày, phân bổ 90 phút, 5 "điểm mù", checklist |
+| 2 | [02-LY-THUYET-THE-LOAI-THAN-THOAI.md](02-LY-THUYET-THE-LOAI-THAN-THOAI.md) | Toàn bộ lý thuyết thể loại: định nghĩa, phân loại, **5 đặc trưng thi pháp**, so sánh 4 thể loại, 5 tầng bối cảnh lịch sử – văn hoá, **bản đồ thần thoại 9 nền văn hoá**, 6 mô-típ, từ điển 20 thuật ngữ, mẹo nhớ |
+| 3 | [03-CAC-VAN-BAN-TRONG-SGK.md](03-CAC-VAN-BAN-TRONG-SGK.md) | Phân tích chi tiết 4 văn bản Bài 1: *Truyện về các vị thần sáng tạo thế giới* (Trụ Trời – Sét – Gió), *Tản Viên từ Phán sự lục*, *Chữ người tử tù*, *Tê-dê* + bảng tổng hợp |
+| 4 | [04-KY-NANG-DOC-HIEU.md](04-KY-NANG-DOC-HIEU.md) | Quy trình 4 bước; **11 dạng câu hỏi** kèm công thức trả lời; bảng "từ khoá → bắt buộc có"; 5 tình huống khó; bộ 10 câu tự kiểm |
+| 5 | [05-DE-KIEM-TRA-VA-DAP-AN.md](05-DE-KIEM-TRA-VA-DAP-AN.md) | **ĐỀ KIỂM TRA ĐẦY ĐỦ 11 CÂU** (ngữ liệu *Thần Mưa*, ngoài SGK) + **đáp án chi tiết**: giải thích từng phương án, thang điểm, bài mẫu, dàn ý + bài văn mẫu 900 chữ, bảng đối chiếu với ma trận |
+| 6 | [06-KY-NANG-VIET-NGHI-LUAN.md](06-KY-NANG-VIET-NGHI-LUAN.md) | Khung bài 4 phần, 6 nét nghệ thuật với "công thức 4 câu", 3 kiểu mở bài, kho từ vựng, 2 bài mẫu có chẩn đoán điểm, 8 lỗi thường gặp |
+| 7 | [07-SO-DO-TU-DUY-MEO-GHI-NHO.md](07-SO-DO-TU-DUY-MEO-GHI-NHO.md) | Sơ đồ tư duy tổng, 10 mẹo nhớ, bài thơ chốt kiến thức, **36 flashcard**, "bảng vàng" 1 trang, lịch ôn 7 ngày |
+| 8 | [08-DE-LUYEN-TAP-BO-SUNG.md](08-DE-LUYEN-TAP-BO-SUNG.md) | 3 đề luyện (Hy Lạp – Trung Quốc – "đề tốc độ" 45 phút) **kèm đáp án và dàn ý** |
+| 9 | [09-PHU-LUC-NGU-LIEU.md](09-PHU-LUC-NGU-LIEU.md) | 12 truyện thần thoại cốt lõi dạng bảng tra, so sánh 3 nền thần thoại, **từ điển tên riêng**, 10 "câu hỏi vàng", nguồn tìm ngữ liệu |
 
-## Cách dùng tài liệu
+## Ba lộ trình sử dụng
 
-1. **Nếu chỉ còn 1 ngày:** đọc Phần 2 (§4, §5, §9) → Phần 4 (bảng công thức) → Phần 7 (mẹo nhớ). Làm Phần 5 trong 90 phút.
-2. **Nếu có 1 tuần:** theo lịch Tuần 2 + Tuần 3 trong Phần 1 §5.
-3. **Nếu có 3 tuần:** theo đúng lịch 21 ngày trong Phần 1 §5.
+| Bạn còn… | Lộ trình |
+|---|---|
+| **1 ngày** | Phần 2 (§4, §5, §9) → Phần 4 (các bảng công thức) → Phần 7 ("bảng vàng" + flashcard) → làm Phần 5 bấm giờ |
+| **1 tuần** | Lịch 7 ngày ở Phần 7 §7 |
+| **3 tuần** | Lịch 21 ngày ở Phần 1 §5 |
 
 ## Nguyên tắc biên soạn
 
-- Mọi nội dung đều **truy vết được** về một yêu cầu cần đạt trong bản đặc tả (xem bảng đối chiếu Phần 1 §3).
-- Kiến thức **mở rộng ra ngoài SGK** (bản đồ thần thoại thế giới, mô-típ, bối cảnh lịch sử – văn hoá) để học sinh không bị động khi gặp ngữ liệu lạ.
-- Mọi kiến thức đều được **bảng hoá / công thức hoá** để phục vụ ghi nhớ.
+1. **Truy vết được**: mọi nội dung đều ứng với một yêu cầu cần đạt trong bản đặc tả (bảng đối chiếu ở Phần 1 §3).
+2. **Mở rộng có kiểm soát**: kiến thức ngoài SGK (bản đồ thần thoại thế giới, mô-típ, bối cảnh lịch sử – văn hoá, từ điển tên riêng) để không bị động trước ngữ liệu lạ.
+3. **Thiết kế để nhớ**: bảng hoá, công thức hoá, có mẹo nhớ, flashcard và câu chốt.
+4. **Đề và đáp án đầy đủ**: đề ở Phần 5 khớp 100% ma trận gốc (11 câu, 60/40) và có đáp án chi tiết cho từng câu, kể cả bài văn mẫu.
+
+## Đóng góp
+
+Mọi góp ý về nội dung (thêm ngữ liệu, sửa lỗi chính tả, bổ sung dạng câu hỏi) xin gửi qua **Issue** hoặc **Pull Request**.
