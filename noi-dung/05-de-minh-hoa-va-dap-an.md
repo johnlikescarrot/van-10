@@ -1,7 +1,7 @@
 # PHẦN 5 — ĐỀ MINH HỌA ĐẦY ĐỦ + ĐÁP ÁN + BIỂU ĐIỂM
 
 > **Vì file `.docx` gốc chỉ có ma trận, không có đề**, phần này dựng **4 đề hoàn chỉnh** theo đúng ma trận:
-> - 9 câu TNKQ + 1 câu TL (đọc hiểu) + 1 bài viết = **11 câu**
+> - **8 câu TNKQ** (6 Biết + 2 Hiểu) + **2 câu TL** (1 Hiểu + 1 Vận dụng) + **1 bài viết** = **11 câu**
 > - **Đọc hiểu 6,0 điểm / Viết 4,0 điểm**
 > - Mức độ: **Biết 40% – Hiểu 30% – Vận dụng 30%**
 >
