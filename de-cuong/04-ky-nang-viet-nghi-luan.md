@@ -125,7 +125,7 @@ KẾT BÀI (0,5)
 ### Nhóm 3 — Không gian và thời gian
 
 - **Câu luận điểm:** *"Không gian vũ trụ nhiều cõi và thời gian phiếm chỉ đã tạo nên "chất" huyền thoại riêng cho tác phẩm."*
-- **Cách phân tích:** dẫn cụm từ chỉ thời gian/ không gian → **tác dụng** (xem bảng ở Phần II) → nhận xét: *không gian ấy khiến con người **vừa nhỏ bé vừa lớn lao***.
+- **Cách phân tích:** dẫn cụm từ chỉ thời gian/ không gian → **tác dụng** (xem bảng ở Phần II) → nhận xét: *không gian ấy khiến con người vừa nhỏ bé vừa lớn lao*.
 - **Câu chốt:** *"Đặt câu chuyện vào thời gian vô thuỷ và không gian vô biên, tác giả dân gian đã làm cho lời giải thích của mình mang tầm vóc của một huyền thoại."*
 
 ### Nhóm 4 — Kết cấu và cốt truyện
