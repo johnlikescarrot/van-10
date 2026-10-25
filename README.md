@@ -23,10 +23,11 @@ Bộ tài liệu ôn thi giữa học kì I môn Ngữ văn 10, biên soạn bá
 | 6 | `06-ky-nang-viet-nghi-luan-phan-tich-danh-gia-truyen.md` | Dàn ý, câu mẫu, bài mẫu, rubric, lỗi thường gặp |
 | 7 | `07-so-do-tu-duy-va-meo-ghi-nho.md` | Sơ đồ tư duy, bảng biểu, thơ chế – mẹo nhớ, kế hoạch 7 ngày |
 | 8 | `08-de-minh-hoa-va-dap-an.md` | **02 đề minh họa + đáp án chi tiết + biểu điểm** |
+| 9 | `09-nguon-tham-khao-va-ghi-chu-bien-soan.md` | Nguồn tham khảo, ghi chú biên soạn, hạn chế cần lưu ý |
 
 ## 3. Bản in
 
-- **`DE-CUONG-ON-TAP-GIUA-KI-1-NGU-VAN-10-KNTT.docx`** – bản tổng hợp đầy đủ (bìa, mục lục, 9 phần, 67 bảng biểu, khổ A4, Times New Roman 13, có số trang).
+- **`DE-CUONG-ON-TAP-GIUA-KI-1-NGU-VAN-10-KNTT.docx`** – bản tổng hợp đầy đủ (bìa, mục lục, 10 phần, 67 bảng biểu, khổ A4, Times New Roman 13, có số trang).
 - Dựng lại bản in sau khi sửa Markdown:
 
 ```bash

@@ -30,6 +30,7 @@ ORDER = [
     "06-ky-nang-viet-nghi-luan-phan-tich-danh-gia-truyen.md",
     "07-so-do-tu-duy-va-meo-ghi-nho.md",
     "08-de-minh-hoa-va-dap-an.md",
+    "09-nguon-tham-khao-va-ghi-chu-bien-soan.md",
 ]
 
 PAGE_BREAK = '\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n'
