@@ -24,7 +24,17 @@ Bộ tài liệu ôn thi giữa học kì I môn Ngữ văn 10, biên soạn bá
 | 7 | `07-so-do-tu-duy-va-meo-ghi-nho.md` | Sơ đồ tư duy, bảng biểu, thơ chế – mẹo nhớ, kế hoạch 7 ngày |
 | 8 | `08-de-minh-hoa-va-dap-an.md` | **02 đề minh họa + đáp án chi tiết + biểu điểm** |
 
-## 3. Cách dùng
+## 3. Bản in
+
+- **`DE-CUONG-ON-TAP-GIUA-KI-1-NGU-VAN-10-KNTT.docx`** – bản tổng hợp đầy đủ (bìa, mục lục, 9 phần, 67 bảng biểu, khổ A4, Times New Roman 13, có số trang).
+- Dựng lại bản in sau khi sửa Markdown:
+
+```bash
+pip install --break-system-packages python-docx pypandoc-binary
+python3 tools/build_docx.py
+```
+
+## 4. Cách dùng
 
 1. Đọc Phần 0 để biết "học gì – bỏ gì", in bảng tiến độ.
 2. Học theo thứ tự 1 → 6; mỗi phần đều có ô **"CHỐT 30 GIÂY"** để tự kiểm tra.
