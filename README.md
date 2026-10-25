@@ -34,7 +34,7 @@ van-10/
 │   └── 01-phan-tich-ma-tran-va-ban-dac-ta.md  ← "dịch" ma trận thành việc cần làm
 ├── 01-kien-thuc-nen/
 │   ├── 01-the-loai-than-thoai.md              ← thể loại: định nghĩa → thi pháp → so sánh
-│   ├── 02-van-ban-sgk.md                      ← 5 văn bản Bài 1 (KNTT) + Tê-dê
+│   ├── 02-van-ban-sgk.md                      ← 4 văn bản của Bài 1 (gồm cả Tê-dê)
 │   └── 03-mo-rong-the-gioi-than-thoai.md      ← thần thoại VN & thế giới, motif, so sánh
 ├── 02-doc-hieu/
 │   ├── 01-ky-nang-va-cong-thuc.md             ← 10 dạng câu hỏi theo đặc tả + công thức
