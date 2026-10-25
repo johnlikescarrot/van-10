@@ -28,6 +28,13 @@ bám sát Chương trình GDPT 2018 — bộ sách **Kết nối tri thức vớ
 | 8 | [08-DE-LUYEN-TAP-BO-SUNG.md](08-DE-LUYEN-TAP-BO-SUNG.md) | 3 đề luyện (Hy Lạp – Trung Quốc – "đề tốc độ" 45 phút) **kèm đáp án và dàn ý** |
 | 9 | [09-PHU-LUC-NGU-LIEU.md](09-PHU-LUC-NGU-LIEU.md) | 12 truyện thần thoại cốt lõi dạng bảng tra, so sánh 3 nền thần thoại, **từ điển tên riêng**, 10 "câu hỏi vàng", nguồn tìm ngữ liệu |
 
+## Bản in
+
+Ngoài các tệp Markdown, repo có sẵn **bản Word in được**:
+
+- `DE-CUONG-ON-TAP-NGU-VAN-10-GK1.docx` — gộp toàn bộ 9 phần, khổ A4, có trang bìa, mục lục theo heading, bảng kẻ sẵn.
+- Tạo lại bản Word sau khi sửa Markdown: `python3 tools/md2docx.py` (cần `pip install python-docx`).
+
 ## Ba lộ trình sử dụng
 
 | Bạn còn… | Lộ trình |

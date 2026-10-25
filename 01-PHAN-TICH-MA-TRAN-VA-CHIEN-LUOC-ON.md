@@ -29,7 +29,7 @@ Tệp gốc chỉ gồm **3 phần**, không có đề bài cụ thể:
 | **Đọc hiểu** | Truyện thần thoại | 6 TN | 2 TN + 1 TL | 1 TL | **60%** |
 | **Viết** | Nghị luận phân tích, đánh giá tác phẩm truyện | 1* | 1* | 1 TL | **40%** |
 
-*(Dấu `*` = một câu tự luận duy nhất được tính cho cả 3 mức độ, không phải 3 câu riêng.)*
+*(Dấu «*» = một câu tự luận duy nhất được tính cho cả 3 mức độ, không phải 3 câu riêng.)*
 
 ### 2.2. Cấu trúc đề sau khi "bóc" ra
 
@@ -110,7 +110,7 @@ Bản đặc tả liệt kê đúng 20 yêu cầu cần đạt. Mỗi yêu cầu
 | 19 | Nêu **ý nghĩa/tác động của tác phẩm** đối với nhận thức, tình cảm, quan niệm của bản thân | "Tác phẩm đã làm thay đổi nhận thức/tình cảm của em thế nào?" | Phần 4 §5.2 |
 | 20 | Vận dụng **bối cảnh lịch sử – văn hoá** để lí giải thông điệp; **đánh giá** giá trị của thông điệp/chi tiết/hình tượng theo quan niệm cá nhân | "Em có đồng tình với quan niệm…? Vì sao?" | Phần 4 §5.3–5.4 |
 
-> **Nhận xét chiến lược:** 9/20 yêu cầu thuộc nhóm "nhận biết" và đều có thể hỏi bằng trắc nghiệm → **3,0 điểm là điểm "cho không"** nếu thuộc lòng 5 đặc trưng thể loại. 8/20 thuộc nhóm "hiểu" → đây là nơi phân loại học sinh. Chỉ 4/20 thuộc "vận dụng" nhưng chiếm tới **3,0 điểm** (1,0 tự luận + 2,0 trong bài viết) → **kĩ năng bày tỏ quan điểm** quyết định điểm khá/giỏi.
+> **Nhận xét chiến lược:** 9/20 yêu cầu thuộc nhóm "nhận biết" và đều có thể hỏi bằng trắc nghiệm → **3,0 điểm là điểm "cho không"** nếu thuộc lòng 5 đặc trưng thể loại. 8/20 thuộc nhóm "hiểu" → đây là nơi phân loại học sinh. Chỉ 3/20 thuộc "vận dụng" nhưng chiếm tới **3,0 điểm** (1,0 tự luận + 2,0 trong bài viết) → **kĩ năng bày tỏ quan điểm** quyết định điểm khá/giỏi.
 
 ---
 
