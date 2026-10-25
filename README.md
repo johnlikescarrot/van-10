@@ -46,7 +46,7 @@
 | **5** | Đề minh họa + đáp án + biểu điểm (4 đề) | 746 dòng | ✅ |
 | **6** | Kỹ năng viết nghị luận (3 bài mẫu) | 439 dòng | ✅ |
 | **7** | Sổ tay ghi nhớ + 40 câu TN + đáp án | 433 dòng | ✅ |
-| | **Tổng** | **≈ 3.450 dòng** | **✅** |
+| | **Tổng** | **≈ 3.500 dòng** | **✅** |
 
 ---
 
