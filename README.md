@@ -4,7 +4,7 @@ Bộ tài liệu ôn thi được biên soạn **bám sát ma trận** trong fil
 `MA TRẬN KIỂM TRA GIỮA KÌ 1 NGỮ VĂN 10 NĂM 2026-2027.docx`.
 
 > **Nội dung:** ~27.700 từ · 6 phần · **6 đề đầy đủ (66 câu)** · 59 bảng · 3 bài văn mẫu · 10 dàn ý chi tiết.
-> **Bản in:** [`DE-CUONG-ON-TAP-GIUA-KI-1-VAN-10.docx`](DE-CUONG-ON-TAP-GIUA-KI-1-VAN-10.docx) (A4, Times New Roman 13).
+> **Bản in:** [`DE-CUONG-ON-TAP-GIUA-KI-1-VAN-10.docx`](DE-CUONG-ON-TAP-GIUA-KI-1-VAN-10.docx) (A4, Times New Roman 13, có trang bìa + mục lục + 59 bảng).
 
 ## Điểm quan trọng nhất rút ra từ ma trận
 

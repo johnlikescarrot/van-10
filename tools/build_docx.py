@@ -130,11 +130,19 @@ def flush_paragraph(document, buffer):
     add_inline(p, text)
 
 
+def repeat_header(row):
+    tr_pr = row._tr.get_or_add_trPr()
+    tbl_header = OxmlElement("w:tblHeader")
+    tbl_header.set(qn("w:val"), "true")
+    tr_pr.append(tbl_header)
+
+
 def add_table(document, rows):
     if not rows:
         return
     header, body = rows[0], rows[1:]
     ncols = max(len(r) for r in rows)
+    fsize = Pt(11) if ncols <= 5 else (Pt(10) if ncols <= 7 else Pt(9))
     table = document.add_table(rows=1, cols=ncols)
     table.style = "Table Grid"
     table.alignment = WD_TABLE_ALIGNMENT.CENTER
@@ -146,10 +154,11 @@ def add_table(document, rows):
         p = cell.paragraphs[0]
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         value = header[i] if i < len(header) else ""
-        add_inline(p, value, size=Pt(11), base_bold=True)
+        add_inline(p, value, size=fsize, base_bold=True)
         for run in p.runs:
-            set_run_font(run, Pt(11), bold=True)
+            set_run_font(run, fsize, bold=True)
         shade(cell, "DCE6F1")
+    repeat_header(table.rows[0])
 
     for row in body:
         cells = table.add_row().cells
@@ -157,14 +166,14 @@ def add_table(document, rows):
             value = row[i] if i < len(row) else ""
             p = cells[i].paragraphs[0]
             p.paragraph_format.space_after = Pt(0)
-            add_inline(p, value, size=Pt(11))
+            add_inline(p, value, size=fsize)
             for run in p.runs:
-                set_run_font(run, Pt(11))
+                set_run_font(run, fsize)
 
     document.add_paragraph().paragraph_format.space_after = Pt(2)
 
 
-def convert_file(document, path):
+def convert_file(document, path, skip_h1=False):
     with open(path, encoding="utf-8") as fh:
         lines = fh.read().splitlines()
 
@@ -172,6 +181,7 @@ def convert_file(document, path):
     table_rows = []
     in_code = False
     code_buffer = []
+    skipped_h1 = False
 
     def flush_table():
         nonlocal table_rows
@@ -214,6 +224,9 @@ def convert_file(document, path):
         if m:
             flush_paragraph(document, buffer)
             level, text = len(m.group(1)), m.group(2).strip()
+            if level == 1 and skip_h1 and not skipped_h1:
+                skipped_h1 = True
+                continue
             if level == 1:
                 p = document.add_paragraph()
                 p.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -325,7 +338,50 @@ def convert_file(document, path):
         set_run_font(run, Pt(10), name="Consolas")
 
 
-# --------------------------------------------------------------------------- #
+
+def build_toc(document, files):
+    p = document.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.paragraph_format.space_after = Pt(12)
+    add_inline(p, "MỤC LỤC", size=Pt(18), base_bold=True, color=ACCENT)
+
+    for name in files:
+        with open(os.path.join(DOCS, name), encoding="utf-8") as fh:
+            lines = fh.read().splitlines()
+        part_title = None
+        sections = []
+        for line in lines:
+            stripped = line.strip()
+            if part_title is None and stripped.startswith("**PHẦN"):
+                part_title = stripped.strip("*").strip()
+                continue
+            m = re.match(r"^(#{1,2})\s+(.+)$", stripped)
+            if m and part_title is not None:
+                title = m.group(2).strip()
+                if title.startswith("ĐỀ CƯƠNG ÔN TẬP"):
+                    continue
+                if title.lower().startswith("hết phần"):
+                    continue
+                sections.append((len(m.group(1)), title))
+
+        p = document.add_paragraph()
+        p.paragraph_format.space_before = Pt(8)
+        p.paragraph_format.space_after = Pt(2)
+        add_inline(p, part_title or name, size=Pt(12.5), base_bold=True, color=ACCENT2)
+
+        for level, sec in sections:
+            q = document.add_paragraph()
+            if level == 1:
+                q.paragraph_format.left_indent = Cm(0.3)
+                q.paragraph_format.space_before = Pt(4)
+                q.paragraph_format.space_after = Pt(1)
+                add_inline(q, sec, size=Pt(12), base_bold=True, color=ACCENT)
+            else:
+                q.paragraph_format.left_indent = Cm(0.9)
+                q.paragraph_format.space_after = Pt(1)
+                add_inline(q, "• " + sec, size=Pt(11.5))
+
+
 def build():
     doc = Document()
 
@@ -385,10 +441,13 @@ def build():
     if not files:
         sys.exit("Không tìm thấy tệp .md nào trong docs/")
 
+    build_toc(doc, files)
+    doc.add_page_break()
+
     for idx, name in enumerate(files):
         if idx:
             doc.add_page_break()
-        convert_file(doc, os.path.join(DOCS, name))
+        convert_file(doc, os.path.join(DOCS, name), skip_h1=(idx > 0))
 
     # Đánh số trang
     footer = doc.sections[0].footer
