@@ -8,7 +8,7 @@ Bộ tài liệu ôn thi được biên soạn **bám sát ma trận** trong fil
 | Phần | Nội dung | Tệp |
 |:---:|---|---|
 | 1 | Giải mã ma trận & nền tảng thể loại thần thoại | [`docs/phan-1-giai-ma-ma-tran-va-nen-tang-the-loai.md`](docs/phan-1-giai-ma-ma-tran-va-nen-tang-the-loai.md) |
-| 2 | Hệ thống tác phẩm trọng tâm + mở rộng | *(đang biên soạn)* |
+| 2 | Hệ thống tác phẩm trọng tâm + mở rộng | [`docs/phan-2-he-thong-tac-pham.md`](docs/phan-2-he-thong-tac-pham.md) |
 | 3 | Kĩ năng đọc hiểu + Đề số 1 (đúng ma trận) + đáp án | *(đang biên soạn)* |
 | 4 | Bộ 5 đề luyện tập + đáp án | *(đang biên soạn)* |
 | 5 | Viết: nghị luận phân tích, đánh giá tác phẩm truyện | *(đang biên soạn)* |
