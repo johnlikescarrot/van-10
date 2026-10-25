@@ -11,7 +11,7 @@ Bộ tài liệu ôn thi được biên soạn **bám sát ma trận** trong fil
 | 2 | Hệ thống tác phẩm trọng tâm + mở rộng | [`docs/phan-2-he-thong-tac-pham.md`](docs/phan-2-he-thong-tac-pham.md) |
 | 3 | Kĩ năng đọc hiểu + Đề số 1 (đúng ma trận) + đáp án | [`docs/phan-3-ky-nang-doc-hieu-va-de-so-1.md`](docs/phan-3-ky-nang-doc-hieu-va-de-so-1.md) |
 | 4 | Bộ 5 đề luyện tập + đáp án | [`docs/phan-4-bo-nam-de-luyen-tap.md`](docs/phan-4-bo-nam-de-luyen-tap.md) |
-| 5 | Viết: nghị luận phân tích, đánh giá tác phẩm truyện | *(đang biên soạn)* |
+| 5 | Viết: nghị luận phân tích, đánh giá tác phẩm truyện | [`docs/phan-5-chuyen-de-viet-nghi-luan.md`](docs/phan-5-chuyen-de-viet-nghi-luan.md) |
 | 6 | Sổ tay ghi nhớ & kế hoạch ôn thi | *(đang biên soạn)* |
 
 ## Cấu trúc đề thi (suy ra từ ma trận)
