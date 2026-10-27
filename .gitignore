@@ -1,0 +1,12 @@
+# Môi trường ảo Python
+.venv/
+venv/
+# File tạm
+__pycache__/
+*.pyc
+_docx_dump.txt
+# Ảnh xem trước & build thử
+de-cuong-on-tap/pdf/preview/
+smoke*.pdf
+smoke*.png
+*.tmp.pdf
