@@ -43,7 +43,7 @@ Phần này bổ sung bốn ngữ liệu #strong[chưa xuất hiện] trong các
 
 == Ngữ liệu 2 — Bàn Cổ khai thiên lập địa (Thần thoại Trung Hoa)
 
-#passage-box(title: "BÀN CỔ KHAI THIÊN LẬP ĐỊA", source: "Phỏng theo thần thoại Trung Hoa, lưu truyền trong *Sưu thần kí* (Can Bảo)")[
+#passage-box(title: "BÀN CỔ KHAI THIÊN LẬP ĐỊA", source: "Phỏng theo thần thoại Trung Hoa; bản ghi sớm nhất là *Tam Ngũ lịch kỉ* của Từ Chỉnh (thế kỉ III)")[
   #set text(font: font-serif, size: 9.6pt)
   Trước khi có trời đất, vũ trụ chỉ là một khối khí hỗn độn, tối tăm, không có trên dưới, không có âm thanh. Trong khối hỗn độn ấy có một quả trứng khổng lồ, ấp mãi mười tám ngàn năm mới nứt ra. Một người khổng lồ tên Bàn Cổ bước ra, thấy không gian chật chội bèn vung chiếc rìu đá chém đôi khối hỗn độn. Phần nhẹ và trong bay lên, thành trời; phần nặng và đục lắng xuống, thành đất.
 
