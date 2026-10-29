@@ -84,7 +84,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   ]
 )
 
-*Lưu ý quan trọng:* Bộ 06 Đề thi chuẩn Ma trận tại #strong[Phần VI] của đề cương này đã bao quát trọn vẹn #strong[cả hai phương án A và B] để học sinh làm chủ tuyệt đối mọi kịch bản ra đề!
+*Lưu ý quan trọng:* Bộ #strong[08 đề thi chuẩn Ma trận] tại #strong[Phần VI] của đề cương này (06 đề dùng ngữ liệu nguyên bản + 02 đề 07 – 08 mở rộng phổ đề) đã bao quát trọn vẹn #strong[cả hai phương án A và B] để học sinh làm chủ tuyệt đối mọi kịch bản ra đề!
 
 = 1.4. Ánh xạ 22 Chỉ báo Bản Đặc tả sang Dạng Câu hỏi Thực chiến
 

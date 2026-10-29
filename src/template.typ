@@ -223,8 +223,8 @@
 }
 
 // Header thẻ Đề kiểm tra
-#let exam-header(num, subtitle, model-type) = {
-  pagebreak(weak: true)
+#let exam-header(num, subtitle, model-type, new-page: false) = {
+  if new-page { pagebreak(weak: true) } else { v(14pt) }
   place(hide(heading(level: 2, offset: 0)[Đề minh họa số #num: #subtitle (#model-type)]))
   block(
     width: 100%,
@@ -315,8 +315,8 @@
   show raw: set text(font: font-sans, size: 9.1pt, weight: "semibold", fill: c-indigo)
 
   show outline.entry.where(level: 1): it => {
-    v(5pt, weak: true)
-    strong(text(fill: c-navy, size: 9.6pt, it))
+    v(2.5pt, weak: true)
+    strong(text(fill: c-navy, size: 9pt, it))
   }
 
   show heading.where(level: 2): it => {
@@ -429,8 +429,8 @@
             ],
             block(fill: c-jade-soft, radius: 5pt, inset: 8pt, width: 100%)[
               #align(center)[
-                #text(size: 15pt, weight: "bold", fill: c-jade)[106 CÂU]\
-                #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & 6 ĐỀ]\
+                #text(size: 15pt, weight: "bold", fill: c-jade)[128 CÂU]\
+                #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & 8 ĐỀ]\
                 #text(size: 7.4pt, fill: c-slate)[100% có đáp án,\ giải nhiễu & văn mẫu]
               ]
             ]
@@ -453,11 +453,11 @@
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[03. DÀN Ý VẠN NĂNG & VĂN MẪU 4,0Đ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[Mô hình Ngôi Đền 5 Tầng phân tích chủ đề & nghệ thuật thần thoại kèm 06 bài văn mẫu hoàn chỉnh.]
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Trọn bài học SGK tr. 29 – 34: 5 yêu cầu, 4 bước, dàn ý mẫu & 10 bài văn mẫu hoàn chỉnh.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. TRỌN BỘ CÂU HỎI & ĐÁP ÁN CHI TIẾT]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[40 câu luyện theo chỉ báo + 06 đề thi chuẩn 90 phút (66 câu), giải thích từng phương án nhiễu & thang điểm 0,25.]
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[40 câu luyện theo chỉ báo + 08 đề thi chuẩn 90 phút (88 câu), giải thích từng phương án nhiễu, thang điểm 0,25 & 10 bài văn mẫu.]
           ],
         )
 
@@ -493,7 +493,7 @@
       [*1. Mã hóa kép (Dual Coding):* Kết hợp bảng ma trận đối chiếu và sơ đồ cấu trúc để não bộ lưu trữ đồng thời kênh ngôn ngữ và kênh không gian.],
       [*2. Khẩu quyết âm vần (Chunking & Mnemonics):* Mọi cụm kiến thức phức tạp đều được nén thành công thức ngắn gọn (*5K–1C*, *GỌI–TRÍCH–GIẢI–CHỐT*).],
       [*3. Phòng vệ lỗi sai (Error Inoculation):* Hệ thống hộp *Cảnh báo bẫy phòng thi* chỉ rõ các phương án nhiễu hay đánh lừa học sinh nhất.],
-      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 40 câu theo chỉ báo + 06 đề thi thực chiến (66 câu) + 24 thẻ Flashcards kèm lộ trình ôn 7 ngày.]
+      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 40 câu theo chỉ báo + 08 đề thi thực chiến (88 câu) + 30 thẻ Flashcards kèm lộ trình ôn 7 ngày và Phụ lục kho dẫn chứng.]
     )
   ]
 
@@ -505,8 +505,9 @@
     #v(2pt)
     #line(length: 100%, stroke: 1.2pt + c-indigo)
     #v(4pt)
-    #set text(size: 9.2pt)
-    #outline(title: none, indent: 1.2em, depth: 2)
+    #set text(size: 8.1pt)
+    #set par(spacing: 0.24em, leading: 0.5em)
+    #outline(title: none, indent: 1.1em, depth: 2)
   ]
 
   body
