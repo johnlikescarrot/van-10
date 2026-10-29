@@ -279,7 +279,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
 
 = 1.8. Quy chuẩn Trình bày Bài thi — Ghi điểm bằng Hình thức
 
-Giám khảo chấm 60–90 bài trong một buổi. Bài nào #strong[“nhìn thấy điểm”] trong 15 giây đầu sẽ được chấm kĩ hơn; bài nào bí từ sẽ bị lướt. Dưới đây là quy chuẩn trình bày tối thiểu — không phải để “đẹp”, mà để #strong[điểm không bị thất lạc] giữa hàng trăm bài giống nhau:
+Giám khảo chấm 60–90 bài trong một buổi; bài nào #strong[“nhìn thấy điểm”] trong 15 giây đầu sẽ được chấm kĩ hơn. Quy chuẩn dưới đây không nhằm làm bài “đẹp” mà để #strong[điểm không bị thất lạc] giữa hàng trăm bài giống nhau:
 
 #study-table(
   (1.15fr, 2.5fr, 1.6fr, 1.45fr),
@@ -288,7 +288,7 @@ Giám khảo chấm 60–90 bài trong một buổi. Bài nào #strong[“nhìn 
   [*Trắc nghiệm*],
   [Ghi đáp án theo #strong[một kiểu duy nhất]: khoanh tròn + ghi chữ cái in hoa ra lề phải (A, B, C, D). Không tô đen, không đánh dấu X.\ Mỗi dòng một câu: “Câu 1: A”.],
   [Đáp án rõ ràng, không nhầm dòng khi chấm bằng máy hoặc chấm tay.],
-  [Khoanh mờ, sửa bằng bút xóa, ghi hai đáp án → 0 điểm câu đó.],
+  [Khoanh mờ, sửa bằng bút xóa, ghi hai đáp án → 0 điểm.],
 
   [*Câu 9* (1,0đ)],
   [Trả lời thành #strong[một đoạn văn 5–7 dòng], không gạch đầu dòng rời rạc. Mở đầu bằng câu khẳng định trực tiếp vào câu hỏi.],
@@ -304,9 +304,33 @@ Giám khảo chấm 60–90 bài trong một buổi. Bài nào #strong[“nhìn 
   [*Câu 11* (4,0đ)],
   [Bài văn #strong[3 phần rõ ràng]: Mở bài (5–7 dòng) – Thân bài (4–5 đoạn, mỗi đoạn một luận điểm, xuống dòng rõ) – Kết bài (4–5 dòng).\ Có thể đặt số thứ tự luận điểm ở lề (1), (2) để giám khảo theo dõi.],
   [Cấu trúc, hệ thống luận điểm, dẫn chứng nguyên văn, đánh giá có chiều sâu, chữ viết sạch.],
-  [Không xuống dòng giữa các luận điểm (bài thành một khối chữ), thiếu kết bài, sai chính tả tên tác phẩm.]
+  [Không xuống dòng giữa các luận điểm, thiếu kết bài, sai tên tác phẩm.]
 )
 
 #formula-box(title: "QUY TẮC “3 GIÂY CUỐI” — CỨU ĐIỂM TRƯỚC KHI NỘP BÀI", breakable-box: false)[
   Trước khi nộp, đặt bút xuống và chỉ kiểm #strong[ba thứ]: (1) #strong[Đủ số câu] — 8 TNKQ + Câu 9 + Câu 10 + Câu 11, không bỏ trống dòng nào; (2) #strong[Đúng mã câu] — số thứ tự câu trả lời khớp với số câu hỏi, không lệch dòng; (3) #strong[Tên riêng] — viết hoa đúng tên nhân vật và tên truyện (Thần Trụ Trời, Tản Viên, Prô-mê-tê, Hê-ra-clét). Ba giây ấy thường bằng nửa điểm của cả bài.
+]
+
+= 1.9. Bảng Kiểm 10 Bước Trước Khi Viết Chữ Đầu tiên
+
+Mười bước dưới đây mất chưa đến ba phút, nhưng quyết định chất lượng của cả 90 phút còn lại. Đọc từ trên xuống, đánh dấu vào ô khi đã làm xong.
+
+#study-table(
+  (0.55fr, 2.05fr, 2.35fr, 1.35fr),
+  ("#", "Việc cần làm ngay khi nhận đề", "Cách làm cụ thể", "Thời gian"),
+
+  [*1*], [Ghi họ tên, số báo danh, tổng số tờ], [Điền đủ phần phách trước khi làm bài; đếm số tờ giấy thi và ghi rõ.], [60 giây],
+  [*2*], [Đọc lướt toàn bộ đề], [Xem có mấy ngữ liệu, câu 11 yêu cầu phân tích truyện nào. Chưa đọc kĩ nội dung.], [40 giây],
+  [*3*], [Đánh số thứ tự câu ra lề giấy nháp], [8 TNKQ + Câu 9 + Câu 10 + Câu 11; ghi mốc giờ dự kiến cho từng cụm.], [20 giây],
+  [*4*], [Đọc câu hỏi trước, ngữ liệu sau], [Gạch chân động từ hiệu lệnh của từng câu (nhận biết, lí giải, đánh giá).], [60 giây],
+  [*5*], [Đọc ngữ liệu một lượt có định hướng], [Vừa đọc vừa đánh dấu: tên nhân vật, chi tiết kì ảo, câu kết giải thích hiện tượng.], [3–4 phút],
+  [*6*], [Xác định thể loại và nhóm thần thoại], [Ghi ra lề: “thần thoại – suy nguyên/sáng tạo”. Đây là gốc của mọi câu trả lời.], [15 giây],
+  [*7*], [Trả lời 8 câu TNKQ theo thứ tự dễ → khó], [Câu nào chưa chắc thì đánh dấu “?” và ghi giờ quay lại.], [6–7 phút],
+  [*8*], [Viết Câu 9 theo 4 bước], [GỌI – TRÍCH – GIẢI – CHỐT; mỗi bước một câu, tổng 5–7 dòng.], [6 phút],
+  [*9*], [Viết Câu 10 theo 3 nhịp], [Khẳng định – lí giải – bài học; 10–12 dòng, không lan sang ý khác.], [8 phút],
+  [*10*], [Lập dàn ý Câu 11 ra nháp], [Ghi 5 tầng: giới thiệu, tóm tắt, chủ đề, nghệ thuật, đánh giá. Không viết câu hoàn chỉnh.], [6 phút]
+)
+
+#callout(title: "VÌ SAO PHẢI LÀM BƯỚC 6", tone: "primary", icon: "◆")[
+  Rất nhiều học sinh bỏ qua việc xác định thể loại vì nghĩ “đề đã ghi rồi”. Nhưng đề chỉ ghi #strong[thần thoại]; việc phân biệt #strong[suy nguyên] hay #strong[sáng tạo] là do mình. Chọn đúng nhóm thì phần “chủ đề” của Câu 9 và Tầng 3 của bài văn tự động đúng hướng: suy nguyên → nói về nhận thức, cắt nghĩa thế giới; sáng tạo → nói về khát vọng chinh phục, kinh nghiệm lao động. Chọn sai nhóm, cả hai phần sẽ lệch, dù dẫn chứng vẫn đúng.
 ]

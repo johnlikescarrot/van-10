@@ -263,3 +263,28 @@ Nếu chỉ còn ba ngày, đừng cố đọc hết tài liệu. Hãy học the
   [*Luận điểm*], [Ý kiến chính được nêu ra và bảo vệ trong bài nghị luận.],
   [*Dẫn chứng*], [Cứ liệu cụ thể (câu văn, chi tiết, sự kiện) dùng để chứng minh luận điểm.]
 )
+
+
+= 7.10. Mười câu Tự vấn Trước khi Gấp Bài
+
+Đặt bút xuống, đọc chậm mười câu này. Mỗi câu trả lời “chưa” là một chỗ có thể lấy thêm điểm trong 5 phút còn lại.
+
+#study-table(
+  (0.5fr, 3.1fr, 2.15fr),
+  ("#", "Câu tự vấn", "Nếu “chưa” thì làm gì"),
+
+  [*1*], [Mình đã trả lời đủ 11 câu chưa?], [Điền đáp án cho câu bỏ trống, dù chỉ là phỏng đoán có căn cứ.],
+  [*2*], [Số thứ tự câu trả lời có khớp với số câu hỏi không?], [Soát lại từng dòng, sửa ngay — lệch dòng là mất cả cụm điểm.],
+  [*3*], [Câu 9 có đủ bốn bước GỌI – TRÍCH – GIẢI – CHỐT chưa?], [Viết thêm một câu chốt ở cuối đoạn.],
+  [*4*], [Câu 10 có nêu rõ quan điểm cá nhân chưa?], [Thêm một câu khẳng định: “Tôi cho rằng…”, “Theo tôi…”],
+  [*5*], [Bài văn có đủ ba phần Mở – Thân – Kết chưa?], [Viết kết bài 3 câu ngay, đừng để trống.],
+  [*6*], [Có ít nhất hai dẫn chứng nguyên văn trong ngoặc kép chưa?], [Chèn thêm một cụm trích ngắn, chính xác.],
+  [*7*], [Có đoạn đánh giá, liên hệ chưa?], [Thêm 4–5 dòng trước kết bài: giá trị và bài học.],
+  [*8*], [Tên nhân vật, tên truyện viết hoa đúng chưa?], [Sửa từng chỗ: Nữ Oa, Prô-mê-tê, Hê-ra-clét, Thần Trụ Trời.],
+  [*9*], [Có chỗ nào dùng *yếu điểm* khi muốn nói khuyết điểm không?], [Đổi thành *điểm yếu* hoặc *nhược điểm*.],
+  [*10*], [Chữ viết có sạch, không viết chồng, không dùng bút xóa lem không?], [Gạch một nét ngang chỗ sai và viết lại bên cạnh.]
+)
+
+#mnemonic-box(title: "CÂU CUỐI CÙNG TRƯỚC KHI NỘP")[
+  Nếu chỉ còn 30 giây, hãy tự hỏi một câu duy nhất: #strong[“Giám khảo có thấy được điều mình hiểu không?”] Nếu câu trả lời là “chưa”, hãy viết thêm #strong[một câu] nói thẳng điều mình muốn nói. Một câu rõ ràng đáng giá hơn ba dòng viết dở.
+]

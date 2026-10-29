@@ -9,7 +9,7 @@
 // ============================================================================
 // ĐỀ MINH HỌA SỐ 01: NỮ THẦN MẶT TRỜI VÀ MẶT TRĂNG
 // ============================================================================
-#exam-header("01", "Nữ Thần Mặt Trời Và Mặt Trăng", "Phương án A: 01 ngữ liệu tích hợp")
+#exam-header("01", "Nữ Thần Mặt Trời Và Mặt Trăng", "Phương án A: 01 ngữ liệu tích hợp", newpage: false)
 
 *I. PHẦN ĐỌC HIỂU (6,0 điểm)* — *Đọc văn bản sau và thực hiện các yêu cầu từ Câu 1 đến Câu 10:*
 
@@ -125,7 +125,14 @@ D. Khuyên răn người già và người trẻ phải biết phân chia công 
 
   Đặc biệt, thành công nổi bật nhất về nghệ thuật của văn bản phải kể đến bút pháp xây dựng nhân vật thần linh bằng thủ pháp nhân hóa đậm màu sắc dân dã Việt Nam. Nếu trong thần thoại Hy Lạp, thần Mặt Trời Hê-li-ôx hiện lên uy nghi lộng lẫy trên cỗ xe vàng bốn ngựa lửa phi nước đại ngang qua vòm trời, thì trong tâm thức người Việt, Mặt Trời và Mặt Trăng lại là hai chị em gái ngồi chiếc kiệu bốn người khiêng rất đỗi thân thuộc. Các nhân vật cõi trời mang đầy đủ tâm lí, tính nết của con người trần thế: tốp thanh niên khiêng kiệu thì ham vui *“hay la cà dọc đường”*, các cụ già thì điềm đạm *“lo làm tròn phận sự”*, cô em Mặt Trăng từng đỏng đảnh, nóng nảy để rồi biết hối cải dịu dàng sau lần bị mẹ phạt. Kết hợp với ngôi kể thứ ba toàn tri và lời người kể chuyện mộc mạc, điểm xuyết những quán ngữ dân gian tự nhiên như *“hình như”, “nghe nói”, “người ta nói”*, câu chuyện xóa nhòa khoảng cách giữa thần linh và con người, biến bầu trời thăm thẳm thành một mái nhà gần gũi, ấm áp.
 
-  Khép lại trang thần thoại cổ sơ giữa thời đại khoa học vũ trụ hôm nay, dù chúng ta đã biết ngày dài hay ngắn do độ nghiêng trục quay Trái Đất và nhật – nguyệt thực do sự che khuất thiên thể, *Nữ thần Mặt Trời và Mặt Trăng* vẫn giữ nguyên vẹn sức quyến rũ thẩm mĩ kì diệu. Tác phẩm không chỉ là di sản quý báu lưu giữ trí tưởng tượng thơ mộng và bản sắc văn hoá lúa nước của cha ông, mà còn nhắc nhở mỗi chúng ta hôm nay biết sống có trách nhiệm với công việc, biết lắng nghe để hoàn thiện bản thân và trân trọng vẻ đẹp hài hòa của thiên nhiên quanh mình.
+  Khép lại trang thần thoại cổ sơ, dù hôm nay ta đã biết ngày dài hay ngắn do độ nghiêng trục quay Trái Đất, *Nữ thần Mặt Trời và Mặt Trăng* vẫn giữ nguyên vẹn sức quyến rũ thẩm mĩ kì diệu. Tác phẩm lưu giữ trí tưởng tượng thơ mộng và bản sắc văn hoá lúa nước của cha ông, đồng thời nhắc nhở mỗi chúng ta sống có trách nhiệm với công việc và trân trọng vẻ đẹp hài hòa của thiên nhiên quanh mình.
+]
+
+#callout(title: "NGƯỜI CHẤM ĐỌC GÌ TRONG BÀI VĂN TRÊN", tone: "success", icon: "✓")[
+  #set text(size: 8.8pt)
+  Bốn chỗ dưới đây là những điểm mà một giám khảo thường #strong[khoanh tròn] khi đọc bài này. Đối chiếu với bài của mình để biết cần bổ sung gì:
+  #v(3pt)
+  • #strong[Đoạn 3] đổi hẳn cách viết: từ “truyện kể rằng” sang “điều đáng chú ý là cách đặt vấn đề”. Đây là dấu hiệu chuyển từ kể sang phân tích.  • #strong[Đoạn 4] có ba thuật ngữ nghệ thuật liên tiếp (phóng đại có tính ước lệ, kết cấu trùng điệp, mô-típ trứng vũ trụ) — mỗi thuật ngữ đều kèm dẫn chứng, không nêu suông.  • #strong[Đoạn 6] là đoạn đối sánh: đặt truyện bên cạnh một truyện khác cùng thể loại để làm nổi bật nét riêng. Đây là chỗ lấy điểm “sáng tạo”.  • #strong[Kết bài] không nhắc lại nội dung mà nâng lên thành một nhận định về cách con người sống với thế giới.
 ]
 
 // ============================================================================

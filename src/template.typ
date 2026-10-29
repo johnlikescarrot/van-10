@@ -223,8 +223,8 @@
 }
 
 // Header thẻ Đề kiểm tra
-#let exam-header(num, subtitle, model-type) = {
-  pagebreak(weak: true)
+#let exam-header(num, subtitle, model-type, newpage: true) = {
+  if newpage { pagebreak(weak: true) }
   place(hide(heading(level: 2, offset: 0)[Đề minh họa số #num: #subtitle (#model-type)]))
   block(
     width: 100%,

@@ -4,7 +4,7 @@ Tài liệu ôn tập chuyên sâu, hệ thống hóa theo khoa học nhận th�
 
 ## 📄 Tài liệu PDF hoàn chỉnh
 
-- **Tệp xuất bản chính thức:** [`DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf`](./DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf) *(102 trang khổ A4, nhúng trọn bộ phông chữ tiếng Việt học thuật `Be Vietnam Pro` & `Lora`, có mục lục 96 mục và bookmark tương tác).*
+- **Tệp xuất bản chính thức:** [`DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf`](./DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf) *(102 trang khổ A4, nhúng trọn bộ phông chữ tiếng Việt học thuật `Be Vietnam Pro` & `Lora`, có mục lục 99 mục và bookmark tương tác).*
 
 ## 🎯 Cấu trúc chuẩn Ma trận & Bản đặc tả (90 phút • 11 câu • 10,0 điểm)
 
@@ -41,6 +41,7 @@ van-10/
 ├── DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf   # Bản PDF hoàn chỉnh (102 trang)
 ├── MA TRẬN KIỂM TRA GIỮA KÌ 1 NGỮ VĂN 10 NĂM 2026-2027.docx  # Ma trận & Bản đặc tả gốc
 ├── README.md
+├── build.py                     # Script build + ghi metadata
 ├── fonts/                       # Be Vietnam Pro & Lora (OFL) — bắt buộc khi build
 └── src/
     ├── main.typ                  # Tệp gốc kết nối toàn bộ đề cương
@@ -61,15 +62,13 @@ van-10/
 
 ## 🔧 Cách build lại PDF
 
-Yêu cầu: Python 3.9+ với gói `typst` (>= 0.13).
+Yêu cầu: Python 3.9+ với gói `typst` (>= 0.13) và `pymupdf`.
 
 ```bash
-pip install typst
-python3 - <<'PY'
-import typst
-pdf = typst.compile("src/main.typ", root="src", font_paths=["fonts"])
-open("DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf", "wb").write(pdf)
-PY
+pip install typst pymupdf
+python3 build.py
 ```
+
+`build.py` biên dịch `src/main.typ`, sau đó ghi lại metadata (tiêu đề, mô tả, từ khoá) vào PDF.
 
 > `root="src"` là bắt buộc vì `main.typ` dùng `#include "partX.typ"` với đường dẫn tương đối. Thư mục `fonts/` chứa Be Vietnam Pro và Lora (giấy phép OFL) để bảo đảm hiển thị đầy đủ dấu tiếng Việt trên mọi máy.
