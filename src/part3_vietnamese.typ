@@ -84,6 +84,87 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [*Hữu linh / Siêu nhiên*], [Có linh hồn / vượt lên trên quy luật tự nhiên thường.], [*Biệt nhỡn liên tài*], [Cái nhìn trân trọng đặc biệt và lòng thương quý người tài.]
 )
 
+== E. Giải trọn bộ Bài tập SGK Ngữ văn 10 KNTT, tr. 28 – 29 (Thực hành tiếng Việt — Bài 1)
+
+Bốn bài tập dưới đây là #strong[nguồn gốc trực tiếp] của mọi câu hỏi Tiếng Việt trong đề Giữa kì I. Học sinh cần luyện đến mức trả lời được *ngay lập tức* bằng ngôn ngữ của mình, vì đề thi thường “biến tấu” chính các ngữ liệu này.
+
+=== Bài tập 1 — Giải nghĩa 07 từ Hán Việt then chốt
+
+*Đề bài (SGK):* Giải thích nghĩa của các từ Hán Việt sau: *tiên triều, hàn sĩ, khoan dung, hiếu sinh, nghĩa khí, hoài bão, tung hoành.*
+
+#study-table(
+  (1.25fr, 1.6fr, 3.9fr),
+  ("Từ Hán Việt", "Phân tích yếu tố", "Nghĩa chuẩn & Cách dùng đúng"),
+  [*Tiên triều*], [*tiên* (trước) + *triều* (triều đại)], [Triều đại trước, thời vua trước (đang trị vì là “đương triều”). Dùng khi nói về bậc cựu thần, di sản của thời đại đã qua: *“di vật của tiên triều”*.],
+  [*Hàn sĩ*], [*hàn* (lạnh, nghèo) + *sĩ* (kẻ có học)], [Người học trò nghèo, kẻ sĩ có tài nhưng lận đận, không gặp thời. Sắc thái: vừa trân trọng tài năng, vừa xót thương cảnh ngộ (*“Hàn sĩ”* gợi hình ảnh nho sinh áo vải mùa đông).],
+  [*Khoan dung*], [*khoan* (rộng) + *dung* (chứa đựng)], [Rộng lòng tha thứ, bao dung với lỗi lầm, khác biệt của người khác; là phẩm chất của bậc quân tử, người cầm quyền.],
+  [*Hiếu sinh*], [*hiếu* (yêu thích, quý) + *sinh* (sự sống)], [Quý trọng sự sống, không nỡ sát hại sinh linh — đức của bậc thánh nhân, của người trị nước (*“trời đất có lòng hiếu sinh”*).],
+  [*Nghĩa khí*], [*nghĩa* (lẽ phải) + *khí* (khí phách)], [Khí phách hào hùng, tinh thần trọng nghĩa, sẵn sàng xả thân vì lẽ phải; khí tiết của người quân tử.],
+  [*Hoài bão*], [*hoài* (mang trong lòng) + *bão* (ôm ấp)], [Ước mơ, chí hướng lớn lao, ôm ấp việc lớn ở đời; thường dùng cho người trẻ tuổi.],
+  [*Tung hoành*], [*tung* (thả ra) + *hoành* (ngang)], [Thoả chí hành động ngang dọc khắp bốn phương, không gì ngăn cản; phong thái tự do, phóng khoáng của bậc anh hùng.]
+)
+
+#callout(title: "BA CẶP TỪ HÁN VIỆT CỰC DỄ LẪN", tone: "gold", icon: "★")[
+  *hiếu sinh* (quý sự sống) ≠ *hiếu thảo* (hiếu với cha mẹ); *nghĩa khí* (khí phách vì lẽ phải) ≠ *nghĩa vụ* (bổn phận); *hoài bão* (chí lớn trong lòng) ≠ *khát vọng* (thuần Việt, khát khao hướng tới). Khi đề hỏi *“tìm từ Hán Việt”* — tuyệt đối không chọn *khát vọng, ước mơ, mơ ước* (từ thuần Việt hoặc từ ghép có yếu tố thuần Việt).
+]
+
+=== Bài tập 2 — Đoạn trích *Chữ người tử tù*: nhận diện & thay thế từ Hán Việt
+
+*Đề bài (SGK):* Đọc đoạn *“Ta nhất sinh không vì vàng ngọc hay quyền thế mà ép mình viết câu đối bao giờ…”* (Nguyễn Tuân) và thực hiện yêu cầu: (a) tìm 05 từ Hán Việt; (b) thử thay *tứ bình*, *nhất sinh* bằng từ ngữ thuần Việt tương đương rồi nhận xét.
+
+#passage-box(
+  title: "ĐOẠN TRÍCH “CHỮ NGƯỜI TỬ TÙ” — NGUYỄN TUÂN",
+  source: "Ngữ văn 10, tập một, NXB Giáo dục Việt Nam (dẫn theo SGK KNTT, tr. 28)"
+)[
+  Ta nhất sinh không vì vàng ngọc hay quyền thế mà ép mình viết câu đối bao giờ. Ta chỉ muốn có một điều là nhà ngươi đừng đặt chân vào đây nữa. … Ta khuyên thầy Quản nên thay chỗ ở đi, chỗ đây bẩn lắm, không hợp với phong thái của một người có tấm lòng *biệt nhỡn liên tài*.
+
+  … Huấn Cao lạnh lùng nhận chén rượu, nhưng lòng vẫn nghĩ đến một điều khác. Người tù ấy còn đang băn khoăn về món quà ấy: một tấm lụa *tứ bình*…
+]
+
+#study-table(
+  (1.3fr, 2.5fr, 2.9fr),
+  ("Từ Hán Việt", "Nghĩa trong ngữ cảnh", "Nhận xét sắc thái khi dùng"),
+  [*nhất sinh*], [Cả một đời, suốt đời người], [Trang trọng, khái quát; nếu thay bằng *“cả đời”* thì nghĩa không đổi nhưng mất vẻ cổ kính, mất giọng điệu khảng khái của kẻ sĩ.],
+  [*vàng ngọc / quyền thế*], [Của cải quý giá / sức mạnh, địa vị trong tay], [*Quyền thế* là Hán Việt, đứng cạnh *vàng ngọc* (thuần Việt) tạo cặp đối giàu – sang, quyền – tiền rất chỉnh.],
+  [*tứ bình*], [Bức tranh bốn tấm (bốn mùa hoặc bốn cảnh) treo thành bộ], [Nếu thay bằng *“tranh bốn mùa”*: dễ hiểu hơn nhưng mất sắc thái cổ, mất không khí “vang bóng một thời”.],
+  [*biệt nhỡn liên tài*], [Cái nhìn trân trọng đặc biệt dành cho người có tài], [Cụm từ đắt giá nhất của Nguyễn Tuân: chỉ 4 chữ mà khắc trọn tấm lòng của viên quản ngục.],
+  [*thiên lương*], [Lương tâm trong sáng, tốt lành bẩm sinh], [Là “từ khoá” tư tưởng của truyện: cái Đẹp chỉ nảy nở trên nền thiên lương.]
+)
+
+#answer-box(title: "TRẢ LỜI MẪU BÀI TẬP 2 (b) — NHẬN XÉT VỀ VIỆC DÙNG TỪ HÁN VIỆT")[
+  Nếu thay *nhất sinh* → *cả đời*, *tứ bình* → *tranh bốn mùa*, câu văn vẫn đúng ngữ pháp và dễ hiểu với người đọc hôm nay, nhưng #strong[mất đi sắc thái cổ kính, trang trọng và giọng điệu cung kính của một thời đã qua]. Từ Hán Việt ở đây không phải là “cách nói cho khó”, mà là #strong[phương tiện tái hiện không khí lịch sử – văn hoá của một lớp người nho sĩ] và tạo khoảng cách thẩm mĩ giữa người kể chuyện hiện đại với thế giới nhân vật. Đó chính là lí do khi phân tích *Chữ người tử tù*, người viết bắt buộc phải nhắc đến “hệ thống từ Hán Việt cổ kính” như một nét đặc sắc nghệ thuật.
+]
+
+=== Bài tập 3 — Sáu từ Hán Việt chứa yếu tố *cương*, *hàn*, *hiếu*
+
+#study-table(
+  (1.0fr, 3.0fr, 2.6fr),
+  ("Yếu tố", "06 từ Hán Việt tiêu biểu", "Nghĩa & Ghi nhớ nhanh"),
+  [*cương* (cứng, mạnh)], [*cương trực, cương quyết, cương nghị, cương lĩnh, cương vị, kiên cương*], [Đều xoay quanh nét nghĩa “cứng rắn, không lay chuyển”. *Cương trực*: ngay thẳng, không luồn cúi — phẩm chất của Ngô Tử Văn, Huấn Cao.],
+  [*hàn* (lạnh, nghèo)], [*hàn sĩ, bần hàn, hàn vi, hàn ôn, hàn lâm, hàn gắn*], [Chỉ sự nghèo khó, lạnh lẽo. *Hàn lâm* lại là “rừng bút” — học viện cao cấp thời phong kiến (nghĩa khác).],
+  [*hiếu* (yêu quý, hiếu thảo)], [*hiếu sinh, hiếu thảo, hiếu kính, hiếu học, hiếu chiến, hiếu thắng*], [Gốc nghĩa “yêu thích, hết lòng”. *Hiếu học*: ham học; *hiếu chiến*: thích gây chiến — sắc thái trái ngược hoàn toàn.]
+)
+
+#trap-box(title: "CẠM BẪY KINH ĐIỂN: “HÀN” TRONG “HÀN SĨ” KHÔNG PHẢI “HÀN” TRONG “HÀN GẮN”")[
+  *Hàn* (寒 — lạnh, nghèo) là yếu tố Hán Việt, tạo nên *hàn sĩ, bần hàn, hàn vi*. Còn *hàn* trong *hàn gắn, hàn xì, thợ hàn* là #strong[từ thuần Việt], chỉ hành động nối liền hai vật bằng sức nóng. Vì vậy khi đề yêu cầu *“tìm từ Hán Việt”*, học sinh yếu vốn từ rất dễ khoanh nhầm *hàn gắn*. Cùng cơ chế “âm trùng – gốc khác” còn có: *đồng* (đồng bào) ≠ *đồng* (đồng tiền); *tử* (sinh tử) ≠ *tử* (tử tế); *thủ* (thủ lĩnh) ≠ *thủ* (thủ thỉ).
+]
+
+=== Bài tập 4 — Chỉ ra và sửa lỗi dùng từ Hán Việt
+
+#study-table(
+  (2.7fr, 1.2fr, 3.0fr),
+  ("Câu có lỗi (nguyên văn SGK)", "Lỗi", "Cách sửa & Giải thích"),
+  [*“Đọc sách giúp tích luỹ nhiều trí thức bổ ích.”*], [Dùng sai nghĩa], [→ *“tích luỹ nhiều #strong[tri thức] bổ ích”*. *Tri thức* = điều hiểu biết; *trí thức* = người lao động trí óc. Sách cho ta *tri thức*, không cho ta *những con người*.] ,
+  [*“…thể hiện sự cứng cỏi, ngang tàng của một hàn sĩ.”*], [Không hợp ngữ cảnh], [→ *“…của một #strong[kẻ sĩ / bậc anh hùng]”* hoặc *“của một #strong[dũng sĩ]”*. *Hàn sĩ* nhấn mạnh cảnh nghèo túng, không khắc hoạ được khí phách ngang tàng.] ,
+  [*“Nước đến chân mới nhảy là một yếu điểm của học sinh.”*], [Hiểu sai nghĩa gốc], [→ *“…là một điểm yếu.”*; sửa đúng là *“là một #strong[điểm yếu]”*. *Yếu điểm* = điểm trọng yếu, then chốt (điểm 10 trong bài kiểm tra gọi là *yếu điểm* theo nghĩa gốc!). Đây là câu hỏi xuất hiện nhiều nhất trong các đề khảo sát.]
+)
+
+#mnemonic-box(title: "QUY TẮC 3 GIÂY SỬA LỖI HÁN VIỆT: “ĐỌC TO — ĐỔI NGHĨA — THỬ CẢNH”")[
+  1. #strong[Đọc to cả câu] để phát hiện chỗ “trúc trắc” về âm (nghe sai tai thường cũng sai nghĩa).
+  2. #strong[Đổi sang từ thuần Việt tương đương] — nếu nghĩa đổi hẳn thì từ Hán Việt đã bị dùng sai (*trí thức* → *hiểu biết*: sai; *tri thức* → *hiểu biết*: đúng).
+  3. #strong[Thử đặt vào cảnh giao tiếp] (trang trọng / thân mật / học thuật) để kiểm tra sắc thái: *“phu nhân của tôi”* sai vì *phu nhân* chỉ dùng để tôn xưng vợ người khác.
+]
+
 = 3.2. Phương thức Biểu đạt & 6 Biện pháp Tu từ Đặc trưng của Thần thoại
 
 == A. Quy tắc Vàng Xác định Phương thức Biểu đạt (Tránh Bẫy Câu TNKQ số 1–2)

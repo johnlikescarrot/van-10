@@ -345,3 +345,28 @@ D. Khuyên răn con người từ bỏ cuộc sống trần thế để đi tìm
 
   - #strong[Câu 40 (1,0đ — Giá trị của thần thoại trong kỉ nguyên AI hiện đại):] Ngay trong kỉ nguyên trí tuệ nhân tạo và khoa học vũ trụ tối tân, việc đọc và lưu truyền truyện thần thoại vẫn vô cùng cần thiết đối với thế hệ trẻ *(0,25đ)*. Khoa học giải thích cho ta cấu tạo vật lí của sấm sét, mưa gió hay mặt trăng, nhưng thần thoại lại lưu giữ #strong[ký ức cội nguồn văn hoá, vẻ đẹp trong trẻo “một đi không trở lại” của trí tưởng tượng nhân loại và thái độ kính ngưỡng, hòa hợp với thiên nhiên] *(0,50đ)*. Đọc thần thoại giúp người trẻ hôm nay không trở thành những cỗ máy khô khan mà biết nuôi dưỡng tâm hồn lãng mạn, trí sáng tạo bay bổng và lòng biết ơn sâu sắc đối với tổ tiên *(0,25đ)*.
 ]
+
+= 4.5. Sáu Dạng Câu Hỏi “Lạ” Trong Đề Mới & Quy Trình Xử Lí Chuẩn
+
+Từ năm học 2025 – 2026, nhiều Sở GD&ĐT đã đưa vào đề những dạng câu hỏi mà SGK không có mẫu trả lời sẵn. Sáu dạng dưới đây là những dạng xuất hiện nhiều nhất; học sinh cần thuộc #strong[quy trình 3 bước] để không bị “đứng hình” trong phòng thi.
+
+#study-table(
+  (1.5fr, 1.9fr, 1.75fr, 1.7fr),
+  ("Dạng câu hỏi", "Yêu cầu thực chất", "Quy trình 3 bước", "Mẫu câu mở đầu"),
+  [*1. So sánh hai văn bản* (ngữ liệu kép)], [Chỉ ra điểm giống – khác về *cùng một phương diện* (chủ đề, chi tiết kì ảo, nhân vật).], [(a) Xác định phương diện so sánh → (b) Nêu 1 điểm giống, 2 điểm khác, mỗi ý kèm dẫn chứng từ hai văn bản → (c) Kết luận về nét riêng của mỗi nền văn hoá.],
+  [*“Cả hai văn bản đều…, nhưng nếu A nghiêng về… thì B lại…”*],
+  [*2. Liên hệ bối cảnh văn hoá*], [Giải thích vì sao chi tiết ấy chỉ có thể ra đời trong một nền văn minh cụ thể.], [(a) Gọi tên nền văn minh (nông nghiệp lúa nước / du mục / hàng hải) → (b) Chỉ dấu vết vật chất trong chi tiết (cối giã gạo, mẫu – sào, thuyền, lửa bếp) → (c) Khái quát quan niệm sống của cộng đồng ấy.],
+  [*“Chi tiết ấy mang dấu ấn của cư dân…, thể hiện qua…”*],
+  [*3. Đánh giá hiệu quả của cách kết thúc*], [Nhận xét kết truyện *hay ở đâu* và *nếu kết thúc khác thì sao*.], [(a) Tóm tắt cách kết thúc → (b) Chỉ ra chức năng (giải thích hiện tượng / gửi thông điệp / tạo dư âm) → (c) Thử một kết thúc khác để làm nổi bật dụng ý tác giả dân gian.],
+  [*“Cách kết thúc ấy có hiệu quả ở chỗ…”*],
+  [*4. Vì sao chi tiết này là “kì ảo” mà vẫn “thuyết phục”*], [Phân biệt *cái phi lí bề mặt* với *cái có lí bề sâu*.], [(a) Chỉ ra yếu tố phi lí (thần hút nước biển phun mưa) → (b) Chỉ ra hạt nhân thực tế (hiện tượng bốc hơi – mưa) → (c) Kết luận: trí tưởng tượng chỉ là *áo khoác* cho một quan sát đúng.],
+  [*“Bề mặt là chuyện hoang đường, nhưng bề sâu là…”*],
+  [*5. Giải thích ý nghĩa nhan đề*], [Nhan đề thường chứa *nhân vật + hành động* đã khái quát chủ đề.], [(a) Tách nghĩa từng từ → (b) Đặt nhan đề vào quan hệ với cốt truyện → (c) Nâng lên thành tư tưởng.],
+  [*“Nhan đề vừa gọi tên…, vừa khái quát…”*],
+  [*6. Đồng tình / phản biện một ý kiến*], [Thể hiện lập trường rõ nhưng phải *có lí lẽ và dẫn chứng*.], [(a) Nêu quan điểm (đồng tình một phần / toàn phần) → (b) Lí lẽ 1 + dẫn chứng → (c) Lí lẽ 2 (phản đề) + kết luận cân bằng.],
+  [*“Tôi đồng tình với ý kiến trên ở khía cạnh…, song cần bổ sung…”*]
+)
+
+#callout(title: "LƯU Ý SỐNG CÒN VỀ HÌNH THỨC TRẢ LỜI", tone: "danger", icon: "!")[
+  Với các dạng câu hỏi “lạ”, giám khảo chấm theo #strong[ý] chứ không theo văn mẫu — nhưng vẫn bắt buộc đủ #strong[hai yếu tố]: *(1) có dẫn chứng từ chính ngữ liệu*, *(2) có một câu khái quát trở về chủ đề*. Thiếu dẫn chứng, dù lập luận hay, điểm tối đa chỉ còn một nửa.
+]

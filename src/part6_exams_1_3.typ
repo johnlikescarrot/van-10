@@ -2,8 +2,8 @@
 
 #part-banner(
   "PHẦN VI",
-  "Bộ 06 Đề Kiểm Tra Giữa Kì I Chuẩn 100% Ma Trận & Đáp Án Toàn Diện",
-  "66 câu hỏi chuẩn cấu trúc 90 phút • Giải thích loại trừ từng phương án nhiễu • Thang chấm 0,25đ & 06 Bài văn mẫu hoàn chỉnh"
+  "Bộ 08 Đề Kiểm Tra Giữa Kì I Chuẩn 100% Ma Trận & Đáp Án Toàn Diện",
+  "88 câu hỏi chuẩn cấu trúc 90 phút • Giải thích loại trừ từng phương án nhiễu • Thang chấm 0,25đ & 08 Bài văn mẫu hoàn chỉnh"
 )
 
 // ============================================================================

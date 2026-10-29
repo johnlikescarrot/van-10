@@ -3,7 +3,7 @@
 #part-banner(
   "PHẦN II",
   "Hệ Thống Hóa Tri Thức Ngữ Văn & Thể Loại Thần Thoại",
-  "Sơ đồ hóa Dual-Coding • Khẩu quyết 5K–1C • Phân biệt 5 thể loại tự sự • Giải phẫu 4 văn bản SGK & 12 thần thoại ngoài SGK"
+  "Sơ đồ hóa Dual-Coding • Khẩu quyết 5K–1C • Phân biệt 5 thể loại tự sự • Giải phẫu 4 văn bản SGK & 17 thần thoại ngoài SGK"
 )
 
 = 2.1. Hệ thống Tri thức Nền tảng về Truyện kể (SGK Kết nối tri thức — Bài 1)
@@ -219,9 +219,9 @@ Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc 4 văn
   [• Ca ngợi trí tuệ, lòng dũng cảm, khát vọng trừ hại cho cộng đồng của người anh hùng cổ đại Hy Lạp.\ • *Dùng để đối sánh:* Vẻ đẹp con người sánh ngang thần linh trong thần thoại phương Tây.]
 )
 
-= 2.5. Bản đồ Giải phẫu 12 Văn bản Thần thoại Ngoài SGK Trọng tâm Nhất
+= 2.5. Bản đồ Giải phẫu 17 Văn bản Thần thoại Ngoài SGK Trọng tâm Nhất
 
-Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bảng tổng hợp chuyên sâu dưới đây giải phẫu sẵn #strong[12 kiệt tác thần thoại ngoài SGK có tần suất xuất hiện cao nhất trong các đề thi Giữa kì I trên toàn quốc]:
+Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bảng tổng hợp chuyên sâu dưới đây giải phẫu sẵn #strong[17 kiệt tác thần thoại ngoài SGK có tần suất xuất hiện cao nhất trong các đề thi Giữa kì I trên toàn quốc]:
 
 #study-table(
   (1.35fr, 0.95fr, 2.5fr, 2.2fr),
@@ -230,7 +230,7 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
   [*1. Nữ thần Mặt Trời và Mặt Trăng*\ *(Thần thoại Việt Nam)*],
   [Suy nguyên (thiên văn)],
   [Hai chị em con Trời luân phiên ngồi kiệu xem xét hạ giới. Bọn khiêng kiệu trẻ hay la cà (ngày dài), bọn già chăm chỉ đi nhanh (ngày ngắn). Mặt Trăng nóng nảy bị mẹ trát tro vào mặt → dịu mát. Chồng là Gấu đến thăm vợ gây nhật thực, nguyệt thực.],
-  [• Lí giải: Ngày dài mùa hè/ngắn mùa đông, ánh trăng dịu, chu kì trăng tròn/khuyết, quầng trăng, nhật/nguyệt thực và tục đánh trống chiêng cứu trăng.\ • Đề cao trách nhiệm với cộng đồng, biết sửa đổi bản thân.],
+  [• Lí giải: Vì sao ngày có lúc dài lúc ngắn, ánh trăng dịu, chu kì trăng tròn/khuyết, quầng trăng, nhật/nguyệt thực và tục đánh trống chiêng cứu trăng (dân gian sau này gắn tiếp với mùa hè – đông).\ • Đề cao trách nhiệm với cộng đồng, biết sửa đổi bản thân.],
 
   [*2. Thần Mưa*\ *(Thần thoại Việt Nam)*],
   [Suy nguyên (khí tượng & loài vật)],
@@ -285,8 +285,42 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
   [*12. Prô-mê-tê và loài người*\ *(Thần thoại Hy Lạp)*],
   [Suy nguyên & sáng tạo văn hoá],
   [Ê-pi-mê-tê đãng trí ban hết “vũ khí” sinh tồn cho muôn thú, để con người trần trụi bấy yếu. Prô-mê-tê thông minh tái tạo dáng người *đứng thẳng thanh tao như thần*, rồi băng lên cỗ xe thần Mặt Trời Hê-li-ôx *lấy ngọn lửa thiêng* trao cho loài người.],
-  [• Lí giải: Dáng đứng thẳng hướng thiên, đôi tay lao động và *ngọn lửa văn minh* dạy con người muôn nghề.\ • Đề cao trí tuệ nhìn xa trông rộng, lòng nhân ái vì con người và sức mạnh văn hoá.]
+  [• Lí giải: Dáng đứng thẳng hướng thiên, đôi tay lao động và *ngọn lửa văn minh* dạy con người muôn nghề.\ • Đề cao trí tuệ nhìn xa trông rộng, lòng nhân ái vì con người và sức mạnh văn hoá.],
+
+  [*13. Truyện chế tạo ra lúa và bông*\\ *(Thần thoại Việt Nam — Nguyễn Đổng Chi)*],
+  [Suy nguyên (cây trồng – nông nghiệp)],
+  [Ngọc Hoàng mở *hội nghị muôn vật* bàn cách chế tạo lúa, bông cho khỏi lãng phí. Voi đòi hạt lúa to bằng *chót đuôi voi*, thằn lằn đòi to bằng *đầu chót đuôi mình*; Ngọc Hoàng nghe thằn lằn vì “có lí hơn”. Một thiên thần vãi hạt giống cỏ trong bàn tay trái trước, cỏ mọc kín mặt đất chỉ trong một đêm, lúa không còn đất để gieo → Trời phạt thần *hoá thành trâu*, ăn cỏ và kéo cày cho người.],
+  [• Lí giải: Vì sao hạt lúa nhỏ bé, vì sao *cỏ nhiều hơn lúa* và vì sao trâu phải ăn cỏ kéo cày.\\
+• Bài học về *lắng nghe ý kiến tập thể*, tính toán khôn ngoan và trách nhiệm khi làm việc chung.],
+
+  [*14. Hậu Nghệ bắn mặt trời*\\ *(Thần thoại Trung Hoa)*],
+  [Suy nguyên & anh hùng],
+  [Mười mặt trời cùng mọc một lúc, đất nứt nẻ, cây cỏ cháy khô, muôn loài khổ sở. Hậu Nghệ — tay thiện xạ — trèo lên đỉnh Côn Luân, giương cung bắn rụng *chín mặt trời*, chỉ giữ lại một mặt trời để ngày đêm mọc lặn đúng giờ. Sau đó thần được Tây Vương Mẫu ban *thuốc trường sinh*; vợ là Hằng Nga uống phải và bay lên cung trăng.],
+  [• Lí giải: Vì sao chỉ còn một mặt trời và nhịp ngày – đêm điều hoà.\\
+• Ngợi ca người anh hùng dùng tài năng cứu muôn loài; đối sánh với *Thần Trụ Trời*, *Nữ Oa vá trời* về mô-típ *anh hùng cứu thế*.],
+
+  [*15. Ả Chức chàng Ngưu*\\ *(Thần thoại Việt Nam)*],
+  [Suy nguyên (thiên văn – phong tục)],
+  [Chàng Ngưu (người trần) trộm *bộ áo tiên* của ả Chức đang tắm ở giếng Tiên, nàng phải ở lại làm vợ và sinh con. Một hôm phơi thóc, nàng tìm thấy áo, mặc vào bay về trời. Vợ chồng chỉ được gặp nhau *mỗi năm một lần* — đêm ấy hai ngôi sao *Chức Nữ* và *Khiên Ngưu* khít lại hai bên sông Ngân; quạ vì đội đá bắc cầu mà *rụng hết lông đầu*.],
+  [• Lí giải: Sông Ngân, sao Chức Nữ – Khiên Ngưu, tập tục *mưa ngâu tháng Bảy*, hình dáng con quạ.\\
+• Khát vọng về tình vợ chồng son sắt và nỗi xót xa trước luật lệ nghiêm khắc của tạo hoá.],
+
+  [*16. Rắn già rắn lột*\\ *(Thần thoại Việt Nam)*],
+  [Suy nguyên (sự sống – cái chết)],
+  [Ngọc Hoàng sai sứ giả xuống truyền: *“Rắn già rắn lột, người già người chui tuột vào săng”* — nghĩa là cả người lẫn rắn đều được lột xác để sống mãi. Loài người sợ hãi, đe doạ sứ giả, buộc thần phải tuyên bố *ngược lại*: rắn được lột da sống hoài, còn người đến tuổi già thì phải chết.],
+  [• Lí giải: Vì sao *rắn lột xác* còn người thì *một đi không trở lại*.\\
+• Triết lí nhân sinh sâu sắc: ý thức về cái chết khiến con người biết sống có ý nghĩa, biết quý thời gian.],
+
+  [*17. Sự tích thằng Cuội cung trăng*\\ *(Thần thoại Việt Nam)*],
+  [Suy nguyên & phong tục],
+  [Cuội — người đốn củi — sở hữu *cây đa báu* mà lá có phép *cải tử hoàn sinh*. Vì một phút sơ ý, cây đa bay thẳng lên trời; Cuội kịp móc rìu vào rễ, bị cây kéo theo lên *cung trăng*, ngồi dưới gốc đa xanh tốt mãi mãi. Mỗi năm cây chỉ rụng *một chiếc lá* xuống biển, cá heo tranh nhau đớp lấy để cứu chữa cho tộc loài.],
+  [• Lí giải: Vết lõm trên mặt trăng, tập tục *phá cỗ trông trăng*, vì sao loài cá heo khoẻ mạnh.\\
+• Nhắc nhở con người về sự cẩn trọng, lòng thành thật và giá trị mong manh của sự sống.]
 )
+
+#callout(title: "CÁCH DÙNG BẢNG 17 VĂN BẢN KHI LÀM BÀI", tone: "gold", icon: "★")[
+  Không cần thuộc cả 17 truyện. Chỉ cần (1) nắm chắc 5 truyện *cùng mô-típ* với ngữ liệu đề cho để đối sánh, (2) nhớ 3 chi tiết kì ảo đắt giá nhất của mỗi truyện, (3) nhớ đúng *một* thông điệp nhân sinh. Ba thông tin ấy đủ để viết trọn đoạn “Đánh giá – Mở rộng” mà không sợ sai kiến thức.
+]
 
 = 2.6. Đối sánh Đông – Tây: Thần thoại Việt Nam vs. Thần thoại Hy Lạp / Trung Hoa
 

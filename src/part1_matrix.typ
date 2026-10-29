@@ -84,7 +84,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   ]
 )
 
-*Lưu ý quan trọng:* Bộ 06 Đề thi chuẩn Ma trận tại #strong[Phần VI] của đề cương này đã bao quát trọn vẹn #strong[cả hai phương án A và B] để học sinh làm chủ tuyệt đối mọi kịch bản ra đề!
+*Lưu ý quan trọng:* Bộ 08 Đề thi chuẩn Ma trận tại #strong[Phần VI] của đề cương này đã bao quát trọn vẹn #strong[cả hai phương án A và B] để học sinh làm chủ tuyệt đối mọi kịch bản ra đề!
 
 = 1.4. Ánh xạ 22 Chỉ báo Bản Đặc tả sang Dạng Câu hỏi Thực chiến
 
@@ -192,3 +192,23 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
     ]
   )
 ]
+
+= 1.6. Bảng 12 Bẫy Mất Điểm Oan Theo Từng Câu & Phản Xạ Xử Lí Trong 10 Giây
+
+Bảng dưới đây là kết quả tổng hợp từ các lỗi phổ biến nhất của học sinh khi làm đề Giữa kì I. Mỗi dòng ứng với một câu trong đề: #strong[đọc cột “Phản xạ”] trước khi làm bài, #strong[đọc cột “Bẫy”] sau khi làm xong để tự soát.
+
+#study-table(
+  (0.75fr, 2.0fr, 2.15fr, 1.95fr),
+  ("Câu", "Bẫy thường gặp", "Vì sao mất điểm", "Phản xạ xử lí"),
+  [*1 – 2*], [Hỏi *thể loại / tiểu loại* nhưng học sinh chọn theo cảm giác “truyện có thần nên là thần thoại”, bỏ qua dấu hiệu *thời gian, không gian, chức năng* của truyện.],
+  [Nhầm thần thoại với truyền thuyết (có địa danh, triều đại thật) hoặc với cổ tích (kết thúc có hậu, nhân vật đời thường).], [Tự hỏi 3 câu: *Thời gian có xác định không? Có địa danh – triều đại thật không? Truyện nhằm cắt nghĩa tự nhiên hay kể chuyện đạo đức?*],
+  [*3*], [Hỏi về *sự kiện / chi tiết*, học sinh trả lời bằng suy luận thay vì tìm câu chữ trong văn bản.], [Chọn đáp án “nghe hợp lí” nhưng văn bản không hề nói vậy.], [Đặt ngón tay vào văn bản, quét từ khoá của câu hỏi (tên nhân vật, con số, địa điểm) rồi mới chọn.],
+  [*4*], [Hỏi *chi tiết kì ảo giải thích hiện tượng gì* — học sinh kể lại chi tiết mà không gọi tên hiện tượng.], [Đáp án đúng thường là hiện tượng tự nhiên/phong tục cụ thể, không phải “thể hiện trí tưởng tượng”.], [Trả lời theo mẫu: *Chi tiết X lí giải hiện tượng Y* — nếu không gọi được tên hiện tượng thì đáp án đó sai.],
+  [*5*], [Hỏi *bối cảnh văn hoá* (cối giã gạo, mẫu – sào, tục cúng lúa), học sinh bỏ qua vì thấy “không quan trọng”.], [Đây là câu dễ mất điểm nhất vì phải huy động vốn hiểu biết văn hoá ngoài văn bản.], [Luôn tự hỏi: *Vật dụng / đơn vị đo / phong tục này thuộc nền văn minh nào?* → thường là nông nghiệp lúa nước.],
+  [*6*], [Hỏi *ngôi kể, phương thức biểu đạt, lời kể* — học sinh nhầm *ngôi kể* với *người kể chuyện*.], [Chọn tên nhân vật làm “người kể chuyện” là mất điểm ngay.], [Ngôi kể = *thứ mấy* (1/2/3). Người kể chuyện = *ai kể* (tác giả dân gian, người diễn xướng). Tách hẳn hai khái niệm.],
+  [*7 – 8*], [Câu *thông hiểu* về tác dụng nghệ thuật / chủ đề — học sinh chọn đáp án *chỉ đúng một nửa* hoặc *đúng nhưng quá hẹp*.], [Đáp án nhiễu thường đúng với một chi tiết nhưng không bao quát toàn văn bản.], [Ưu tiên đáp án bao quát cả *nhận thức* lẫn *nhân sinh*; loại đáp án chỉ nói về một nhân vật hoặc một chi tiết phụ.],
+  [*9*], [Trả lời “cảm nhận” mà không trích dẫn, không gọi tên biện pháp.], [Mất 0,25đ trích dẫn và 0,25đ tác dụng nghệ thuật.], [Bắt buộc đủ 4 bước: *GỌI – TRÍCH – GIẢI – CHỐT*, mỗi bước đúng một câu.],
+  [*10*], [Viết thành 3 – 4 gạch đầu dòng khi đề yêu cầu *đoạn văn*.], [Sai hình thức, giám khảo trừ 0,25đ dù nội dung tốt.], [Viết liền mạch 6 – 8 dòng, thụt đầu dòng một lần, không xuống dòng giữa các ý.],
+  [*11*], [Sa vào kể lại truyện, thiếu đoạn nghệ thuật hoặc thiếu đánh giá.], [Barem dành 1,00đ cho nghệ thuật và 0,50đ cho đánh giá – đối sánh.], [Trước khi viết, ghi ra nháp đúng 4 tiêu đề đoạn: *Tóm tắt – Chủ đề – Nghệ thuật – Đánh giá*. Viết xong đối chiếu.],
+  [*11*], [Dùng từ Hán Việt “cho sang” nhưng sai nghĩa (*yếu điểm, trí thức, hàn sĩ*).], [Trừ vào 0,25đ chính tả – dùng từ và làm giảm độ tin cậy của bài.], [Chỉ dùng những từ Hán Việt mình giải nghĩa được; nghi ngờ thì đổi sang từ thuần Việt tương đương.]
+)

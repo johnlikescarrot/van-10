@@ -121,3 +121,94 @@ Lỗi nghiêm trọng nhất khiến 80% học sinh lớp 10 chỉ đạt 2,0/4,
   7. *Viết toàn bộ Thân bài dính liền thành 1 khối khổng lồ:* Phải tách Thân bài thành *4–5 đoạn văn rõ ràng*, mỗi đoạn mở đầu bằng câu chủ đề sáng sủa.
   8. *Trích dẫn sai nguyên văn:* Chỉ đặt trong ngoặc kép những cụm từ trích chính xác từng chữ từ đề thi; phần còn lại diễn đạt linh hoạt bằng lời văn của mình.
 ]
+
+== C. 3 Khuôn Kết Bài Chuẩn Điểm (Khẳng định — Nâng cao — Bài học)
+
+- #strong[Khuôn 1 — Khẳng định giá trị (an toàn tuyệt đối):] *“Tóm lại, [Tên tác phẩm] đã chứng minh sức sống lâu bền của thể loại thần thoại: bằng trí tưởng tượng hồn nhiên mà kì vĩ, tác phẩm vừa cắt nghĩa [hiện tượng / nguồn gốc] theo cách nhìn của người xưa, vừa kết tinh khát vọng [khát vọng chung] của cả cộng đồng. Đọc truyện hôm nay, ta không chỉ hiểu thêm một trang cổ tích của dân tộc mà còn học được cách nhìn thiên nhiên bằng con mắt biết ơn.”*
+- #strong[Khuôn 2 — Nâng cao bằng đối sánh văn hoá:] *“Đặt [Tên tác phẩm] bên cạnh những trang thần thoại Hy Lạp hay Trung Hoa, ta càng thấy rõ vẻ đẹp riêng của trí tưởng tượng Việt Nam: không có những cuộc chiến trên đỉnh Ô-lim-pơ, không có những triều đình thiên giới đồ sộ, chỉ có những vị thần chân đất, biết cày, biết tát nước, biết giận dỗi như người trần. Ấy vậy mà từ những điều mộc mạc ấy, cha ông đã dựng nên cả một bầu trời tâm linh.”*
+- #strong[Khuôn 3 — Nâng cao bằng bài học nhân sinh (dành cho đề Vận dụng cao):] *“Cuối cùng, điều [Tên tác phẩm] để lại nơi người đọc hôm nay có lẽ không phải là một lời giải thích khoa học về thế giới, mà là một bài học về thái độ sống: con người chỉ thực sự làm chủ tự nhiên khi biết tôn trọng tự nhiên, chỉ thực sự lớn lao khi dám nhận trách nhiệm trước cộng đồng. Thần thoại vì thế không phải là câu chuyện của người xưa, mà là tấm gương soi của người nay.”*
+
+= 5.5. Bốn Yêu Cầu Cốt Lõi Của Kiểu Bài (Chuẩn SGK KNTT, tr. 29 – 34)
+
+Trước khi viết, học sinh phải thuộc lòng #strong[bốn yêu cầu] mà SGK đặt ra cho kiểu bài *Viết văn bản nghị luận phân tích, đánh giá một tác phẩm truyện*. Bốn yêu cầu này chính là “khung xương” để giám khảo đối chiếu, và cũng là bốn câu hỏi tự kiểm tra trước khi nộp bài.
+
+#study-table(
+  (0.55fr, 2.15fr, 3.05fr, 1.55fr),
+  ("Yêu cầu", "Nội dung SGK", "Diễn giải thao tác viết", "Câu tự kiểm tra"),
+  [*1*], [*Giới thiệu được những nét khái quát về tác phẩm, tác giả, thể loại*],
+  [Nêu nhan đề, xuất xứ (dân tộc, nguồn sưu tầm), thể loại và tiểu loại (thần thoại suy nguyên / sáng tạo); nêu ấn tượng hoặc nhận định khái quát làm “luận đề” cho cả bài.],
+  [Mở bài có nói rõ *truyện gì, của ai, thuộc loại nào* không?],
+  [*2*], [*Tóm tắt được nội dung chính của tác phẩm*],
+  [Tóm tắt bằng 4 – 5 câu, chỉ giữ những sự kiện sẽ dùng để phân tích; không kể lại toàn bộ truyện, không sa vào chi tiết vụn.],
+  [Đoạn tóm tắt có dài quá 120 chữ không?],
+  [*3*], [*Phân tích, đánh giá được chủ đề và những nét đặc sắc về hình thức nghệ thuật*],
+  [Tách thành các luận điểm rõ ràng: một cụm luận điểm về *chủ đề* (nhận thức + khát vọng), một cụm về *nghệ thuật* (không gian – thời gian, cốt truyện, chi tiết kì ảo, nhân vật, ngôi kể, lời văn); mỗi luận điểm phải có dẫn chứng và lí lẽ.],
+  [Có ít nhất 01 đoạn riêng cho *nghệ thuật* chưa?],
+  [*4*], [*Đánh giá bằng lí lẽ, bằng chứng; khẳng định ý nghĩa, giá trị của tác phẩm*],
+  [Nêu nhận xét *hay / chưa hay / đặc sắc ở đâu* và *vì sao*; đối sánh với tác phẩm khác; khẳng định giá trị văn hoá – nhân sinh và bài học cho hôm nay.],
+  [Bài có câu nào *đánh giá* (chứ không chỉ kể – tả) không?]
+)
+
+#callout(title: "PHÂN TÍCH ≠ ĐÁNH GIÁ — CÂU HỎI KHIẾN NHIỀU BẠN MẤT 1,0 ĐIỂM", tone: "primary", icon: "◆")[
+  *Phân tích* là **làm rõ** (yếu tố này biểu hiện ra sao, cấu tạo thế nào, dẫn chứng nào chứng minh); *đánh giá* là **nhận xét về giá trị** (hay/dở, sâu sắc/đơn giản, độc đáo/khuôn sáo) và **lí giải vì sao** như thế. Một bài chỉ có phân tích là bài “kể lại có phân loại”; một bài chỉ có đánh giá là bài “cảm nhận suông”. Điểm cao nằm ở chỗ luân phiên hai thao tác này trong từng đoạn.
+]
+
+= 5.6. Quy Trình 4 Bước Viết Bài (Chuẩn SGK) & Nghi Thức Chỉnh Sửa
+
+#study-table(
+  (0.55fr, 1.75fr, 3.4fr, 1.5fr),
+  ("Bước", "Tên bước", "Việc phải làm trong phòng thi", "Thời lượng"),
+  [*1*], [*Chuẩn bị viết*],
+  [Đọc kĩ đề, gạch chân *từ khoá yêu cầu* (phân tích, đánh giá, chủ đề, nghệ thuật); đọc lại ngữ liệu 1 lượt, đánh dấu các chi tiết kì ảo đắt giá và câu văn có từ Hán Việt cổ kính.],
+  [3 – 4 phút],
+  [*2*], [*Tìm ý, lập dàn ý*],
+  [Ghi ra giấy nháp 5 – 7 ý lớn theo mô hình *Ngôi Đền 5 Tầng*; với mỗi ý ghi kèm 1 – 2 dẫn chứng *nguyên văn ngắn* và 1 câu *đánh giá* dự kiến. Tuyệt đối không viết câu hoàn chỉnh ở bước này.],
+  [6 – 8 phút],
+  [*3*], [*Viết bài*],
+  [Viết thẳng vào giấy thi theo dàn ý, mỗi luận điểm một đoạn văn; giữ nhịp *P – E – E – V*; chừa 1 dòng trống giữa các đoạn để thở và để chèn sửa.],
+  [25 – 30 phút],
+  [*4*], [*Chỉnh sửa*],
+  [Đọc lại theo 4 tầng: (a) *chính tả – dấu câu*; (b) *dùng từ Hán Việt*; (c) *liên kết đoạn*; (d) *đủ ý theo barem*. Sửa bằng bút, gạch một nét, không tẩy xoá lem nhem.],
+  [4 – 5 phút]
+)
+
+#formula-box(title: "NGHI THỨC CHỈNH SỬA 60 GIÂY — QUÉT 4 LỖI MẤT ĐIỂM NHIỀU NHẤT")[
+  1. #strong[Chính tả & viết hoa:] Rà các từ *kì ảo, kì vĩ, kì diệu* (viết *kì*, không viết *kỳ* trong bài Ngữ văn); các tên riêng phiên âm (*Prô-mê-tê, Hê-ra-clét, Ô-lim-pơ*) phải có gạch nối và viết hoa đúng.
+  2. #strong[Từ Hán Việt:] Kiểm tra 3 cặp *tri thức / trí thức*, *điểm yếu / yếu điểm*, *hàn sĩ / dũng sĩ*; cảnh giác lỗi *thừa lặp* (*“con độc nhất một mình”, “người quá cố đã mất”, “đề cập đến”*).
+  3. #strong[Liên kết đoạn:] Mỗi đoạn Thân bài phải mở bằng một *từ nối luận điểm* (Trước hết / Không chỉ vậy / Đặc sắc hơn cả / Cuối cùng) và có câu chốt ý in đậm dấu ấn cá nhân.
+  4. #strong[Đủ ý theo barem:] Đối chiếu nhanh với 5 dòng của thang chấm (cấu trúc – giới thiệu & tóm tắt – phân tích, đánh giá – chính tả – sáng tạo). Thiếu dòng nào, bổ sung ngay một câu vào đúng vị trí đó.
+]
+
+= 5.7. Mô Hình Mẫu “Chữ Người Tử Tù”: Dàn Ý Chuẩn & Bài Viết Tham Khảo
+
+Đề bài mẫu của SGK: *“Phân tích, đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện ngắn Chữ người tử tù (Nguyễn Tuân).”* Đây là bài mẫu “trong sách” nên cách triển khai của nó chính là chuẩn mực để học sinh **bắt chước cấu trúc** rồi áp vào truyện thần thoại ngoài SGK.
+
+== A. Dàn ý chuẩn (Mô hình 5 phần)
+
+#study-table(
+  (1.0fr, 2.7fr, 3.4fr),
+  ("Phần", "Nội dung dàn ý", "Câu chốt mẫu"),
+  [*Mở bài*], [Giới thiệu Nguyễn Tuân, tập *Vang bóng một thời*, truyện *Chữ người tử tù*; nêu ấn tượng khái quát về vẻ đẹp “một thời vang bóng” và nghệ thuật dựng cảnh, dựng người.], [*“Chữ người tử tù” là khúc ca về cái Đẹp và thiên lương, được Nguyễn Tuân chạm khắc bằng thứ ngôn ngữ cổ kính, thanh khiết.*],
+  [*Tóm tắt*], [Huấn Cao – tử tù tài hoa – bị giải vào đề lao; viên Quản ngục cùng Thơ lại vốn say mến chữ đẹp, đối đãi trọng hậu; đêm trước ngày hành hình, Huấn Cao cho chữ trong buồng giam tối tăm; viên Quản ngục lĩnh nhận “món quà quý” và lời khuyên về thiên lương.], [*Ba con người, một đêm, một bức chữ — và cả một thế giới tinh thần hiện lên trọn vẹn.*],
+  [*Chủ đề*], [(1) Tôn vinh cái Đẹp — thứ cái Đẹp không khuất phục cường quyền; (2) Ngợi ca thiên lương: cái Đẹp chỉ bền vững khi neo vào lòng tốt; (3) Nỗi hoài niệm của Nguyễn Tuân về một lớp người tài hoa đã lùi vào quá khứ.], [*Cái Đẹp trong truyện không phải vật trang trí mà là một thứ “đạo đức” — nó cảm hoá con người.*],
+  [*Nghệ thuật*], [Tình huống truyện độc đáo (cho chữ trong ngục); nghệ thuật đối lập *ánh sáng – bóng tối, tài hoa – tù ngục, kẻ tử tù – kẻ cai quản*; ngôn ngữ Hán Việt cổ kính (*nhất sinh, tứ bình, biệt nhỡn liên tài, thiên lương*); giọng điệu vừa trang trọng vừa xót xa.], [*Nguyễn Tuân đã “chơi” một ván cờ nghệ thuật: đảo lộn ngôi vị để cái Đẹp ngồi lên ngôi vua giữa chốn lao tù.*],
+  [*Đánh giá – Kết bài*], [Khẳng định giá trị nhân văn và vẻ đẹp ngôn từ; liên hệ với quan niệm “văn chương phải là thứ văn chương nâng cao tâm hồn”; bài học: giữ gìn cái Đẹp và cái Thiện trong đời sống hôm nay.], [*Vang bóng một thời nhưng không hề cũ: cái Đẹp và thiên lương vẫn là hai ngọn đèn của mọi thời đại.*]
+)
+
+== B. Bài viết tham khảo rút gọn (~650 chữ — học cấu trúc, không học văn mẫu thuộc lòng)
+
+#essay-box(title: "BÀI VIẾT THAM KHẢO: CHỦ ĐỀ & ĐẶC SẮC NGHỆ THUẬT “CHỮ NGƯỜI TỬ TÙ”")[
+  Nguyễn Tuân là người nghệ sĩ suốt đời đi tìm cái Đẹp, và *Vang bóng một thời* là nơi ông cất giữ những vẻ đẹp “một đi không trở lại” của một lớp người tài hoa cuối thời phong kiến. Trong tập truyện ấy, *Chữ người tử tù* là viên ngọc sáng nhất: một truyện ngắn ngắn ngủi mà chứa cả một quan niệm nghệ thuật, một quan niệm sống. Tác phẩm đã thể hiện xuất sắc chủ đề về sức mạnh của cái Đẹp và thiên lương, đồng thời để lại dấu ấn đậm nét ở nghệ thuật dựng tình huống, dựng nhân vật và đặc biệt là ở thứ ngôn ngữ Hán Việt cổ kính, thanh khiết.
+
+  Truyện kể về Huấn Cao — kẻ tử tù có tài viết chữ đẹp nổi tiếng — bị giải vào đề lao chờ ngày hành hình. Ở đó có viên Quản ngục và Thơ lại, những con người “biết đọc chữ, biết yêu cái đẹp” nên đã lén lút đối đãi với ông bằng tất cả sự kính trọng. Đêm cuối cùng trước giờ pháp trường, trong buồng giam tối tăm và hôi hám, Huấn Cao đã cho chữ — món quà mà cả đời viên Quản ngục “ao ước”. Cảnh cho chữ ấy diễn ra như một nghi lễ: người tử tù ngồi trên, người cai ngục khúm núm đứng dưới, và cái Đẹp hiện lên trong tư thế của một bậc vua.
+
+  Chủ đề thứ nhất của truyện là sự chiến thắng của cái Đẹp trước cường quyền và bạo lực. Trong nhà tù, Huấn Cao bị xiềng xích, bị đe doạ, nhưng ông vẫn “không vì vàng ngọc hay quyền thế mà ép mình viết câu đối bao giờ”. Tài năng của ông không phải thứ để mua bán; nó chỉ được trao đi tự nguyện, cho những ai xứng đáng. Khi viên Quản ngục run run nhận bức chữ, người đọc hiểu rằng cái Đẹp đã tự mình giành lấy ngôi vị cao nhất trong buồng giam — cao hơn cả quyền lực của viên cai ngục. Chủ đề thứ hai, sâu hơn, là thiên lương. Huấn Cao nhận ra ở viên Quản ngục một tấm lòng trong sáng và khuyên ông ta từ bỏ nghề “cầm đầu một trại giam” để giữ lấy sự thanh khiết của tâm hồn. Cái Đẹp trong truyện vì thế không dừng ở nét chữ mà đi thẳng vào đạo đức con người.
+
+  Về nghệ thuật, trước hết phải kể đến tình huống truyện độc đáo: một người tử tù cho chữ trong ngục, và người xin chữ lại chính là người canh giữ mình. Tình huống ấy đảo lộn hoàn toàn ngôi vị giữa kẻ có quyền và người bị tước hết quyền, khiến phẩm giá con người được nâng lên một tầm cao mới. Thứ hai là nghệ thuật đối lập: ánh sáng của một ngọn đuốc nhỏ đối lập với bóng tối ngục tù, vẻ thanh tao của nét chữ đối lập với sự nhơ nhớp của buồng giam, tâm hồn cao thượng đối lập với hoàn cảnh khắc nghiệt. Nguyễn Tuân dường như muốn chứng minh rằng cái Đẹp càng bị vây hãm thì càng toả sáng. Thứ ba, không thể không nói đến ngôn ngữ. Hàng loạt từ Hán Việt — *nhất sinh, tứ bình, biệt nhỡn liên tài, thiên lương* — không chỉ tạo sắc thái cổ kính mà còn dựng lại chính xác không khí của một thời đã qua, đồng thời nâng giọng điệu truyện lên chất trang trọng, thiêng liêng.
+
+  Đánh giá một cách công bằng, *Chữ người tử tù* là một trang văn đẹp đến mức gần như không có chỗ cho sự thô ráp: từ tình huống, bố cục đến câu chữ đều được chau chuốt như một bức tranh thuỷ mặc. Có thể nói, Nguyễn Tuân đã dùng cả đời mình để chứng minh cho quan niệm rằng văn chương phải là thứ “nâng cao tâm hồn” con người. Và *Chữ người tử tù* chính là lời chứng đẹp nhất cho quan niệm ấy.
+]
+
+#callout(title: "HỌC GÌ TỪ BÀI MẪU NÀY ĐỂ ÁP VÀO TRUYỆN THẦN THOẠI?", tone: "success", icon: "★")[
+  (1) Mở bài đi từ *tác giả – tập truyện – tác phẩm* rồi mới đến luận đề; (2) Đoạn tóm tắt gói trong 4 câu, chỉ giữ sự kiện sẽ phân tích; (3) Mỗi luận điểm có *câu chủ đề → dẫn chứng nguyên văn → lí giải → đánh giá*; (4) Dành hẳn 1 đoạn cho nghệ thuật với 3 nét lớn, mỗi nét đều nêu *tác dụng*; (5) Kết bài khẳng định giá trị và nâng lên thành bài học. Khi đổi sang thần thoại, chỉ cần thay “tình huống truyện” bằng “chi tiết kì ảo”, thay “ngôn ngữ Hán Việt” bằng “ngôn ngữ dân gian mộc mạc” là bài viết đã đúng chuẩn.
+]

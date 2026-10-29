@@ -17,12 +17,12 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
   [*Ngày 2*\ *(75 phút)*], [Làm chủ Tiếng Việt: Từ Hán Việt, BPTT & Liên kết (Phần III)], [Thuộc lòng khẩu quyết 4 lỗi dùng từ Hán Việt #strong[“ÂM NHẦM – NGHĨA LỆCH – CẢNH SAI – THỪA LẶP”]; thực hành giải thích 24 từ Hán Việt cốt lõi.], [Nhẩm lại công thức #strong[5K – 1C] (5 phút đầu buổi).],
   [*Ngày 3*\ *(75 phút)*], [Kĩ thuật Phá nhiễu Đọc hiểu & Ngân hàng 40 câu Đặc tả (Phần IV)], [Tự làm 28 câu TNKQ + viết tay 4 câu TL (Câu 31, 33, 37, 39) theo công thức #strong[“GỌI – TRÍCH – GIẢI – CHỐT”] rồi đối chiếu đáp án.], [Ôn lại các cặp từ Hán Việt dễ nhầm (10 phút).],
   [*Ngày 4*\ *(90 phút)*], [Phương pháp Viết Bài văn Nghị luận 4,0 điểm (Phần V)], [Học thuộc sơ đồ #strong[“Ngôi Đền 5 Tầng”], quy tắc #strong[P–E–E–V], chọn 02 mẫu Mở bài tâm đắc và 04 nhận định lí luận văn học để viết nháp thuộc lòng.], [Rà lại các câu TNKQ làm sai ở Ngày 3.],
-  [*Ngày 5*\ *(90 phút)*], [Thi thử bấm giờ thực chiến: #strong[Đề số 01 & Đề số 04] (Phần VI)], [Bấm đồng hồ đúng #strong[90 phút] làm trọn vẹn Đề 01 (Phương án A); buổi tối đọc phân tích Đề 04 (Phương án B — 2 ngữ liệu độc lập) và tự chấm theo Rubric 0,25đ.], [Ôn Flashcard số 11 → 22.],
-  [*Ngày 6*\ *(90 phút)*], [Thi thử bấm giờ thực chiến: #strong[Đề số 05 hoặc Đề số 06] (Phần VI)], [Chọn làm trọn vẹn Đề 06 (*Prô-mê-tê và loài người* — thần thoại nước ngoài) trong 90 phút; đọc kĩ 6 bài văn mẫu để tích lũy từ vựng bình giá giàu chất văn.], [Ôn lại toàn bộ lỗi sai từ Ngày 1 → Ngày 5.],
-  [*Ngày 7*\ *(45 phút)*], [Tổng rà soát nhẹ nhàng & Chuẩn bị tâm lí thi (Phần VII)], [Tự khảo toàn bộ #strong[24 Flashcards Truy xuất chủ động], đọc kĩ #strong[Trang Tóm Lược Toàn Năng] và #strong[Checklist 5 Phút Vàng]; nghỉ ngơi sớm trước 22h00.], [Tổng ôn vòng cuối toàn bộ từ khóa cốt lõi.]
+  [*Ngày 5*\ *(90 phút)*], [Thi thử bấm giờ thực chiến: #strong[Đề số 01 & Đề số 04] (Phần VI)], [Bấm đồng hồ đúng #strong[90 phút] làm trọn vẹn Đề 01 (Phương án A); buổi tối đọc phân tích Đề 04 (Phương án B — 2 ngữ liệu độc lập) và tự chấm theo Rubric 0,25đ.], [Ôn Flashcard số 11 → 24.],
+  [*Ngày 6*\ *(90 phút)*], [Thi thử bấm giờ thực chiến: #strong[Đề số 06 hoặc Đề số 07] (Phần VI)], [Chọn làm trọn vẹn Đề 07 (*Hai thần Đực Cái*) trong 90 phút; đọc kĩ 8 bài văn mẫu để tích lũy từ vựng bình giá giàu chất văn.], [Ôn lại toàn bộ lỗi sai từ Ngày 1 → Ngày 5.],
+  [*Ngày 7*\ *(45 phút)*], [Tổng rà soát nhẹ nhàng & Chuẩn bị tâm lí thi (Phần VII)], [Tự khảo toàn bộ #strong[30 Flashcards Truy xuất chủ động], đọc kĩ #strong[Trang Tóm Lược Toàn Năng] và #strong[Checklist 5 Phút Vàng]; nghỉ ngơi sớm trước 22h00.], [Tổng ôn vòng cuối toàn bộ từ khóa cốt lõi.]
 )
 
-= 7.2. Bộ 24 Thẻ Truy Xuất Chủ Động (Active Recall Flashcards)
+= 7.2. Bộ 30 Thẻ Truy Xuất Chủ Động (Active Recall Flashcards)
 
 #callout(
   title: "HƯỚNG DẪN SỬ DỤNG THẺ FLASHCARD HIỆU QUẢ GẤP 3 LẦN ĐỌC THỤ ĐỘNG",
@@ -58,7 +58,13 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
   [*21*], [5 phương diện #strong[Hình thức nghệ thuật] bắt buộc phải quét khi phân tích truyện thần thoại?], [*(1) Không gian – thời gian thần thoại*; *(2) Tình huống & cốt truyện đơn tuyến*; *(3) Thủ pháp khắc họa nhân vật thần*; *(4) Chi tiết kì ảo, phóng đại, nhân hóa*; *(5) Ngôi kể & ngôn ngữ trần thuật*.],
   [*22*], [Quy tắc #strong[P – E – E – V] giúp viết đoạn văn phân tích không bao giờ sa vào kể lể cốt truyện?], [#strong[P (Point):] Câu chủ đề nêu nhận xét → #strong[E (Evidence):] Trích dẫn chi tiết đắt giá → #strong[E (Explanation):] Bình giảng từ ngữ, nghệ thuật → #strong[V (Value):] Khái quát giá trị tư tưởng.],
   [*23*], [Làm thế nào để giành trọn #strong[0,50 điểm Sáng tạo] ở Câu 11 theo Hướng dẫn chấm?], [Mở bài giàu chất văn (dẫn lí luận văn học) + có ít nhất #strong[01 đoạn đối sánh liên văn bản] với các thần thoại trong SGK (*Thần Trụ Trời, Thần Sét, Thần Gió, Tê-dê*) + câu văn giàu hình ảnh, cảm xúc cá nhân.],
-  [*24*], [Phân bổ 90 phút trong phòng thi theo chuẩn Vàng như thế nào để không bao giờ thiếu giờ?], [#strong[15 phút] cho 8 câu TNKQ → #strong[20 phút] cho 2 câu TL Đọc hiểu (Câu 9, 10) → #strong[50 phút] cho Bài văn Nghị luận Câu 11 (5p lập dàn ý + 45p viết) → #strong[5 phút] rà soát cuối giờ.]
+  [*24*], [Phân bổ 90 phút trong phòng thi theo chuẩn Vàng như thế nào để không bao giờ thiếu giờ?], [#strong[15 phút] cho 8 câu TNKQ → #strong[20 phút] cho 2 câu TL Đọc hiểu (Câu 9, 10) → #strong[50 phút] cho Bài văn Nghị luận Câu 11 (5p lập dàn ý + 45p viết) → #strong[5 phút] rà soát cuối giờ.],
+  [*25*], [Giải nghĩa 07 từ Hán Việt trong bài tập 1 (SGK tr. 28): *tiên triều, hàn sĩ, khoan dung, hiếu sinh, nghĩa khí, hoài bão, tung hoành*?], [*Tiên triều:* triều đại trước. *Hàn sĩ:* kẻ sĩ nghèo, lận đận. *Khoan dung:* rộng lòng tha thứ. *Hiếu sinh:* quý trọng sự sống. *Nghĩa khí:* khí phách vì lẽ phải. *Hoài bão:* chí lớn ôm ấp trong lòng. *Tung hoành:* thoả chí hành động ngang dọc bốn phương.],
+  [*26*], [Ba câu sửa lỗi Hán Việt kinh điển của SGK tr. 29 là gì?], [*trí thức* → #strong[tri thức]; *hàn sĩ* → #strong[dũng sĩ / kẻ sĩ]; *yếu điểm* → #strong[điểm yếu].],
+  [*27*], [Bốn yêu cầu của kiểu bài *nghị luận phân tích, đánh giá một tác phẩm truyện* (SGK tr. 29 – 34)?], [*(1)* Giới thiệu nét khái quát về tác phẩm – tác giả – thể loại; *(2)* tóm tắt nội dung chính; *(3)* phân tích, đánh giá chủ đề và nét đặc sắc hình thức nghệ thuật; *(4)* đánh giá bằng lí lẽ – bằng chứng, khẳng định ý nghĩa, giá trị tác phẩm.],
+  [*28*], [Quy trình 4 bước viết bài theo SGK và thời lượng chuẩn trong phòng thi?], [*Chuẩn bị viết* (3–4 phút) → *Tìm ý, lập dàn ý* (6–8 phút) → *Viết bài* (25–30 phút) → *Chỉnh sửa* (4–5 phút: chính tả → Hán Việt → liên kết → đủ ý theo barem).],
+  [*29*], [Truyện *Hai thần Đực Cái* (Tứ Tượng – Nữ Oa) lí giải điều gì và đề cao phẩm chất nào?], [Lí giải #strong[sự hình thành các dải đồi và ngọn núi Nam Giới (Hà Tĩnh)]; đề cao #strong[tầm nhìn, trí tuệ và sự cần mẫn của người phụ nữ] — dấu ấn mẫu hệ; chi tiết quyết định: Nữ Oa nhìn thấy #strong[bốn phía chân trời] còn Tứ Tượng chỉ thấy một phía biển Đông.],
+  [*30*], [Truyện *Chế tạo ra lúa và bông* lí giải những hiện tượng nào và gửi bài học gì?], [Lí giải #strong[hạt lúa nhỏ, cỏ mọc nhiều hơn lúa, trâu ăn cỏ kéo cày]; bài học về #strong[làm việc có kế hoạch, đúng thứ tự ưu tiên] và #strong[tôn trọng lí lẽ của kẻ nhỏ bé] (Ngọc Hoàng nghe thằn lằn, không nghe voi).]
 )
 
 #pagebreak()
@@ -92,6 +98,8 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
 
 #v(0.3em)
 
+#pagebreak()
+
 = 7.4. Checklist “5 Phút Vàng Cuối Giờ” Chống Mất Điểm Oan
 
 Trước khi đặt bút nộp bài lúc hết 90 phút, hãy dành đúng #strong[05 phút cuối cùng] rà soát lần lượt 8 hạng mục kiểm định sau đây:
@@ -108,3 +116,82 @@ Trước khi đặt bút nộp bài lúc hết 90 phút, hãy dành đúng #stro
   [*7*], [Số tờ giấy thi & Phách], [Ghi đầy đủ Họ tên, Số báo danh, Lớp, Phòng thi và #strong[tổng số tờ giấy thi] nộp cho giám thị.],
   [*8*], [Tâm thế tự tin], [Hít sâu, giữ bài làm sạch sẽ, trình bày thoáng rõ từng phần `I. ĐỌC HIỂU` và `II. VIẾT`.]
 )
+
+#pagebreak()
+
+= Lời Kết & Phụ Lục Nguồn Tư Liệu
+
+#callout(title: "GỬI EM — NGƯỜI ĐANG ĐỌC TRANG CUỐI NÀY", tone: "success", icon: "★")[
+  Em đã đi hết 82 trang của một cuốn sổ tay khá dày. Có thể em sẽ không nhớ hết. Điều đó không sao cả. Đề cương này được thiết kế để #strong[tra cứu], chứ không phải để học thuộc từ đầu đến cuối: hãy dùng bảng ở Phần I để biết mình cần gì, dùng Phần II – V để lấp chỗ trống, dùng 08 đề ở Phần VI để thử sức, và 30 thẻ ở Phần VII để tự kiểm tra miệng. Ba việc nhỏ, làm đều mỗi ngày, chắc chắn hiệu quả hơn mười giờ học dồn một đêm.
+
+  Và hãy nhớ điều quan trọng nhất: môn Ngữ văn không chấm em vì em thuộc bao nhiêu bài, mà vì em #strong[nói được điều gì bằng chính giọng của mình]. Một câu văn thật, viết ra từ chỗ em thực sự hiểu, luôn đáng điểm hơn mười câu văn mẫu đẹp mà không phải của em. Chúc em làm bài bình tĩnh, viết đúng, và viết thật.
+]
+
+== A. Hệ thống nguồn tư liệu đã sử dụng
+
+#study-table(
+  (0.5fr, 2.5fr, 3.9fr),
+  ("STT", "Nguồn", "Vai trò trong đề cương"),
+  [*1*], [Văn bản *Ma trận, Bản đặc tả đề kiểm tra Giữa kì I lớp 10 năm học 2026 – 2027 (90 phút)* (tệp `.docx` đính kèm trong kho)],
+  [Khung pháp lí – chuyên môn của toàn bộ đề cương: 11 câu, 10,0 điểm, 3 mức độ nhận thức, 22 chỉ báo. Mọi bảng ở Phần I đều được đối chiếu trực tiếp với văn bản này.],
+  [*2*], [SGK và SGV *Ngữ văn 10, tập một — Kết nối tri thức với cuộc sống*, NXB Giáo dục Việt Nam],
+  [Bài 1 (*Sức hấp dẫn của truyện kể*): tri thức ngữ văn tr. 9 – 10, các văn bản đọc, Thực hành tiếng Việt tr. 28 – 29, Viết tr. 29 – 34. Dùng để bảo đảm đề cương không lệch khỏi phạm vi kiểm tra.],
+  [*3*], [Nguyễn Đổng Chi, *Lược khảo về thần thoại Việt Nam*, NXB Khoa học Xã hội],
+  [Nguồn của phần lớn ngữ liệu Đọc hiểu: *Nữ thần Mặt Trời và Mặt Trăng, Thần Mưa, Nữ thần Lúa, Cuộc tu bổ lại các giống vật, Mười hai Bà Mụ, Hai thần Đực Cái, Truyện chế tạo ra lúa và bông*…],
+  [*4*], [Nguyễn Văn Khoả (dịch), *Thần thoại Hy Lạp*],
+  [Ngữ liệu *Prô-mê-tê và loài người*, *Hê-ra-clét đi tìm táo vàng*, *Tê-dê* — dùng cho đối sánh Đông – Tây và Đề số 06.],
+  [*5*], [Công văn 3175/BGDĐT-GDTrH về hướng dẫn đổi mới phương pháp dạy học và kiểm tra, đánh giá môn Ngữ văn],
+  [Căn cứ định hướng đánh giá năng lực (đọc – viết – nói – nghe), giải thích vì sao đề thi chuyển hẳn sang ngữ liệu ngoài SGK.]
+)
+
+#callout(title: "GHI CHÚ TRUNG THỰC VỀ NGỮ LIỆU TRÍCH DẪN", tone: "danger", icon: "!")[
+  Các văn bản ở Phần VI được #strong[lược trích] từ bản kể dân gian và bản dịch phổ biến: có rút gọn một số đoạn, giữ nguyên cốt truyện, chi tiết và giọng kể, và có chuẩn hoá chính tả theo quy định hiện hành để thuận tiện cho việc luyện đề. Vì vậy khi trích dẫn trong bài làm, học sinh nên ghi #strong[“Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam”] (hoặc nguồn tương ứng), #strong[không nên] ghi “nguyên văn” nếu chưa đối chiếu bản in. Đây cũng là cách ứng xử học thuật đúng: trích dẫn thì phải chỉ rõ nguồn và mức độ trích.
+]
+
+#pagebreak()
+
+== B. Bảng tra nhanh: gặp dạng đề này → mở trang nào?
+
+#study-table(
+  (3.3fr, 1.2fr, 1.9fr),
+  ("Tình huống em đang gặp", "Trang", "Ghi chú"),
+  [Không hiểu đề cho “phân tích, đánh giá” là phải làm gì], [tr. 34], [Mục 5.1 – bảng thang chấm 4,0 điểm.],
+  [Không biết mở bài thế nào cho khác các bạn], [tr. 35 – 37], [4 khuôn mở bài + 3 khuôn kết bài.],
+  [Sợ mình kể lại truyện thay vì phân tích], [tr. 35], [Kĩ thuật P – E – E – V.],
+  [Cần dẫn chứng đẹp để “ghi điểm sáng tạo”], [tr. 13 – 15], [Mục 2.5: bảng 17 văn bản thần thoại ngoài SGK.],
+  [Lúng túng với câu hỏi Tiếng Việt về từ Hán Việt], [tr. 17 – 21], [Mục 3.1, kể cả 4 bài tập SGK tr. 28 – 29.],
+  [Không phân biệt được thần thoại với truyền thuyết, cổ tích], [tr. 11 – 12], [Bảng 5 thể loại tự sự.],
+  [Muốn làm một đề hoàn chỉnh bấm giờ], [tr. 41 – 77], [08 đề + đáp án + bài văn mẫu.],
+  [Cần ôn nước rút trong 7 ngày], [tr. 78 – 81], [Lộ trình + 30 thẻ + cheat sheet 1 trang.]
+)
+
+== C. Sổ tay tự đánh giá — điền trước khi gấp sách
+
+#grid(
+  columns: (1fr, 1fr, 1fr),
+  column-gutter: 8pt,
+  block(fill: rgb("#ECFDF3"), stroke: 0.8pt + rgb("#6CE9A6"), radius: 5pt, inset: 9pt, width: 100%)[
+    #text(size: 8.6pt, weight: "bold", fill: c-jade)[3 ĐIỀU EM ĐÃ CHẮC]\
+    #v(2pt)
+    #text(size: 8pt, fill: c-slate)[1. …\ 2. …\ 3. …\ #v(14pt)]
+  ],
+  block(fill: rgb("#FFFAEB"), stroke: 0.8pt + rgb("#FDB022"), radius: 5pt, inset: 9pt, width: 100%)[
+    #text(size: 8.6pt, weight: "bold", fill: rgb("#B54708"))[3 ĐIỀU EM CÒN VƯỚNG]\
+    #v(2pt)
+    #text(size: 8pt, fill: c-slate)[1. …\ 2. …\ 3. …\ #v(14pt)]
+  ],
+  block(fill: rgb("#EFF8FF"), stroke: 0.8pt + rgb("#84CAFF"), radius: 5pt, inset: 9pt, width: 100%)[
+    #text(size: 8.6pt, weight: "bold", fill: rgb("#175CD3"))[1 VIỆC EM LÀM NGAY]\
+    #v(2pt)
+    #text(size: 8pt, fill: c-slate)[…\ #v(14pt)]
+  ]
+)
+
+#v(0.4em)
+
+#align(center)[
+  #text(size: 8.4pt, fill: c-muted)[
+    ĐỀ CƯƠNG ÔN TẬP GIỮA HỌC KÌ I — NGỮ VĂN 10 (KẾT NỐI TRI THỨC VỚI CUỘC SỐNG) • NĂM HỌC 2026 – 2027\
+    Ấn bản hoàn thiện • Biên soạn và trình bày bằng Typst • Phông chữ: Be Vietnam Pro & Lora (giấy phép OFL)
+  ]
+]
