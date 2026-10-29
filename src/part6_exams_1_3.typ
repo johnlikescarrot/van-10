@@ -2,14 +2,14 @@
 
 #part-banner(
   "PHẦN VI",
-  "Bộ 06 Đề Kiểm Tra Giữa Kì I Chuẩn 100% Ma Trận & Đáp Án Toàn Diện",
-  "66 câu hỏi chuẩn cấu trúc 90 phút • Giải thích loại trừ từng phương án nhiễu • Thang chấm 0,25đ & 06 Bài văn mẫu hoàn chỉnh"
+  "Bộ 06 Đề Kiểm Tra Giữa Kì I Bám Sát Ma Trận & Đáp Án Chi Tiết",
+  "66 câu hỏi theo cấu trúc 90 phút • Giải thích loại trừ từng phương án nhiễu • Thang chấm 0,25 điểm và 06 bài văn mẫu"
 )
 
 // ============================================================================
 // ĐỀ MINH HỌA SỐ 01: NỮ THẦN MẶT TRỜI VÀ MẶT TRĂNG
 // ============================================================================
-#exam-header("01", "Nữ Thần Mặt Trời Và Mặt Trăng", "Phương án A: 01 ngữ liệu tích hợp")
+#exam-header("01", "Nữ Thần Mặt Trời Và Mặt Trăng", "Phương án A: 01 ngữ liệu tích hợp", break-page: false)
 
 *I. PHẦN ĐỌC HIỂU (6,0 điểm)* — *Đọc văn bản sau và thực hiện các yêu cầu từ Câu 1 đến Câu 10:*
 
@@ -114,7 +114,7 @@ D. Khuyên răn người già và người trẻ phải biết phân chia công 
   - *Đánh giá tổng hợp & Mở rộng (0,50đ):* Đối sánh với thần Mặt Trời Hê-li-ôx cưỡi cỗ xe lửa tráng lệ trong thần thoại Hy Lạp để thấy vẻ đẹp mộc mạc, đậm hồn quê Việt (*chiếc kiệu khiêng, nắm tro bếp, tiếng cối giã gạo*).
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 01 (~920 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
+#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU ĐỀ SỐ 01 (khoảng 900 chữ, tham khảo mức điểm tối đa)")[
   Bàn về sức quyến rũ vĩnh hằng của thần thoại cổ đại, C. Mác từng nhận định đầy say mê rằng đó là *“thời thơ ấu bình thường của nhân loại”* — nơi vẻ đẹp hồn nhiên, trong trẻo *“một đi không trở lại”* mãi mãi tỏa sáng qua hàng ngàn năm lịch sử. Trở về buổi bình minh hồng hoang của dân tộc qua công trình *Lược khảo về thần thoại Việt Nam* của học giả Nguyễn Đổng Chi, người đọc không khỏi ngỡ ngàng trước vẻ đẹp vừa kì ảo vừa mộc mạc của truyện *Nữ thần Mặt Trời và Mặt Trăng*. Bằng trí tưởng tượng bay bổng kết hợp lối kể chuyện duyên dáng, tác phẩm không chỉ thể hiện chủ đề nhận thức, cắt nghĩa thế giới thiên văn đầy thú vị của người Việt cổ mà còn kết tinh những nét đặc sắc tiêu biểu về hình thức nghệ thuật của thể loại thần thoại suy nguyên.
 
   Thuộc nhóm thần thoại suy nguyên kể về nguồn gốc các hiện tượng tự nhiên, *Nữ thần Mặt Trời và Mặt Trăng* xoay quanh hai cô con gái của Ngọc Hoàng được giao sứ mệnh hằng ngày luân phiên ngồi kiệu đi xem xét hạ giới. Tác phẩm lần lượt giải thích vì sao ngày có khi dài khi ngắn qua bước chân của hai tốp người khiêng kiệu trẻ và già; lí giải vì sao ánh trăng dịu mát, có chu kì tròn – khuyết và quầng mờ qua sự việc cô Mặt Trăng nóng nảy bị mẹ trát tro lên mặt; đồng thời cắt nghĩa hiện tượng nhật thực, nguyệt thực cùng tập tục đánh chiêng trống, gõ cối giã gạo của dân gian qua câu chuyện người chồng Gấu đến thăm hai nữ thần.
@@ -137,7 +137,7 @@ D. Khuyên răn người già và người trẻ phải biết phân chia công 
 
 #passage-box(
   title: "THẦN MƯA",
-  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003"
+  source: "Theo Hoàng Minh, Việt Dũng, Thu Nga, Thần thoại Việt Nam chọn lọc, NXB Thanh Niên, Hà Nội, 2019"
 )[
   Thần Mưa là vị thần hình rồng, thường bay xuống hạ giới hút nước biển, nước sông vào bụng rồi bay lên trời cao phun nước ra làm mưa cho thế gian có nước uống và cày cấy, cây cỏ trên mặt đất được tốt tươi. Thần Mưa thường theo lệnh Trời đi phân phát nước ở các nơi. Thần Mưa có tính hay quên, có vùng cả năm không đến, sinh ra hạn hán ở hạ giới, có vùng lại đến luôn, làm thành lụt lội. Do đó mà có lần người ở hạ giới phải lên kiện Trời vì Thần Mưa vắng mặt lâu ngày.
 
@@ -229,14 +229,14 @@ D. Sự bất công của viên Ngự sử khi chấm thi ở cửa Vũ Môn.
 
   *4. Hướng dẫn chấm Chi tiết Câu 11 (Viết bài văn nghị luận — 4,0 điểm):*
   - *Cấu trúc 3 phần (0,25đ); Chính tả, ngữ pháp (0,25đ); Sáng tạo diễn đạt & lí luận (0,50đ).*
-  - *Giới thiệu & Tóm tắt (0,75đ):* Giới thiệu *Thần Mưa* (thần thoại suy nguyên Việt Nam, Nguyễn Đổng Chi sưu tầm); tóm tắt hai chặng cốt truyện (công việc làm mưa của Thần Mưa và cuộc thi vượt Vũ Môn hóa rồng).
+  - *Giới thiệu & Tóm tắt (0,75đ):* Giới thiệu *Thần Mưa* (thần thoại suy nguyên Việt Nam; bản kể in trong *Thần thoại Việt Nam chọn lọc*); tóm tắt hai chặng cốt truyện (công việc làm mưa của Thần Mưa và cuộc thi vượt Vũ Môn hóa rồng).
   - *Phân tích, đánh giá Chủ đề (0,75đ):* (1) Cắt nghĩa nguồn gốc hiện tượng mưa, nạn hạn hán – lũ lụt và đặc điểm sinh học của cá rô, tôm, cá chép; (2) Gửi gắm khát vọng sống còn về nguồn nước tưới tiêu của cư dân lúa nước (*“nhất nước, nhì phân...”*) và triết lí nhân sinh sâu sắc tôn vinh sự khổ luyện, vượt khó thành tài.
   - *Phân tích, đánh giá Hình thức Nghệ thuật (1,00đ):* Không gian đa tầng ba cõi (Trời – Hạ giới [Vũ Môn] – Thủy phủ) đan cài địa danh thực tạo sức thuyết phục; kết cấu chuỗi hai sự kiện liên hoàn theo quan hệ nhân – quả chặt chẽ; thủ pháp phóng đại – kì ảo kết hợp nhân hóa hóm hỉnh; nghệ thuật tương phản tăng tiến trong cảnh thi ba đợt sóng (tất cả bị loại → cá rô 1 đợt → tôm 2 đợt → cá chép 3 đợt); đan xen câu ca dao dân gian tạo âm hưởng truyền thống ngân vang.
   - *Đánh giá mở rộng (0,50đ):* Đối sánh Thần Mưa với *Thần Sét, Thần Gió* (SGK) để thấy hệ thống thần tự nhiên Việt Nam thống nhất, bình dị mà giàu giá trị văn hoá.
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 02 (~940 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
-  Với cư dân văn minh nông nghiệp lúa nước Việt Nam từ ngàn xưa, nước và những cơn mưa trời luôn giữ vị trí sinh tử hàng đầu: *“Trông trời, trông đất, trông mây / Trông mưa, trông nắng, trông ngày, trông đêm”*. Chính từ mối gắn bó máu thịt với đồng ruộng và bầu trời ấy, trí tưởng tượng hồn nhiên của tổ tiên ta đã dệt nên thiên thần thoại đặc sắc *Thần Mưa* (trích trong *Lược khảo về thần thoại Việt Nam* của học giả Nguyễn Đổng Chi). Tác phẩm là viên ngọc quý kết tinh trọn vẹn vẻ đẹp của thể loại thần thoại suy nguyên Việt Nam, vừa cuốn hút người đọc bởi chiều sâu chủ đề nhận thức – nhân sinh phong phú, vừa tỏa sáng nhờ những nét đặc sắc độc đáo về hình thức nghệ thuật tự sự dân gian.
+#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU ĐỀ SỐ 02 (khoảng 900 chữ, tham khảo mức điểm tối đa)")[
+  Với cư dân văn minh nông nghiệp lúa nước Việt Nam từ ngàn xưa, nước và những cơn mưa trời luôn giữ vị trí sinh tử hàng đầu: *“Trông trời, trông đất, trông mây / Trông mưa, trông nắng, trông ngày, trông đêm”*. Chính từ mối gắn bó máu thịt với đồng ruộng và bầu trời ấy, trí tưởng tượng hồn nhiên của tổ tiên ta đã dệt nên thiên thần thoại đặc sắc *Thần Mưa* (bản kể in trong tuyển tập *Thần thoại Việt Nam chọn lọc* của Hoàng Minh, Việt Dũng, Thu Nga). Tác phẩm là viên ngọc quý kết tinh trọn vẹn vẻ đẹp của thể loại thần thoại suy nguyên Việt Nam, vừa cuốn hút người đọc bởi chiều sâu chủ đề nhận thức – nhân sinh phong phú, vừa tỏa sáng nhờ những nét đặc sắc độc đáo về hình thức nghệ thuật tự sự dân gian.
 
   *Thần Mưa* mở ra bằng hình tượng vị thần mang lốt rồng vĩ đại chuyên vâng lệnh Trời bay xuống sông biển hút nước rồi bay lên trời cao phun mưa nuôi sống thế gian. Do Thần Mưa có tật hay quên khiến hạ giới nơi hạn hán, nơi lụt lội, lại thêm công việc phân phối nước khắp mặt đất quá nặng nề, Trời đã mở cuộc sát hạch ba kì vượt sóng tại cửa Vũ Môn để tuyển chọn các loài thủy tộc tài giỏi hóa rồng phụ giúp. Giữa hàng loạt giống loài thất bại như cá rô chỉ qua một đợt sóng hay con tôm đuối sức ngã cong lưng ở đợt thứ ba, cá chép đã xuất sắc vượt liền ba đợt sóng dữ để hóa rồng oai nghi phun nước làm mưa cho trần thế.
 
@@ -258,7 +258,7 @@ D. Sự bất công của viên Ngự sử khi chấm thi ở cửa Vũ Môn.
 
 #passage-box(
   title: "NỮ THẦN LÚA",
-  source: "Theo Kho tàng truyện thần thoại Việt Nam, NXB Giáo dục, Hà Nội, 2008"
+  source: "Truyện thần thoại Việt Nam (bản kể phổ biến trong các tuyển tập văn học dân gian)"
 )[
   Nữ thần Lúa là con gái Ngọc Hoàng. Sau những trận lụt lội ghê gớm xảy ra, sinh linh cây cỏ đều bị diệt hết, Trời bèn cho những người còn sống sót sinh con đẻ cái trên mặt đất, sai Nữ thần Lúa xuống trần gian, nuôi sống loài người. Nữ thần là một cô gái xinh đẹp, dáng người ẻo lả, và có tính hay hờn dỗi.
 
@@ -276,7 +276,7 @@ C. Vào dịp đầu xuân khi nhà Trời mở hội thi chọn thần cai qu�
 D. Khi mặt đất bị mười mặt trời thiêu đốt khô cạn suốt mười năm.
 
 *Câu 2* #badge-biet. Ngoại hình và tính cách của Nữ thần Lúa được văn bản giới thiệu trực tiếp qua những chi tiết nào?\
-A. Thân hình khổng lồ, sức khỏe vô địch, tính tình nóng nảy dữ tợn.\
+A. Thân hình khổng lồ, sức khoẻ phi thường, tính tình nóng nảy dữ tợn.\
 B. Xinh đẹp, dáng người ẻo lả và có tính hay hờn dỗi.\
 C. Là một bà già mặt mũi hung dữ, luôn mang theo bầu nước bên mình.\
 D. Không có đầu, tay cầm chiếc quạt màu nhiệm điều khiển gió bão.

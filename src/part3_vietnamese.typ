@@ -3,7 +3,7 @@
 #part-banner(
   "PHẦN III",
   "Tiếng Việt & Công Cụ Ngôn Ngữ Trong Đọc Hiểu – Viết",
-  "Chuyên đề Từ Hán Việt (Bài 1 KNTT) • Phương thức biểu đạt • 6 Biện pháp tu từ Thần thoại • Chuẩn Mạch lạc & Liên kết"
+  "Chuyên đề Từ Hán Việt (Bài 1 KNTT) • Phương thức biểu đạt • 6 biện pháp tu từ trong thần thoại • Mạch lạc và liên kết đoạn văn"
 )
 
 = 3.1. Chuyên đề Trọng tâm: Sử dụng Từ Hán Việt (SGK Ngữ văn 10 KNTT, tr. 28 – 29)
@@ -86,7 +86,7 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
 
 = 3.2. Phương thức Biểu đạt & 6 Biện pháp Tu từ Đặc trưng của Thần thoại
 
-== A. Quy tắc Vàng Xác định Phương thức Biểu đạt (Tránh Bẫy Câu TNKQ số 1–2)
+== A. Cách xác định phương thức biểu đạt (Tránh Bẫy Câu TNKQ số 1–2)
 - Nếu đề hỏi #strong[“Phương thức biểu đạt CHÍNH của văn bản”] (chỉ 1 phương thức): Với mọi truyện thần thoại, đáp án LUÔN LUÔN là #strong[Tự sự] (kể lại chuỗi sự việc, nhân vật).
 - Nếu đề hỏi #strong[“Các phương thức biểu đạt được sử dụng trong văn bản”] (từ 2 phương thức trở lên): Thường là #strong[Tự sự kết hợp miêu tả (và biểu cảm)].
 
@@ -128,7 +128,7 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [Làm bật nổi xung đột nhận thức, tôn vinh vẻ đẹp trí tuệ và tầm vóc nhân văn của nhân vật trung tâm.]
 )
 
-= 3.3. Chuẩn mực Mạch lạc & Liên kết Đoạn văn – Văn bản (Tích hợp Bài 2 & Bài 3 KNTT)
+= 3.3. Mạch lạc và liên kết trong đoạn văn ngắn (áp dụng cho Câu 9, Câu 10 và bài Viết)
 
 Để đạt trọn điểm diễn đạt ở Câu 9, Câu 10 và Câu 11, học sinh cần kiểm soát chặt 3 yêu cầu Tiếng Việt cốt lõi:
 - #strong[Mạch lạc (Coherence — Sợi chỉ đỏ tư tưởng):] Toàn bộ các câu trong đoạn phải cùng phục vụ *một chủ đề thống nhất*, sắp xếp theo trình tự hợp lí (từ khái quát đến cụ thể; từ nghệ thuật đến nội dung hoặc ngược lại).

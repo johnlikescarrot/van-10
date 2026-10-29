@@ -223,8 +223,8 @@
 }
 
 // Header thẻ Đề kiểm tra
-#let exam-header(num, subtitle, model-type) = {
-  pagebreak(weak: true)
+#let exam-header(num, subtitle, model-type, break-page: true) = {
+  if break-page { pagebreak(weak: true) }
   place(hide(heading(level: 2, offset: 0)[Đề minh họa số #num: #subtitle (#model-type)]))
   block(
     width: 100%,
@@ -315,8 +315,8 @@
   show raw: set text(font: font-sans, size: 9.1pt, weight: "semibold", fill: c-indigo)
 
   show outline.entry.where(level: 1): it => {
-    v(5pt, weak: true)
-    strong(text(fill: c-navy, size: 9.6pt, it))
+    v(3.2pt, weak: true)
+    strong(text(fill: c-navy, size: 9.1pt, it))
   }
 
   show heading.where(level: 2): it => {
@@ -453,7 +453,7 @@
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[03. DÀN Ý VẠN NĂNG & VĂN MẪU 4,0Đ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[Mô hình Ngôi Đền 5 Tầng phân tích chủ đề & nghệ thuật thần thoại kèm 06 bài văn mẫu hoàn chỉnh.]
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Quy trình 5 bước, khung dàn ý 5 tầng, kĩ thuật đoạn P–E–E–V và 01 bài văn mẫu có chú thích, kèm 06 bài văn mẫu cho 06 đề.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. TRỌN BỘ CÂU HỎI & ĐÁP ÁN CHI TIẾT]\
@@ -493,7 +493,7 @@
       [*1. Mã hóa kép (Dual Coding):* Kết hợp bảng ma trận đối chiếu và sơ đồ cấu trúc để não bộ lưu trữ đồng thời kênh ngôn ngữ và kênh không gian.],
       [*2. Khẩu quyết âm vần (Chunking & Mnemonics):* Mọi cụm kiến thức phức tạp đều được nén thành công thức ngắn gọn (*5K–1C*, *GỌI–TRÍCH–GIẢI–CHỐT*).],
       [*3. Phòng vệ lỗi sai (Error Inoculation):* Hệ thống hộp *Cảnh báo bẫy phòng thi* chỉ rõ các phương án nhiễu hay đánh lừa học sinh nhất.],
-      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 40 câu theo chỉ báo + 06 đề thi thực chiến (66 câu) + 24 thẻ Flashcards kèm lộ trình ôn 7 ngày.]
+      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 40 câu theo chỉ báo + 06 đề thi mô phỏng (66 câu) + 24 thẻ Flashcards kèm lộ trình ôn 7 ngày.]
     )
   ]
 
@@ -505,8 +505,9 @@
     #v(2pt)
     #line(length: 100%, stroke: 1.2pt + c-indigo)
     #v(4pt)
-    #set text(size: 9.2pt)
-    #outline(title: none, indent: 1.2em, depth: 2)
+    #set text(size: 8.55pt)
+    #set par(leading: 0.5em, spacing: 0.4em)
+    #outline(title: none, indent: 1.0em, depth: 2)
   ]
 
   body

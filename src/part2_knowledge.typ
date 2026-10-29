@@ -2,7 +2,7 @@
 
 #part-banner(
   "PHẦN II",
-  "Hệ Thống Hóa Tri Thức Ngữ Văn & Thể Loại Thần Thoại",
+  "Tri Thức Ngữ Văn Nền Tảng & Thể Loại Thần Thoại",
   "Sơ đồ hóa Dual-Coding • Khẩu quyết 5K–1C • Phân biệt 5 thể loại tự sự • Giải phẫu 4 văn bản SGK & 12 thần thoại ngoài SGK"
 )
 
@@ -92,7 +92,7 @@
 
 *1. Khái niệm chuẩn SGK:* #strong[Thần thoại] là thể loại truyện kể dân gian xa xưa nhất, ra đời trong xã hội nguyên thủy, kể về thế giới thần linh, thể hiện quan niệm về vũ trụ và khát vọng chinh phục thế giới tự nhiên của con người thời cổ đại.
 
-*2. Ba nền tảng tư duy sản sinh ra thần thoại (vũ khí lí luận ăn điểm Sáng tạo bài Viết):*
+*2. Ba nền tảng tư duy sản sinh ra thần thoại (cơ sở lí luận để ghi điểm phần Sáng tạo của bài Viết):*
 - #strong[Tư duy “Vạn vật hữu linh” (Animism):] Khi khoa học chưa phát triển, đứng trước thiên nhiên hùng vĩ và bí ẩn, người nguyên thủy tin rằng mọi sự vật, hiện tượng (bầu trời, mặt đất, sấm sét, gió mưa, mặt trời, mặt trăng, cây lúa, ngọn lửa...) đều có linh hồn sống động và do một vị thần cai quản. Họ *nhân cách hóa tự nhiên* bằng trí tưởng tượng kì vĩ.
 - #strong[Tính nguyên hợp (Syncretism):] Thần thoại không chỉ là nghệ thuật ngôn từ mà là một chỉnh thể nguyên hợp chứa đựng đồng thời *khoa học sơ khai* (lí giải tự nhiên), *triết học mộc mạc* (vũ trụ quan), *tôn giáo – tín ngưỡng* (tục thờ thần, nghi lễ cầu mùa) và *lịch sử – văn hoá tộc người*.
 - #strong[Vẻ đẹp “một đi không trở lại” (Nhận định kinh điển của C. Mác):] C. Mác gọi thần thoại Hy Lạp và thần thoại cổ đại nói chung là *“thời thơ ấu bình thường của nhân loại”* — nơi vẻ đẹp hồn nhiên, ngây thơ, trong trẻo và bay bổng tuyệt vời của trí tưởng tượng cổ sơ tỏa sáng rực rỡ, mang sức quyến rũ vĩnh hằng mà các thời đại văn minh về sau không thể nào tái tạo y nguyên được nữa.
@@ -124,7 +124,7 @@
 
 *Lưu ý tinh tế:* Giữa hai nhóm có sự giao thoa hữu cơ (ví dụ: *Prô-mê-tê và loài người* vừa mang yếu tố *suy nguyên* khi lí giải sự hình thành muôn vật và hình dáng con người, vừa mang đậm tính *sáng tạo văn hoá* khi thần lấy ngọn lửa văn minh trao cho nhân loại!).
 
-== C. Sơ đồ & Khẩu quyết Vàng “5K – 1C” Giải mã 5 Đặc trưng Thần thoại
+== C. Sơ đồ và khẩu quyết “5K – 1C” giải mã 5 đặc trưng thần thoại
 
 #mnemonic-box(title: "KHẨU QUYẾT 5K – 1C (NHỚ TRỌN ĐẶC TRƯNG THẦN THOẠI TRONG 30 GIÂY)")[
   #align(center)[
@@ -192,7 +192,7 @@ Trong câu hỏi số 1 của đề thi (xác định thể loại hoặc đặc
 
 = 2.4. Hệ thống hóa 04 Văn bản SGK Kết nối tri thức Bài 1 (Chuẩn đối sánh & Mở rộng)
 
-Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc 4 văn bản Bài 1 giúp học sinh: *(1) thành thạo thao tác giải mã thể loại mẫu; (2) sở hữu kho dẫn chứng đối sánh cực kì đắt giá để ăn trọn 0,5 điểm Sáng tạo trong bài văn Câu 11!*
+Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc 4 văn bản Bài 1 giúp học sinh: *(1) thành thạo thao tác giải mã thể loại mẫu; (2) sở hữu kho dẫn chứng đối sánh để ghi điểm phần Sáng tạo trong bài văn Câu 11!*
 
 #study-table(
   (1.4fr, 1.1fr, 2.5fr, 2.0fr),
@@ -264,7 +264,7 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
 
   [*8. Hai thần Đực Cái (Tứ Tượng – Nữ Oa)*\ *(Thần thoại Việt Nam)*],
   [Suy nguyên (địa hình)],
-  [Hai vị thần khổng lồ thi tài đắp núi trong 3 ngày để kết hôn: Tứ Tượng đứt quang gánh rơi thành 9 đồi lớn; núi Nữ Oa (Nam Giới – Hà Tĩnh) cao nhìn thấu 4 chân trời nên thắng cuộc, bắt Tứ Tượng đắp thêm nhiều dãy núi Bắc – Nam.],
+  [Hai vị thần khổng lồ thi tài đắp núi trong ba ngày để kết duyên: Tứ Tượng (thần đực) đắp núi thấp hơn, còn núi của Nữ Oa ở vùng Nam Giới (Hà Tĩnh) cao đến mức nhìn thấu bốn phương nên nàng thắng cuộc (bản kể có nhiều dị bản về chi tiết; cốt lõi là cuộc thi tài và sự thắng thế của nữ thần).],
   [• Lí giải: Địa hình đồi núi trùng điệp dải đất Việt Nam và dấu chân khổng lồ trên đá.\ • Phản ánh dấu ấn *chế độ mẫu hệ* cổ sơ (nữ thần tài trí vượt trội nam thần).],
 
   [*9. Sự tích Ông Đùng, bà Đùng*\ *(Thần thoại dân tộc Mường)*],
@@ -274,8 +274,8 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
 
   [*10. Đi san mặt đất*\ *(Thần thoại dân tộc Lô Lô — trích Mẹ Trời, Mẹ Đất)*],
   [Suy nguyên & sáng tạo (bằng thơ)],
-  [Thuở đất gồ ghề, bầu trời sần sùi, người cổ đại đồng lòng đi tìm trâu sừng cong làm ách cày, tìm cóc (nhờ Trời) và tự tay đúc lưỡi cày san phẳng mặt đất, khai phá ruộng nương.],
-  [• Lí giải: Công cuộc cải tạo địa hình canh tác nương rẫy vùng cao.\ • Khác biệt độc đáo: Đề cao *sức mạnh đoàn kết cộng đồng con người* chủ động cải tạo thế giới bằng lao động.],
+  [Thuở “bầu trời nhìn chưa phẳng – mặt đất còn nhấp nhô”, con người đi tìm trâu sừng cong, rồi chuột chũi, cóc, ếch để nhờ san đất; các loài vật đều tìm cớ thoái thác, nên cuối cùng chính con người “gọi nhau làm lấy”, tự san phẳng mặt đất và bầu trời.],
+  [• Lí giải: Công cuộc cải tạo địa hình canh tác vùng cao.\ • Khác biệt độc đáo: thần linh vắng mặt, chính *sức mạnh đoàn kết của con người* là chủ thể cải tạo thế giới bằng lao động.],
 
   [*11. Nữ Oa vá trời*\ *(Thần thoại Trung Hoa)*],
   [Suy nguyên & sáng tạo],
@@ -288,8 +288,18 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
   [• Lí giải: Dáng đứng thẳng hướng thiên, đôi tay lao động và *ngọn lửa văn minh* dạy con người muôn nghề.\ • Đề cao trí tuệ nhìn xa trông rộng, lòng nhân ái vì con người và sức mạnh văn hoá.]
 )
 
+#callout(title: "GHI CHÚ NGUỒN NGỮ LIỆU — DÙNG ĐÚNG KHI VIẾT BÀI", tone: "gold", icon: "◆")[
+  Khi mở bài hoặc chú thích nguồn trích, nên ghi đúng xuất xứ của bản kể đang dùng. Một số mốc thường gặp:
+  - *Truyện về các vị thần sáng tạo thế giới* (*Thần Trụ Trời*, *Thần Sét*, *Thần Gió*): Theo Nguyễn Đổng Chi, *Tác phẩm được tặng Giải thưởng Hồ Chí Minh*, NXB Khoa học Xã hội, Hà Nội, 2003 (mỗi truyện ở một trang khác nhau).
+  - *Cuộc tu bổ lại các giống vật*, *Mười hai Bà Mụ*, *Nữ thần Mặt Trời và Mặt Trăng*, *Thần Lửa*, *Thần Biển*, *Hai thần Đực Cái*: Theo Nguyễn Đổng Chi, *Lược khảo về thần thoại Việt Nam*, Trung tâm Khoa học Xã hội và Nhân văn Quốc gia, NXB Khoa học Xã hội, Hà Nội, 2003.
+  - *Thần Mưa*: bản kể phổ biến hiện nay in trong *Thần thoại Việt Nam chọn lọc* (Hoàng Minh, Việt Dũng, Thu Nga sưu tầm, biên soạn), NXB Thanh Niên, Hà Nội, 2019; một số tuyển tập khác dẫn theo bản của Doãn Quốc Sĩ (1970). Vì vậy #strong[không nên] ghi *Thần Mưa* là truyện trong *Lược khảo về thần thoại Việt Nam*.
+  - *Nữ thần Lúa*: lưu truyền trong nhiều tuyển tập thần thoại Việt Nam và có dị bản ở một số dân tộc; khi viết chỉ cần ghi “truyện thần thoại Việt Nam (bản kể phổ biến)” là đủ, tránh gán đích danh một cuốn sách nếu chưa kiểm chứng.
+  - *Prô-mê-tê và loài người*, *Tê-dê*: Theo Nguyễn Văn Khoả, *Thần thoại Hy Lạp* (NXB Khoa học Xã hội, Hà Nội, 1990). Lưu ý đây là #strong[thần thoại Hy Lạp], không thuộc bài 1 của sách Kết nối tri thức; chỉ dùng làm ngữ liệu ngoài SGK hoặc để đối sánh.
+  - *Nữ Oa vá trời*: thần thoại Trung Hoa, phổ biến qua các tuyển tập thần thoại thế giới; nêu “thần thoại Trung Hoa” là cách ghi an toàn.
+]
+
 = 2.6. Đối sánh Đông – Tây: Thần thoại Việt Nam vs. Thần thoại Hy Lạp / Trung Hoa
 
-Đưa nhận xét đối sánh liên văn hoá vào đoạn đánh giá cuối Thân bài là #strong[“tuyệt chiêu lấy điểm 9+”]:
+Đưa nhận xét đối sánh liên văn hoá vào đoạn đánh giá cuối Thân bài là #strong[một cách làm giúp bài viết có chiều sâu]:
 - #strong[Điểm tương đồng phổ quát:] Đều nảy sinh từ tư duy *vạn vật hữu linh* buổi bình minh nhân loại; đều đặt nhân vật thần linh khổng lồ trong không gian vũ trụ và thời gian cổ sơ phiếm chỉ; đều sử dụng thủ pháp phóng đại kì ảo để cắt nghĩa tự nhiên và gửi gắm khát vọng chinh phục thế giới.
 - #strong[Bản sắc riêng độc đáo của Thần thoại Việt Nam:] Mang đậm dấu ấn #strong[nền văn minh nông nghiệp lúa nước nhiệt đới gió mùa] — các vị thần gần gũi, mộc mạc, bình dị như người nông dân Việt (biết cày cục đắp đất, nóng nảy sợ tiếng gà, hay quên gây hạn lụt, hờn dỗi khi sân bẩn...), ít có những cuộc chiến tranh quyền lực đẫm máu trên đỉnh Ô-lim-pơ như thần thoại Hy Lạp hay quy mô triều chính đồ sộ như thần thoại Trung Hoa, mà thấm đẫm *khát vọng mưa thuận gió hòa, mùa màng tươi tốt và lối sống hòa hợp, ân nghĩa với tự nhiên*.

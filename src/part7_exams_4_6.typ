@@ -152,7 +152,7 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
 
 #passage-box(
   title: "SỰ TÍCH ÔNG ĐÙNG, BÀ ĐÙNG",
-  source: "Theo Truyện cổ dân tộc Mường, Kho tàng thần thoại các dân tộc Việt Nam"
+  source: "Theo Truyện cổ dân tộc Mường (bản kể phổ biến trong các tuyển tập văn học dân gian Việt Nam)"
 )[
   Chuyện kể rằng, ngày xửa ngày xưa, trời đất còn chưa phân tách rõ ràng, nhờ có mụ Dạ Dần đẻ đất đẻ nước mà người Mường có các xứ Mường như ngày nay. Khi Mường Bi được tạo lập xong thì dân Mường thấy xuất hiện một đôi vợ chồng cao lớn khác thường. Ông Đùng, bà Đùng đứng cao lắm, có dễ đứng cao hơn năm lần đỉnh núi cao nhất. Đứng ở Mường Bi mà nhìn lên tận Châu Mộc, Sơn La, nhìn xuống mãi đồng bằng giáp biển, nhìn xa tới Thanh Hóa. Người Mường gọi họ là ông Đùng, bà Đùng, nghĩa là ông bà khổng lồ, người nhà Trời xuống giúp dân Mường gây dựng cơ nghiệp.
 
@@ -220,7 +220,7 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
 
 #passage-box(
   title: "NỮ OA VÁ TRỜI",
-  source: "Thần thoại Trung Quốc — Theo bản dịch của Thái Hoàng và Bùi Văn Nguyên"
+  source: "Thần thoại Trung Hoa (bản kể phổ biến trong các tuyển tập thần thoại thế giới)"
 )[
   Người Trung Hoa kể rằng Nữ Oa là vị thần sinh ra loài người. Con cháu bà sống trong cõi thế gian bình yên vô sự thì bỗng một hôm Thủy thần Cung Công và Hỏa thần Chúc Dung gây sự đánh nhau rất dữ dội. Cung Công thua to, tự nghĩ chẳng còn mặt mũi nào sống trong trời đất nữa bèn đập đầu vào núi Bất Chu, vốn là cây cột chống trời ở phía Tây Bắc, để tự tử. Vì sức đập không đủ mạnh nên Cung Công không chết, chỉ có cây cột chống trời là gãy gập xuống, một góc trời bị sụt lở gây ra tai họa khủng khiếp cho loài người.
 
@@ -288,7 +288,7 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
 
 #passage-box(
   title: "PRÔ-MÊ-TÊ VÀ LOÀI NGƯỜI",
-  source: "Theo Nguyễn Văn Khoả, Thần thoại Hy Lạp, tập I, NXB Khoa học Xã hội, Hà Nội, 1990, tr. 79 – 81"
+  source: "Theo Nguyễn Văn Khoả, Thần thoại Hy Lạp, NXB Khoa học Xã hội, Hà Nội, 1990"
 )[
   Thuở ấy thế gian chỉ mới có các vị thần. Mặt đất mênh mông, dẫu đã có khá nhiều vị thần cai quản song vẫn còn hết sức vắng vẻ. Không muốn để tình cảnh buồn tẻ đó kéo dài, bữa kia hai anh em Prô-mê-tê và Ê-pi-mê-tê xin với U-ra-nôx và Gai-a tạo ra cho thế gian thêm nhiều nhiều cái gì đó để cho cuộc sống đông vui. U-ra-nôx và Gai-a ưng thuận. Hai vị giao luôn việc đó cho hai anh em Prô-mê-tê và Ê-pi-mê-tê. Cậu em Ê-pi-mê-tê mừng quá, tranh ngay lấy việc đó và giao cho ông anh lo việc xem xét, sửa chữa lại sau. Ê-pi-mê-tê lấy đất và nước nhào nặn ra, trước hết, là các loài vật và ban cho mỗi con vật một đặc ân của thần, một “vũ khí” để có thể phòng thân, hộ mệnh, bảo vệ được cuộc sống của giống loài mình. Con thì được ban cho ân huệ chạy nhanh như gió. Con thì có đôi mắt sáng xanh nhìn thấu cả đêm đen. Con thì có thân hình khổng lồ mạnh khỏe hết chỗ nói. Có con thân hình bé nhỏ nhưng lại có nọc độc gớm ghê. Rồi con có bộ lông dày, con có sải cánh rộng. Con thì xuống nước không chìm, con thì trèo leo thoăn thoắt... Tóm lại mỗi con vật, mỗi giống loài đều có “vũ khí” cần thiết để sống được ở thế gian.
 
@@ -386,7 +386,7 @@ D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Tr
   - *Cấu trúc (0,25đ); Chính tả, ngữ pháp (0,25đ); Sáng tạo (0,50đ).*
   - *Giới thiệu & Tóm tắt (0,75đ):* Giới thiệu *Prô-mê-tê và loài người* (kiệt tác thần thoại Hy Lạp do học giả Nguyễn Văn Khoả kể lại); tóm tắt quá trình hai anh em tạo muôn loài, sự đãng trí của Ê-pi-mê-tê và hai kì tích tái tạo vóc dáng + lấy lửa Mặt Trời trao cho con người của Prô-mê-tê.
   - *Phân tích, đánh giá Chủ đề (0,75đ):* Giao thoa tuyệt đẹp giữa *thần thoại suy nguyên* (lí giải nguồn gốc muôn thú, dáng đứng thẳng thanh tao của con người, nguồn gốc ngọn lửa) và *thần thoại sáng tạo văn hoá* (tôn vinh ngọn lửa văn minh – tri thức – nghề nghiệp giúp con người chiến thắng thiên nhiên khắc nghiệt); ngợi ca vẻ đẹp nhân bản cao cả của vị thần vì con người (Prô-mê-tê) và khẳng định vị thế làm chủ thế giới bằng trí tuệ của nhân loại.
-  - *Phân tích, đánh giá Nghệ thuật (1,00đ):* Không gian vũ trụ trải dài từ mặt đất vắng vẻ tới bầu trời cao xa nơi cỗ xe thần Mặt Trời Hê-li-ôx; tình huống truyện giàu kịch tính (sự “bỏ quên” tai hại của Ê-pi-mê-tê); thủ pháp tương phản kép (Ê-pi-mê-tê lơ đễnh ↔ Prô-mê-tê nhìn xa trông rộng; muôn thú đầy vũ khí cơ bắp ↔ con người mong manh nhưng sở hữu ngọn lửa vô địch); lời trần thuật linh hoạt kết hợp điệp cấu trúc, liệt kê dồn dập, câu hỏi nửa trực tiếp giàu trăn trở và khổ thơ vần đúc kết giàu dư vang sử thi.
+  - *Phân tích, đánh giá Nghệ thuật (1,00đ):* Không gian vũ trụ trải dài từ mặt đất vắng vẻ tới bầu trời cao xa nơi cỗ xe thần Mặt Trời Hê-li-ôx; tình huống truyện giàu kịch tính (sự “bỏ quên” tai hại của Ê-pi-mê-tê); thủ pháp tương phản kép (Ê-pi-mê-tê lơ đễnh ↔ Prô-mê-tê nhìn xa trông rộng; muôn thú đầy vũ khí cơ bắp ↔ con người mong manh nhưng sở hữu ngọn lửa quyền năng); lời trần thuật linh hoạt kết hợp điệp cấu trúc, liệt kê dồn dập, câu hỏi nửa trực tiếp giàu trăn trở và khổ thơ vần đúc kết giàu dư vang sử thi.
   - *Đánh giá mở rộng (0,50đ):* Đối sánh với *Mười hai Bà Mụ* và *Thần Lửa* của Việt Nam để làm bật tinh thần duy lí, tôn vinh tư thế đứng thẳng và khát vọng khai sáng văn minh đặc trưng của văn hoá Hy Lạp cổ đại.
 ]
 
@@ -399,7 +399,7 @@ D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Tr
 
   Chủ đề mang tầm triết luận sâu xa ấy được thể hiện qua những nét đặc sắc bậc thầy về hình thức nghệ thuật thần thoại. Trước hết, không gian và thời gian nghệ thuật mang kích thước vũ trụ kì vĩ: thời gian phiếm chỉ buổi đầu (*“Thuở ấy”*) kết hợp không gian mở rộng theo trục thẳng đứng đầy choáng ngợp — từ mặt đất hoang sơ đầy biến thiên *“bãi bể hóa nương dâu”* vút thẳng lên *“bầu trời cao xa tít tắp, đến tận cỗ xe của thần Mặt Trời Hê-li-ôx”*. Cốt truyện tuy gọn gàng nhưng thoát hẳn lối kể phẳng lặng nhờ việc kiến tạo #strong[tình huống “thiếu sót tai hại” đầy kịch tính]: khoảnh khắc Prô-mê-tê sững sờ đứng trước con người *“trần trụi, trần trụi hoàn toàn”* khi kho đặc ân đã cạn kiệt chính là điểm nút thắt nghệ thuật đắt giá đẩy hành động anh hùng lên đỉnh điểm.
 
-  Đặc biệt, nghệ thuật xây dựng nhân vật bằng #strong[thủ pháp tương phản kép] đã tạo nên sức hấp dẫn thẩm mĩ khó quên cho văn bản. Tương phản thứ nhất nằm ngay trong cặp nhân vật anh em mang ý nghĩa triết học từ chính tên gọi tiếng Hy Lạp: *Ê-pi-mê-tê* (kẻ nghĩ sau — hấp tấp, bản năng, đãng trí) đối lập gay gắt với *Prô-mê-tê* (người nghĩ trước — điềm tĩnh, thông tuệ, giàu trách nhiệm và tình thương). Tương phản thứ hai đặt sự *“hoàn hảo”* cơ bắp của muôn thú cạnh sự *“bấy yếu”* thể xác nhưng vô địch về văn minh tinh thần của con người có lửa. Hơn nữa, lời trần thuật ngôi thứ ba trong bản kể cực kì biến hóa: lúc rộn ràng với phép điệp cấu trúc *“Con thì...”* và phép liệt kê dồn dập khắc họa thế giới muôn loài; lúc lắng sâu trăn trở trong chuỗi câu hỏi tu từ nửa trực tiếp (*“Làm thế nào bây giờ?... Con người sẽ sống thế nào...?”*); lúc bừng sáng hào sảng khi ngọn lửa rực cháy khắp thế gian và khép lại bằng ba dòng thơ súc tích ngân vang như một khúc khải hoàn ca.
+  Đặc biệt, nghệ thuật xây dựng nhân vật bằng #strong[thủ pháp tương phản kép] đã tạo nên sức hấp dẫn thẩm mĩ khó quên cho văn bản. Tương phản thứ nhất nằm ngay trong cặp nhân vật anh em mang ý nghĩa triết học từ chính tên gọi tiếng Hy Lạp: *Ê-pi-mê-tê* (kẻ nghĩ sau — hấp tấp, bản năng, đãng trí) đối lập gay gắt với *Prô-mê-tê* (người nghĩ trước — điềm tĩnh, thông tuệ, giàu trách nhiệm và tình thương). Tương phản thứ hai đặt sự *“hoàn hảo”* cơ bắp của muôn thú cạnh sự *“bấy yếu”* thể xác nhưng vượt trội về văn minh tinh thần của con người có lửa. Hơn nữa, lời trần thuật ngôi thứ ba trong bản kể cực kì biến hóa: lúc rộn ràng với phép điệp cấu trúc *“Con thì...”* và phép liệt kê dồn dập khắc họa thế giới muôn loài; lúc lắng sâu trăn trở trong chuỗi câu hỏi tu từ nửa trực tiếp (*“Làm thế nào bây giờ?... Con người sẽ sống thế nào...?”*); lúc bừng sáng hào sảng khi ngọn lửa rực cháy khắp thế gian và khép lại bằng ba dòng thơ súc tích ngân vang như một khúc khải hoàn ca.
 
   Hơn ba thiên niên kỉ đã trôi qua kể từ buổi bình minh Hy Lạp cổ đại, song ngọn đuốc mà Prô-mê-tê châm từ cỗ xe Mặt Trời vẫn cháy sáng bất diệt trong tâm thức nhân loại — tương đồng kì diệu với niềm tự hào con người được gạn từ *“chất trong tinh túy”* trong thần thoại *Mười hai Bà Mụ* của dân tộc Việt Nam. Khép lại trang văn, mỗi người trẻ hôm nay càng thấm thía bổn phận đứng thẳng hiên ngang bằng đôi chân mình, không ngừng thắp sáng ngọn lửa tri thức và lòng nhân ái để viết tiếp hành trình văn minh rực rỡ của con người trên mặt đất.
 ]

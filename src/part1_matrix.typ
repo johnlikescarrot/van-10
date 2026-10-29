@@ -2,8 +2,8 @@
 
 #part-banner(
   "PHẦN I",
-  "Giải Phẫu Ma Trận & Bản Đặc Tả Đề Kiểm Tra Giữa Kì I",
-  "Phân tích định lượng cấu trúc 11 câu hỏi • Giải mã 22 chỉ báo đánh giá • Chiến thuật làm chủ 90 phút phòng thi"
+  "Phân Tích Ma Trận & Bản Đặc Tả Đề Kiểm Tra Giữa Kì I",
+  "Cấu trúc định lượng 11 câu hỏi • 22 chỉ báo đánh giá • Chiến thuật phân bổ 90 phút phòng thi"
 )
 
 = 1.1. Tổng quan Mục tiêu & Tinh thần Đổi mới của Đề Kiểm tra Giữa kì I (2026 – 2027)
@@ -52,7 +52,7 @@ Bảng dưới đây tái hiện chính xác Ma trận gốc và thực hiện p
 
 #formula-box(title: "GIẢI MÃ KÍ HIỆU 1* TRONG MA TRẬN & CƠ CẤU ĐIỂM CHUẨN")[
   Trong Ma trận chuẩn của Bộ GD&ĐT, kí hiệu *1\** ở hàng *Viết* cho biết cả ba mức độ *Biết – Hiểu – Vận dụng* không tách thành ba câu rời mà #strong[tích hợp trong duy nhất 01 bài văn nghị luận (Câu 11 — 4,0 điểm)]. Đối chiếu chéo dòng *Tỉ lệ điểm từng loại câu hỏi*, ta xác lập chính xác biểu điểm từng câu như sau:
-  - *Câu 1 → Câu 6 (TNKQ Nhận biết):* 6 câu × 0,5 điểm = *3,0 điểm (30%)* — vùng điểm “ăn chắc 100%” không được phép sai.
+  - *Câu 1 → Câu 6 (TNKQ Nhận biết):* 6 câu × 0,5 điểm = *3,0 điểm (30%)* — phần điểm cơ bản cần đạt trọn vẹn.
   - *Câu 7 → Câu 8 (TNKQ Thông hiểu):* 2 câu × 0,5 điểm = *1,0 điểm (10%)* — phân loại khả năng suy luận ý nghĩa chi tiết, nhân vật, chủ đề.
   - *Câu 9 (Tự luận Đọc hiểu – Thông hiểu):* 1 câu × 1,0 điểm = *1,0 điểm (10%)* — trả lời ngắn 4–6 dòng, chia 2–4 ý chấm từng 0,25đ.
   - *Câu 10 (Tự luận Đọc hiểu – Vận dụng):* 1 câu × 1,0 điểm = *1,0 điểm (10%)* — rút bài học/thông điệp/đánh giá cá nhân trong 5–8 dòng.
@@ -86,13 +86,13 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
 
 *Lưu ý quan trọng:* Bộ 06 Đề thi chuẩn Ma trận tại #strong[Phần VI] của đề cương này đã bao quát trọn vẹn #strong[cả hai phương án A và B] để học sinh làm chủ tuyệt đối mọi kịch bản ra đề!
 
-= 1.4. Ánh xạ 22 Chỉ báo Bản Đặc tả sang Dạng Câu hỏi Thực chiến
+= 1.4. Ánh xạ 22 chỉ báo của Bản đặc tả sang dạng câu hỏi thường gặp
 
 == A. Phần Đọc hiểu Truyện Thần thoại (13 Chỉ báo chuẩn → 10 Câu hỏi)
 
 #study-table(
   (1.15fr, 2.85fr, 2.4fr, 1.1fr),
-  ("Cấp độ & Số câu", "Chỉ báo đánh giá trong Bản đặc tả gốc", "Dạng câu hỏi xuất hiện trên đề thi", "Mẹo ăn điểm"),
+  ("Cấp độ & Số câu", "Chỉ báo đánh giá trong Bản đặc tả gốc", "Dạng câu hỏi xuất hiện trên đề thi", "Mẹo làm bài"),
 
   [#badge-biet\ *6 câu TNKQ*\ *(Câu 1 – 6)*\ *3,0 điểm*],
   [*CB1.* Nhận biết không gian, thời gian trong truyện thần thoại.],
@@ -153,7 +153,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   [• Chiều sâu phân tích – đánh giá tổng hợp, đối sánh mở rộng & bài học nhận thức: *1,50đ*\ • Sáng tạo trong lập luận, giọng điệu, lí luận văn học: *0,50đ*]
 )
 
-= 1.5. Sơ đồ Chiến thuật Phân bổ 90 Phút Vàng trong Phòng thi
+= 1.5. Chiến thuật phân bổ 90 phút trong phòng thi
 
 #block(
   width: 100%,

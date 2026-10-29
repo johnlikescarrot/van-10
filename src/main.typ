@@ -10,3 +10,5 @@
 #include "part6_exams_1_3.typ"
 #include "part7_exams_4_6.typ"
 #include "part8_memory_kit.typ"
+
+#include "part9_appendix.typ"
