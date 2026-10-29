@@ -6,16 +6,16 @@
   "Phân tích định lượng cấu trúc 11 câu hỏi • Giải mã 22 chỉ báo đánh giá • Chiến thuật làm chủ 90 phút phòng thi"
 )
 
-= 1.1. Tổng quan Mục tiêu & Tinh thần Đổi mới của Đề Kiểm tra Giữa kì I (2026 – 2027)
+= 1.1. Mục tiêu và tinh thần đổi mới của đề kiểm tra giữa kì I (2026 – 2027)
 
-Theo văn bản chính thức *Ma trận, Bản đặc tả đề kiểm tra Giữa kì I lớp 10 năm học 2026 – 2027 (thời gian 90 phút)*, đề kiểm tra được thiết kế nghiêm ngặt theo định hướng đánh giá năng lực của Chương trình Giáo dục phổ thông 2018 (Công văn 3175/BGDĐT-GDTrH về đổi mới dạy học và kiểm tra, đánh giá môn Ngữ văn) và bám sát trục kĩ năng trọng tâm nửa đầu Học kì I của bộ sách *Kết nối tri thức với cuộc sống* (*Bài 1: Sức hấp dẫn của truyện kể*).
+Theo văn bản chính thức *Ma trận, Bản đặc tả đề kiểm tra Giữa kì I lớp 10 năm học 2026 – 2027 (thời gian 90 phút)*, đề kiểm tra đi theo định hướng đánh giá năng lực của Chương trình Giáo dục phổ thông 2018. Việc dùng ngữ liệu ngoài SGK cho cả Đọc hiểu và Viết phù hợp với Công văn 3175/BGDĐT-GDTrH ngày 21/7/2022 của Bộ GDĐT (hướng dẫn đổi mới phương pháp dạy học và kiểm tra, đánh giá môn Ngữ văn), trong đó có yêu cầu tránh dùng lại văn bản đã học trong SGK làm ngữ liệu đọc hiểu và viết ở bài kiểm tra cuối học kì. Đề cũng bám nửa đầu Học kì I của bộ sách *Kết nối tri thức với cuộc sống* (*Bài 1: Sức hấp dẫn của truyện kể*).
 
-Điểm cốt lõi quyết định phương pháp ôn tập nằm ở quy tắc #strong[“100% ngữ liệu ngoài sách giáo khoa”]:
-- *Về năng lực Đọc hiểu (60% tổng điểm):* Học sinh không học thuộc lòng văn bản có sẵn trong SGK mà phải vận dụng thành thạo hệ thống tri thức thể loại #strong[truyện thần thoại] (không gian, thời gian, cốt truyện, sự kiện, nhân vật, chi tiết kì ảo, ngôi kể, lời trần thuật, đề tài, chủ đề, bối cảnh lịch sử – văn hoá) để giải mã một văn bản thần thoại hoàn toàn mới ngoài SGK.
+Điểm quyết định cách ôn tập là #strong[ngữ liệu ngoài sách giáo khoa] ở cả phần Đọc hiểu và phần Viết:
+- *Về năng lực Đọc hiểu (60% tổng điểm):* Học sinh không học thuộc lòng văn bản có sẵn trong SGK mà phải vận dụng hệ thống tri thức thể loại #strong[truyện thần thoại] (không gian, thời gian, cốt truyện, sự kiện, nhân vật, chi tiết kì ảo, ngôi kể, lời trần thuật, đề tài, chủ đề, bối cảnh lịch sử – văn hoá) để giải mã một văn bản thần thoại hoàn toàn mới ngoài SGK.
 - *Về năng lực Viết (40% tổng điểm):* Học sinh viết một #strong[bài văn nghị luận phân tích, đánh giá một tác phẩm truyện thần thoại (ngoài SGK)] trên hai trục trọng tâm: *chủ đề* và *những nét đặc sắc về hình thức nghệ thuật*, đồng thời thể hiện quan điểm cá nhân, năng lực liên hệ và sự sáng tạo trong diễn đạt.
-- *Về phẩm chất:* Hình thành thái độ sống tích cực, lành mạnh, giàu lòng biết ơn tiền nhân, trân trọng thiên nhiên – văn hoá dân tộc và nuôi dưỡng đời sống tâm hồn phong phú.
+- *Về phẩm chất:* Hình thành thái độ sống tích cực, lành mạnh, giàu lòng biết ơn tiền nhân, trân trọng thiên nhiên – văn hoá dân tộc và nuôi dưỡng đời sống tâm hồn.
 
-= 1.2. Giải mã Định lượng Ma trận Đề thi đến từng 0,25 điểm
+= 1.2. Giải mã định lượng ma trận đến từng 0,25 điểm
 
 Bảng dưới đây tái hiện chính xác Ma trận gốc và thực hiện phép quy đổi toán học từ tỉ lệ phần trăm sang điểm số cụ thể trên thang điểm 10,0 để học sinh nhìn rõ giá trị từng câu hỏi:
 
@@ -51,15 +51,15 @@ Bảng dưới đây tái hiện chính xác Ma trận gốc và thực hiện p
 )
 
 #formula-box(title: "GIẢI MÃ KÍ HIỆU 1* TRONG MA TRẬN & CƠ CẤU ĐIỂM CHUẨN")[
-  Trong Ma trận chuẩn của Bộ GD&ĐT, kí hiệu *1\** ở hàng *Viết* cho biết cả ba mức độ *Biết – Hiểu – Vận dụng* không tách thành ba câu rời mà #strong[tích hợp trong duy nhất 01 bài văn nghị luận (Câu 11 — 4,0 điểm)]. Đối chiếu chéo dòng *Tỉ lệ điểm từng loại câu hỏi*, ta xác lập chính xác biểu điểm từng câu như sau:
-  - *Câu 1 → Câu 6 (TNKQ Nhận biết):* 6 câu × 0,5 điểm = *3,0 điểm (30%)* — vùng điểm “ăn chắc 100%” không được phép sai.
-  - *Câu 7 → Câu 8 (TNKQ Thông hiểu):* 2 câu × 0,5 điểm = *1,0 điểm (10%)* — phân loại khả năng suy luận ý nghĩa chi tiết, nhân vật, chủ đề.
-  - *Câu 9 (Tự luận Đọc hiểu – Thông hiểu):* 1 câu × 1,0 điểm = *1,0 điểm (10%)* — trả lời ngắn 4–6 dòng, chia 2–4 ý chấm từng 0,25đ.
-  - *Câu 10 (Tự luận Đọc hiểu – Vận dụng):* 1 câu × 1,0 điểm = *1,0 điểm (10%)* — rút bài học/thông điệp/đánh giá cá nhân trong 5–8 dòng.
+  Trong Ma trận chuẩn của Bộ GD&ĐT, kí hiệu *1\** ở hàng *Viết* cho biết cả ba mức độ *Biết – Hiểu – Vận dụng* không tách thành ba câu rời mà #strong[tích hợp trong duy nhất 01 bài văn nghị luận (Câu 11, 4,0 điểm)]. Đối chiếu chéo dòng *Tỉ lệ điểm từng loại câu hỏi*, ta xác lập chính xác biểu điểm từng câu như sau:
+  - *Câu 1 → Câu 6 (TNKQ Nhận biết):* 6 câu × 0,5 điểm = *3,0 điểm (30%)*, phần nền tảng của đề, nên hạn chế tối đa việc mất điểm ở đây.
+  - *Câu 7 → Câu 8 (TNKQ Thông hiểu):* 2 câu × 0,5 điểm = *1,0 điểm (10%)*, phân loại khả năng suy luận ý nghĩa chi tiết, nhân vật, chủ đề.
+  - *Câu 9 (Tự luận Đọc hiểu – Thông hiểu):* 1 câu × 1,0 điểm = *1,0 điểm (10%)*, trả lời ngắn 4–6 dòng, chia 2–4 ý chấm từng 0,25đ.
+  - *Câu 10 (Tự luận Đọc hiểu – Vận dụng):* 1 câu × 1,0 điểm = *1,0 điểm (10%)*, rút bài học/thông điệp/đánh giá cá nhân trong 5–8 dòng.
   - *Câu 11 / Phần II. Viết (Bài văn nghị luận – 4,0 điểm):* Tích hợp phần *Biết* (1,0đ: đảm bảo bố cục, giới thiệu tác phẩm, thể loại, tóm tắt khái quát) + phần *Hiểu* (1,0đ: triển khai luận điểm phân tích nội dung – chủ đề – nghệ thuật có lí lẽ, dẫn chứng, chuẩn chính tả) + phần *Vận dụng* (2,0đ: đánh giá giá trị, bài học nhận thức, quan điểm cá nhân và sáng tạo diễn đạt).
 ]
 
-= 1.3. Hai Phương án Cấu trúc Ngữ liệu Thực tế trong Phòng thi
+= 1.3. Hai phương án cấu trúc ngữ liệu trong phòng thi
 
 Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: Nghị luận phân tích, đánh giá tác phẩm thần thoại ngoài SGK*), các trường THPT khi ra đề chính thức luôn sử dụng một trong #strong[hai phương án cấu trúc ngữ liệu]:
 
@@ -84,11 +84,11 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   ]
 )
 
-*Lưu ý quan trọng:* Bộ 06 Đề thi chuẩn Ma trận tại #strong[Phần VI] của đề cương này đã bao quát trọn vẹn #strong[cả hai phương án A và B] để học sinh làm chủ tuyệt đối mọi kịch bản ra đề!
+*Lưu ý quan trọng:* Bộ 06 Đề thi chuẩn Ma trận tại #strong[Phần VI] của đề cương này đã bao quát trọn vẹn #strong[cả hai phương án A và B] để học sinh làm quen với cả hai kịch bản ra đề.
 
-= 1.4. Ánh xạ 22 Chỉ báo Bản Đặc tả sang Dạng Câu hỏi Thực chiến
+= 1.4. Ánh xạ 22 chỉ báo của bản đặc tả sang dạng câu hỏi
 
-== A. Phần Đọc hiểu Truyện Thần thoại (13 Chỉ báo chuẩn → 10 Câu hỏi)
+== A. Phần Đọc hiểu truyện thần thoại (13 chỉ báo → 10 câu hỏi)
 
 #study-table(
   (1.15fr, 2.85fr, 2.4fr, 1.1fr),
@@ -105,7 +105,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   [Cốt truyện thần thoại luôn *đơn giản, đơn tuyến*, xoay quanh kì tích sáng tạo của thần.],
 
   [#badge-biet],
-  [*CB3.* Nhận biết đề tài, các chi tiết tiêu biểu, đặc trưng của truyện thần thoại (kèm ngôi kể, PTBĐ, từ Hán Việt, tu từ).],
+  [*CB3.* Nhận biết đề tài, các chi tiết tiêu biểu, đặc trưng của truyện thần thoại (đề cương bổ sung ngôi kể, PTBĐ, từ Hán Việt, tu từ; đây là suy luận từ phần Thực hành tiếng Việt, chưa có trong bản đặc tả).],
   [• Văn bản thuộc nhóm thần thoại nào (*suy nguyên / sáng tạo*)?\ • Xác định ngôi kể / phương thức biểu đạt chính / từ Hán Việt / phép tu từ.],
   [Ngôi thứ ba, PTBĐ chính *tự sự*; phân biệt rõ *suy nguyên* (nguồn gốc) và *sáng tạo* (văn hoá).],
 
@@ -135,7 +135,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   [Viết thành *1 đoạn văn hoàn chỉnh 5–8 dòng*; có nêu rõ thông điệp + lí giải sâu + hành động bản thân.]
 )
 
-== B. Phần Viết Bài văn Nghị luận Văn học (9 Chỉ báo chuẩn → Câu 11: 4,0 điểm)
+== B. Phần Viết bài văn nghị luận văn học (9 chỉ báo → Câu 11: 4,0 điểm)
 
 #study-table(
   (1.2fr, 3.6fr, 2.2fr),
@@ -153,7 +153,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   [• Chiều sâu phân tích – đánh giá tổng hợp, đối sánh mở rộng & bài học nhận thức: *1,50đ*\ • Sáng tạo trong lập luận, giọng điệu, lí luận văn học: *0,50đ*]
 )
 
-= 1.5. Sơ đồ Chiến thuật Phân bổ 90 Phút Vàng trong Phòng thi
+= 1.5. Sơ đồ phân bổ 90 phút trong phòng thi
 
 #block(
   width: 100%,
@@ -164,7 +164,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   breakable: false,
 )[
   #align(center)[
-    #text(weight: "bold", size: 9.6pt, fill: c-navy)[ĐỒNG HỒ CHIẾN THUẬT 90 PHÚT — KHÔNG BAO GIỜ CHÁY GIỜ HOẶC BỎ TRỐNG KẾT BÀI]
+    #text(weight: "bold", size: 9.6pt, fill: c-navy)[PHÂN BỔ THỜI GIAN 90 PHÚT: ĐỪNG BỎ TRỐNG PHẦN KẾT BÀI]
   ]
   #v(7pt)
   #grid(
@@ -178,12 +178,12 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
     block(fill: rgb("#FFFAEB"), stroke: 0.8pt + rgb("#FDB022"), radius: 4pt, inset: 7pt, width: 100%)[
       #text(size: 8pt, weight: "bold", fill: rgb("#B54708"))[CHẶNG 2: PHÚT 11 – 25]\
       #text(size: 8.8pt, weight: "bold", fill: c-navy)[Giải quyết Câu 9 & 10]\
-      #text(size: 7.8pt, fill: c-slate)[7 phút viết Câu 9 (4 bước) + 8 phút viết đoạn Câu 10 (2,0đ).]
+      #text(size: 7.8pt, fill: c-slate)[7 phút viết Câu 9 (4 bước) + 8 phút viết đoạn Câu 10 (hai câu cộng lại 2,0đ).]
     ],
     block(fill: rgb("#F4F3FF"), stroke: 0.8pt + rgb("#9B8AFB"), radius: 4pt, inset: 7pt, width: 100%)[
       #text(size: 8pt, weight: "bold", fill: c-purple)[CHẶNG 3: PHÚT 26 – 85 (60 PHÚT TRỌNG TÂM)]\
       #text(size: 8.8pt, weight: "bold", fill: c-navy)[Viết Bài văn Nghị luận Câu 11 (4,0đ)]\
-      #text(size: 7.8pt, fill: c-slate)[• Phút 26–32 (6p): Lập dàn ý nháp 5 tầng.\ • Phút 33–40 (8p): Viết Mở bài dẫn dắt + nêu luận đề.\ • Phút 41–78 (38p): Viết Thân bài (Tóm tắt → Chủ đề → 4 luận điểm Nghệ thuật → Đánh giá & đối sánh).\ • Phút 79–85 (7p): Viết Kết bài khẳng định sức sống + liên hệ bản thân.]
+      #text(size: 7.8pt, fill: c-slate)[• Phút 26–32 (7p): Lập dàn ý nháp 5 tầng.\ • Phút 33–40 (8p): Viết Mở bài dẫn dắt + nêu luận đề.\ • Phút 41–78 (38p): Viết Thân bài (Tóm tắt → Chủ đề → 4 luận điểm Nghệ thuật → Đánh giá & đối sánh).\ • Phút 79–85 (7p): Viết Kết bài khẳng định sức sống + liên hệ bản thân.]
     ],
     block(fill: rgb("#ECFDF3"), stroke: 0.8pt + rgb("#6CE9A6"), radius: 4pt, inset: 7pt, width: 100%)[
       #text(size: 8pt, weight: "bold", fill: c-jade)[PHÚT 86 – 90]\

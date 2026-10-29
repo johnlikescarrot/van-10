@@ -6,18 +6,18 @@
   "Chuyên đề Từ Hán Việt (Bài 1 KNTT) • Phương thức biểu đạt • 6 Biện pháp tu từ Thần thoại • Chuẩn Mạch lạc & Liên kết"
 )
 
-= 3.1. Chuyên đề Trọng tâm: Sử dụng Từ Hán Việt (SGK Ngữ văn 10 KNTT, tr. 28 – 29)
+= 3.1. Chuyên đề trọng tâm: sử dụng từ Hán Việt (SGK Ngữ văn 10 KNTT, tr. 28 – 29)
 
 Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*, kiến thức #strong[Từ Hán Việt] xuất hiện trực tiếp ở: *(1) 1–2 câu hỏi trắc nghiệm Đọc hiểu (tìm từ Hán Việt, giải nghĩa từ Hán Việt trong ngữ cảnh thần thoại như “hạ giới”, “thiên đình”, “thủy phủ”, “sơ khởi”, “tu bổ”, “sinh linh”... hoặc nhận diện lỗi dùng từ); (2) Tiêu chí chuẩn dùng từ và sắc thái trang trọng của bài văn Nghị luận 4,0 điểm*.
 
-== A. Cấu tạo Yếu tố Hán Việt & Từ ghép Hán Việt
+== A. Cấu tạo yếu tố Hán Việt và từ ghép Hán Việt
 
 - #strong[Yếu tố Hán Việt:] Là các tiếng gốc Hán đọc theo âm Hán Việt dùng để cấu tạo từ. Đa số yếu tố Hán Việt *không dùng độc lập* như từ đơn (*sơn, thủy, thiên, địa, nhân, sĩ, quốc, gia...*), một số ít có thể dùng độc lập (*hoa, quả, bút, tâm, đức, tài, phúc...*).
-- #strong[Hiện tượng đồng âm khác nghĩa (Cực kì quan trọng khi giải nghĩa từ):] Cùng một âm đọc nhưng mang gốc nghĩa hoàn toàn khác nhau:
+- #strong[Hiện tượng đồng âm khác nghĩa (Quan trọng khi giải nghĩa từ):] Cùng một âm đọc nhưng mang gốc nghĩa hoàn toàn khác nhau:
   - *Thiên:* (1) Trời (*thiên đình, thiên thần, thiên hạ*); (2) Nghìn (*thiên niên kỉ, thiên lí mã*); (3) Dời chuyển (*thiên đô, biến thiên*); (4) Lệch, nghiêng (*thiên vị, thiên kiến*).
   - *Nhân:* (1) Người (*nhân gian, nhân loại, vĩ nhân*); (2) Lòng thương người (*nhân đạo, nhân ái, nhân từ*); (3) Hạt, lõi bên trong (*nhân quả, nguyên nhân*).
   - *Hàn:* (1) Lạnh, nghèo khổ (*bần hàn, hàn sĩ, hàn vi, hàn ôn*); (2) Lông chim, bút văn chương (*hàn lâm*).
-  - *Yếu:* (1) Quan trọng, then chốt (*yếu điểm, trọng yếu, thiết yếu, yếu nhân*); *(Lưu ý: “yếu” trong Hán Việt KHÔNG có nghĩa là yếu ớt — từ “yếu ớt” là từ thuần Việt!)*.
+  - *Yếu:* (1) Quan trọng, then chốt (*yếu điểm, trọng yếu, thiết yếu, yếu nhân*); *(Lưu ý: “yếu” trong Hán Việt KHÔNG có nghĩa là yếu ớt, từ “yếu ớt” là từ thuần Việt!)*.
 
 #study-table(
   (1.6fr, 2.7fr, 2.7fr),
@@ -36,16 +36,16 @@ Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*,
   [*hiếu sinh* (quý trọng sự sống), *liên tài* (quý trọng người tài), *trị thủy* (chế ngự nước lũ), *khai thiên lập địa* (mở trời dựng đất), *hóa thân*.]
 )
 
-== B. Ba Giá trị Biểu đạt của Từ Hán Việt trong Văn học
+== B. Ba giá trị biểu đạt của từ Hán Việt trong văn học
 
 Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ Hán Việt trong đoạn văn”*, học sinh trả lời theo #strong[3 giá trị chuẩn]:
 1. #strong[Tạo sắc thái trang trọng, tôn nghiêm, thiêng liêng:] Phù hợp khi miêu tả thế giới thần linh, cõi trời (*Ngọc Hoàng, Thiên đình, Thủy phủ, chiếu chỉ, phán truyền, sinh linh, hạ giới*).
 2. #strong[Gợi không khí cổ xưa, cổ kính, truyền thống:] Phù hợp với bối cảnh lịch sử – huyền thoại xa xưa (như trong *Thần thoại*, *Tản Viên từ Phán sự lục* hay vẻ đẹp *“vang bóng một thời”* trong *Chữ người tử tù*: *nhất sinh, tứ bình, trung đường, biệt nhỡn liên tài, thiên lương*).
 3. #strong[Biểu đạt khái quát, hàm súc, tao nhã (tránh thô tục):] Thay thế một cụm từ thuần Việt dài dòng bằng một từ cô đọng (VD: *sinh thực khí*, *tạ thế*, *hiếu sinh*).
 
-== C. Khẩu quyết 4 Lỗi Dùng Từ Hán Việt & Bảng 20 Cặp Từ Dễ Sai Nhất
+== C. Cách nhớ 4 lỗi dùng từ Hán Việt và bảng 20 cặp từ dễ sai
 
-#mnemonic-box(title: "KHẨU QUYẾT 4 LỖI DÙNG TỪ HÁN VIỆT: “ÂM NHẦM — NGHĨA LỆCH — CẢNH SAI — THỪA LẶP”")[
+#mnemonic-box(title: "KHẨU QUYẾT 4 LỖI DÙNG TỪ HÁN VIỆT: “ÂM NHẦM, NGHĨA LỆCH, CẢNH SAI, THỪA LẶP”")[
   1. #strong[ÂM NHẦM (Nhầm lẫn vỏ ngữ âm gần giống):] VD SGK: *“Đọc sách giúp tích lũy nhiều #strong[trí thức] bổ ích”* → Sai (*trí thức* chỉ tầng lớp người lao động trí óc) → Sửa thành #strong[tri thức] (hiểu biết, kiến thức).
   2. #strong[NGHĨA LỆCH (Hiểu sai nghĩa gốc của yếu tố Hán Việt):] VD SGK: *“Nước đến chân mới nhảy là một #strong[yếu điểm] của học sinh”* → Sai (*yếu điểm* = điểm trọng yếu, quan trọng nhất) → Sửa thành #strong[điểm yếu / khuyết điểm / nhược điểm].
   3. #strong[CẢNH SAI (Không hợp ngữ cảnh và sắc thái biểu cảm):] VD SGK: *“Tại phiên tòa cõi âm, Tử Văn thể hiện sự cứng cỏi, ngang tàng của #strong[hàn sĩ]”* → Sai (*hàn sĩ* nhấn mạnh cảnh nghèo túng, không ăn nhập với khí phách ngang tàng) → Sửa thành #strong[kẻ sĩ / nho sĩ]. Hoặc nói *“Nữ hoàng đang xem ti vi cùng #strong[phu nhân] thủ tướng”* (dùng *phu nhân* tự xưng như *“phu nhân của tôi”* là sai nghi thức giao tiếp vì *phu nhân* chỉ dùng tôn xưng vợ người khác!).
@@ -67,7 +67,7 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [*Sáng kiến* vs. *Sáng chế*], [*Sáng kiến* = ý kiến mới cải tiến công việc.\ *Sáng chế* = tạo ra vật phẩm kĩ thuật mới.], [Đưa ra *sáng kiến* bảo tồn di sản văn hoá dân gian.]
 )
 
-== D. Từ điển Bỏ túi 24 Từ Hán Việt Cốt lõi Hay Gặp Trong Ngữ liệu Thần thoại
+== D. Từ điển bỏ túi: 24 từ Hán Việt hay gặp trong ngữ liệu thần thoại
 
 #study-table(
   (1.3fr, 2.2fr, 1.3fr, 2.2fr),
@@ -84,19 +84,19 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [*Hữu linh / Siêu nhiên*], [Có linh hồn / vượt lên trên quy luật tự nhiên thường.], [*Biệt nhỡn liên tài*], [Cái nhìn trân trọng đặc biệt và lòng thương quý người tài.]
 )
 
-= 3.2. Phương thức Biểu đạt & 6 Biện pháp Tu từ Đặc trưng của Thần thoại
+= 3.2. Phương thức biểu đạt và 6 biện pháp tu từ đặc trưng của thần thoại
 
-== A. Quy tắc Vàng Xác định Phương thức Biểu đạt (Tránh Bẫy Câu TNKQ số 1–2)
+== A. Cách xác định phương thức biểu đạt (tránh bẫy ở Câu TNKQ 1 – 2)
 - Nếu đề hỏi #strong[“Phương thức biểu đạt CHÍNH của văn bản”] (chỉ 1 phương thức): Với mọi truyện thần thoại, đáp án LUÔN LUÔN là #strong[Tự sự] (kể lại chuỗi sự việc, nhân vật).
 - Nếu đề hỏi #strong[“Các phương thức biểu đạt được sử dụng trong văn bản”] (từ 2 phương thức trở lên): Thường là #strong[Tự sự kết hợp miêu tả (và biểu cảm)].
 
-== B. Công thức 3 Tầng Phân tích Tác dụng Biện pháp Tu từ (Ăn trọn 1,0/1,0 điểm Tự luận)
+== B. Công thức 3 tầng phân tích tác dụng của biện pháp tu từ (Câu 9, 1,0 điểm)
 
 #formula-box(title: "CÔNG THỨC 3 TẦNG NÊU TÁC DỤNG BIỆN PHÁP TU TỪ TRONG ĐỌC HIỂU")[
   Khi gặp câu hỏi: *“Chỉ ra và nêu tác dụng của biện pháp tu từ trong câu văn [...]”*, bắt buộc trả lời đủ #strong[3 dấu cộng] để không bị trừ bất kì 0,25 điểm nào:
-  1. #strong[Tầng 1 — Gọi tên & Chỉ rõ từ ngữ biểu hiện (0,25đ):] Nêu chính xác tên biện pháp tu từ + trích dẫn đúng cụm từ chứa biện pháp đó trong ngoặc kép.
-  2. #strong[Tầng 2 — Tác dụng về Nội dung / Nhận thức (0,50đ):] Nhấn mạnh hình ảnh vị thần / hiện tượng tự nhiên hiện lên kì vĩ, sống động như thế nào; qua đó thể hiện quan niệm, trí tưởng tượng phong phú hoặc khát vọng gì của người cổ đại.
-  3. #strong[Tầng 3 — Tác dụng về Hình thức Nghệ thuật (0,25đ):] Làm cho lời văn giàu hình ảnh, giàu nhịp điệu, tăng sức gợi hình gợi cảm, tạo màu sắc hoang đường kì ảo hấp dẫn cho truyện thần thoại.
+  1. #strong[Tầng 1. Gọi tên & Chỉ rõ từ ngữ biểu hiện (0,25đ):] Nêu chính xác tên biện pháp tu từ + trích dẫn đúng cụm từ chứa biện pháp đó trong ngoặc kép.
+  2. #strong[Tầng 2. Tác dụng về Nội dung / Nhận thức (0,50đ):] Nhấn mạnh hình ảnh vị thần / hiện tượng tự nhiên hiện lên kì vĩ, sống động như thế nào; qua đó thể hiện quan niệm, trí tưởng tượng phong phú hoặc khát vọng gì của người cổ đại.
+  3. #strong[Tầng 3. Tác dụng về Hình thức Nghệ thuật (0,25đ):] Làm cho lời văn giàu hình ảnh, giàu nhịp điệu, tăng sức gợi hình gợi cảm, tạo màu sắc hoang đường kì ảo hấp dẫn cho truyện thần thoại.
 ]
 
 #study-table(
@@ -128,9 +128,9 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [Làm bật nổi xung đột nhận thức, tôn vinh vẻ đẹp trí tuệ và tầm vóc nhân văn của nhân vật trung tâm.]
 )
 
-= 3.3. Chuẩn mực Mạch lạc & Liên kết Đoạn văn – Văn bản (Tích hợp Bài 2 & Bài 3 KNTT)
+= 3.3. Mạch lạc và liên kết trong đoạn văn, văn bản (tích hợp Bài 2 và Bài 3 KNTT)
 
 Để đạt trọn điểm diễn đạt ở Câu 9, Câu 10 và Câu 11, học sinh cần kiểm soát chặt 3 yêu cầu Tiếng Việt cốt lõi:
-- #strong[Mạch lạc (Coherence — Sợi chỉ đỏ tư tưởng):] Toàn bộ các câu trong đoạn phải cùng phục vụ *một chủ đề thống nhất*, sắp xếp theo trình tự hợp lí (từ khái quát đến cụ thể; từ nghệ thuật đến nội dung hoặc ngược lại).
-- #strong[Liên kết hình thức (Cohesion — Chất keo nối câu):] Chủ động sử dụng các phép liên kết câu và liên kết đoạn: *phép nối* (*Trước hết, Bên cạnh đó, Không dừng lại ở đó, Hơn thế nữa, Tóm lại...*), *phép thế* (*vị thần ấy, tác giả dân gian, kiệt tác cổ sơ này...*), *phép lặp từ khóa có chủ đích*.
+- #strong[Mạch lạc (Coherence, Sợi chỉ đỏ tư tưởng):] Toàn bộ các câu trong đoạn phải cùng phục vụ *một chủ đề thống nhất*, sắp xếp theo trình tự hợp lí (từ khái quát đến cụ thể; từ nghệ thuật đến nội dung hoặc ngược lại).
+- #strong[Liên kết hình thức (Cohesion, Chất keo nối câu):] Chủ động sử dụng các phép liên kết câu và liên kết đoạn: *phép nối* (*Trước hết, Bên cạnh đó, Không dừng lại ở đó, Hơn thế nữa, Tóm lại...*), *phép thế* (*vị thần ấy, tác giả dân gian, tác phẩm cổ sơ này...*), *phép lặp từ khóa có chủ đích*.
 - #strong[Tránh lỗi trật tự từ mơ hồ:] Đặt cụm từ bổ nghĩa sát ngay danh từ/động từ mà nó bổ nghĩa để câu văn nghị luận sáng rõ, đanh thép.
