@@ -2,135 +2,194 @@
 
 #part-banner(
   "PHẦN III",
-  "Tiếng Việt & Công Cụ Ngôn Ngữ Trong Đọc Hiểu – Viết",
-  "Chuyên đề Từ Hán Việt (Bài 1 KNTT) • Phương thức biểu đạt • 6 Biện pháp tu từ Thần thoại • Chuẩn Mạch lạc & Liên kết"
+  "Thực hành tiếng Việt toàn diện nửa đầu Học kì I (Bài 1, Bài 2, Bài 3 SGK KNTT)",
+  "Từ Hán Việt (tr. 28–29) • Biện pháp tu từ • Lỗi dùng từ & trật tự từ (tr. 64–65) • Lỗi mạch lạc & liên kết (tr. 87–89)"
 )
 
-= 3.1. Chuyên đề Trọng tâm: Sử dụng Từ Hán Việt (SGK Ngữ văn 10 KNTT, tr. 28 – 29)
+Trong đề kiểm tra giữa kì I theo ma trận mới, kiến thức tiếng Việt không tách thành câu hỏi lí thuyết rời rạc mà tích hợp trực tiếp vào #strong[hai khâu chấm điểm thực chiến]: (1) nhận diện từ ngữ, biện pháp tu từ trong phần Đọc hiểu và (2) tiêu chí *“Đảm bảo chuẩn chính tả, ngữ pháp, dùng từ và liên kết văn bản”* (chỉ báo CB18) ở đoạn văn Câu 10 cùng bài nghị luận Câu 11. Phần III bao quát trọn vẹn ba bài Thực hành tiếng Việt từ Bài 1 đến Bài 3 của SGK *Ngữ văn 10 Kết nối tri thức, Tập một*.
 
-Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*, kiến thức #strong[Từ Hán Việt] xuất hiện trực tiếp ở: *(1) 1–2 câu hỏi trắc nghiệm Đọc hiểu (tìm từ Hán Việt, giải nghĩa từ Hán Việt trong ngữ cảnh thần thoại như “hạ giới”, “thiên đình”, “thủy phủ”, “sơ khởi”, “tu bổ”, “sinh linh”... hoặc nhận diện lỗi dùng từ); (2) Tiêu chí chuẩn dùng từ và sắc thái trang trọng của bài văn Nghị luận 4,0 điểm*.
+= 3.1. Sử dụng từ Hán Việt (Bài 1 SGK KNTT, tr. 28–29)
 
-== A. Cấu tạo Yếu tố Hán Việt & Từ ghép Hán Việt
+== A. Nhận diện yếu tố Hán Việt đồng âm và ba sắc thái biểu cảm cốt lõi
 
-- #strong[Yếu tố Hán Việt:] Là các tiếng gốc Hán đọc theo âm Hán Việt dùng để cấu tạo từ. Đa số yếu tố Hán Việt *không dùng độc lập* như từ đơn (*sơn, thủy, thiên, địa, nhân, sĩ, quốc, gia...*), một số ít có thể dùng độc lập (*hoa, quả, bút, tâm, đức, tài, phúc...*).
-- #strong[Hiện tượng đồng âm khác nghĩa (Cực kì quan trọng khi giải nghĩa từ):] Cùng một âm đọc nhưng mang gốc nghĩa hoàn toàn khác nhau:
-  - *Thiên:* (1) Trời (*thiên đình, thiên thần, thiên hạ*); (2) Nghìn (*thiên niên kỉ, thiên lí mã*); (3) Dời chuyển (*thiên đô, biến thiên*); (4) Lệch, nghiêng (*thiên vị, thiên kiến*).
-  - *Nhân:* (1) Người (*nhân gian, nhân loại, vĩ nhân*); (2) Lòng thương người (*nhân đạo, nhân ái, nhân từ*); (3) Hạt, lõi bên trong (*nhân quả, nguyên nhân*).
-  - *Hàn:* (1) Lạnh, nghèo khổ (*bần hàn, hàn sĩ, hàn vi, hàn ôn*); (2) Lông chim, bút văn chương (*hàn lâm*).
-  - *Yếu:* (1) Quan trọng, then chốt (*yếu điểm, trọng yếu, thiết yếu, yếu nhân*); *(Lưu ý: “yếu” trong Hán Việt KHÔNG có nghĩa là yếu ớt — từ “yếu ớt” là từ thuần Việt!)*.
+*1. Cách giải nghĩa từ Hán Việt qua yếu tố cấu tạo:* Từ Hán Việt chiếm tỉ lệ lớn trong vốn từ tiếng Việt, đặc biệt ở lớp từ trừu tượng, văn hoá và nghị luận. Khi gặp một từ Hán Việt phức tạp, học sinh tách từng tiếng (yếu tố Hán Việt) và đối chiếu với những từ quen thuộc có cùng yếu tố đó, đồng thời chú ý hiện tượng #strong[yếu tố Hán Việt đồng âm nhưng khác nghĩa]:
+- *Thiên:* (1) trời (*thiên đình, thiên tạo, khai thiên lập địa*); (2) nghìn (*thiên niên kỉ, thiên lí mã*); (3) dời chuyển (*thiên đô, biến thiên*); (4) nghiêng lệch (*thiên vị, thiên kiến*).
+- *Nhân:* (1) người (*nhân loại, nhân gian, vĩ nhân*); (2) lòng thương người (*nhân ái, nhân đạo, nhân từ*); (3) nguyên cớ (*nguyên nhân, nhân quả*); (4) lõi hạt (*nhân sâm, hạnh nhân*).
+- *Kì:* (1) lạ lùng, khác thường (*kì ảo, kì vĩ, thần kì, truyền kì*); (2) lá cờ (*quốc kì, tinh kì*); (3) thời hạn (*chu kì, định kì*).
 
-#study-table(
-  (1.6fr, 2.7fr, 2.7fr),
-  ("Loại từ ghép Hán Việt", "Quy tắc cấu tạo trật tự yếu tố", "Ví dụ chuẩn trong văn bản Bài 1 & Thần thoại"),
+*2. Ba sắc thái biểu cảm cốt lõi của từ Hán Việt (phân tích tác dụng trong Đọc hiểu & Viết):*
+- #strong[Sắc thái trang trọng, tôn kính, thiêng liêng:] Phù hợp khi miêu tả cõi thần linh, nghi lễ hoặc phẩm cách cao đẹp (*Thiên đình, Ngọc Hoàng, thượng giới, vĩnh hằng, thiên lương* trong *Chữ người tử tù*...).
+- #strong[Sắc thái cổ kính, gợi không khí lịch sử – truyền thống:] Tạo khoảng cách thẩm mĩ đưa người đọc trở về không gian xưa (*thuở hồng hoang, sơ khai, hạ giới, Minh ti, đề lao, phán sự* trong *Tản Viên từ Phán sự lục*...).
+- #strong[Sắc thái khái quát, trừu tượng, hàm súc hoặc tao nhã:] Giúp diễn đạt gọn gàng các khái niệm lí luận văn học (*thần thoại suy nguyên, thế giới quan, nhân sinh quan*) hoặc nói giảm nhẹ nhàng, tránh gây cảm giác thô tục, ghê sợ (*tử tù, mai táng, từ trần*).
 
-  [*1. Từ ghép đẳng lập*],
-  [Các yếu tố bình đẳng về ngữ pháp, cùng từ loại, nghĩa ngang hàng bổ sung nhau tạo nghĩa khái quát.],
-  [*giang sơn* (sông + núi), *hoài bão*, *tung hoành*, *quyền thế*, *nhật nguyệt* (mặt trời + mặt trăng), *sinh tử*, *cương trực*, *khoan dung*.],
+== B. Bốn lỗi dùng từ Hán Việt thường gặp và 12 cặp từ dễ nhầm nhất
 
-  [*2. Chính phụ (Phụ + Chính)*\ *(Ngược trật tự thuần Việt)*],
-  [Yếu tố phụ đứng *trước* bổ nghĩa cho yếu tố chính đứng *sau* (khác hẳn thuần Việt: *ngựa trắng* ↔ Hán Việt: *bạch mã*).],
-  [*hàn sĩ* (học trò nghèo), *tiên triều* (triều đại trước), *thiên thần* (thần nhà trời), *thủy phủ* (phủ dưới nước), *cổ đại*, *độc giả*, *khán giả*.],
-
-  [*3. Chính phụ (Chính + Phụ)*\ *(Thuận trật tự động – tân)*],
-  [Yếu tố chính (thường chỉ hành động/tính chất) đứng *trước*, yếu tố phụ (đối tượng) đứng *sau*.],
-  [*hiếu sinh* (quý trọng sự sống), *liên tài* (quý trọng người tài), *trị thủy* (chế ngự nước lũ), *khai thiên lập địa* (mở trời dựng đất), *hóa thân*.]
-)
-
-== B. Ba Giá trị Biểu đạt của Từ Hán Việt trong Văn học
-
-Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ Hán Việt trong đoạn văn”*, học sinh trả lời theo #strong[3 giá trị chuẩn]:
-1. #strong[Tạo sắc thái trang trọng, tôn nghiêm, thiêng liêng:] Phù hợp khi miêu tả thế giới thần linh, cõi trời (*Ngọc Hoàng, Thiên đình, Thủy phủ, chiếu chỉ, phán truyền, sinh linh, hạ giới*).
-2. #strong[Gợi không khí cổ xưa, cổ kính, truyền thống:] Phù hợp với bối cảnh lịch sử – huyền thoại xa xưa (như trong *Thần thoại*, *Tản Viên từ Phán sự lục* hay vẻ đẹp *“vang bóng một thời”* trong *Chữ người tử tù*: *nhất sinh, tứ bình, trung đường, biệt nhỡn liên tài, thiên lương*).
-3. #strong[Biểu đạt khái quát, hàm súc, tao nhã (tránh thô tục):] Thay thế một cụm từ thuần Việt dài dòng bằng một từ cô đọng (VD: *sinh thực khí*, *tạ thế*, *hiếu sinh*).
-
-== C. Khẩu quyết 4 Lỗi Dùng Từ Hán Việt & Bảng 20 Cặp Từ Dễ Sai Nhất
-
-#mnemonic-box(title: "KHẨU QUYẾT 4 LỖI DÙNG TỪ HÁN VIỆT: “ÂM NHẦM — NGHĨA LỆCH — CẢNH SAI — THỪA LẶP”")[
-  1. #strong[ÂM NHẦM (Nhầm lẫn vỏ ngữ âm gần giống):] VD SGK: *“Đọc sách giúp tích lũy nhiều #strong[trí thức] bổ ích”* → Sai (*trí thức* chỉ tầng lớp người lao động trí óc) → Sửa thành #strong[tri thức] (hiểu biết, kiến thức).
-  2. #strong[NGHĨA LỆCH (Hiểu sai nghĩa gốc của yếu tố Hán Việt):] VD SGK: *“Nước đến chân mới nhảy là một #strong[yếu điểm] của học sinh”* → Sai (*yếu điểm* = điểm trọng yếu, quan trọng nhất) → Sửa thành #strong[điểm yếu / khuyết điểm / nhược điểm].
-  3. #strong[CẢNH SAI (Không hợp ngữ cảnh và sắc thái biểu cảm):] VD SGK: *“Tại phiên tòa cõi âm, Tử Văn thể hiện sự cứng cỏi, ngang tàng của #strong[hàn sĩ]”* → Sai (*hàn sĩ* nhấn mạnh cảnh nghèo túng, không ăn nhập với khí phách ngang tàng) → Sửa thành #strong[kẻ sĩ / nho sĩ]. Hoặc nói *“Nữ hoàng đang xem ti vi cùng #strong[phu nhân] thủ tướng”* (dùng *phu nhân* tự xưng như *“phu nhân của tôi”* là sai nghi thức giao tiếp vì *phu nhân* chỉ dùng tôn xưng vợ người khác!).
-  4. #strong[THỪA LẶP (Lặp nghĩa giữa yếu tố Hán Việt và từ thuần Việt đi kèm):] VD: *“con #strong[độc] nhất #strong[một] mình”*, *“người #strong[quá cố] đã #strong[mất]”*, *“#strong[tối] #strong[tối] tân”*, *“đề cập #strong[đến]” / “tham quan #strong[thăm]”*, *“#strong[hoàn toàn] #strong[tuyệt đối]”*.
+#mnemonic-box(title: "BỐN LỖI DÙNG TỪ HÁN VIỆT CẦN TRÁNH TRONG BÀI VIẾT")[
+  1. *Dùng từ không đúng nghĩa:* Hiểu lầm nghĩa yếu tố cấu tạo nên đặt từ sai bản chất (VD: nhầm *yếu điểm* với *điểm yếu*).
+  2. *Dùng từ lệch ngữ cảnh giao tiếp:* Đặt từ Hán Việt trang trọng vào câu nói sinh hoạt bình dân khiến câu văn kênh kiệu, thiếu tự nhiên.
+  3. *Lạm dụng từ Hán Việt:* Chồng chất từ Hán Việt cầu kì khi tiếng Việt đã có từ thuần Việt giản dị, giàu hình ảnh hơn.
+  4. *Kết hợp từ sai quy tắc:* Ghép lẫn yếu tố Hán Việt với từ thuần Việt hoặc biến âm sai chính tả (*thăm quan, vô hình chung*).
 ]
 
 #study-table(
-  (1.7fr, 2.6fr, 2.7fr),
-  ("Cặp từ hay nhầm", "Phân biệt nghĩa chuẩn xác", "Cách dùng đúng trong bài viết"),
-  [*Yếu điểm* vs. *Điểm yếu*], [*Yếu điểm* = điểm quan trọng then chốt.\ *Điểm yếu* = hạn chế, thiếu sót.], [Chủ đề là *yếu điểm* của tác phẩm; hay quên là *điểm yếu* của Thần Mưa.],
-  [*Tri thức* vs. *Trí thức*], [*Tri thức* = hệ thống hiểu biết.\ *Trí thức* = người có học vấn chuyên môn.], [Tích lũy *tri thức* văn học; người *trí thức* yêu nước.],
-  [*Cứu cánh* vs. *Cứu trợ*], [*Cứu cánh* = mục đích cuối cùng.\ *Cứu trợ* = giúp đỡ lúc hoạn nạn.], [Nghệ thuật vị nhân sinh lấy con người làm *cứu cánh* tối hậu.],
-  [*Bàng quan* vs. *Bàng quang*], [*Bàng quan* = đứng ngoài cuộc, thờ ơ.\ *Bàng quang* = cơ quan bóng đái.], [Không thể giữ thái độ *bàng quan* trước cái ác.],
-  [*Tham quan* vs. *Thăm quan*], [*Tham quan* = xem tận mắt để mở rộng hiểu biết (*“thăm quan”* là viết sai!).], [Đoàn học sinh đi *tham quan* di tích đền Tản Viên.],
-  [*Độc giả / Khán giả / Thính giả*], [*Độc* = đọc sách báo; *Khán* = xem biểu diễn; *Thính* = nghe phát thanh.], [Truyện thần thoại chinh phục bao thế hệ *độc giả*.],
-  [*Nhậm chức* vs. *Nhận chức*], [*Nhậm* (gánh vác chức vụ chính thức) trang trọng hơn *nhận*.], [Tử Văn đến *nhậm chức* Phán sự đền Tản Viên.],
-  [*Giả thuyết* vs. *Giả thiết*], [*Giả thuyết* = luận điểm khoa học tạm nêu.\ *Giả thiết* = điều kiện cho trước.], [Đặt ra *giả thuyết* nghiên cứu về nguồn gốc thần thoại.],
-  [*Truyền tụng* vs. *Truyền tống*], [*Truyền tụng* = truyền miệng ngợi ca.\ *Truyền tống* = chuyển phát đi.], [Câu chuyện về Nữ Oa được nhân dân muôn đời *truyền tụng*.],
-  [*Sáng kiến* vs. *Sáng chế*], [*Sáng kiến* = ý kiến mới cải tiến công việc.\ *Sáng chế* = tạo ra vật phẩm kĩ thuật mới.], [Đưa ra *sáng kiến* bảo tồn di sản văn hoá dân gian.]
+  (1.55fr, 2.35fr, 3.1fr),
+  ("Cặp dễ nhầm / dạng sai", "Phân biệt nghĩa chính xác", "Câu đặt đúng trong bài viết nghị luận văn học"),
+
+  [*Yếu điểm* ≠ *Điểm yếu*],
+  [• *Yếu điểm:* Điểm trọng yếu, quan trọng nhất (*yếu* = quan trọng).\ • *Điểm yếu:* Nhược điểm, chỗ hạn chế thiếu sót.],
+  [*Đúng:* Tính nóng nảy là một *điểm yếu* mang nét đời thường của Thần Sét. *(Viết “yếu điểm của Thần Sét là nóng nảy” là sai nghĩa).*],
+
+  [*Vô hình trung* (đúng)\ ≠ *Vô hình chung* (sai)],
+  [*Trung* = ở trong; *vô hình trung* nghĩa là tuy không cố ý nhưng tự nhiên lại dẫn đến kết quả nào đó.],
+  [*Đúng:* Cơn giận dỗi của Nữ thần Lúa *vô hình trung* giải thích vì sao nhà nông phải vất vả gặt hái.],
+
+  [*Tựu trung* (đúng)\ ≠ *Tựu chung* (sai)],
+  [*Tựu* = gom lại, *trung* = ở giữa; *tựu trung (lại)* là tóm tắt cái chung nhất sau khi phân tích nhiều mặt.],
+  [*Đúng:* *Tựu trung lại*, các truyện thần thoại suy nguyên đều thể hiện khát vọng cắt nghĩa tự nhiên của người xưa.],
+
+  [*Sáp nhập* (đúng)\ ≠ *Sát nhập* (sai)],
+  [*Sáp* = cắm vào, gộp vào làm một; không có yếu tố *sát nhập* với nghĩa hợp nhất.],
+  [*Đúng:* Nhiều mẩu chuyện lẻ về các vị thần dần được *sáp nhập* thành hệ thần thoại thống nhất.],
+
+  [*Tham quan* (đúng)\ ≠ *Thăm quan* (sai)],
+  [*Tham* = dự vào, *quan* = xem xét mở rộng hiểu biết. Do quen từ thuần Việt *thăm hỏi* nên hay viết nhầm.],
+  [*Đúng:* Chuyến *tham quan* bảo tàng dân tộc học giúp học sinh hiểu thêm về tín ngưỡng thờ thần nông nghiệp.],
+
+  [*Cứu cánh* ≠ *Cứu trợ*],
+  [• *Cứu cánh:* Mục đích cuối cùng (*không phải “cánh tay cứu giúp”*).\ • *Cứu trợ / Cứu giúp:* Giúp đỡ vượt qua hoạn nạn.],
+  [*Đúng:* Ngọn lửa của thần Prô-mê-tê đã *cứu giúp* loài người thoát khỏi cảnh tối tăm giá lạnh. *(Không viết “là cứu cánh giúp loài người thoát khổ” theo nghĩa cứu trợ).*],
+
+  [*Tri thức* ≠ *Trí thức*],
+  [• *Tri thức:* Vốn hiểu biết, kiến thức.\ • *Trí thức:* Người lao động trí óc có trình độ chuyên môn.],
+  [*Đúng:* Thần thoại lưu giữ những *tri thức* quan sát tự nhiên đầu tiên của người nguyên thủy.],
+
+  [*Độc giả* (đúng)\ ≠ *Đọc giả* (sai)],
+  [*Độc* (âm Hán Việt của chữ “đọc”) + *giả* (người) = người đọc sách báo, văn chương.],
+  [*Đúng:* Sau hàng nghìn năm, câu chuyện *Nữ Oa vá trời* vẫn làm xúc động nhiều thế hệ *độc giả*.],
+
+  [*Bàng quan* ≠ *Bàng quang*],
+  [• *Bàng quan:* Đứng ngoài nhìn, thờ ơ không can dự.\ • *Bàng quang:* Cơ quan chứa nước tiểu trong cơ thể.],
+  [*Đúng:* Thần Prô-mê-tê không thể *bàng quan* trước cảnh con người yếu ớt giữa muôn loài dữ tợn.],
+
+  [*Khinh suất* (đúng)\ ≠ *Khinh xuất* (sai)],
+  [*Khinh* = nhẹ, *suất* = vội vàng không suy xét kĩ; viết *khinh xuất* là sai chính tả.],
+  [*Đúng:* Sự *khinh suất* của Ê-pi-mê-tê khiến con người suýt không còn đặc ân nào để tự vệ.],
+
+  [*Hoàn mĩ* ≠ *Hoàn hảo*],
+  [*Hoàn mĩ* nhấn mạnh vẻ đẹp nghệ thuật trọn vẹn; *hoàn hảo* chỉ sự đầy đủ không có khuyết điểm.],
+  [*Đúng:* Hình tượng con người đứng thẳng nhìn lên các vì sao mang vẻ đẹp *hoàn mĩ* trong thần thoại Hy Lạp.],
+
+  [*Giả thuyết* ≠ *Giả thiết*],
+  [• *Giả thuyết:* Luận điểm khoa học nêu ra để chứng minh.\ • *Giả thiết:* Điều kiện cho trước trong bài toán / tình huống.],
+  [*Đúng:* Có thể xem thần thoại là những *giả thuyết* hồn nhiên đầu tiên của nhân loại về vũ trụ.]
 )
 
-== D. Từ điển Bỏ túi 24 Từ Hán Việt Cốt lõi Hay Gặp Trong Ngữ liệu Thần thoại
+== C. Từ điển 24 từ Hán Việt chọn lọc nâng tầm bài văn nghị luận thần thoại
 
-#study-table(
-  (1.3fr, 2.2fr, 1.3fr, 2.2fr),
-  ("Từ Hán Việt", "Nghĩa chuẩn trong văn cảnh thần thoại", "Từ Hán Việt", "Nghĩa chuẩn trong văn cảnh thần thoại"),
-  [*Sơ khởi / Khởi nguyên*], [Buổi ban đầu mới bắt đầu hình thành.], [*Hỗn độn / Hỗn mang*], [Trạng thái lộn xộn, mờ mịt khi trời đất chưa tách.],
-  [*Khai thiên lập địa*], [Mở trời dựng đất (buổi đầu tạo lập vũ trụ).], [*Thiên đình*], [Triều đình trên trời nơi Ngọc Hoàng cai quản.],
-  [*Hạ giới / Trần gian*], [Cõi đất bên dưới nơi con người, muôn vật sống.], [*Thủy phủ / Thủy tộc*], [Cung phủ dưới nước / các loài sống dưới nước.],
-  [*Sinh linh / Vạn vật*], [Muôn loài sinh vật có sự sống trên thế gian.], [*Tu bổ*], [Sửa chữa, bù đắp thêm cho hoàn chỉnh, tốt đẹp.],
-  [*Khoán trắng*], [Giao phó toàn quyền cho người khác tự lo liệu.], [*Ủy thác*], [Tin cậy giao phó công việc quan trọng cho ai làm.],
-  [*Sát hạch*], [Kiểm tra, thi tuyển gắt gao để chọn kẻ có tài.], [*Ngự sử*], [Quan giữ việc giám sát, chấm xét của triều đình.],
-  [*Thịnh nộ / Lôi đình*], [Cơn giận dữ dội như sấm sét.], [*Bạo thiên nghịch địa*], [Ngang ngược chống lại cả trời đất.],
-  [*Nhật thực / Nguyệt thực*], [Hiện tượng Mặt Trời / Mặt Trăng bị che khuất.], [*Thượng huyền / Hạ huyền*], [Trăng khuyết đầu tháng (mồng 7–8) / cuối tháng (22–23).],
-  [*Phiếm chỉ / Ước lệ*], [Chỉ chung, không xác định cụ thể / quy ước tượng trưng.], [*Suy nguyên*], [Truy tìm căn nguyên, nguồn gốc ban đầu của sự vật.],
-  [*Hữu linh / Siêu nhiên*], [Có linh hồn / vượt lên trên quy luật tự nhiên thường.], [*Biệt nhỡn liên tài*], [Cái nhìn trân trọng đặc biệt và lòng thương quý người tài.]
-)
+Học sinh nên sử dụng đúng chỗ các từ ngữ sau khi viết Câu 10 và Câu 11 để diễn đạt vừa chuẩn thuật ngữ vừa trang trọng:
+- *Nhóm bối cảnh & vũ trụ (8 từ):* #strong[hồng hoang] (buổi đầu sơ khai mênh mông), #strong[khai thiên lập địa] (mở trời dựng đất), #strong[hỗn độn] (chưa phân định hình hài), #strong[sơ khai] (mới bắt đầu), #strong[phiếm chỉ] (không xác định mốc cụ thể), #strong[vĩnh hằng] (tồn tại mãi mãi), #strong[kì vĩ] (lớn lao và lạ thường), #strong[thần quyền / linh thiêng].
+- *Nhóm tư duy & chủ đề (8 từ):* #strong[suy nguyên] (tìm về cội nguồn), #strong[vạn vật hữu linh] (muôn vật đều có linh hồn), #strong[nhân sinh quan] (quan niệm về đời người), #strong[thế giới quan] (quan niệm về vũ trụ), #strong[khát vọng] (mong ước lớn lao), #strong[chế ngự] (làm chủ sức mạnh tự nhiên), #strong[nhân bản] (lấy con người làm gốc), #strong[tri ân] (ghi nhớ công ơn).
+- *Nhóm nghệ thuật tự sự (8 từ):* #strong[hư cấu] (tưởng tượng sáng tạo), #strong[cường điệu / phóng đại], #strong[nhân cách hóa], #strong[đơn tuyến] (một mạch sự kiện), #strong[điểm nhìn toàn tri], #strong[hàm súc] (cô đọng, giàu ý), #strong[biểu tượng] (hình ảnh mang nghĩa khái quát), #strong[sức sống trường tồn].
 
-= 3.2. Phương thức Biểu đạt & 6 Biện pháp Tu từ Đặc trưng của Thần thoại
+= 3.2. Phương thức biểu đạt và 6 biện pháp tu từ trong ngữ liệu thần thoại
 
-== A. Quy tắc Vàng Xác định Phương thức Biểu đạt (Tránh Bẫy Câu TNKQ số 1–2)
-- Nếu đề hỏi #strong[“Phương thức biểu đạt CHÍNH của văn bản”] (chỉ 1 phương thức): Với mọi truyện thần thoại, đáp án LUÔN LUÔN là #strong[Tự sự] (kể lại chuỗi sự việc, nhân vật).
-- Nếu đề hỏi #strong[“Các phương thức biểu đạt được sử dụng trong văn bản”] (từ 2 phương thức trở lên): Thường là #strong[Tự sự kết hợp miêu tả (và biểu cảm)].
+*1. Xác định phương thức biểu đạt không mất điểm:*
+- Khi đề hỏi *“Phương thức biểu đạt chính của văn bản”* (chỉ chọn 1): Với truyện thần thoại (kể cả thần thoại văn vần như *Đi san mặt đất*), đáp án luôn là #strong[Tự sự].
+- Khi đề hỏi *“Các phương thức biểu đạt được sử dụng”* (chọn tổ hợp): Thường là #strong[Tự sự kết hợp với miêu tả] (và có thể có *biểu cảm*).
 
-== B. Công thức 3 Tầng Phân tích Tác dụng Biện pháp Tu từ (Ăn trọn 1,0/1,0 điểm Tự luận)
+*2. Quy trình 3 tầng phân tích tác dụng biện pháp tu từ ở câu tự luận (Câu 9 – 1,0 điểm):*
 
-#formula-box(title: "CÔNG THỨC 3 TẦNG NÊU TÁC DỤNG BIỆN PHÁP TU TỪ TRONG ĐỌC HIỂU")[
-  Khi gặp câu hỏi: *“Chỉ ra và nêu tác dụng của biện pháp tu từ trong câu văn [...]”*, bắt buộc trả lời đủ #strong[3 dấu cộng] để không bị trừ bất kì 0,25 điểm nào:
-  1. #strong[Tầng 1 — Gọi tên & Chỉ rõ từ ngữ biểu hiện (0,25đ):] Nêu chính xác tên biện pháp tu từ + trích dẫn đúng cụm từ chứa biện pháp đó trong ngoặc kép.
-  2. #strong[Tầng 2 — Tác dụng về Nội dung / Nhận thức (0,50đ):] Nhấn mạnh hình ảnh vị thần / hiện tượng tự nhiên hiện lên kì vĩ, sống động như thế nào; qua đó thể hiện quan niệm, trí tưởng tượng phong phú hoặc khát vọng gì của người cổ đại.
-  3. #strong[Tầng 3 — Tác dụng về Hình thức Nghệ thuật (0,25đ):] Làm cho lời văn giàu hình ảnh, giàu nhịp điệu, tăng sức gợi hình gợi cảm, tạo màu sắc hoang đường kì ảo hấp dẫn cho truyện thần thoại.
+#skill-box(title: "QUY TRÌNH 3 TẦNG PHÂN TÍCH TÁC DỤNG BIỆN PHÁP TU TỪ (ĐỦ 1,0/1,0 ĐIỂM)")[
+  - #strong[Tầng 1 (Chỉ dấu ngôn từ – 0,25 điểm):] Gọi đúng tên biện pháp tu từ và trích dẫn chính xác từ ngữ, cụm từ, câu văn biểu hiện biện pháp đó.
+  - #strong[Tầng 2 (Tác dụng về hình thức nghệ thuật – 0,25 điểm):] Làm cho cách diễn đạt trở nên sinh động, giàu hình ảnh, giàu sức gợi cảm; tạo nhịp điệu hài hòa hoặc giọng kể trang trọng, hấp dẫn (tùy biện pháp).
+  - #strong[Tầng 3 (Tác dụng về nội dung & tư tưởng – 0,50 điểm):] Làm nổi bật tầm vóc, hành động hoặc nét tính cách của vị thần; qua đó thể hiện cách cắt nghĩa tự nhiên hồn nhiên cùng thái độ ngợi ca, ước vọng chinh phục thiên nhiên của người cổ đại.
 ]
 
 #study-table(
-  (1.3fr, 2.6fr, 3.1fr),
-  ("Biện pháp tu từ", "Biểu hiện điển hình trong ngữ liệu Thần thoại", "Từ khóa vàng khi giải thích tác dụng"),
+  (1.3fr, 2.3fr, 3.4fr),
+  ("Biện pháp tu từ", "Dấu hiệu nhận diện trong thần thoại", "Tác dụng đặc thù khi đưa vào Tầng 2 & Tầng 3"),
 
   [*1. Nói quá (Phóng đại / Cường điệu)*],
-  [*“chân thần bước một bước từ tỉnh này qua tỉnh nọ”*, *“đứng cao hơn năm lần đỉnh núi cao nhất”*, *“dãn người ra dài hàng ngàn trượng”*.],
-  [Tô đậm tầm vóc khổng lồ, sức mạnh siêu nhiên kì vĩ của vị thần tương xứng với quy mô kiến tạo vũ trụ; tạo vẻ đẹp hoang đường kì ảo.],
+  [Phóng to quy mô hình thể, sức mạnh, thời gian vượt xa thực tế (*cao hơn 5 lần núi cao nhất, ngủ 18.000 năm, bước một bước từ đỉnh núi này sang đỉnh núi khác*).],
+  [Tạo ấn tượng kì vĩ, choáng ngợp; khắc họa tầm vóc khổng lồ sánh ngang vũ trụ của các vị thần và gửi gắm ước mơ sức mạnh cải tạo thiên nhiên.],
 
   [*2. Nhân hóa*],
-  [Gán hình dáng, tính nết con người cho tự nhiên/loài vật: Mặt Trăng *nóng nảy, dịu dàng*; Thần Mưa *hay quên*; Nữ thần Lúa *hờn dỗi*; Cóc, Cọp *bàn bạc đi kiện*.],
-  [Biến các hiện tượng tự nhiên vô tri thành những sinh thể có tâm hồn gần gũi, sống động; phản ánh trực tiếp tư duy *vạn vật hữu linh* hồn nhiên.],
+  [Gán hình dáng, tính nết, tâm trạng con người cho các hiện tượng tự nhiên hoặc loài vật (*Mặt Trăng nóng nảy, Thần Sét hấp tấp, hạt lúa biết hờn giận*).],
+  [Khiến thế giới tự nhiên xa lạ trở nên gần gũi, có hồn; phản ánh tư duy *vạn vật hữu linh* và nét hóm hỉnh trong cách quan sát của người xưa.],
 
   [*3. So sánh*],
-  [*“Đất phẳng như cái mâm vuông, trời ở trên như cái bát úp”*, *“trời tựa như một tấm màn lớn”*, *“lúa theo dây đi men về như kiến bò”*.],
-  [Cụ thể hóa những khái niệm vũ trụ trừu tượng, rộng lớn bằng những vật dụng sinh hoạt đời thường mộc mạc, gần gũi với cư dân nông nghiệp.],
+  [Đối chiếu sự vật kì ảo với sự vật quen thuộc qua từ so sánh *như, tựa như, bằng...* (*vũ trụ như quả trứng lớn, cột cao như chống thấu mây xanh*).],
+  [Giúp cụ thể hóa những khái niệm trừu tượng buổi sơ khai thành hình ảnh trực quan, dễ hình dung đối với cộng đồng dân gian.],
 
-  [*4. Liệt kê*],
-  [*“hổ, báo, voi, sói, vẹt, nhím, gấu...”*, *“nắng, mưa, bão tố, núi lửa phun, nước sông dâng...”*, *“nào thần làm sao, thần đào sông, thần tát biển...”*.],
-  [Diễn tả sự phong phú, đa dạng của vạn vật muôn loài hoặc quy mô toàn diện, dồn dập của công cuộc sáng thế / tai ương thiên nhiên.],
+  [*4. Điệp ngữ / Điệp cấu trúc*],
+  [Lặp lại từ ngữ hoặc cấu trúc câu (*“Người xưa cùng đi tìm...”, “Mặt trời chưa ra đời / Mặt đất còn tối tăm...”*).],
+  [Tạo âm hưởng nhịp nhàng như lời kể diễn xướng cổ xưa; nhấn mạnh tính chất miệt mài, liên tục của công cuộc kiến tạo thế giới.],
 
-  [*5. Điệp ngữ / Điệp cấu trúc*],
-  [*“Con thì được ban cho..., Con thì có đôi mắt..., Con thì xuống nước...”*, *“Một con người, nhưng trần trụi, trần trụi hoàn toàn”*.],
-  [Tạo nhịp điệu dồn dập, mạch lạc cho lời kể dân gian; nhấn mạnh sự đối lập hoặc tô đậm tình thế cấp bách của nhân vật.],
+  [*5. Liệt kê*],
+  [Sắp xếp nối tiếp hàng loạt hành động hoặc sự vật được tạo thành (*núi cao, đảo xa, gò đống, biển rộng; chân ghế, chân hương...*).],
+  [Thể hiện sự phong phú, toàn diện của muôn loài được khai sinh và khối lượng công việc đồ sộ của các vị thần sáng tạo.],
 
-  [*6. Đối lập – Tương phản*],
-  [Sự hoàn hảo đầy vũ khí của muôn thú ↔ sự *trần trụi, bấy yếu* của con người; Ê-pi-mê-tê *đãng trí, lơ đễnh* ↔ Prô-mê-tê *thông minh, nhìn xa trông rộng*.],
-  [Làm bật nổi xung đột nhận thức, tôn vinh vẻ đẹp trí tuệ và tầm vóc nhân văn của nhân vật trung tâm.]
+  [*6. Ẩn dụ / Biểu tượng*],
+  [Hình ảnh hàm chứa ý nghĩa triết lí kín đáo (*ngọn lửa Prô-mê-tê* chỉ ánh sáng trí tuệ văn minh; *đá ngũ sắc* chỉ tinh hoa đất trời).],
+  [Tạo chiều sâu hàm súc cho hình tượng thần thoại, mở rộng ý nghĩa từ chuyện tự nhiên sang bài học văn hoá nhân sinh.]
 )
 
-= 3.3. Chuẩn mực Mạch lạc & Liên kết Đoạn văn – Văn bản (Tích hợp Bài 2 & Bài 3 KNTT)
+= 3.3. Lỗi dùng từ, lỗi về trật tự từ và cách sửa (Bài 2 SGK KNTT, tr. 64–65)
 
-Để đạt trọn điểm diễn đạt ở Câu 9, Câu 10 và Câu 11, học sinh cần kiểm soát chặt 3 yêu cầu Tiếng Việt cốt lõi:
-- #strong[Mạch lạc (Coherence — Sợi chỉ đỏ tư tưởng):] Toàn bộ các câu trong đoạn phải cùng phục vụ *một chủ đề thống nhất*, sắp xếp theo trình tự hợp lí (từ khái quát đến cụ thể; từ nghệ thuật đến nội dung hoặc ngược lại).
-- #strong[Liên kết hình thức (Cohesion — Chất keo nối câu):] Chủ động sử dụng các phép liên kết câu và liên kết đoạn: *phép nối* (*Trước hết, Bên cạnh đó, Không dừng lại ở đó, Hơn thế nữa, Tóm lại...*), *phép thế* (*vị thần ấy, tác giả dân gian, kiệt tác cổ sơ này...*), *phép lặp từ khóa có chủ đích*.
-- #strong[Tránh lỗi trật tự từ mơ hồ:] Đặt cụm từ bổ nghĩa sát ngay danh từ/động từ mà nó bổ nghĩa để câu văn nghị luận sáng rõ, đanh thép.
+Bài Thực hành tiếng Việt số 2 trong SGK *Kết nối tri thức* (tr. 64–65) tập trung rèn kĩ năng phát hiện và chữa #strong[lỗi dùng từ] cùng #strong[lỗi sắp xếp trật tự từ]. Đây chính là nhóm lỗi làm mất 0,25–0,50 điểm diễn đạt phổ biến nhất trong bài thi viết của học sinh lớp 10:
+
+#study-table(
+  (1.4fr, 2.2fr, 3.4fr),
+  ("Nhóm lỗi (SGK tr. 64–65)", "Câu sai thường gặp trong bài làm học sinh", "Phân tích nguyên nhân & Cách sửa chuẩn mực"),
+
+  [*1. Lỗi lặp từ thừa*],
+  [*Sai:* Truyện thần thoại *Thần Trụ Trời* là một *truyện thần thoại* tiêu biểu kể về vị *thần* đắp cột chống trời.],
+  [• *Nguyên nhân:* Lặp cụm *“truyện thần thoại”* và từ *“thần”* trong phạm vi câu ngắn khiến lời văn nặng nề.\ • *Sửa:* *Thần Trụ Trời* là tác phẩm tiêu biểu của thần thoại Việt Nam, kể về kì tích đắp cột phân chia trời đất.],
+
+  [*2. Lỗi dùng từ không đúng nghĩa*],
+  [*Sai:* Hình ảnh Nữ Oa đội đá vá trời là một hành động vô cùng *ngoan cố* và giàu lòng thương con.],
+  [• *Nguyên nhân:* *Ngoan cố* mang nghĩa xấu (bướng bỉnh không chịu sửa sai), đối nghịch với ý ca ngợi.\ • *Sửa:* Thay *ngoan cố* bằng #strong[kiên cường / bền bỉ / bất khuất].],
+
+  [*3. Lỗi kết hợp từ sai quy tắc ngữ nghĩa*],
+  [*Sai:* Tác giả dân gian đã *thực thi* thành công hình tượng vị thần Prô-mê-tê giàu trí tuệ.],
+  [• *Nguyên nhân:* Động từ *thực thi* đi với *pháp luật, nhiệm vụ*, không đi với *hình tượng nghệ thuật*.\ • *Sửa:* Thay *thực thi* bằng #strong[xây dựng / khắc họa].],
+
+  [*4. Lỗi trật tự từ gây mơ hồ đa nghĩa*],
+  [*Sai:* Tác phẩm ca ngợi các vị thần chống lại thiên tai *của người Việt cổ* bằng sức mạnh phi thường.],
+  [• *Nguyên nhân:* Đặt cụm *“của người Việt cổ”* ngay sau *“thiên tai”* khiến người đọc hiểu lầm thiên tai thuộc sở hữu người Việt cổ.\ • *Sửa:* *Trong thần thoại của người Việt cổ*, tác phẩm ca ngợi các vị thần dùng sức mạnh phi thường đẩy lùi thiên tai.],
+
+  [*5. Lỗi trật tự từ trái logic cấp độ / thời gian*],
+  [*Sai:* Thần Trụ Trời *phá cột ném đất đá đi khắp nơi, đắp cột cao chống trời* và bước ra từ cõi hỗn mang.],
+  [• *Nguyên nhân:* Đảo ngược trình tự thời gian của chuỗi sự kiện làm rối mạch tóm tắt.\ • *Sửa:* Bước ra từ cõi hỗn mang, Thần Trụ Trời *đắp cột cao chống trời rồi phá cột, ném đất đá đi khắp nơi*.],
+
+  [*6. Lỗi tách rời thành phần cụm từ cố định*],
+  [*Sai:* Câu chuyện để lại trong lòng về lòng biết ơn thiên nhiên *một bài học sâu sắc* đối với người đọc.],
+  [• *Nguyên nhân:* Chia cắt cụm động từ – bổ ngữ *“để lại trong lòng người đọc một bài học sâu sắc về...”*.\ • *Sửa:* Câu chuyện *để lại trong lòng người đọc một bài học sâu sắc* về thái độ biết ơn thiên nhiên.]
+)
+
+= 3.4. Lỗi về mạch lạc và liên kết trong đoạn văn, văn bản (Bài 3 SGK KNTT, tr. 87–89)
+
+Ở Bài 3 SGK *Kết nối tri thức* (tr. 87–89), học sinh được học cách nhận diện và khắc phục lỗi về #strong[mạch lạc] và #strong[liên kết] để đoạn văn Câu 10 (150 chữ) và bài văn Câu 11 (600 chữ) thành một chỉnh thể chặt chẽ:
+- #strong[Mạch lạc (tính chỉnh thể bên trong):] Các câu, các đoạn phải cùng hướng về một *chủ đề thống nhất* và sắp xếp theo một *trình tự hợp lí* (thời gian, không gian, nhân – quả, từ khái quát đến cụ thể hoặc từ nội dung sang nghệ thuật).
+- #strong[Liên kết (phương tiện kết nối bên ngoài):] Thể hiện mạch lạc bằng hệ thống từ ngữ liên kết như *phép lặp từ ngữ có chủ đích*, *phép thế đại từ / từ đồng nghĩa*, *phép liên tưởng* và *phép nối* (*hơn nữa, bên cạnh đó, tuy nhiên, nhờ vậy, tóm lại...*).
+
+#study-table(
+  (1.45fr, 2.35fr, 3.2fr),
+  ("Loại lỗi (SGK tr. 87–89)", "Biểu hiện cụ thể trong đoạn văn / bài văn", "Cách sửa triệt để trước khi nộp bài"),
+
+  [*1. Lỗi thiếu mạch lạc do lạc chủ đề (tản mạn)*],
+  [Đề Câu 10 hỏi *“Ý nghĩa chi tiết cá chép vượt Vũ Môn”*, nhưng người viết dành nửa đoạn kể lan man chuyện... cá chép nấu cháo hoặc phong tục ông Công ông Táo.],
+  [Kiểm tra lại #strong[câu chủ đề mở đoạn]: mọi câu ở thân đoạn phải giải thích hoặc chứng minh trực tiếp cho từ khóa của câu chủ đề đó; gạch bỏ ngay câu chệch hướng.],
+
+  [*2. Lỗi đứt gãy logic giữa các câu/đoạn*],
+  [Đang phân tích tính cách nóng nảy của Thần Sét bỗng nhảy sang khen *“Ngôi kể thứ ba của truyện rất khách quan”* trong cùng một đoạn văn mà không tách ý.],
+  [Thực hiện quy tắc *một đoạn – một luận điểm rõ ràng*, đồng thời dùng câu chuyển ý tự nhiên khi bước từ luận điểm *chủ đề/nhân vật* sang luận điểm *nghệ thuật tự sự*.],
+
+  [*3. Lỗi dùng sai phương tiện liên kết (sai quan hệ từ)*],
+  [*Sai:* Thần Mưa có tính hay quên nên đôi khi để vùng này hạn hán. *Vì vậy*, người dân vẫn rất kính trọng công lao làm mưa của thần.],
+  [Hai câu mang quan hệ *tương phản – nhượng bộ*, không phải *nguyên nhân – kết quả*. Thay từ nối *“Vì vậy”* bằng #strong[“Tuy vậy” / “Dẫu vậy”].],
+
+  [*4. Lỗi lạm dụng từ nối khuôn sáo đầu đoạn*],
+  [Mở đầu ba đoạn liên tiếp bằng chuỗi cơ học: *“Đầu tiên là...”, “Tiếp theo là...”, “Cuối cùng là...”* khiến bài văn giống bản liệt kê gạch đầu dòng.],
+  [Đa dạng hóa phép liên kết bằng #strong[phép lặp từ khóa hoặc câu chuyển ý mềm mại]: *“Sức hấp dẫn của câu chuyện trước hết khơi nguồn từ...”, “Gắn liền với bức tranh không gian ấy là hình tượng...”*.]
+)
