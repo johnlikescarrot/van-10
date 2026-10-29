@@ -17,7 +17,7 @@ Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*,
   - *Thiên:* (1) Trời (*thiên đình, thiên thần, thiên hạ*); (2) Nghìn (*thiên niên kỉ, thiên lí mã*); (3) Dời chuyển (*thiên đô, biến thiên*); (4) Lệch, nghiêng (*thiên vị, thiên kiến*).
   - *Nhân:* (1) Người (*nhân gian, nhân loại, vĩ nhân*); (2) Lòng thương người (*nhân đạo, nhân ái, nhân từ*); (3) Hạt, lõi bên trong (*nhân quả, nguyên nhân*).
   - *Hàn:* (1) Lạnh, nghèo khổ (*bần hàn, hàn sĩ, hàn vi, hàn ôn*); (2) Lông chim, bút văn chương (*hàn lâm*).
-  - *Yếu:* (1) 要 = quan trọng, cần thiết (*yếu điểm, trọng yếu, thiết yếu, yếu nhân*). (2) 弱 đọc là *nhược* = kém cỏi (*nhược điểm, suy nhược*). Còn “yếu” trong *yếu ớt, yếu sức* là từ thuần Việt, không phải yếu tố Hán Việt. Vì thế *yếu điểm* (điểm then chốt) khác hẳn *điểm yếu* (khuyết điểm).
+  - *Yếu:* (1) Nghĩa “quan trọng, cần thiết” (*yếu điểm, trọng yếu, thiết yếu, yếu nhân*). (2) Còn “kém cỏi” là một yếu tố Hán Việt *khác*, đọc là *nhược* (*nhược điểm, suy nhược*), chữ viết khác hẳn. “Yếu” trong *yếu ớt, yếu sức* lại là từ thuần Việt, không phải yếu tố Hán Việt. Vì thế *yếu điểm* (điểm then chốt) khác hẳn *điểm yếu* (khuyết điểm).
 
 #study-table(
   (1.6fr, 2.7fr, 2.7fr),
@@ -297,9 +297,9 @@ Làm bài trong 15 phút, sau đó đối chiếu đáp án ở cuối. Mỗi c�
 
     [1], [*B*], [*sơn hà* (núi + sông) là ghép đẳng lập, hai yếu tố ngang hàng. Các từ còn lại là ghép chính phụ: *thuỷ phủ* (phủ nước), *thiên đình* (đình trời), *nhân loại* (loài người).],
     [2], [*B*], [*hạ giới* = cõi dưới, tức cõi trần, nơi con người sống; đối lập với *thiên giới* (cõi trời).],
-    [3], [*B*], [*Yếu điểm* = điểm quan trọng, then chốt (要點), dùng đúng ở câu A (“yếu điểm của chiến lược” = điểm then chốt). Ở câu B, muốn nói khuyết điểm phải dùng *điểm yếu*, nên B là câu sai.],
+    [3], [*B*], [*Yếu điểm* = điểm quan trọng, then chốt, dùng đúng ở câu A (“yếu điểm của chiến lược” = điểm then chốt). Ở câu B, muốn nói khuyết điểm phải dùng *điểm yếu*, nên B là câu sai.],
     [4], [*C*], [*Thiên vị* = nghiêng về một phía; *thiên* 偏 = lệch.],
-    [5], [*C*], [*yếu ớt* là từ thuần Việt; chữ 弱 đọc Hán Việt là *nhược*, không phải *yếu*.],
+    [5], [*C*], [*yếu ớt* là từ thuần Việt; yếu tố Hán Việt cùng nghĩa “kém cỏi” đọc là *nhược* (nhược điểm), không phải *yếu*.],
     [6], [*A*], [*Nguyên hợp* = hợp lại thành một khối chưa phân tách; đúng với tính nguyên hợp của thần thoại.],
     [7], [*B*], [Lỗi lặp quan hệ từ: “Bởi vì… nên…” đã đủ, không cần thêm “do”.],
     [8], [*B*], [*lột* là từ thuần Việt, chỉ hành động bong da của loài rắn.],
