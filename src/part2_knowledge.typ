@@ -66,7 +66,7 @@
 
   [*4. Người kể chuyện & Ngôi kể*],
   [• *Tự sự dân gian:* Người trực tiếp diễn xướng kể lại câu chuyện cho cộng đồng.\ • *Văn học viết:* “Vai” đại diện do nhà văn tạo ra.\ • *Ngôi thứ ba:* Người kể giấu mình (không xưng “tôi”), gọi tên các nhân vật.\ • *Ngôi thứ nhất:* Người kể xưng “tôi”, trực tiếp tham gia hoặc chứng kiến.],
-  [*99% truyện thần thoại kể ở ngôi thứ ba* với điểm nhìn toàn tri (biết tuốt từ Thiên đình xuống Hạ giới), tạo tính khách quan, linh thiêng, bao quát toàn vũ trụ.],
+  [Thần thoại thường kể ở *ngôi thứ ba* với điểm nhìn toàn tri (biết tuốt từ Thiên đình xuống Hạ giới), tạo tính khách quan, linh thiêng, bao quát toàn vũ trụ.],
 
   [*5. Lời người kể chuyện & Lời nhân vật*],
   [• *Lời người kể chuyện:* Lời thuật việc, tả cảnh, giới thiệu nhân vật, bình luận dẫn dắt.\ • *Lời nhân vật:* Lời nói trực tiếp (sau dấu gạch ngang/ngoặc kép) hoặc gián tiếp của nhân vật.],
@@ -210,7 +210,7 @@ Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc 4 văn
 
   [*3. Chữ người tử tù*\ *(Nguyễn Tuân — Vang bóng một thời)*],
   [Truyện ngắn hiện đại.\ Ngôi thứ ba (điểm nhìn linh hoạt).],
-  [Tình huống éo le chốn đề lao: Huấn Cao (tử tù tài hoa viết chữ đẹp, khí phách hiên ngang, thiên lương trong sáng) và Quản ngục – Thơ lại (tấm lòng *biệt nhỡn liên tài*). Đỉnh cao là *cảnh cho chữ* ban đêm trong buồng tối bẩn thỉu — sự đảo lộn ngôi vị kì diệu và lời khuyên *“thiên lương”*.],
+  [Tình huống éo le chốn đề lao: Huấn Cao (tử tù tài hoa viết chữ đẹp, khí phách hiên ngang, thiên lương trong sáng) và viên quản ngục (tấm lòng *biệt nhỡn liên tài*). Đỉnh cao là *cảnh cho chữ* ban đêm trong buồng tối bẩn thỉu — sự đảo lộn ngôi vị kì diệu và lời khuyên *“thiên lương”*.],
   [• Tôn vinh sự chiến thắng của cái Đẹp, cái Thiện trước cái xấu, cái ác; cái Đẹp bất tử gắn liền với nhân cách thiên lương.\ • *Mẫu mực kĩ năng Viết:* Cách phân tích tình huống truyện, thủ pháp đối lập, ngôn ngữ giàu từ Hán Việt cổ kính.],
 
   [*4. Tê-dê (Thésée)*\ *(Thực hành đọc — Thần thoại Hy Lạp)*],
@@ -221,7 +221,7 @@ Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc 4 văn
 
 = 2.5. Bản đồ Giải phẫu 12 Văn bản Thần thoại Ngoài SGK Trọng tâm Nhất
 
-Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bảng tổng hợp chuyên sâu dưới đây giải phẫu sẵn #strong[12 kiệt tác thần thoại ngoài SGK có tần suất xuất hiện cao nhất trong các đề thi Giữa kì I trên toàn quốc]:
+Vì đề kiểm tra dùng ngữ liệu ngoài SGK *Kết nối tri thức*, bảng dưới đây giải phẫu sẵn #strong[12 văn bản thần thoại ngoài SGK thường dùng để ôn luyện]:
 
 #study-table(
   (1.35fr, 0.95fr, 2.5fr, 2.2fr),

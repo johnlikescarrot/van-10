@@ -74,7 +74,7 @@ Theo SGK *Ngữ văn 10 Kết nối tri thức Tập 1* (tr. 29 – 34) và *B�
 
 = 5.3. Kĩ thuật Viết Đoạn “P – E – E – V” Chống Kể Lể Cốt Truyện Suông
 
-Lỗi nghiêm trọng nhất khiến 80% học sinh lớp 10 chỉ đạt 2,0/4,0 điểm là #strong[biến bài nghị luận thành bài kể lại truyện]. Để mỗi đoạn Thân bài đều chuẩn chất nghị luận văn học, hãy lắp đúng #strong[4 mắt xích P – E – E – V]:
+Lỗi thường gặp và làm mất nhiều điểm nhất là #strong[biến bài nghị luận thành bài kể lại truyện]. Để mỗi đoạn Thân bài đều chuẩn chất nghị luận văn học, hãy lắp đúng #strong[4 mắt xích P – E – E – V]:
 1. #strong[P (Point — Câu chủ đề nêu Luận điểm):] Đặt ngay đầu đoạn, gọi thẳng tên phương diện chủ đề hoặc thủ pháp nghệ thuật (*“Trước hết, sức hấp dẫn của truyện [Tên truyện] kết tinh ở nghệ thuật xây dựng hình tượng nhân vật thần vừa kì vĩ vừa thấm đẫm hơi thở đời thường...”*).
 2. #strong[E (Evidence — Trích dẫn Bằng chứng chọn lọc):] Đưa 2–3 chi tiết/cụm từ đắt giá nhất trong ngoặc kép (không chép tràng giang đại hải cả đoạn dài).
 3. #strong[E (Explanation — Phân tích Tác dụng):] Giải mã vì sao tác giả dân gian lại hư cấu chi tiết ấy, nó phản ánh quan sát thực tế và tư duy *vạn vật hữu linh* như thế nào.

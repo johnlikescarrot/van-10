@@ -8,7 +8,7 @@
 
 = 1.1. Tổng quan Mục tiêu & Tinh thần Đổi mới của Đề Kiểm tra Giữa kì I (2026 – 2027)
 
-Theo văn bản chính thức *Ma trận, Bản đặc tả đề kiểm tra Giữa kì I lớp 10 năm học 2026 – 2027 (thời gian 90 phút)*, đề kiểm tra được thiết kế nghiêm ngặt theo định hướng đánh giá năng lực của Chương trình Giáo dục phổ thông 2018 (Công văn 3175/BGDĐT-GDTrH về đổi mới dạy học và kiểm tra, đánh giá môn Ngữ văn) và bám sát trục kĩ năng trọng tâm nửa đầu Học kì I của bộ sách *Kết nối tri thức với cuộc sống* (*Bài 1: Sức hấp dẫn của truyện kể*).
+Theo văn bản chính thức *Ma trận, Bản đặc tả đề kiểm tra Giữa kì I lớp 10 năm học 2026 – 2027 (thời gian 90 phút)*, đề kiểm tra được thiết kế theo theo định hướng đánh giá năng lực của Chương trình Giáo dục phổ thông 2018 (Công văn 3175/BGDĐT-GDTrH về đổi mới dạy học và kiểm tra, đánh giá môn Ngữ văn) và bám sát trục kĩ năng trọng tâm nửa đầu Học kì I của bộ sách *Kết nối tri thức với cuộc sống* (*Bài 1: Sức hấp dẫn của truyện kể*).
 
 Điểm cốt lõi quyết định phương pháp ôn tập nằm ở quy tắc #strong[“100% ngữ liệu ngoài sách giáo khoa”]:
 - *Về năng lực Đọc hiểu (60% tổng điểm):* Học sinh không học thuộc lòng văn bản có sẵn trong SGK mà phải vận dụng thành thạo hệ thống tri thức thể loại #strong[truyện thần thoại] (không gian, thời gian, cốt truyện, sự kiện, nhân vật, chi tiết kì ảo, ngôi kể, lời trần thuật, đề tài, chủ đề, bối cảnh lịch sử – văn hoá) để giải mã một văn bản thần thoại hoàn toàn mới ngoài SGK.
@@ -61,13 +61,13 @@ Bảng dưới đây tái hiện chính xác Ma trận gốc và thực hiện p
 
 = 1.3. Hai Phương án Cấu trúc Ngữ liệu Thực tế trong Phòng thi
 
-Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: Nghị luận phân tích, đánh giá tác phẩm thần thoại ngoài SGK*), các trường THPT khi ra đề chính thức luôn sử dụng một trong #strong[hai phương án cấu trúc ngữ liệu]:
+Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: Nghị luận phân tích, đánh giá tác phẩm thần thoại ngoài SGK*), Ma trận không quy định cách tổ chức ngữ liệu. Vì vậy đề cương chuẩn bị cho #strong[hai cách tổ chức] sau, và học sinh nên làm quen với cả hai:
 
 #grid(
   columns: (1fr, 1fr),
   column-gutter: 10pt,
   block(fill: c-bg-neutral, stroke: 0.8pt + c-indigo, radius: 5pt, inset: 10pt, width: 100%)[
-    #text(weight: "bold", fill: c-indigo, size: 9.5pt)[PHƯƠNG ÁN A: MỘT NGỮ LIỆU TÍCH HỢP (~70% ĐỀ THI)]
+    #text(weight: "bold", fill: c-indigo, size: 9.5pt)[PHƯƠNG ÁN A: MỘT NGỮ LIỆU TÍCH HỢP]
     #v(3pt)
     #set text(size: 9pt)
     - *Phần I (Đọc hiểu – 6,0đ):* Cho một văn bản thần thoại ngoài SGK (ví dụ: *Nữ thần Mặt Trời và Mặt Trăng*, *Thần Mưa*, *Nữ thần Lúa*, *Prô-mê-tê và loài người*...) kèm 10 câu hỏi (Câu 1–10).
@@ -75,7 +75,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
     - *Ưu thế cho học sinh:* Tiết kiệm thời gian đọc đề; kết quả trả lời Câu 1–10 trở thành chất liệu lập dàn ý trực tiếp cho bài văn Câu 11!
   ],
   block(fill: c-bg-neutral, stroke: 0.8pt + c-purple, radius: 5pt, inset: 10pt, width: 100%)[
-    #text(weight: "bold", fill: c-purple, size: 9.5pt)[PHƯƠNG ÁN B: HAI NGỮ LIỆU ĐỘC LẬP (~30% ĐỀ THI)]
+    #text(weight: "bold", fill: c-purple, size: 9.5pt)[PHƯƠNG ÁN B: HAI NGỮ LIỆU ĐỘC LẬP]
     #v(3pt)
     #set text(size: 9pt)
     - *Phần I (Đọc hiểu – 6,0đ):* Cho văn bản thần thoại ngoài SGK thứ nhất kèm 10 câu hỏi (Câu 1–10).
