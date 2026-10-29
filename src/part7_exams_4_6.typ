@@ -3,7 +3,7 @@
 // ============================================================================
 // ĐỀ MINH HỌA SỐ 04: CUỘC TU BỔ LẠI CÁC GIỐNG VẬT & MƯỜI HAI BÀ MỤ
 // ============================================================================
-#exam-header("04", "Cuộc Tu Bổ Lại Các Giống Vật & Mười Hai Bà Mụ", "Phương án B: 02 ngữ liệu độc lập")
+#exam-header("04", "Cuộc Tu Bổ Lại Các Giống Vật & Mười Hai Bà Mụ", "Phương án B — 02 ngữ liệu độc lập")
 
 *I. PHẦN ĐỌC HIỂU (6,0 điểm)* — *Đọc văn bản sau và thực hiện các yêu cầu từ Câu 1 đến Câu 10:*
 
@@ -146,7 +146,27 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
 // ============================================================================
 // ĐỀ MINH HỌA SỐ 05: ÔNG ĐÙNG, BÀ ĐÙNG & NỮ OA VÁ TRỜI
 // ============================================================================
-#exam-header("05", "Sự Tích Ông Đùng, Bà Đùng & Nữ Oa Vá Trời", "Phương án B: 02 ngữ liệu độc lập")
+#exam-recap(
+  num: "04",
+  cards: (
+    ([Cấu trúc đề], [hai ngữ liệu độc lập — *Cuộc tu bổ lại các giống vật* (phần Đọc hiểu) và *Mười hai Bà Mụ* (phần Viết); cả hai đều thuộc nhóm thần thoại sáng thế, suy nguyên của Nguyễn Đổng Chi.]),
+    ([Chủ đề bài viết], [con người là đỉnh cao sáng tạo — nặn từ *“chất trong, chất tinh tuý”*; tôn vinh thiên chức nâng niu sự sống trẻ thơ; ngầm nhắc mỗi người phải tự hoàn thiện phần khiếm khuyết của mình.]),
+    ([Nghệ thuật ba điểm], [không gian vũ trụ buổi bình minh với thời gian cổ sơ phiếm chỉ; kết cấu liệt kê – tăng cấp (nặn muôn loài → nặn người → giao cho mười hai bà mụ); chi tiết hài hước, dân dã.]),
+    ([Dẫn chứng ăn điểm], [chất cặn làm muôn thú ↔ chất tinh tuý làm con người; mười hai bà mụ chăm chút từng bộ phận — chi tiết vừa giải thích hình hài vừa chở tình thương.]),
+    ([Câu đối sánh], [Prô-mê-tê nặn người bằng đất rồi trộm lửa (Hy Lạp) ↔ Mười hai Bà Mụ nặn và nâng niu từng hài nhi (Việt): cùng mô-típ “tạo nhân”, một bên là tinh thần khai sáng, một bên là tình mẫu tử và sự cẩn trọng.]),
+    ([Mở bài 60 giây], [Giữa muôn loài, con người là sinh vật duy nhất biết hỏi mình từ đâu đến — và *Mười hai Bà Mụ* là lời đáp dịu dàng nhất, ấm áp nhất mà cha ông dành cho câu hỏi ấy.]),
+    ([Mở bài 60 giây], [Mỗi dân tộc kể lại thảm hoạ thiên nhiên theo cách riêng; với người Trung Hoa cổ, ký ức về những trận hồng thuỷ và núi lửa đã kết tinh thành hình tượng Nữ Oa — người mẹ lặng lẽ vá lại vòm trời cho đàn con.]),
+    ([Mở bài 60 giây], [Nếu phải chọn một hình tượng để nói về phẩm giá của con người, thần thoại Hy Lạp đã chọn Prô-mê-tê: kẻ dám chịu hình phạt để trao cho nhân loại thứ vũ khí không loài nào có — trí tuệ.]),
+  ),
+  traps: (
+    [Chỉ phân tích một văn bản dù đề theo Phương án B — mất điểm ở yêu cầu về cấu trúc bài.],
+    [Lẫn *Mười hai Bà Mụ* với tín ngưỡng thờ Mẫu hay tục thờ Đức Thánh Trần: đây là thần thoại sáng thế, không phải tín ngưỡng dân gian đương đại.],
+    [Kể lại hai văn bản quá dài, không còn chỗ cho đánh giá và đối sánh — mất 0,5đ phần mở rộng.],
+  ),
+  closing: [Câu chốt nếu bí: “Con người được nặn từ chất tinh tuý, nên phận sự của con người là sống cho xứng với chất liệu làm nên mình.”],
+)
+
+#exam-header("05", "Sự Tích Ông Đùng, Bà Đùng & Nữ Oa Vá Trời", "Phương án B — 02 ngữ liệu độc lập")
 
 *I. PHẦN ĐỌC HIỂU (6,0 điểm)* — *Đọc văn bản sau và thực hiện các yêu cầu từ Câu 1 đến Câu 10:*
 
@@ -184,7 +204,7 @@ D. Hai bên bờ sông Đà có nhiều rừng hoa ban nở trắng.
 *Câu 4* #badge-biet. Câu văn: *“Họ làm suốt từ lúc #strong[mặt trời thức] đến lúc #strong[mặt trời đi ngủ] vẫn không nghỉ”* sử dụng biện pháp tu từ nào ở các từ in đậm?\
 A. Nhân hóa. #h(3.5em) B. Hoán dụ. #h(3.5em) C. Nói giảm nói tránh. #h(2.5em) D. Chơi chữ.
 
-*Câu 5* #badge-biet. Văn bản *Sự tích Ông Đùng, bà Đùng* phản ánh rõ nét bối cảnh lịch sử – văn hoá nào của đồng bào dân tộc Mường thời cổ đại?\
+*Câu 5* #badge-biet. Văn bản *Sự tích Ông Đùng, Bà Đùng* phản ánh rõ nét bối cảnh lịch sử – văn hoá nào của đồng bào dân tộc Mường thời cổ đại?\
 A. Công cuộc khai hoang lập bản, san ruộng làm lúa và trị thủy chinh phục thiên nhiên vùng thung lũng núi cao Tây Bắc – Hòa Bình.\
 B. Nghề đánh bắt hải sản xa bờ trên đại dương mênh mông.\
 C. Đời sống thương mại trao đổi hàng hóa với thương thuyền phương Tây.\
@@ -202,7 +222,7 @@ B. Vẻ đẹp của tình nghĩa vợ chồng thuận hòa, đồng tâm hiệp
 C. Thái độ làm việc chủ quan, thiếu nghiêm túc của các vị thần.\
 D. Nỗi chán chường mệt mỏi của thần linh khi phải phục dịch con người.
 
-*Câu 8* #badge-hieu. Nhận xét nào khái quát đúng nhất đặc trưng nghệ thuật nổi bật của văn bản *Sự tích Ông Đùng, bà Đùng*?\
+*Câu 8* #badge-hieu. Nhận xét nào khái quát đúng nhất đặc trưng nghệ thuật nổi bật của văn bản *Sự tích Ông Đùng, Bà Đùng*?\
 A. Ngôn ngữ bác học cầu kì, sử dụng dày đặc các điển cố lịch sử Trung Hoa.\
 B. Kết hợp bút pháp phóng đại kì vĩ về tầm vóc nhân vật với những nét miêu tả lao động mộc mạc, tươi vui để cắt nghĩa tự nhiên địa hình xứ Mường.\
 C. Phân tích tâm lí nội tâm phức tạp theo dòng ý thức hiện đại.\
@@ -282,7 +302,24 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
 // ============================================================================
 // ĐỀ MINH HỌA SỐ 06: PRÔ-MÊ-TÊ VÀ LOÀI NGƯỜI
 // ============================================================================
-#exam-header("06", "Prô-mê-tê Và Loài Người (Thần Thoại Hy Lạp)", "Phương án A: 01 ngữ liệu tích hợp")
+#exam-recap(
+  num: "05",
+  cards: (
+    ([Cấu trúc đề], [hai ngữ liệu độc lập — *Sự tích Ông Đùng, Bà Đùng* (thần thoại Mường, phần Đọc hiểu) và *Nữ Oa vá trời* (thần thoại Trung Hoa, phần Viết).]),
+    ([Chủ đề bài viết], [cắt nghĩa mây ngũ sắc và lưu giữ ký ức thiên tai thời tiền sử; tôn vinh tình thương cùng ý chí con người trước thảm hoạ; giải thích nguồn gốc nhạc cụ sênh phượng.]),
+    ([Nghệ thuật ba điểm], [không gian bốn cực trời đất với tương phản dữ dội trước – sau khi vá trời; cốt truyện đơn tuyến quanh một hành động cứu thế; chi tiết kì ảo có sức thuyết phục (luyện đá ngũ sắc, chặt bốn chân rùa dựng cột).]),
+    ([Dẫn chứng ăn điểm], [*“vòm trời rách toang, đất đai ầm ầm rung chuyển, núi rừng bốc cháy”* → *“ánh sáng trở lại chan hoà… vòm trời trong xanh, điểm mây ngũ sắc”*: một cặp trích dẫn đủ cho cả phần nghệ thuật.]),
+    ([Câu đối sánh], [Ông Đùng – Bà Đùng (nhân vật đôi, lao động tập thể, cải tạo địa hình) ↔ Nữ Oa (nhân vật đơn, một mình cứu thế): hai tinh thần ứng phó thiên tai của hai nền văn hoá.]),
+  ),
+  traps: (
+    [Gọi Nữ Oa là nhân vật thần thoại Việt Nam — sai xuất xứ, mất ngay 0,75đ phần giới thiệu.],
+    [Kể lại trọn chuỗi sự việc (Cung Công – Chúc Dung – Bất Chu) mà quên rằng đó chỉ là *bối cảnh*, không phải luận điểm.],
+    [Bỏ phần liên hệ trách nhiệm với môi trường hôm nay: đây là câu “neo” giúp bài viết có dư âm.],
+  ),
+  closing: [Câu chốt nếu bí: “Vá trời không phải việc của một vị thần — đó là việc của bất cứ ai dám nhận phần trách nhiệm trước cái rách toang chung.”],
+)
+
+#exam-header("06", "Prô-mê-tê Và Loài Người (Thần Thoại Hy Lạp)", "Phương án A — 01 ngữ liệu tích hợp")
 
 *I. PHẦN ĐỌC HIỂU (6,0 điểm)* — *Đọc văn bản sau và thực hiện các yêu cầu từ Câu 1 đến Câu 10:*
 
@@ -403,3 +440,21 @@ D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Tr
 
   Hơn ba thiên niên kỉ đã trôi qua kể từ buổi bình minh Hy Lạp cổ đại, song ngọn đuốc mà Prô-mê-tê châm từ cỗ xe Mặt Trời vẫn cháy sáng bất diệt trong tâm thức nhân loại — tương đồng kì diệu với niềm tự hào con người được gạn từ *“chất trong tinh túy”* trong thần thoại *Mười hai Bà Mụ* của dân tộc Việt Nam. Khép lại trang văn, mỗi người trẻ hôm nay càng thấm thía bổn phận đứng thẳng hiên ngang bằng đôi chân mình, không ngừng thắp sáng ngọn lửa tri thức và lòng nhân ái để viết tiếp hành trình văn minh rực rỡ của con người trên mặt đất.
 ]
+
+#exam-recap(
+  num: "06",
+  cards: (
+    ([Khoá đề], [thần thoại Hy Lạp — *Prô-mê-tê và loài người* (Nguyễn Văn Khoả, *Thần thoại Hy Lạp*); nhân vật thuộc dòng Titan; đề tích hợp (một ngữ liệu cho cả Đọc hiểu và Viết).]),
+    ([Chủ đề hai tầng], [nghịch lí sinh tồn: con người không có “vũ khí” tự nhiên, nhưng có trí tuệ, lao động và văn hoá; tôn vinh tình yêu thương, sự hi sinh của kẻ mang lửa cho nhân loại.]),
+    ([Nghệ thuật ba điểm], [không gian vũ trụ theo trục thẳng đứng (mặt đất → cỗ xe Mặt Trời), thời gian phiếm chỉ *“Thuở ấy”*; tương phản kép Prô-mê-tê điềm tĩnh, sáng suốt ↔ Ê-pi-mê-tê hấp tấp, lơ đễnh; chi tiết kì ảo *“kho đặc ân cạn kiệt”*.]),
+    ([Dẫn chứng ăn điểm], [*“trần trụi hoàn toàn”* khi kho đặc ân đã cạn: đó là điểm nút thắt nghệ thuật, đẩy hành động anh hùng lên đỉnh điểm.]),
+    ([Câu đối sánh], [Prô-mê-tê (Hy Lạp) ↔ Mười hai Bà Mụ (Việt): cùng mô-típ tạo nhân, nhưng Hy Lạp nhấn mạnh khai sáng – hi sinh, Việt Nam nhấn mạnh nâng niu – cẩn trọng.]),
+  ),
+  traps: (
+    [Gọi Prô-mê-tê là “thần” một cách chung chung mà quên ông thuộc dòng Titan — chi tiết nhỏ nhưng thể hiện độ chính xác của người đọc kĩ.],
+    [Lẫn hai anh em khi phân tích tương phản: Ê-pi-mê-tê là người ban phát hết đặc ân, Prô-mê-tê là người sửa sai bằng trí tuệ.],
+    [Bỏ tầng nghĩa “văn hoá là vũ khí của loài người”: bài viết sẽ tụt về dạng kể chuyện trộm lửa.],
+  ),
+  closing: [Câu chốt nếu bí: “Ngọn lửa Prô-mê-tê mang xuống không phải để sưởi ấm, mà để con người tự thắp sáng con đường của chính mình.”],
+)
+

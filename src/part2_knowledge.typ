@@ -267,7 +267,7 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
   [Hai vị thần khổng lồ thi tài đắp núi trong 3 ngày để kết hôn: Tứ Tượng đứt quang gánh rơi thành 9 đồi lớn; núi Nữ Oa (Nam Giới – Hà Tĩnh) cao nhìn thấu 4 chân trời nên thắng cuộc, bắt Tứ Tượng đắp thêm nhiều dãy núi Bắc – Nam.],
   [• Lí giải: Địa hình đồi núi trùng điệp dải đất Việt Nam và dấu chân khổng lồ trên đá.\ • Phản ánh dấu ấn *chế độ mẫu hệ* cổ sơ (nữ thần tài trí vượt trội nam thần).],
 
-  [*9. Sự tích Ông Đùng, bà Đùng*\ *(Thần thoại dân tộc Mường)*],
+  [*9. Sự tích Ông Đùng, Bà Đùng*\ *(Thần thoại dân tộc Mường)*],
   [Suy nguyên (địa lí tộc người)],
   [Hai vợ chồng khổng lồ cao gấp 5 lần núi cao nhất ở xứ Mường Bi: một ngày nhổ cây san đất làm cánh đồng Thạch Bi; ngày đêm bới đất khơi dòng nước thoát lũ. Vì làm cả ban đêm không nhìn rõ nên dòng sông uốn khúc và còn sót đá thành thác ghềnh.],
   [• Lí giải: Sự hình thành cánh đồng Mường Bi trù phú và *dòng sông Đà ngoằn ngoèo “trăm bảy mươi thác, trăm ba mươi ghềnh”*.\ • Ngợi ca sức mạnh lao động hòa hợp vợ chồng cải tạo thiên nhiên.],
@@ -293,3 +293,18 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
 Đưa nhận xét đối sánh liên văn hoá vào đoạn đánh giá cuối Thân bài là #strong[“tuyệt chiêu lấy điểm 9+”]:
 - #strong[Điểm tương đồng phổ quát:] Đều nảy sinh từ tư duy *vạn vật hữu linh* buổi bình minh nhân loại; đều đặt nhân vật thần linh khổng lồ trong không gian vũ trụ và thời gian cổ sơ phiếm chỉ; đều sử dụng thủ pháp phóng đại kì ảo để cắt nghĩa tự nhiên và gửi gắm khát vọng chinh phục thế giới.
 - #strong[Bản sắc riêng độc đáo của Thần thoại Việt Nam:] Mang đậm dấu ấn #strong[nền văn minh nông nghiệp lúa nước nhiệt đới gió mùa] — các vị thần gần gũi, mộc mạc, bình dị như người nông dân Việt (biết cày cục đắp đất, nóng nảy sợ tiếng gà, hay quên gây hạn lụt, hờn dỗi khi sân bẩn...), ít có những cuộc chiến tranh quyền lực đẫm máu trên đỉnh Ô-lim-pơ như thần thoại Hy Lạp hay quy mô triều chính đồ sộ như thần thoại Trung Hoa, mà thấm đẫm *khát vọng mưa thuận gió hòa, mùa màng tươi tốt và lối sống hòa hợp, ân nghĩa với tự nhiên*.
+
+#study-table(
+  (1.15fr, 1.75fr, 1.75fr, 1.6fr),
+  ("Bình diện đối sánh", "Thần thoại Việt Nam", "Thần thoại Hy Lạp", "Thần thoại Trung Hoa"),
+
+  [*Thế giới thần linh*], [Các thần tự nhiên có *chức phận cụ thể* (thần Mưa, thần Gió, thần Lửa), đứng trong một trật tự có Ngọc Hoàng *phân công và kỉ luật*.], [Thần trên đỉnh Ô-lim-pơ, tổ chức theo *thứ bậc quyền lực*, thường tranh giành ảnh hưởng.], [Thần linh gắn với *vương triều* và *chuỗi đế vương*, có trật tự chặt chẽ như triều đình.],
+  [*Nguồn gốc con người*], [Nặn từ đất (Mười hai Bà Mụ), được gửi vào *sự chăm sóc tỉ mỉ của tay người*.], [Do Prô-mê-tê tạo dáng, được trao *lửa và nghề* — con người tự lập bằng trí tuệ.], [Nữ Oa nặn người từ đất, ban sự sống như một *người mẹ khai sáng*.],
+  [*Cách lí giải tự nhiên*], [Gắn hiện tượng với *tính nết con người* (hay quên, nóng nảy, hờn dỗi).], [Gắn với *hành vi anh hùng* và *xung đột quyền lực* của thần.], [Gắn với *biến cố vũ trụ* có tính hệ thống (vá trời, chống lụt).],
+  [*Vị thế con người*], [Con người *ở trong* tự nhiên: biết ơn, kính sợ, thuận theo và cải tạo bền bỉ.], [Con người *đối diện* tự nhiên: chinh phục, khai sáng, khẳng định phẩm giá.], [Con người *ứng phó* với tai biến để duy trì trật tự cộng đồng.],
+  [*Dấu vết để nhận diện khi đọc ngữ liệu*], [Thần mộc mạc, có lỗi, có lúc bị phạt; chi tiết gắn ruộng đồng, sông nước, cối giã gạo.], [Tên thần có nguyên mẫu Hi Lạp (Prô-mê-tê, Hê-ra-clét), hành trình thử thách cá nhân.], [Chi tiết quy mô lớn đền đài, triều chính, ngũ sắc, rồng, rùa.],
+)
+
+#mnemonic-box(title: "CÂU CHỐT ĐỐI SÁNH DÙNG ĐƯỢC CHO MỌI BÀI (GHI NHỚ 1 CÂU)")[
+  “Thần thoại các dân tộc đều bắt đầu từ cùng một câu hỏi — *vì sao thế giới lại như thế này?* — nhưng mỗi dân tộc trả lời bằng chất liệu của chính đời sống mình: người Việt trả lời bằng ruộng đồng và con nước, người Hy Lạp trả lời bằng hành trình và phẩm giá con người, người Trung Hoa trả lời bằng trật tự và biến cố vũ trụ.”
+]

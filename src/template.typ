@@ -134,8 +134,8 @@
     ]
     #v(4pt)
   ]
-  #set text(font: font-serif, size: 9.8pt, fill: rgb("#1F242D"))
-  #set par(leading: 0.68em, first-line-indent: 1.2em, spacing: 0.65em, justify: true)
+  #set text(font: font-serif, size: 9.7pt, fill: rgb("#1F242D"))
+  #set par(leading: 0.66em, first-line-indent: 1.2em, spacing: 0.6em, justify: true)
   #body
   #if source != none [
     #v(4pt)
@@ -158,9 +158,39 @@
 )[
   #text(font: font-sans, size: 8.6pt, weight: "bold", fill: c-purple, tracking: 0.3pt)[✦ #upper(title)]
   #v(5pt)
-  #set text(font: font-serif, size: 9.8pt, fill: rgb("#1D2433"))
-  #set par(leading: 0.68em, first-line-indent: 1.4em, spacing: 0.65em, justify: true)
+  #set text(font: font-serif, size: 9.55pt, fill: rgb("#1D2433"))
+  #set par(leading: 0.62em, first-line-indent: 1.3em, spacing: 0.46em, justify: true)
   #body
+]
+
+// Hộp "Tự kiểm tra 60 giây" đặt cuối mỗi đề (chốt kiến thức + bẫy mất điểm)
+#let exam-recap(num: "", cards: (), traps: (), closing: none) = block(
+  width: 100%,
+  fill: rgb("#F4FAF7"),
+  stroke: (left: 3pt + c-jade, top: 0.6pt + c-jade-bdr, right: 0.6pt + c-jade-bdr, bottom: 0.6pt + c-jade-bdr),
+  radius: (right: 5pt),
+  inset: (x: 12pt, y: 10pt),
+  breakable: false,
+  above: 11pt,
+  below: 8pt,
+)[
+  #text(font: font-sans, size: 8.5pt, weight: "bold", fill: c-jade, tracking: 0.3pt)[★ TỰ KIỂM TRA 60 GIÂY — ĐỀ SỐ #num]
+  #v(4pt)
+  #set text(size: 9.15pt, fill: rgb("#1D2433"))
+  #set par(leading: 0.58em, spacing: 0.36em, justify: true)
+  #for (i, c) in cards.enumerate() [
+    #text(weight: "bold", fill: c-navy)[#(i + 1). #c.at(0):] #c.at(1) \
+  ]
+  #v(3pt)
+  #text(font: font-sans, size: 8.4pt, weight: "bold", fill: c-red)[BA BẪY MẤT ĐIỂM CỦA ĐỀ NÀY]
+  #v(1.5pt)
+  #for t in traps [
+    #text(size: 8.9pt)[• #t] \
+  ]
+  #if closing != none [
+    #v(3pt)
+    #text(size: 8.9pt, style: "italic", fill: c-slate)[#closing]
+  ]
 ]
 
 // Hộp Callout đa năng (dùng cho Tóm lược toàn năng & Hướng dẫn Flashcard)
@@ -223,9 +253,9 @@
 }
 
 // Header thẻ Đề kiểm tra
-#let exam-header(num, subtitle, model-type) = {
-  pagebreak(weak: true)
-  place(hide(heading(level: 2, offset: 0)[Đề minh họa số #num: #subtitle (#model-type)]))
+#let exam-header(num, subtitle, model-type, newpage: true) = {
+  if newpage { pagebreak(weak: true) }
+  place(hide(heading(level: 2, offset: 0)[Đề kiểm tra minh hoạ số #num: #subtitle · #model-type]))
   block(
     width: 100%,
     fill: rgb("#F0F5FF"),
@@ -242,7 +272,7 @@
       [
         #text(font: font-sans, size: 8.2pt, weight: "bold", fill: c-indigo, tracking: 0.4pt)[ĐỀ KIỂM TRA GIỮA HỌC KÌ I — MÔN NGỮ VĂN 10 (NĂM HỌC 2026 – 2027)]
         #v(3pt)
-        #text(font: font-sans, size: 13pt, weight: "bold", fill: c-navy)[ĐỀ MINH HỌA SỐ #num: #upper(subtitle)]
+        #text(font: font-sans, size: 13pt, weight: "bold", fill: c-navy)[ĐỀ MINH HOẠ SỐ #num: #upper(subtitle)]
       ],
       box(
         fill: c-navy,
@@ -273,11 +303,97 @@
   )
 }
 
+// Khung Đề bài Viết (Writing prompt)
+#let prompt-box(num: none, label: "ĐỀ BÀI", body) = block(
+  width: 100%,
+  fill: white,
+  stroke: 0.9pt + c-slate,
+  radius: 5pt,
+  inset: (x: 12pt, y: 10pt),
+  above: 8pt,
+  below: 9pt,
+  breakable: false,
+)[
+  #grid(
+    columns: (auto, 1fr),
+    column-gutter: 8pt,
+    align: (left + horizon, left + horizon),
+    box(
+      fill: c-slate,
+      radius: 3pt,
+      inset: (x: 7pt, y: 3pt),
+      text(font: font-sans, size: 7.8pt, weight: "bold", fill: white)[#label]
+    ),
+    if num != none {
+      text(font: font-sans, size: 8.2pt, weight: "bold", fill: c-muted)[#num]
+    }
+  )
+  #v(5pt)
+  #set text(font: font-serif, size: 9.9pt, fill: c-ink)
+  #set par(justify: true, leading: 0.68em)
+  #body
+]
+
+// Ô đánh dấu (Checklist)
+#let tick = box(
+  width: 7.2pt,
+  height: 7.2pt,
+  stroke: 0.9pt + c-slate,
+  radius: 1.2pt,
+  baseline: -1pt,
+)
+
+// Khung So sánh Trước – Sau (Before / After)
+#let compare-box(left-title: "CÁCH VIẾT CHƯA ĐẠT", right-title: "CÁCH VIẾT ĐẠT ĐIỂM CAO", left, right) = block(
+  width: 100%,
+  above: 8pt,
+  below: 9pt,
+  breakable: false,
+)[
+  #grid(
+    columns: (1fr, 1fr),
+    column-gutter: 9pt,
+    block(
+      width: 100%,
+      fill: c-red-soft,
+      stroke: 0.7pt + c-red-bdr,
+      radius: 5pt,
+      inset: 9pt,
+    )[
+      #text(font: font-sans, size: 8.2pt, weight: "bold", fill: c-red)[✕ #upper(left-title)]
+      #v(3pt)
+      #set text(size: 9.2pt, fill: c-ink)
+      #left
+    ],
+    block(
+      width: 100%,
+      fill: c-jade-soft,
+      stroke: 0.7pt + c-jade-bdr,
+      radius: 5pt,
+      inset: 9pt,
+    )[
+      #text(font: font-sans, size: 8.2pt, weight: "bold", fill: c-jade)[✓ #upper(right-title)]
+      #v(3pt)
+      #set text(size: 9.2pt, fill: c-ink)
+      #right
+    ]
+  )
+]
+
+// Dòng ghi chú nhỏ dưới bảng
+#let table-note(body) = block(
+  width: 100%,
+  above: 4pt,
+  below: 10pt,
+  text(font: font-sans, size: 8.1pt, style: "italic", fill: c-muted)[#body]
+)
+
 // Cấu hình toàn văn bản & Trang bìa
 #let project-doc(body) = {
   set document(
-    title: "Đề cương ôn tập Giữa kì I Ngữ văn 10 - Kết nối tri thức (2026-2027)",
-    author: "Tài liệu Ôn tập Chuyên sâu Ngữ văn 10 - GDPT 2018",
+    title: "Đề cương ôn tập Giữa học kì I - Ngữ văn 10 (Kết nối tri thức, 2026-2027)",
+    author: "Tài liệu ôn tập chuyên sâu Ngữ văn 10 - Chương trình GDPT 2018",
+    keywords: ("Ngữ văn 10", "Kết nối tri thức", "giữa kì I", "thần thoại", "nghị luận văn học", "đề cương ôn tập", "2026-2027"),
   )
 
   set page(
@@ -315,8 +431,12 @@
   show raw: set text(font: font-sans, size: 9.1pt, weight: "semibold", fill: c-indigo)
 
   show outline.entry.where(level: 1): it => {
-    v(5pt, weak: true)
-    strong(text(fill: c-navy, size: 9.6pt, it))
+    v(2.4pt, weak: true)
+    strong(text(fill: c-navy, size: 8.9pt, it))
+  }
+
+  show outline.entry.where(level: 2): it => {
+    text(size: 7.95pt, fill: c-slate, it)
   }
 
   show heading.where(level: 2): it => {
@@ -430,8 +550,8 @@
             block(fill: c-jade-soft, radius: 5pt, inset: 8pt, width: 100%)[
               #align(center)[
                 #text(size: 15pt, weight: "bold", fill: c-jade)[106 CÂU]\
-                #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & 6 ĐỀ]\
-                #text(size: 7.4pt, fill: c-slate)[100% có đáp án,\ giải nhiễu & văn mẫu]
+                #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & ĐỀ THI]\
+                #text(size: 7.4pt, fill: c-slate)[40 câu ngân hàng, 66 câu đề thi\ 100% đáp án & hướng dẫn chấm]
               ]
             ]
           )
@@ -449,15 +569,15 @@
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[02. PHỦ KÍN 100% BẢN ĐẶC TẢ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[13/13 chỉ báo Đọc hiểu, chuyên đề Từ Hán Việt & Tu từ, Công thức 4 bước trả lời Tự luận đạt điểm tối đa.]
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[13/13 chỉ báo Đọc hiểu và 9 yêu cầu phần Viết, mỗi chỉ báo đều có lí thuyết, kĩ thuật và câu thực hành.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[03. DÀN Ý VẠN NĂNG & VĂN MẪU 4,0Đ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[Mô hình Ngôi Đền 5 Tầng phân tích chủ đề & nghệ thuật thần thoại kèm 06 bài văn mẫu hoàn chỉnh.]
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[03. QUY TRÌNH VIẾT & VĂN MẪU 4,0Đ]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Quy trình 4 bước theo SGK, Ngôi Đền 5 Tầng, 12 đoạn văn mẫu và bài mẫu có bảng chấm từng đoạn.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. TRỌN BỘ CÂU HỎI & ĐÁP ÁN CHI TIẾT]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[40 câu luyện theo chỉ báo + 06 đề thi chuẩn 90 phút (66 câu), giải thích từng phương án nhiễu & thang điểm 0,25.]
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. PHỤ LỤC TRA CỨU & KHO NGUYÊN LIỆU]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Bảng đối chiếu Bản đặc tả, 30 thuật ngữ, 16 câu bình giá, 12 câu đối sánh, 30 cụm nâng cấp diễn đạt.]
           ],
         )
 
@@ -504,9 +624,9 @@
     #text(size: 12.5pt, weight: "bold", fill: c-navy)[MỤC LỤC TỔNG QUÁT]
     #v(2pt)
     #line(length: 100%, stroke: 1.2pt + c-indigo)
-    #v(4pt)
-    #set text(size: 9.2pt)
-    #outline(title: none, indent: 1.2em, depth: 2)
+    #v(3pt)
+    #set par(leading: 0.45em, spacing: 0.2em)
+    #outline(title: none, indent: 1.1em, depth: 2)
   ]
 
   body

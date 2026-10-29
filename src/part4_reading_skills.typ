@@ -198,7 +198,7 @@ B. *Trí tưởng tượng bay bổng là một yếu điểm làm nên sức h�
 C. *Tính hay quên là một yếu điểm khiến Thần Mưa có lúc gây ra hạn hán, lũ lụt cho hạ giới.*\
 D. *Hình tượng Prô-mê-tê kết tinh vẻ đẹp trí tuệ và lòng nhân ái bao la.*
 
-*Câu 21.* Trong câu văn: *“Ông Đùng, bà Đùng đứng cao lắm, có dễ đứng cao hơn năm lần đỉnh núi cao nhất”* (*Sự tích Ông Đùng, bà Đùng*), tác giả dân gian đã sử dụng biện pháp tu từ nổi bật nào?\
+*Câu 21.* Trong câu văn: *“Ông Đùng, bà Đùng đứng cao lắm, có dễ đứng cao hơn năm lần đỉnh núi cao nhất”* (*Sự tích Ông Đùng, Bà Đùng*), tác giả dân gian đã sử dụng biện pháp tu từ nổi bật nào?\
 A. Ẩn dụ chuyển đổi cảm giác. #h(1.8em) B. Hoán dụ lấy bộ phận chỉ toàn thể.\
 C. Nói quá (phóng đại) kết hợp so sánh. #h(1.2em) D. Chơi chữ đồng âm.
 

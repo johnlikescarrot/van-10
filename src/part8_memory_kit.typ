@@ -108,3 +108,23 @@ Trước khi đặt bút nộp bài lúc hết 90 phút, hãy dành đúng #stro
   [*7*], [Số tờ giấy thi & Phách], [Ghi đầy đủ Họ tên, Số báo danh, Lớp, Phòng thi và #strong[tổng số tờ giấy thi] nộp cho giám thị.],
   [*8*], [Tâm thế tự tin], [Hít sâu, giữ bài làm sạch sẽ, trình bày thoáng rõ từng phần `I. ĐỌC HIỂU` và `II. VIẾT`.]
 )
+
+= 7.5. Lộ trình 7 Ngày cuối — Mỗi ngày 90 phút, đi đúng thứ tự này
+
+Ôn thi hiệu quả không nằm ở số giờ mà ở #strong[thứ tự]. Bảng dưới đây chia đều 8 phần của tài liệu vào 7 ngày, mỗi ngày đúng một “khối” kiến thức và một sản phẩm kiểm chứng — học xong phải #strong[viết ra được], không chỉ đọc lại.
+
+#study-table(
+  (0.5fr, 1.9fr, 2.5fr, 1.8fr),
+  ("Ngày", "Khối kiến thức (đọc phần nào)", "Việc phải làm (90 phút)", "Sản phẩm kiểm chứng"),
+  [*D1*], [Phần I + Phần II §2.1 – §2.3: ma trận, bản đặc tả, khái niệm thần thoại], [Đọc ma trận, tự vẽ lại sơ đồ 8 đặc trưng thể loại bằng giấy trắng; đối chiếu §2.1.], [Vẽ đúng 8/8 đặc trưng, không mở sách.],
+  [*D2*], [Phần II §2.4 – §2.6: 12 truyện ngoài SGK + bảng đối sánh ba nền văn hoá], [Học 6 truyện “tủ” (Thần Biển, Thần Mưa, Nữ thần Lúa, Mười hai Bà Mụ, Ông Đùng – Bà Đùng, Nữ Oa); mỗi truyện ghi 1 câu chủ đề + 1 chi tiết đắt.], [6 thẻ, mỗi thẻ 3 dòng: tên – chủ đề – dẫn chứng.],
+  [*D3*], [Phần III: Tiếng Việt (từ Hán Việt, biện pháp tu từ, phép liên kết)], [Làm lại toàn bộ ví dụ trong §3.1 – §3.4 mà không nhìn đáp án; soi 22 lỗi chính tả ở §8.6.], [Đúng ≥ 80% ví dụ; viết đúng 10 từ hay sai.],
+  [*D4*], [Phần IV: kĩ năng Đọc hiểu + 40 câu ngân hàng], [Làm 20 câu đầu trong 30 phút, chấm bằng đáp án; ghi lại dạng câu hay mất điểm nhất.], [Bảng lỗi cá nhân: dạng câu – lỗi – cách sửa.],
+  [*D5*], [Phần V: quy trình viết, Ngôi Đền 5 Tầng, P–E–E–V, 12 đoạn mẫu], [Viết trọn một bài 850 chữ theo §5.5 trong 55 phút; tự chấm bằng bảng ở §5.9.], [Bài viết có đủ 8 đoạn, ≥ 3,0đ tự chấm.],
+  [*D6*], [Phần VI + VII: Đề 01 – Đề 06 (chọn 3 đề sát ma trận nhất)], [Làm nguyên 90 phút/đề, bấm giờ; chỉ đọc đáp án sau khi hết giờ; ghi 3 lỗi lặp lại.], [3 phiếu làm bài đã tự chấm theo thang 10.],
+  [*D7*], [Phần VIII: phụ lục tra cứu (bảng phủ, 30 thuật ngữ, 16 câu bình giá, 12 câu đối sánh)], [Học thuộc 6 câu bình giá và 4 câu đối sánh; đọc lại checklist §7.4; ngủ đủ.], [Đọc – nhớ – viết lại 6 câu bình giá trong 10 phút.],
+)
+
+#trap-box(title: "ĐỪNG HỌC LẠI TỪ ĐẦU — HÃY HỌC THEO LỖI")[
+  Nếu chỉ còn #strong[2 ngày]: bỏ D1 – D3, dồn vào #strong[D5 + D7] (viết và tra cứu). Điểm Viết là 4,0đ và là phần duy nhất có thể tăng 1,0 – 1,5đ trong 48 giờ; phần Đọc hiểu khi ấy chỉ nên xem lại đúng những dạng câu đã ghi trong bảng lỗi của bạn.
+]
