@@ -1,12 +1,12 @@
 #import "template.typ": *
 
 #part-banner(
-  "PHẦN VII",
+  "PHẦN VIII",
   "Hệ Thống Ghi Nhớ Siêu Tốc & Lộ Trình Nước Rút 7 Ngày",
   "Ứng dụng khoa học nhận thức hiện đại (Active Recall — Truy xuất chủ động, Spaced Repetition — Lặp lại ngắt quãng & Dual Coding — Mã hóa kép) giúp khắc sâu 100% kiến thức vào trí nhớ dài hạn trước giờ G."
 )
 
-= 7.1. Lộ Trình Ôn Tập Nước Rút 7 Ngày Đạt Điểm 9+ (Spaced Repetition Sprint)
+= 8.1. Lộ Trình Ôn Tập Nước Rút 7 Ngày Đạt Điểm 9+ (Spaced Repetition Sprint)
 
 Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm trước kì thi (*cramming*) khiến não bộ rơi vào ảo giác ghi nhớ và quên tới 65% khi gặp áp lực phòng thi. Hãy áp dụng lịch trình #strong[Lặp lại ngắt quãng 7 ngày] dưới đây (mỗi ngày 60 – 90 phút):
 
@@ -15,14 +15,14 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
   ("Ngày", "Trọng tâm Ôn luyện", "Hoạt động Truy xuất Chủ động (Active Recall)", "Ôn lặp lại (Review)"),
   [*Ngày 1*\ *(60 phút)*], [Nắm vững Ma trận 2026–2027 & Tri thức Thần thoại (Phần I & II)], [Tự vẽ lại sơ đồ tư duy #strong[“5K – 1C”] ra giấy trắng không nhìn tài liệu; lập bảng phân biệt *Thần thoại suy nguyên* và *Thần thoại sáng tạo* kèm 3 ví dụ ngoài SGK.], [Kiểm tra chéo Flashcard số 01 → 10.],
   [*Ngày 2*\ *(75 phút)*], [Làm chủ Tiếng Việt: Từ Hán Việt, BPTT & Liên kết (Phần III)], [Thuộc lòng khẩu quyết 4 lỗi dùng từ Hán Việt #strong[“ÂM NHẦM – NGHĨA LỆCH – CẢNH SAI – THỪA LẶP”]; thực hành giải thích 24 từ Hán Việt cốt lõi.], [Nhẩm lại công thức #strong[5K – 1C] (5 phút đầu buổi).],
-  [*Ngày 3*\ *(75 phút)*], [Kĩ thuật Phá nhiễu Đọc hiểu & Ngân hàng 40 câu Đặc tả (Phần IV)], [Tự làm 28 câu TNKQ + viết tay 4 câu TL (Câu 31, 33, 37, 39) theo công thức #strong[“GỌI – TRÍCH – GIẢI – CHỐT”] rồi đối chiếu đáp án.], [Ôn lại các cặp từ Hán Việt dễ nhầm (10 phút).],
+  [*Ngày 3*\ *(75 phút)*], [Kĩ thuật Phá nhiễu Đọc hiểu & Ngân hàng 40 câu Đặc tả (Phần IV)], [Tự làm 28 câu TNKQ + viết tay 4 câu TL (Câu 31, 33, 37, 39); học 24 dạng câu hỏi ở Phần VII theo công thức #strong[“GỌI – TRÍCH – GIẢI – CHỐT”] rồi đối chiếu đáp án.], [Ôn lại các cặp từ Hán Việt dễ nhầm (10 phút).],
   [*Ngày 4*\ *(90 phút)*], [Phương pháp Viết Bài văn Nghị luận 4,0 điểm (Phần V)], [Học thuộc sơ đồ #strong[“Ngôi Đền 5 Tầng”], quy tắc #strong[P–E–E–V], chọn 02 mẫu Mở bài tâm đắc và 04 nhận định lí luận văn học để viết nháp thuộc lòng.], [Rà lại các câu TNKQ làm sai ở Ngày 3.],
   [*Ngày 5*\ *(90 phút)*], [Thi thử bấm giờ thực chiến: #strong[Đề số 01 & Đề số 04] (Phần VI)], [Bấm đồng hồ đúng #strong[90 phút] làm trọn vẹn Đề 01 (Phương án A); buổi tối đọc phân tích Đề 04 (Phương án B — 2 ngữ liệu độc lập) và tự chấm theo Rubric 0,25đ.], [Ôn Flashcard số 11 → 22.],
-  [*Ngày 6*\ *(90 phút)*], [Thi thử bấm giờ thực chiến: #strong[Đề số 05 hoặc Đề số 06] (Phần VI)], [Chọn làm trọn vẹn Đề 06 (*Prô-mê-tê và loài người* — thần thoại nước ngoài) trong 90 phút; đọc kĩ 6 bài văn mẫu để tích lũy từ vựng bình giá giàu chất văn.], [Ôn lại toàn bộ lỗi sai từ Ngày 1 → Ngày 5.],
-  [*Ngày 7*\ *(45 phút)*], [Tổng rà soát nhẹ nhàng & Chuẩn bị tâm lí thi (Phần VII)], [Tự khảo toàn bộ #strong[24 Flashcards Truy xuất chủ động], đọc kĩ #strong[Trang Tóm Lược Toàn Năng] và #strong[Checklist 5 Phút Vàng]; nghỉ ngơi sớm trước 22h00.], [Tổng ôn vòng cuối toàn bộ từ khóa cốt lõi.]
+  [*Ngày 6*\ *(90 phút)*], [Thi thử bấm giờ thực chiến: #strong[Đề số 05 hoặc Đề số 06] (Phần VI)], [Chọn làm trọn vẹn Đề 06 (*Prô-mê-tê và loài người*) hoặc Đề 08 (*Bàn Cổ khai thiên lập địa*) trong 90 phút; đối chiếu với 08 bài văn mẫu để tích lũy từ vựng bình giá giàu chất văn.], [Ôn lại toàn bộ lỗi sai từ Ngày 1 → Ngày 5.],
+  [*Ngày 7*\ *(45 phút)*], [Tổng rà soát nhẹ nhàng & Chuẩn bị tâm lí thi (Phần VIII)], [Tự khảo toàn bộ #strong[24 Flashcards Truy xuất chủ động], đọc kĩ #strong[Trang Tóm Lược Toàn Năng] và #strong[Checklist 5 Phút Vàng]; nghỉ ngơi sớm trước 22h00.], [Tổng ôn vòng cuối toàn bộ từ khóa cốt lõi.]
 )
 
-= 7.2. Bộ 24 Thẻ Truy Xuất Chủ Động (Active Recall Flashcards)
+= 8.2. Bộ 24 Thẻ Truy Xuất Chủ Động (Active Recall Flashcards)
 
 #callout(
   title: "HƯỚNG DẪN SỬ DỤNG THẺ FLASHCARD HIỆU QUẢ GẤP 3 LẦN ĐỌC THỤ ĐỘNG",
@@ -37,8 +37,8 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
   ("Thẻ", "Câu hỏi Kích hoạt Trí nhớ (Che cột phải)", "Đáp án Chuẩn xác Cốt lõi (Từ khóa ăn điểm)"),
   [*01*], [Cấu trúc đề thi Giữa kì 1 Ngữ văn 10 (2026–2027) gồm mấy phần, mấy câu, thời gian bao lâu?], [#strong[90 phút — 11 câu — 10,0đ:] Phần Đọc hiểu #strong[6,0đ] (8 TNKQ × 0,5đ + 2 TL × 1,0đ, thần thoại ngoài SGK) + Phần Viết #strong[4,0đ] (01 bài văn nghị luận phân tích, đánh giá truyện thần thoại ngoài SGK).],
   [*02*], [Tỉ lệ 3 mức độ tư duy trong toàn đề thi là bao nhiêu phần trăm?], [#strong[Nhận biết 40%] (3,0đ TN + 1,0đ Viết) — #strong[Thông hiểu 30%] (1,0đ TN + 1,0đ TL + 1,0đ Viết) — #strong[Vận dụng 30%] (1,0đ TL + 2,0đ Viết).],
-  [*03*], [Kể tên 4 văn bản thần thoại ĐÃ HỌC trong SGK *Kết nối tri thức* (sẽ KHÔNG ra làm ngữ liệu chính)?], [*(1) Thần Trụ Trời*, *(2) Thần Sét*, *(3) Thần Gió* (Việt Nam) và *(4) Tê-dê* (Hy Lạp — Thực hành đọc). Chỉ dùng 4 truyện này để #strong[liên hệ mở rộng]!],
-  [*04*], [Giải mã khẩu quyết #strong[“5K – 1C”] nhận diện thể loại Thần thoại?], [#strong[K1] Khởi nguyên (suy nguyên & sáng tạo) — #strong[K2] Không gian vũ trụ nhiều cõi — #strong[K3] Thời gian cổ sơ phiếm chỉ — #strong[K4] Nhân vật Khổng lồ/Thần linh — #strong[K5] Kì ảo phóng đại — #strong[1C] Cốt truyện đơn tuyến.],
+  [*03*], [Kể tên các văn bản ĐÃ HỌC trong SGK *Kết nối tri thức* Bài 1 (sẽ KHÔNG ra làm ngữ liệu chính)?], [*Cụm truyện về các vị thần sáng tạo thế giới* (*Thần Trụ Trời*, *Thần Sét*, *Thần Gió*), *Tản Viên từ Phán sự lục*, *Chữ người tử tù* và *Tê-dê* (Thực hành đọc). Chỉ dùng các truyện này để #strong[liên hệ, đối sánh mở rộng]!],
+  [*04*], [Giải mã khẩu quyết #strong[“5K – 1C”] nhận diện thể loại Thần thoại?], [#strong[K1] t/gian Khoảng cổ sơ phiếm chỉ — #strong[K2] Không gian vũ trụ nhiều cõi — #strong[K3] Kết cấu cốt truyện đơn tuyến — #strong[K4] Khổng lồ nhân vật thần linh — #strong[K5] Kì ảo phóng đại — #strong[1C] Chức năng Cắt nghĩa tự nhiên & khát vọng nhân sinh. Khẩu quyết: *“KHOẢNG THỜI PHIẾM — KHÔNG GIAN ĐA — KẾT CẤU ĐƠN — KHỔNG LỒ THẦN — KÌ ẢO ĐẠI ⟹ CẮT NGHĨA ĐỜI”*.],
   [*05*], [Phân biệt *Thần thoại suy nguyên* và *Thần thoại sáng tạo*?], [#strong[Suy nguyên:] cắt nghĩa nguồn gốc vũ trụ, muôn loài, hiện tượng tự nhiên (*Thần Mưa, Nữ thần Mặt Trời...*). #strong[Sáng tạo:] ngợi ca anh hùng văn hoá chinh phục thiên nhiên, truyền nghề (*Prô-mê-tê, Thần Lúa, Sơn Tinh...*).],
   [*06*], [Điểm khác biệt cốt lõi nhất giữa #strong[Thần thoại] và #strong[Truyền thuyết] là gì?], [Thần thoại diễn ra ở #strong[thời gian cổ sơ phiếm chỉ] gắn với các vị thần kiến tạo vũ trụ; Truyền thuyết gắn với #strong[thời đại lịch sử xác định] (Hùng Vương, An Dương Vương...) và nhân vật/sự kiện lịch sử được kì ảo hóa.],
   [*07*], [Điểm khác biệt cốt lõi giữa #strong[Thần thoại] và #strong[Truyện cổ tích] là gì?], [Thần thoại giải thích tự nhiên (*“Vì sao có...?”*); Cổ tích giải quyết xung đột đạo đức – xã hội đời thường (*thiện – ác, giàu – nghèo*) theo ước mơ công lí *“ở hiền gặp lành”*.],
@@ -63,7 +63,7 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
 
 #pagebreak()
 
-= 7.3. Trang Tóm Lược Toàn Năng Trước Giờ Thi (One-Page Master Cheat Sheet)
+= 8.3. Trang Tóm Lược Toàn Năng Trước Giờ Thi (One-Page Master Cheat Sheet)
 
 #callout(
   title: "BẢN ĐỒ TÁC CHIẾN 1 TRANG — ĐỌC LƯỚT 15 PHÚT TRƯỚC KHI VÀO PHÒNG THI",
@@ -92,7 +92,7 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
 
 #v(0.3em)
 
-= 7.4. Checklist “5 Phút Vàng Cuối Giờ” Chống Mất Điểm Oan
+= 8.4. Checklist “5 Phút Vàng Cuối Giờ” Chống Mất Điểm Oan
 
 Trước khi đặt bút nộp bài lúc hết 90 phút, hãy dành đúng #strong[05 phút cuối cùng] rà soát lần lượt 8 hạng mục kiểm định sau đây:
 

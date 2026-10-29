@@ -158,8 +158,8 @@
 )[
   #text(font: font-sans, size: 8.6pt, weight: "bold", fill: c-purple, tracking: 0.3pt)[✦ #upper(title)]
   #v(5pt)
-  #set text(font: font-serif, size: 9.8pt, fill: rgb("#1D2433"))
-  #set par(leading: 0.68em, first-line-indent: 1.4em, spacing: 0.65em, justify: true)
+  #set text(font: font-serif, size: 9.6pt, fill: rgb("#1D2433"))
+  #set par(leading: 0.62em, first-line-indent: 1.3em, spacing: 0.58em, justify: true)
   #body
 ]
 
@@ -315,8 +315,13 @@
   show raw: set text(font: font-sans, size: 9.1pt, weight: "semibold", fill: c-indigo)
 
   show outline.entry.where(level: 1): it => {
-    v(5pt, weak: true)
-    strong(text(fill: c-navy, size: 9.6pt, it))
+    v(1.6pt, weak: true)
+    strong(text(fill: c-navy, size: 9.2pt, it))
+  }
+
+  show outline.entry.where(level: 2): it => {
+    set text(size: 8.7pt)
+    it
   }
 
   show heading.where(level: 2): it => {
@@ -375,7 +380,7 @@
 
         #v(14mm)
         #text(font: font-sans, size: 12pt, weight: "semibold", fill: rgb("#93C5FD"), tracking: 1pt)[
-          TÀI LIỆU ÔN TẬP CHUYÊN SÂU & TỐI ƯU GHI NHỚ NHẬN THỨC
+          TÀI LIỆU ÔN TẬP CHUYÊN SÂU & TỐI ƯU GHI NHỚ NHẬN THỨC • ẤN BẢN 4.0
         ]
         #v(5mm)
         #text(font: font-sans, size: 25pt, weight: "bold", fill: white)[
@@ -429,8 +434,8 @@
             ],
             block(fill: c-jade-soft, radius: 5pt, inset: 8pt, width: 100%)[
               #align(center)[
-                #text(size: 15pt, weight: "bold", fill: c-jade)[106 CÂU]\
-                #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & 6 ĐỀ]\
+                #text(size: 15pt, weight: "bold", fill: c-jade)[128 CÂU]\
+                #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & 8 ĐỀ THI]\
                 #text(size: 7.4pt, fill: c-slate)[100% có đáp án,\ giải nhiễu & văn mẫu]
               ]
             ]
@@ -453,11 +458,11 @@
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[03. DÀN Ý VẠN NĂNG & VĂN MẪU 4,0Đ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[Mô hình Ngôi Đền 5 Tầng phân tích chủ đề & nghệ thuật thần thoại kèm 06 bài văn mẫu hoàn chỉnh.]
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Mô hình Ngôi Đền 5 Tầng phân tích chủ đề & nghệ thuật thần thoại kèm 08 bài văn mẫu hoàn chỉnh.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. TRỌN BỘ CÂU HỎI & ĐÁP ÁN CHI TIẾT]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[40 câu luyện theo chỉ báo + 06 đề thi chuẩn 90 phút (66 câu), giải thích từng phương án nhiễu & thang điểm 0,25.]
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[40 câu theo chỉ báo + 08 đề thi chuẩn 90 phút (88 câu) + 24 dạng câu hỏi & 24 đề Viết mini kèm rubric tự chấm.]
           ],
         )
 
@@ -479,21 +484,22 @@
     fill: c-blue-soft,
     stroke: 0.8pt + c-blue-bdr,
     radius: 6pt,
-    inset: 12pt,
-    below: 12pt,
+    inset: 10pt,
+    below: 10pt,
   )[
-    #text(size: 10pt, weight: "bold", fill: c-navy)[CẨM NANG SỬ DỤNG ĐỀ CƯƠNG THEO KHOA HỌC NHẬN THỨC (COGNITIVE RETENTION)]
-    #v(4pt)
-    #set text(size: 9pt)
-    Đề cương này được thiết kế theo 4 nguyên lí khoa học ghi nhớ hiện đại nhằm giúp học sinh lớp 10 *hiểu bản chất – nhớ dài lâu – phản xạ tức thì trong 90 phút phòng thi*:
+    #text(size: 9.6pt, weight: "bold", fill: c-navy)[CẨM NANG SỬ DỤNG ĐỀ CƯƠNG THEO KHOA HỌC NHẬN THỨC (COGNITIVE RETENTION)]
+    #v(3pt)
+    #set text(size: 8.5pt)
+    #set par(leading: 0.45em, spacing: 0.35em)
+    Bốn nguyên lí ghi nhớ hiện đại giúp học sinh lớp 10 *hiểu bản chất – nhớ dài lâu – phản xạ tức thì trong 90 phút phòng thi*:
     #grid(
       columns: (1fr, 1fr),
       column-gutter: 12pt,
       row-gutter: 5pt,
       [*1. Mã hóa kép (Dual Coding):* Kết hợp bảng ma trận đối chiếu và sơ đồ cấu trúc để não bộ lưu trữ đồng thời kênh ngôn ngữ và kênh không gian.],
-      [*2. Khẩu quyết âm vần (Chunking & Mnemonics):* Mọi cụm kiến thức phức tạp đều được nén thành công thức ngắn gọn (*5K–1C*, *GỌI–TRÍCH–GIẢI–CHỐT*).],
+      [*2. Khẩu quyết âm vần (Chunking & Mnemonics):* Mọi cụm kiến thức phức tạp đều được nén thành công thức ngắn gọn (*5K–1C*, *GỌI–TRÍCH–GIẢI–CHỐT*, *P–E–E–V*, *ĐỌC–ĐỐI–ĐIỀN*).],
       [*3. Phòng vệ lỗi sai (Error Inoculation):* Hệ thống hộp *Cảnh báo bẫy phòng thi* chỉ rõ các phương án nhiễu hay đánh lừa học sinh nhất.],
-      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 40 câu theo chỉ báo + 06 đề thi thực chiến (66 câu) + 24 thẻ Flashcards kèm lộ trình ôn 7 ngày.]
+      [*4. Truy hồi chủ động (Active Recall):* 40 câu theo chỉ báo + 08 đề thi thực chiến (88 câu) + 24 đề Viết mini + 24 thẻ Flashcards kèm lộ trình ôn 7 ngày và bảng tự chấm 20 tiêu chí.]
     )
   ]
 
@@ -504,8 +510,9 @@
     #text(size: 12.5pt, weight: "bold", fill: c-navy)[MỤC LỤC TỔNG QUÁT]
     #v(2pt)
     #line(length: 100%, stroke: 1.2pt + c-indigo)
-    #v(4pt)
-    #set text(size: 9.2pt)
+    #v(3pt)
+    #set text(size: 8.9pt)
+    #set par(leading: 0.45em, spacing: 0.18em)
     #outline(title: none, indent: 1.2em, depth: 2)
   ]
 

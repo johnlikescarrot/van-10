@@ -3,7 +3,7 @@
 #part-banner(
   "PHẦN II",
   "Hệ Thống Hóa Tri Thức Ngữ Văn & Thể Loại Thần Thoại",
-  "Sơ đồ hóa Dual-Coding • Khẩu quyết 5K–1C • Phân biệt 5 thể loại tự sự • Giải phẫu 4 văn bản SGK & 12 thần thoại ngoài SGK"
+  "Sơ đồ hóa Dual-Coding • Khẩu quyết 5K–1C • Phân biệt 5 thể loại tự sự • Giải phẫu 6 văn bản SGK & 12 thần thoại ngoài SGK"
 )
 
 = 2.1. Hệ thống Tri thức Nền tảng về Truyện kể (SGK Kết nối tri thức — Bài 1)
@@ -122,6 +122,8 @@
   ]
 )
 
+*Ghi chú nguồn ngữ liệu:* *Prô-mê-tê và loài người* là văn bản quen thuộc trong SGK Ngữ văn 10 bộ *Chân trời sáng tạo* (Bài 1, tr. 15 – 17); với học sinh học bộ *Kết nối tri thức*, đây vẫn được xem là #strong[ngữ liệu ngoài SGK] và hoàn toàn có thể xuất hiện trong đề thi.
+
 *Lưu ý tinh tế:* Giữa hai nhóm có sự giao thoa hữu cơ (ví dụ: *Prô-mê-tê và loài người* vừa mang yếu tố *suy nguyên* khi lí giải sự hình thành muôn vật và hình dáng con người, vừa mang đậm tính *sáng tạo văn hoá* khi thần lấy ngọn lửa văn minh trao cho nhân loại!).
 
 == C. Sơ đồ & Khẩu quyết Vàng “5K – 1C” Giải mã 5 Đặc trưng Thần thoại
@@ -190,9 +192,9 @@ Trong câu hỏi số 1 của đề thi (xác định thể loại hoặc đặc
   *(Thần thoại giải thích khởi nguyên • Sử thi ca ngợi anh hùng bộ tộc • Truyền thuyết gắn mốc lịch sử • Cổ tích thưởng người hiền đời thường • Truyền kì văn viết mượn kì ảo nói chuyện đời).*
 ]
 
-= 2.4. Hệ thống hóa 04 Văn bản SGK Kết nối tri thức Bài 1 (Chuẩn đối sánh & Mở rộng)
+= 2.4. Hệ thống hóa 06 Văn bản SGK Kết nối tri thức Bài 1 (Chuẩn đối sánh & Mở rộng)
 
-Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc 4 văn bản Bài 1 giúp học sinh: *(1) thành thạo thao tác giải mã thể loại mẫu; (2) sở hữu kho dẫn chứng đối sánh cực kì đắt giá để ăn trọn 0,5 điểm Sáng tạo trong bài văn Câu 11!*
+Bài 1 *Sức hấp dẫn của truyện kể* gồm #strong[sáu văn bản]: cụm *Truyện về các vị thần sáng tạo thế giới* (*Thần Trụ Trời*, *Thần Sét*, *Thần Gió*), *Tản Viên từ Phán sự lục*, *Chữ người tử tù* và văn bản Thực hành đọc *Tê-dê*. Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc sáu văn bản này giúp học sinh: *(1) thành thạo thao tác giải mã thể loại mẫu; (2) sở hữu kho dẫn chứng đối sánh cực kì đắt giá để ăn trọn 0,5 điểm Sáng tạo trong bài văn Câu 11!*
 
 #study-table(
   (1.4fr, 1.1fr, 2.5fr, 2.0fr),

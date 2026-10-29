@@ -31,45 +31,49 @@
 
 *Lựa chọn 01 đáp án đúng nhất cho mỗi câu hỏi từ Câu 1 đến Câu 8 (mỗi câu 0,5 điểm):*
 
-*Câu 1* #badge-biet. Thời gian diễn ra sự việc trong văn bản *Cuộc tu bổ lại các giống vật* được xác định vào thời điểm nào?\
-A. Sau khi con người đã xây dựng xong các thành quách, cung điện đồ sộ.\
-B. Lúc sơ khởi, trước khi Ngọc Hoàng sáng tạo ra con người.\
+*Câu 1* #badge-biet. Thời gian diễn ra sự việc trong văn bản *Cuộc tu bổ lại các giống vật* được xác định vào thời điểm nào?
+A. Lúc sơ khởi, trước khi Ngọc Hoàng sáng tạo ra con người.\
+B. Sau khi con người đã xây dựng xong các thành quách, cung điện đồ sộ.\
 C. Vào thế kỉ thứ X khi đất nước giành độc lập tự chủ.\
 D. Vào đêm giao thừa hằng năm ở các làng quê Việt Nam.
 
-*Câu 2* #badge-biet. Theo văn bản, vì sao khi mới được Ngọc Hoàng nặn ra, một số loài vật lại có cơ thể chưa đầy đủ?\
+*Câu 2* #badge-biet. Theo văn bản, vì sao khi mới được Ngọc Hoàng nặn ra, một số loài vật lại có cơ thể chưa đầy đủ?
 A. Vì các loài vật mải đánh nhau làm gãy chân và rách cánh.\
-B. Một phần vì thiếu nguyên liệu, một phần vì Ngọc Hoàng vội vàng muốn có một thế giới ngay trong một sớm một chiều.\
+B. Vì con người đã lấy mất nguyên liệu của muôn loài.\
 C. Vì ba vị Thiên thần cố tình giấu bớt nguyên liệu trên núi.\
-D. Vì con người đã lấy mất nguyên liệu của muôn loài.
+D. Một phần vì thiếu nguyên liệu, một phần vì Ngọc Hoàng vội vàng muốn có một thế giới ngay trong một sớm một chiều.
 
-*Câu 3* #badge-biet. Khi nguyên liệu mang theo đã phát hết nhẵn, Thiên thần đã dùng vật gì để chắp thêm chân cho con vịt và con chó?\
-A. Bẻ một nắm chân hương. #h(3.5em) B. Bẻ cành tre khô bên suối.\
-C. Tạm bẻ chân ghế để chắp vào. #h(2.5em) D. Nặn thêm bằng bùn đất sét.
+*Câu 3* #badge-biet. Khi nguyên liệu mang theo đã phát hết nhẵn, Thiên thần đã dùng vật gì để chắp thêm chân cho con vịt và con chó?
+A. Bẻ một nắm chân hương.\
+B. Bẻ cành tre khô bên suối.\
+C. Tạm bẻ chân ghế để chắp vào.\
+D. Nặn thêm bằng bùn đất sét.
 
-*Câu 4* #badge-biet. Chi tiết Thiên thần gắn *“một nắm chân hương”* làm đôi chân cho chim chiền chiện, đỏ nách, ốc cau nhằm cắt nghĩa đặc điểm và tập tính tự nhiên nào của các loài chim ấy?\
+*Câu 4* #badge-biet. Chi tiết Thiên thần gắn *“một nắm chân hương”* làm đôi chân cho chim chiền chiện, đỏ nách, ốc cau nhằm cắt nghĩa đặc điểm và tập tính tự nhiên nào của các loài chim ấy?
 A. Tiếng hót thánh thót vang xa trên bầu trời mùa xuân.\
-B. Bộ lông sặc sỡ nhiều màu sắc rực rỡ.\
-C. Đôi chân mảnh khảnh, yếu ớt màu đỏ nhạt như chân hương và thói quen chới với ba lần thử đặt chân trước khi đậu.\
+B. Đôi chân mảnh khảnh, yếu ớt màu đỏ nhạt như chân hương và thói quen chới với ba lần thử đặt chân trước khi đậu.\
+C. Bộ lông sặc sỡ nhiều màu sắc rực rỡ.\
 D. Tập tính di cư từ phương Bắc về phương Nam tránh rét.
 
-*Câu 5* #badge-biet. Các vật liệu dùng để “chữa cháy” cho muôn vật như *“chân ghế”*, *“nắm chân hương”* phản ánh dấu ấn văn hoá đời sống nào của tác giả dân gian?\
+*Câu 5* #badge-biet. Các vật liệu dùng để “chữa cháy” cho muôn vật như *“chân ghế”*, *“nắm chân hương”* phản ánh dấu ấn văn hoá đời sống nào của tác giả dân gian?
 A. Đời sống sinh hoạt gia đình và tín ngưỡng thắp hương thờ cúng quen thuộc, mộc mạc của người Việt.\
 B. Nền văn minh cơ khí công nghiệp hiện đại phương Tây.\
 C. Cuộc sống du mục trên thảo nguyên băng giá.\
 D. Nghi lễ cung đình xa hoa của hoàng tộc phương Bắc.
 
-*Câu 6* #badge-biet. Thành phần ngôn ngữ trong câu: *“— Chết nỗi! Chân như thế này thì đậu thế nào cho vững được?”* là:\
-A. Lời người kể chuyện bình luận ngoại đề. #h(1.5em) B. Lời trực tiếp của nhân vật (các loài chim).\
-C. Lời độc thoại nội tâm của Ngọc Hoàng. #h(1.7em) D. Lời dẫn gián tiếp của ba vị Thiên thần.
+*Câu 6* #badge-biet. Thành phần ngôn ngữ trong câu: *“— Chết nỗi! Chân như thế này thì đậu thế nào cho vững được?”* là:
+A. Lời người kể chuyện bình luận ngoại đề.\
+B. Lời độc thoại nội tâm của Ngọc Hoàng.\
+C. Lời trực tiếp của nhân vật (các loài chim).\
+D. Lời dẫn gián tiếp của ba vị Thiên thần.
 
-*Câu 7* #badge-hieu. Qua hành động cố lo làm tròn nhiệm vụ, thương tình bẻ chân ghế giúp chó vịt và bẻ chân hương giúp các loài chim nhỏ dù nguyên liệu đã cạn, hình tượng ba vị Thiên thần hiện lên với phẩm chất gì đáng quý?\
+*Câu 7* #badge-hieu. Qua hành động cố lo làm tròn nhiệm vụ, thương tình bẻ chân ghế giúp chó vịt và bẻ chân hương giúp các loài chim nhỏ dù nguyên liệu đã cạn, hình tượng ba vị Thiên thần hiện lên với phẩm chất gì đáng quý?
 A. Nóng nảy, nguyên tắc cứng nhắc và thờ ơ trước nỗi khổ của muôn loài.\
-B. Tận tâm, giàu lòng trắc ẩn, linh hoạt sáng tạo để không bỏ rơi những sinh linh đến muộn thiệt thòi.\
+B. Thiên vị các loài chim nhỏ hơn các loài thú bốn chân.\
 C. Hấp tấp, qua loa cho xong việc để sớm trở về Thiên đình dự tiệc.\
-D. Thiên vị các loài chim nhỏ hơn các loài thú bốn chân.
+D. Tận tâm, giàu lòng trắc ẩn, linh hoạt sáng tạo để không bỏ rơi những sinh linh đến muộn thiệt thòi.
 
-*Câu 8* #badge-hieu. Nhận xét nào đánh giá đúng nhất sự kết hợp giữa lời người kể chuyện và lời nhân vật trong văn bản trên?\
+*Câu 8* #badge-hieu. Nhận xét nào đánh giá đúng nhất sự kết hợp giữa lời người kể chuyện và lời nhân vật trong văn bản trên?
 A. Toàn bộ văn bản chỉ có đối thoại kịch mà hoàn toàn vắng bóng lời người kể chuyện.\
 B. Lời người kể chuyện ngôi thứ ba dẫn dắt mạch sự việc tự nhiên, kết hợp hài hòa với những lời đối thoại ngắn gọn, hóm hỉnh của Thiên thần và loài vật làm tăng tính sinh động, chân thực cho câu chuyện suy nguyên.\
 C. Lời nhân vật sử dụng toàn bộ điển tích chữ Hán cầu kì khó hiểu.\
@@ -101,13 +105,13 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
   #study-table(
     (0.6fr, 0.6fr, 1.3fr, 4.5fr),
     ("Câu", "Đ/A", "Chỉ báo", "Giải thích căn cứ & Loại trừ phương án nhiễu"),
-    [*1*], [*B*], [CB1 – Biết], [Câu mở đầu xác định rõ thời gian cổ sơ: *“Ngọc Hoàng trước khi sáng tạo ra con người đã nặn ra vạn vật. Nhưng lúc sơ khởi...”*.],
-    [*2*], [*B*], [CB2 – Biết], [Nguyên văn đoạn 1: *“một phần vì thiếu nguyên liệu, một phần cũng vì vội vàng muốn có một thế giới ngay trong một sớm một chiều”*.],
+    [*1*], [*A*], [CB1 – Biết], [Câu mở đầu xác định rõ thời gian cổ sơ: *“Ngọc Hoàng trước khi sáng tạo ra con người đã nặn ra vạn vật. Nhưng lúc sơ khởi...”*.],
+    [*2*], [*D*], [CB2 – Biết], [Nguyên văn đoạn 1: *“một phần vì thiếu nguyên liệu, một phần cũng vì vội vàng muốn có một thế giới ngay trong một sớm một chiều”*.],
     [*3*], [*C*], [CB3 – Biết], [Đoạn 3 nêu rõ: *“Thiên thần thương tình bèn tạm bẻ chân ghế chắp cho một chân con vịt và một chân sau con chó bị thiếu”*.],
-    [*4*], [*C*], [CB3 – Biết], [Chân hương mảnh, màu đỏ gắn với chân chim nhỏ và lời dặn đặt nhớm chân thử độ vững cắt nghĩa thói quen chới với ba lần trước khi đậu.],
+    [*4*], [*B*], [CB3 – Biết], [Chân hương mảnh, màu đỏ gắn với chân chim nhỏ và lời dặn đặt nhớm chân thử độ vững cắt nghĩa thói quen chới với ba lần trước khi đậu.],
     [*5*], [*A*], [CB4 – Biết], [*Chân ghế gỗ* và *chân hương* là hai vật dụng hết sức bình dị, quen thuộc trong mỗi nếp nhà và bàn thờ gia tiên người Việt.],
-    [*6*], [*B*], [CB3 – Biết], [Đặt sau dấu gạch ngang đầu dòng và lời dẫn *“bọn chim kia kêu lên:”* → lời trực tiếp của nhân vật.],
-    [*7*], [*B*], [CB6 – Hiểu], [Ba vị Thiên thần không bỏ mặc những con vật đến muộn mà tìm mọi cách linh hoạt lấy vật dụng quanh mình bù đắp khiếm khuyết cho chúng.],
+    [*6*], [*C*], [CB3 – Biết], [Đặt sau dấu gạch ngang đầu dòng và lời dẫn *“bọn chim kia kêu lên:”* → lời trực tiếp của nhân vật.],
+    [*7*], [*D*], [CB6 – Hiểu], [Ba vị Thiên thần không bỏ mặc những con vật đến muộn mà tìm mọi cách linh hoạt lấy vật dụng quanh mình bù đắp khiếm khuyết cho chúng.],
     [*8*], [*B*], [CB8 – Hiểu], [Sự đan xen nhịp nhàng giữa lời kể ngôi thứ ba mộc mạc và lời thoại trực tiếp tạo nét duyên dáng, hóm hỉnh hiếm có cho truyện thần thoại.]
   )
 
@@ -163,46 +167,49 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
 
 *Lựa chọn 01 đáp án đúng nhất cho mỗi câu hỏi từ Câu 1 đến Câu 8 (mỗi câu 0,5 điểm):*
 
-*Câu 1* #badge-biet. Bối cảnh không gian ở xứ Mường Bi trước khi ông Đùng, bà Đùng ra tay cải tạo được miêu tả như thế nào?\
+*Câu 1* #badge-biet. Bối cảnh không gian ở xứ Mường Bi trước khi ông Đùng, bà Đùng ra tay cải tạo được miêu tả như thế nào?
 A. Đồng ruộng thẳng cánh cò bay, phố xá đông đúc tấp nập.\
 B. Đất cao thấp lồi lõm, cây cối hoang dại mọc chằng chịt, nước chảy ngập lênh láng khắp nơi.\
 C. Hạn hán khô cằn nứt nẻ suốt ba năm không có một giọt nước.\
 D. Băng tuyết phủ trắng xóa quanh năm không loài cây nào mọc nổi.
 
-*Câu 2* #badge-biet. Theo văn bản, đôi vợ chồng khổng lồ ông Đùng, bà Đùng đã thực hiện hai kì tích lớn nào giúp dân Mường?\
+*Câu 2* #badge-biet. Theo văn bản, đôi vợ chồng khổng lồ ông Đùng, bà Đùng đã thực hiện hai kì tích lớn nào giúp dân Mường?
 A. Đúc trống đồng và chế tạo cung nỏ đánh đuổi giặc ngoại xâm.\
 B. Luyện đá ngũ sắc vá vòm trời và lấy lửa từ thần Mặt Trời.\
 C. Nhổ cây san đất tạo thành cánh đồng Thạch Bi màu mỡ và bới đất khơi dòng tạo nên con sông Đà dẫn nước thoát lũ.\
 D. Mở hội thi tuyển chọn các loài cá dưới suối hóa thành rồng phun mưa.
 
-*Câu 3* #badge-biet. Chi tiết *“do vét đất cả vào ban đêm không nhìn rõ”* được tác giả dân gian dùng để giải thích đặc điểm địa lí nào của con sông Đà?\
+*Câu 3* #badge-biet. Chi tiết *“do vét đất cả vào ban đêm không nhìn rõ”* được tác giả dân gian dùng để giải thích đặc điểm địa lí nào của con sông Đà?
 A. Nước sông Đà đổi màu theo hai mùa xuân và thu.\
-B. Dòng sông Đà chảy ngoằn ngoèo và có nhiều thác ghềnh (*“trăm bảy mươi thác, trăm ba mươi ghềnh”*).\
+B. Hai bên bờ sông Đà có nhiều rừng hoa ban nở trắng.\
 C. Sông Đà có nhiều loài cá quý sinh sống dưới đáy vực sâu.\
-D. Hai bên bờ sông Đà có nhiều rừng hoa ban nở trắng.
+D. Dòng sông Đà chảy ngoằn ngoèo và có nhiều thác ghềnh (*“trăm bảy mươi thác, trăm ba mươi ghềnh”*).
 
-*Câu 4* #badge-biet. Câu văn: *“Họ làm suốt từ lúc #strong[mặt trời thức] đến lúc #strong[mặt trời đi ngủ] vẫn không nghỉ”* sử dụng biện pháp tu từ nào ở các từ in đậm?\
-A. Nhân hóa. #h(3.5em) B. Hoán dụ. #h(3.5em) C. Nói giảm nói tránh. #h(2.5em) D. Chơi chữ.
+*Câu 4* #badge-biet. Câu văn: *“Họ làm suốt từ lúc #strong[mặt trời thức] đến lúc #strong[mặt trời đi ngủ] vẫn không nghỉ”* sử dụng biện pháp tu từ nào ở các từ in đậm?
+A. Nhân hóa.\
+B. Hoán dụ.\
+C. Nói giảm nói tránh.\
+D. Chơi chữ.
 
-*Câu 5* #badge-biet. Văn bản *Sự tích Ông Đùng, bà Đùng* phản ánh rõ nét bối cảnh lịch sử – văn hoá nào của đồng bào dân tộc Mường thời cổ đại?\
-A. Công cuộc khai hoang lập bản, san ruộng làm lúa và trị thủy chinh phục thiên nhiên vùng thung lũng núi cao Tây Bắc – Hòa Bình.\
+*Câu 5* #badge-biet. Văn bản *Sự tích Ông Đùng, bà Đùng* phản ánh rõ nét bối cảnh lịch sử – văn hoá nào của đồng bào dân tộc Mường thời cổ đại?
+A. Đời sống thương mại trao đổi hàng hóa với thương thuyền phương Tây.\
 B. Nghề đánh bắt hải sản xa bờ trên đại dương mênh mông.\
-C. Đời sống thương mại trao đổi hàng hóa với thương thuyền phương Tây.\
+C. Công cuộc khai hoang lập bản, san ruộng làm lúa và trị thủy chinh phục thiên nhiên vùng thung lũng núi cao Tây Bắc – Hòa Bình.\
 D. Sinh hoạt văn chương khoa cử nơi kinh đô phong kiến.
 
-*Câu 6* #badge-biet. Cặp nhân vật ông Đùng – bà Đùng thuộc mô-típ nhân vật đặc trưng nào trong kho tàng thần thoại các dân tộc Việt Nam?\
+*Câu 6* #badge-biet. Cặp nhân vật ông Đùng – bà Đùng thuộc mô-típ nhân vật đặc trưng nào trong kho tàng thần thoại các dân tộc Việt Nam?
 A. Mô-típ người con út mồ côi nghèo khổ nhờ bụt giúp mà đổi đời.\
-B. Mô-típ cặp đôi nam – nữ thần khổng lồ kiến tạo địa hình sông núi (tương đồng với ông Tứ Tượng – bà Nữ Oa, ông Đực – bà Cái).\
+B. Mô-típ con vật nhỏ bé thắng kẻ mạnh bằng mưu mẹo.\
 C. Mô-típ nho sĩ ẩn dật chốn lâm tuyền lánh đục tìm trong.\
-D. Mô-típ con vật nhỏ bé thắng kẻ mạnh bằng mưu mẹo.
+D. Mô-típ cặp đôi nam – nữ thần khổng lồ kiến tạo địa hình sông núi (tương đồng với ông Tứ Tượng – bà Nữ Oa, ông Đực – bà Cái).
 
-*Câu 7* #badge-hieu. Hình ảnh *“Ông Đùng lom khom dùng tay bới đất đằng trước, bà Đùng hì hụi vét đất đằng sau. Hai ông bà vừa làm vừa trò chuyện vui vẻ nên không thấy mệt mỏi gì cả”* gửi gắm vẻ đẹp nhân sinh gì?\
-A. Sự phân biệt thứ bậc bất bình đẳng giữa người chồng và người vợ.\
-B. Vẻ đẹp của tình nghĩa vợ chồng thuận hòa, đồng tâm hiệp lực và niềm lạc quan trong lao động kiến tạo cuộc sống.\
+*Câu 7* #badge-hieu. Hình ảnh *“Ông Đùng lom khom dùng tay bới đất đằng trước, bà Đùng hì hụi vét đất đằng sau. Hai ông bà vừa làm vừa trò chuyện vui vẻ nên không thấy mệt mỏi gì cả”* gửi gắm vẻ đẹp nhân sinh gì?
+A. Vẻ đẹp của tình nghĩa vợ chồng thuận hòa, đồng tâm hiệp lực và niềm lạc quan trong lao động kiến tạo cuộc sống.\
+B. Sự phân biệt thứ bậc bất bình đẳng giữa người chồng và người vợ.\
 C. Thái độ làm việc chủ quan, thiếu nghiêm túc của các vị thần.\
 D. Nỗi chán chường mệt mỏi của thần linh khi phải phục dịch con người.
 
-*Câu 8* #badge-hieu. Nhận xét nào khái quát đúng nhất đặc trưng nghệ thuật nổi bật của văn bản *Sự tích Ông Đùng, bà Đùng*?\
+*Câu 8* #badge-hieu. Nhận xét nào khái quát đúng nhất đặc trưng nghệ thuật nổi bật của văn bản *Sự tích Ông Đùng, bà Đùng*?
 A. Ngôn ngữ bác học cầu kì, sử dụng dày đặc các điển cố lịch sử Trung Hoa.\
 B. Kết hợp bút pháp phóng đại kì vĩ về tầm vóc nhân vật với những nét miêu tả lao động mộc mạc, tươi vui để cắt nghĩa tự nhiên địa hình xứ Mường.\
 C. Phân tích tâm lí nội tâm phức tạp theo dòng ý thức hiện đại.\
@@ -238,11 +245,11 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
     ("Câu", "Đ/A", "Chỉ báo", "Giải thích căn cứ & Loại trừ phương án nhiễu"),
     [*1*], [*B*], [CB1 – Biết], [Đoạn 2 miêu tả nguyên văn: *“Đất thì cao thấp, lồi lõm. Cây cối hoang dại mọc chằng chịt, rối bời. Nước thì chảy từ trong lòng đất ra, ngập lênh láng khắp Mường”*.],
     [*2*], [*C*], [CB2 – Biết], [Đoạn 2 (làm cánh đồng Thạch Bi) và đoạn 3 (bới đất khơi dòng sông Đà).],
-    [*3*], [*B*], [CB3 – Biết], [Câu kết văn bản giải thích rõ dòng chảy ngoằn ngoèo và *“trăm bảy mươi thác, trăm ba mươi ghềnh”* của sông Đà.],
+    [*3*], [*D*], [CB3 – Biết], [Câu kết văn bản giải thích rõ dòng chảy ngoằn ngoèo và *“trăm bảy mươi thác, trăm ba mươi ghềnh”* của sông Đà.],
     [*4*], [*A*], [CB3 – Biết], [Gán hoạt động sinh học của người (*thức, đi ngủ*) cho thiên thể Mặt Trời → phép *nhân hóa*.],
-    [*5*], [*A*], [CB4 – Biết], [Phản ánh trực tiếp lịch sử khai phá thung lũng Mường Bi (Hòa Bình) và chế ngự dòng Đà giang hung dữ của cư dân Mường cổ.],
-    [*6*], [*B*], [CB3 – Biết], [Thuộc mô-típ cặp thần khổng lồ nam – nữ kiến tạo núi sông phổ biến trong thần thoại Việt – Mường.],
-    [*7*], [*B*], [CB6 – Hiểu], [Khắc họa vẻ đẹp bình dị, ấm áp của tình nghĩa vợ chồng gắn bó và niềm vui lao động sáng tạo quên mệt nhọc.],
+    [*5*], [*C*], [CB4 – Biết], [Phản ánh trực tiếp lịch sử khai phá thung lũng Mường Bi (Hòa Bình) và chế ngự dòng Đà giang hung dữ của cư dân Mường cổ.],
+    [*6*], [*D*], [CB3 – Biết], [Thuộc mô-típ cặp thần khổng lồ nam – nữ kiến tạo núi sông phổ biến trong thần thoại Việt – Mường.],
+    [*7*], [*A*], [CB6 – Hiểu], [Khắc họa vẻ đẹp bình dị, ấm áp của tình nghĩa vợ chồng gắn bó và niềm vui lao động sáng tạo quên mệt nhọc.],
     [*8*], [*B*], [CB9 – Hiểu], [Kết hợp hài hòa bút pháp cường điệu khổng lồ với chất liệu lao động dân dã để suy nguyên địa mạo quê hương.]
   )
 
@@ -303,49 +310,53 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
 
 *Lựa chọn 01 đáp án đúng nhất cho mỗi câu hỏi từ Câu 1 đến Câu 8 (mỗi câu 0,5 điểm):*
 
-*Câu 1* #badge-biet. Câu mở đầu *“Thuở ấy thế gian chỉ mới có các vị thần. Mặt đất mênh mông, dẫu đã có khá nhiều vị thần cai quản song vẫn còn hết sức vắng vẻ”* cho biết điều gì về không gian và thời gian của truyện?\
+*Câu 1* #badge-biet. Câu mở đầu *“Thuở ấy thế gian chỉ mới có các vị thần. Mặt đất mênh mông, dẫu đã có khá nhiều vị thần cai quản song vẫn còn hết sức vắng vẻ”* cho biết điều gì về không gian và thời gian của truyện?
 A. Thời gian hiện đại xác định và không gian đô thị sầm uất của Hy Lạp.\
-B. Thời gian cổ sơ phiếm chỉ và không gian vũ trụ nguyên thủy đang trong buổi đầu kiến tạo sự sống.\
-C. Thời gian trung đại và không gian cung đình phong kiến phương Đông.\
+B. Thời gian trung đại và không gian cung đình phong kiến phương Đông.\
+C. Thời gian cổ sơ phiếm chỉ và không gian vũ trụ nguyên thủy đang trong buổi đầu kiến tạo sự sống.\
 D. Thời gian tuần hoàn bốn mùa và không gian làng quê trồng lúa nước.
 
-*Câu 2* #badge-biet. Theo văn bản, Ê-pi-mê-tê đã dùng nguyên liệu gì để nhào nặn ra các loài vật?\
-A. Đá ngũ sắc và tro lau lách. #h(3.0em) B. Cát vàng và ánh sáng mặt trời.\
-C. Đất và nước. #h(6.0em) D. Đồng đỏ và sương sớm.
+*Câu 2* #badge-biet. Theo văn bản, Ê-pi-mê-tê đã dùng nguyên liệu gì để nhào nặn ra các loài vật?
+A. Đất và nước.\
+B. Cát vàng và ánh sáng mặt trời.\
+C. Đá ngũ sắc và tro lau lách.\
+D. Đồng đỏ và sương sớm.
 
-*Câu 3* #badge-biet. Thiếu sót “tai hại” mà chàng Ê-pi-mê-tê lơ đễnh mắc phải sau khi tạo ra muôn loài là gì?\
+*Câu 3* #badge-biet. Thiếu sót “tai hại” mà chàng Ê-pi-mê-tê lơ đễnh mắc phải sau khi tạo ra muôn loài là gì?
 A. Quên không tạo ra các loài chim bay trên bầu trời.\
 B. Sử dụng hết sạch các “nguyên liệu” đặc ân cho loài vật nên để sót lại con người trần trụi hoàn toàn, không có bất kì “vũ khí” phòng thân nào.\
 C. Đánh rơi ngọn đuốc làm cháy rụi khu rừng trên mặt đất.\
 D. Làm cho các loài thú dữ không thể di chuyển được.
 
-*Câu 4* #badge-biet. Để sửa chữa thiếu sót của em trai và giúp con người mạnh hơn hẳn con vật, Prô-mê-tê đã thực hiện hai hành động kì vĩ nào?\
+*Câu 4* #badge-biet. Để sửa chữa thiếu sót của em trai và giúp con người mạnh hơn hẳn con vật, Prô-mê-tê đã thực hiện hai hành động kì vĩ nào?
 A. Ban cho con người đôi cánh chim đại bàng và bộ lông dày chống rét.\
-B. Dựa theo dáng thần tái tạo con người đứng thẳng đi bằng hai chân để đôi tay làm việc, rồi băng lên cỗ xe thần Mặt Trời Hê-li-ôx lấy lửa trao cho loài người.\
+B. Tiêu diệt toàn bộ hổ, báo, voi, sói trên mặt đất để bảo vệ con người.\
 C. Xây một tòa thành đá khổng lồ bao bọc loài người khỏi mưa bão.\
-D. Tiêu diệt toàn bộ hổ, báo, voi, sói trên mặt đất để bảo vệ con người.
+D. Dựa theo dáng thần tái tạo con người đứng thẳng đi bằng hai chân để đôi tay làm việc, rồi băng lên cỗ xe thần Mặt Trời Hê-li-ôx lấy lửa trao cho loài người.
 
-*Câu 5* #badge-biet. Chi tiết Prô-mê-tê *“dựa theo thân hình trang nhã của các vị thần tái tạo lại con người cho có một thân hình đẹp đẽ thanh tao”* phản ánh nét đặc sắc nào trong bối cảnh văn hoá Hy Lạp cổ đại?\
+*Câu 5* #badge-biet. Chi tiết Prô-mê-tê *“dựa theo thân hình trang nhã của các vị thần tái tạo lại con người cho có một thân hình đẹp đẽ thanh tao”* phản ánh nét đặc sắc nào trong bối cảnh văn hoá Hy Lạp cổ đại?
 A. Quan niệm thần linh mang hình thái quái dị, xa lạ hoàn toàn với con người.\
 B. Quan niệm nhân văn đề cao vẻ đẹp hình thể hài hòa của con người, lấy con người làm thước đo của vũ trụ (*“thần – người đồng hình”*).\
 C. Tư tưởng khổ hạnh coi nhẹ cơ thể vật chất trần tục.\
 D. Tín ngưỡng sùng bái các loài bò sát khổng lồ.
 
-*Câu 6* #badge-biet. Trong đoạn văn: *“Con thì được ban cho ân huệ chạy nhanh như gió. Con thì có đôi mắt sáng xanh nhìn thấu cả đêm đen. Con thì có thân hình khổng lồ...”*, những biện pháp tu từ nào được kết hợp nổi bật?\
-A. Ẩn dụ và hoán dụ. #h(4.2em) B. Điệp cấu trúc (*“Con thì...”*), liệt kê và so sánh.\
-C. Nói giảm nói tránh và nghịch ngữ. #h(1.5em) D. Chơi chữ và câu hỏi tu từ.
+*Câu 6* #badge-biet. Trong đoạn văn: *“Con thì được ban cho ân huệ chạy nhanh như gió. Con thì có đôi mắt sáng xanh nhìn thấu cả đêm đen. Con thì có thân hình khổng lồ...”*, những biện pháp tu từ nào được kết hợp nổi bật?
+A. Điệp cấu trúc (*“Con thì...”*), liệt kê và so sánh.\
+B. Ẩn dụ và hoán dụ.\
+C. Nói giảm nói tránh và nghịch ngữ.\
+D. Chơi chữ và câu hỏi tu từ.
 
-*Câu 7* #badge-hieu. Chuỗi câu hỏi liên tiếp: *“Làm thế nào bây giờ? Làm thế nào để con người sống được ở thế gian...? Con người sẽ sống thế nào trước các con vật...?”* là dạng lời văn nào và có tác dụng gì?\
+*Câu 7* #badge-hieu. Chuỗi câu hỏi liên tiếp: *“Làm thế nào bây giờ? Làm thế nào để con người sống được ở thế gian...? Con người sẽ sống thế nào trước các con vật...?”* là dạng lời văn nào và có tác dụng gì?
 A. Lời đối thoại trực tiếp giữa U-ra-nôx và Gai-a nhằm trách phạt Ê-pi-mê-tê.\
-B. Lời nửa trực tiếp (hòa quyện lời người kể chuyện với dòng suy tư trăn trở của Prô-mê-tê), làm nổi bật nỗi lo âu thương cảm sâu sắc và trí tuệ trách nhiệm của vị thần trước số phận loài người.\
-C. Lời than khóc tuyệt vọng của loài người khi bị thú dữ tấn công.\
+B. Lời than khóc tuyệt vọng của loài người khi bị thú dữ tấn công.\
+C. Lời nửa trực tiếp (hòa quyện lời người kể chuyện với dòng suy tư trăn trở của Prô-mê-tê), làm nổi bật nỗi lo âu thương cảm sâu sắc và trí tuệ trách nhiệm của vị thần trước số phận loài người.\
 D. Lời bình luận châm biếm của dịch giả hiện đại.
 
-*Câu 8* #badge-hieu. Hình tượng #strong[“ngọn lửa của Prô-mê-tê”] trong văn bản mang ý nghĩa biểu tượng sâu xa nào?\
+*Câu 8* #badge-hieu. Hình tượng #strong[“ngọn lửa của Prô-mê-tê”] trong văn bản mang ý nghĩa biểu tượng sâu xa nào?
 A. Chỉ đơn thuần là hiện tượng cháy vật lí thông thường trong tự nhiên.\
-B. Biểu tượng cho ánh sáng của trí tuệ, kĩ thuật lao động (*“dạy họ biết bao nghề”*) và sức mạnh văn minh giúp con người làm chủ thiên nhiên.\
+B. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Trời đối với mặt đất.\
 C. Biểu tượng cho chiến tranh hủy diệt giữa các vị thần trên đỉnh Ô-lim-pơ.\
-D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Trời đối với mặt đất.
+D. Biểu tượng cho ánh sáng của trí tuệ, kĩ thuật lao động (*“dạy họ biết bao nghề”*) và sức mạnh văn minh giúp con người làm chủ thiên nhiên.
 
 *Trả lời các câu hỏi Tự luận sau:*
 
@@ -362,14 +373,14 @@ D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Tr
   #study-table(
     (0.6fr, 0.6fr, 1.3fr, 4.5fr),
     ("Câu", "Đ/A", "Chỉ báo", "Giải thích căn cứ & Loại trừ phương án nhiễu"),
-    [*1*], [*B*], [CB1 – Biết], [*“Thuở ấy”* = thời gian cổ sơ phiếm chỉ; *“thế gian chỉ mới có các vị thần, mặt đất mênh mông vắng vẻ”* = không gian vũ trụ buổi đầu tạo lập.],
-    [*2*], [*C*], [CB2 – Biết], [Đoạn 1 ghi rõ: *“Ê-pi-mê-tê lấy đất và nước nhào nặn ra, trước hết, là các loài vật”*.],
+    [*1*], [*C*], [CB1 – Biết], [*“Thuở ấy”* = thời gian cổ sơ phiếm chỉ; *“thế gian chỉ mới có các vị thần, mặt đất mênh mông vắng vẻ”* = không gian vũ trụ buổi đầu tạo lập.],
+    [*2*], [*A*], [CB2 – Biết], [Đoạn 1 ghi rõ: *“Ê-pi-mê-tê lấy đất và nước nhào nặn ra, trước hết, là các loài vật”*.],
     [*3*], [*B*], [CB2 – Biết], [Đoạn 2 nêu rõ Ê-pi-mê-tê phân phát hết đặc ân cho thú vật, để sót lại con người *“trần trụi hoàn toàn”* không có vũ khí gì.],
-    [*4*], [*B*], [CB2 – Biết], [Gồm 2 kì tích nối tiếp: tái tạo dáng người đứng thẳng thanh tao giải phóng đôi tay + băng lên cỗ xe thần Hê-li-ôx lấy lửa trao cho loài người.],
+    [*4*], [*D*], [CB2 – Biết], [Gồm 2 kì tích nối tiếp: tái tạo dáng người đứng thẳng thanh tao giải phóng đôi tay + băng lên cỗ xe thần Hê-li-ôx lấy lửa trao cho loài người.],
     [*5*], [*B*], [CB4 – Biết], [Văn hoá Hy Lạp cổ đại tôn vinh vẻ đẹp chuẩn mực của con người (*con người mang vóc dáng trang nhã của thần linh*).],
-    [*6*], [*B*], [CB3 – Biết], [Điệp cấu trúc *“Con thì...”* đầu câu + liệt kê hàng loạt đặc tính muôn thú + so sánh *“nhanh như gió”*.],
-    [*7*], [*B*], [CB8 – Hiểu], [Đây là nghệ thuật trần thuật nửa trực tiếp đặc sắc: lời người kể chuyện nhập vào dòng trăn trở nội tâm của Prô-mê-tê để làm bật nổi lòng nhân ái và tầm nhìn xa của vị thần.],
-    [*8*], [*B*], [CB9 – Hiểu], [Ngọn lửa vừa xua bóng tối giá lạnh, vừa là “vũ khí” trí tuệ và khởi nguồn của trăm nghề văn minh nhân loại.]
+    [*6*], [*A*], [CB3 – Biết], [Điệp cấu trúc *“Con thì...”* đầu câu + liệt kê hàng loạt đặc tính muôn thú + so sánh *“nhanh như gió”*.],
+    [*7*], [*C*], [CB8 – Hiểu], [Đây là nghệ thuật trần thuật nửa trực tiếp đặc sắc: lời người kể chuyện nhập vào dòng trăn trở nội tâm của Prô-mê-tê để làm bật nổi lòng nhân ái và tầm nhìn xa của vị thần.],
+    [*8*], [*D*], [CB9 – Hiểu], [Ngọn lửa vừa xua bóng tối giá lạnh, vừa là “vũ khí” trí tuệ và khởi nguồn của trăm nghề văn minh nhân loại.]
   )
 
   *2. Hướng dẫn chấm Câu 9 (Thông hiểu — 1,0 điểm):*

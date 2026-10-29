@@ -3,7 +3,7 @@
 #part-banner(
   "PHẦN V",
   "Chuyên Đề Viết Nghị Luận Phân Tích, Đánh Giá Truyện Thần Thoại",
-  "Mô hình Ngôi Đền 5 Tầng (4,0 điểm) • Dàn ý vạn năng • 4 kiểu Mở bài • Kĩ thuật P-E-E-V • Kho nhận định lí luận văn học"
+  "Mô hình Ngôi Đền 5 Tầng (4,0 điểm) • Dàn ý vạn năng • 4 Mở bài – 3 Kết bài • Kĩ thuật P-E-E-V • Kho nhận định, câu chuyển ý & 2 đoạn văn mẫu có chú giải"
 )
 
 = 5.1. Bản chất Kiểu bài & Thang chấm 4,0 điểm Chuẩn Ma trận 2026 – 2027
@@ -96,7 +96,29 @@ Lỗi nghiêm trọng nhất khiến 80% học sinh lớp 10 chỉ đạt 2,0/4,
 - #strong[Khuôn 4 — Mở bài Trực tiếp Chuẩn mực (An toàn tuyệt đối khi sát giờ):]
   *“Trong kho tàng truyện kể dân gian [Việt Nam / thế giới], thần thoại giữ vị trí mở đầu như chiếc nôi nuôi dưỡng tâm hồn và trí tưởng tượng của con người thời cổ đại. Một trong những truyện thần thoại tiêu biểu ngoài chương trình sách giáo khoa để lại ấn tượng thẩm mĩ sâu đậm là #strong[[Tên tác phẩm]] ([ghi nguồn trích dẫn]). Tác phẩm đã thể hiện xuất sắc chủ đề [nêu chủ đề] thông qua hệ thống hình thức nghệ thuật đặc trưng của thể loại thần thoại.”*
 
-== B. Kho 08 Nhận Định Lí Luận Văn Học Đắt Giá Đưa Vào Thân Bài & Kết Bài
+== B. 3 Khuôn Kết Bài Để Lại Dư Âm (Viết Trong 4 Phút)
+
+#study-table(
+  (0.85fr, 2.35fr, 3.6fr),
+  ("Kiểu", "Công thức", "Mẫu câu lắp ghép"),
+  [*1. Khép kín*],
+  [Khẳng định lại giá trị tác phẩm → nâng lên thành bài học],
+  [*“Bằng những trang kể giản dị mà ám ảnh, [tên truyện] đã hoàn thành trọn vẹn sứ mệnh của một văn bản thần thoại: cắt nghĩa [hiện tượng], và qua đó gửi lại cho người đọc hôm nay một lời nhắn về [bài học].”*],
+  [*2. Mở rộng*],
+  [Từ truyện này → đặt cạnh truyện khác → thấy được quy luật chung của thể loại],
+  [*“Đặt [tên truyện] bên cạnh [tên truyện khác cùng mô-típ], ta nhận ra điều kì diệu: ở bất cứ nền văn hoá nào, con người cũng dựng lên những vị thần để giãi bày nỗi sợ và khát vọng của mình.”*],
+  [*3. Chiêm nghiệm*],
+  [Nhìn lại bản thân → biến bài văn thành cuộc đối thoại],
+  [*“Khép lại trang truyện, người viết bài này chợt hiểu rằng [liên hệ]. Có lẽ đó cũng là cách thần thoại cổ xưa nhất vẫn còn thức dậy trong mỗi chúng ta.”*],
+)
+
+#trap-box(title: "BA CÂU KẾT BÀI KHIẾN GIÁM KHẢO TRỪ ĐIỂM NGAY")[
+  1. *Kết bài rỗng:* “Tóm lại, truyện rất hay và để lại nhiều bài học sâu sắc cho em.” → Không có thông tin, không có dấu ấn của bài viết này.
+  2. *Kết bài mở ra một ý mới chưa phân tích:* Nêu thêm một khía cạnh (ví dụ: “truyện còn thể hiện tín ngưỡng phồn thực…”) ở câu cuối nhưng không có dòng nào chứng minh phía trên.
+  3. *Kết bài lặp y nguyên mở bài:* Đọc lại thấy hai đoạn gần giống hệt nhau → dấu hiệu viết theo mẫu, không có quá trình tư duy.
+]
+
+== C. Kho 08 Nhận Định Lí Luận Văn Học & 8 Lỗi Chết Người Cần Tránh
 
 #study-table(
   (1.5fr, 3.3fr, 2.2fr),
@@ -120,4 +142,68 @@ Lỗi nghiêm trọng nhất khiến 80% học sinh lớp 10 chỉ đạt 2,0/4,
   6. *Không có đoạn Đánh giá – Liên hệ cá nhân (mất sạch điểm Vận dụng):* Luôn dành 1 đoạn riêng trước Kết bài để đối sánh và rút bài học cho con người hôm nay.
   7. *Viết toàn bộ Thân bài dính liền thành 1 khối khổng lồ:* Phải tách Thân bài thành *4–5 đoạn văn rõ ràng*, mỗi đoạn mở đầu bằng câu chủ đề sáng sủa.
   8. *Trích dẫn sai nguyên văn:* Chỉ đặt trong ngoặc kép những cụm từ trích chính xác từng chữ từ đề thi; phần còn lại diễn đạt linh hoạt bằng lời văn của mình.
+]
+
+== D. Kho Câu Chuyển Ý — Bộ Khung Xương Của Một Bài Văn Liền Mạch
+
+Bài văn 4,0 điểm được chấm trên cảm giác “đọc có trôi không”. Một câu chuyển ý tốt làm hai việc cùng lúc: *nhắc lại điều vừa nói* và *mở ra điều sắp nói*.
+
+#study-table(
+  (1.55fr, 1.9fr, 3.35fr),
+  ("Vị trí chuyển", "Thao tác", "Câu mẫu"),
+  [Từ mở bài → thân bài],
+  [Dẫn vào luận điểm 1],
+  [*“Trước hết, điều khiến [tên truyện] neo lại trong trí nhớ người đọc chính là [luận điểm 1].”*],
+  [Từ khái quát → chi tiết],
+  [Thu hẹp phạm vi],
+  [*“Nếu nhìn kĩ hơn vào [chi tiết], ta sẽ thấy [nhận định].”*],
+  [Từ nội dung → nghệ thuật],
+  [Chuyển trục phân tích],
+  [*“Không chỉ ở phương diện nội dung, [tên truyện] còn đáng chú ý bởi cách dựng [yếu tố nghệ thuật].”*],
+  [Từ phân tích → đánh giá],
+  [Nâng lên tầm khái quát],
+  [*“Đặt tất cả những điều vừa phân tích cạnh nhau, có thể thấy [tên truyện] đã chạm tới [giá trị].”*],
+  [Từ tác phẩm → liên hệ],
+  [Mở ra hiện tại],
+  [*“Điều ấy khiến người đọc hôm nay không thể chỉ dừng ở việc chiêm ngưỡng một văn bản cổ, mà buộc phải tự hỏi [câu hỏi].”*],
+  [Từ thân bài → kết bài],
+  [Khép mạch],
+  [*“Tất cả những gì [tên truyện] để lại, rút cho cùng, là [giá trị cốt lõi].”*],
+)
+
+#mnemonic-box(title: "QUY TẮC “MỘT CÂU – MỘT NHỊP”: KHÔNG VIẾT HAI LUẬN ĐIỂM TRONG MỘT ĐOẠN")[
+  Mỗi đoạn thân bài chỉ giữ #strong[một] luận điểm. Trước khi viết, tự hỏi: “Câu chủ đề của đoạn này là gì?”. Nếu câu trả lời cần đến chữ “và” nối hai ý lớn → hãy tách thành hai đoạn. Đoạn quá tải khiến giám khảo không tìm thấy ý chính, và ý thứ hai luôn bị chấm thiếu.
+]
+
+== E. Hai Đoạn Văn Mẫu Có Chú Giải — Nhìn Thấy Kĩ Thuật Trong Từng Câu
+
+// Hai đoạn dưới đây lấy từ hai đề khác nhau để học sinh thấy cùng một kĩ thuật được lắp ráp linh hoạt thế nào.
+
+#essay-box(title: "Đoạn văn mẫu 1 — Phân tích nhân vật (trích thân bài, 12 câu)")[
+  #text(font: font-sans, size: 8.2pt, fill: c-muted)[*Đề:* Phân tích hình tượng nhân vật Prô-mê-tê trong *Prô-mê-tê và loài người* (Nguyễn Văn Khoả kể).]
+
+  Prô-mê-tê hiện lên trước hết như một *đấng sáng tạo bằng trí tuệ* #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-jade)[⟨câu chủ đề⟩]. Trong khi Ê-pi-mê-tê hào phóng ban phát sức mạnh, tốc độ, cánh, nanh cho muôn thú thì Prô-mê-tê dành trọn tâm trí để nặn nên hình hài con người, rồi nhận ra sai lầm của em trai và tìm cách sửa chữa #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-jade)[⟨bằng chứng⟩]. Chi tiết chàng “tái tạo lại dáng người đứng thẳng” không chỉ là một phát minh kĩ thuật của thần linh mà còn là một tuyên ngôn về phẩm giá: con người được tách khỏi mặt đất để ngẩng lên nhìn bầu trời, và đôi tay được giải phóng khỏi mặt đất để làm ra công cụ #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-jade)[⟨giải thích⟩]. Cũng vì thế, hành động lấy lửa của thần Mặt Trời Hê-li-ôx không nên đọc như một lần “ăn cắp” táo bạo, mà như một cú đánh đổi có chủ đích: thần chấp nhận bị trừng phạt để loài người có được thứ sức mạnh giúp họ tự tồn tại #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-jade)[⟨nâng lên thành khái quát⟩].
+
+  Sức nặng nhân văn của nhân vật ấy còn nằm ở cái giá phải trả #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-gold)[⟨chuyển ý sang luận điểm 2 trong cùng đoạn mẫu — trong bài thật nên tách đoạn⟩]. Dớt xiềng thần trên núi đá, cử một chim đại bàng ngày ngày mổ gan — hình phạt được kể rất ngắn, gần như lướt qua, nhưng chính sự chênh lệch giữa dung lượng kể và dung lượng đau đớn ấy lại khiến độc giả nhớ mãi. Có lẽ người kể chuyện Hy Lạp cổ muốn nói rằng trong một thế giới đầy quyền lực vô hình, thứ duy nhất còn lại của kẻ yếu là người dám chịu đựng thay họ #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-jade)[⟨đánh giá⟩]. Từ chỗ ấy, Prô-mê-tê bước ra khỏi khuôn khổ một vị thần trong thần thoại để thành biểu tượng của trí tuệ dấn thân mà con người ở bất kỳ thời đại nào cũng cần có.
+]
+
+#essay-box(title: "Đoạn văn mẫu 2 — Đánh giá chi tiết kì ảo (trích thân bài, 10 câu)")[
+  #text(font: font-sans, size: 8.2pt, fill: c-muted)[*Đề:* Phân tích, đánh giá nét đặc sắc về nghệ thuật của truyện *Thần Trụ Trời*.]
+
+  Điều làm nên sức sống của *Thần Trụ Trời* không nằm ở cốt truyện — vốn chỉ có ba sự việc — mà ở cách tác giả dân gian tổ chức *chất liệu kì ảo* #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-jade)[⟨câu chủ đề⟩]. Thần đội cột đá chống trời, “đất phẳng như cái mâm vuông, trời tròn như cái bát úp” — những hình ảnh ấy không cốt để miêu tả chính xác vũ trụ mà để *đóng khung một cách hiểu*: thế giới của người Việt cổ là một ngôi nhà có nóc, có nền #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-jade)[⟨phân tích + bằng chứng⟩]. Khi thần phá cột, ném đá thành núi, hất đất thành đồi, một phép “tái chế” chất liệu đã xuất hiện: những gì thuộc về công cuộc khai thiên lại trở thành địa hình của quê hương hôm nay #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-jade)[⟨lí giải cơ chế kì ảo⟩]. Nhờ vậy người nghe không còn thấy mình đứng ngoài câu chuyện — núi Đá Bia, biển Đông, đồng bằng đều mang dấu vết thần linh, và mỗi lần nhìn phong cảnh là một lần đọc lại truyện #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-jade)[⟨đánh giá⟩].
+
+  Sức mạnh ấy còn được nhân lên bởi cách dùng *thời gian phiếm chỉ* #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-gold)[⟨chuyển sang yếu tố nghệ thuật thứ hai⟩]. “Thuở ấy”, “lúc sơ khởi”, “khi trời đất mới phân khai” không chỉ định niên đại nào, nên câu chuyện có thể xảy ra ở bất cứ đâu, bất cứ lúc nào mà người kể muốn. Chính sự mơ hồ có chủ đích đó đã khiến thần thoại khác hẳn truyền thuyết: nó không kể một sự kiện của một triều đại, nó kể *khoảnh khắc thế giới bắt đầu* #h(2pt) #text(font: font-sans, size: 7.6pt, fill: c-jade)[⟨đối sánh thể loại — điểm cộng⟩].
+]
+
+#formula-box(title: "QUY TRÌNH 4 BƯỚC VIẾT & CHỈNH SỬA (SGK tr. 29 – 34) — ÁP DỤNG TRONG 50 PHÚT")[
+  *Bước 1 — Chuẩn bị (3 phút):* Đọc đề, gạch chân yêu cầu; xác định kiểu bài, đối tượng, phạm vi. Ghi ra lề: “Tôi cần chứng minh điều gì?”.
+  *Bước 2 — Tìm ý, lập dàn ý (7 phút):* Dựng Ngôi Đền 5 Tầng (mục 5.2), mỗi tầng một dòng, không viết câu hoàn chỉnh.
+  *Bước 3 — Viết (30 phút):* Mở bài 5 phút, thân bài 22 phút, kết bài 3 phút. Viết sai chính tả thì gạch nhẹ, *không dừng lại sửa*.
+  *Bước 4 — Chỉnh sửa hai cấp độ (10 phút):*
+  #h(1em) – *Cấp độ 1 — Đọc to trong đầu:* soi lỗi câu cụt, câu dài không có chủ ngữ, lặp từ, sai dấu câu, sai tên riêng (Prô-mê-tê, Hê-ra-clét, Át-lát, Nữ Oa, Tứ Tượng).
+  #h(1em) – *Cấp độ 2 — Đọc theo phiếu:* (a) Mở bài có nêu đúng vấn đề không? (b) Mỗi đoạn thân bài có câu chủ đề không? (c) Đã có phần nghệ thuật chưa? (d) Đã có đoạn đánh giá – liên hệ chưa? (e) Kết bài có trả lời đúng câu hỏi của đề không?
+]
+
+#callout(title: "LUYỆN TẬP NGAY — 12 PHÚT", tone: "gold", icon: "✎")[
+  Chọn một trong hai đoạn văn mẫu trên, làm ba việc sau: #strong[(1)] gạch chân mọi câu chủ đề; #strong[(2)] đánh dấu bằng bút chì những chỗ *chỉ có thể viết được nếu đã đọc kĩ văn bản* (con số, tên riêng, trích dẫn); #strong[(3)] viết lại đoạn thứ hai bằng lời của mình, giữ nguyên cấu trúc nhưng thay toàn bộ từ ngữ. Bài tập này rèn đúng phần lớn nhất của thang điểm: kĩ năng tạo lập văn bản có bằng chứng.
 ]
