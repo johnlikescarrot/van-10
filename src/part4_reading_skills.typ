@@ -3,12 +3,12 @@
 #part-banner(
   "PHẦN IV",
   "Phương Pháp Giải Nhanh Đọc Hiểu & Ngân Hàng 40 Câu Theo Chỉ Báo",
-  "Kĩ thuật phá bẫy TNKQ • Công thức 4 bước ăn trọn điểm Câu 9 & Câu 10 • 40 câu hỏi thực chiến kèm đáp án 100%"
+  "Kĩ thuật phá bẫy TNKQ • Gợi ý trả lời Câu 9 & Câu 10 • 40 câu hỏi luyện tập kèm đáp án"
 )
 
 = 4.1. Chiến thuật Phá Nhiễu 8 Câu Trắc nghiệm Khách quan (Câu 1 – 8: 4,0 điểm)
 
-Trong 8 câu TNKQ (6 câu Nhận biết + 2 câu Thông hiểu), người ra đề luôn cài #strong[4 kiểu phương án nhiễu (distractors)]. Nắm vững quy tắc loại trừ dưới đây giúp học sinh đạt tuyệt đối #strong[4,0/4,0 điểm trong chưa đầy 8 phút]:
+Trong 8 câu TNKQ (6 câu Nhận biết + 2 câu Thông hiểu), có thể gặp #strong[4 kiểu phương án nhiễu (distractors)]. Dùng các cách đối chiếu dưới đây để kiểm tra phương án; không chọn chỉ vì phương án dài hoặc có từ khóa quen:
 
 #study-table(
   (1.5fr, 2.7fr, 2.8fr),
@@ -16,7 +16,7 @@ Trong 8 câu TNKQ (6 câu Nhận biết + 2 câu Thông hiểu), người ra đ�
 
   [*1. Bẫy Tráo Khái niệm Thể loại*],
   [Đưa đặc trưng của *truyền thuyết, cổ tích, sử thi* gắn vào thần thoại (VD: *“Thời gian xác định rõ theo triều đại”, “Nhân vật là người anh hùng lịch sử”, “Phản ánh đấu tranh giai cấp”*).],
-  [Gạch bỏ ngay mọi phương án có từ *lịch sử chính xác, đấu tranh giai cấp, ở hiền gặp lành, thế sự đời tư*. Thần thoại chỉ gắn với *vũ trụ cổ sơ, thần linh, suy nguyên/sáng tạo*.],
+  [Kiểm tra đặc trưng trong chính ngữ liệu. Một từ khóa riêng lẻ không đủ để loại phương án; truyện có thể giao thoa mô-típ và thể loại.],
 
   [*2. Bẫy Thu hẹp Cục bộ*],
   [Khi hỏi *nội dung chính / chủ đề toàn văn bản*, phương án nhiễu chỉ nêu đúng một chi tiết phụ ở 1 đoạn nhỏ.],
@@ -33,27 +33,27 @@ Trong 8 câu TNKQ (6 câu Nhận biết + 2 câu Thông hiểu), người ra đ�
 
 = 4.2. Công thức Vàng Trả lời Câu 9 (Tự luận Thông hiểu — 1,0 điểm)
 
-Giám khảo chấm Câu 9 theo thang điểm thành phần `0,25đ + 0,50đ + 0,25đ` (hoặc `0,50đ + 0,50đ`). Tuyệt đối không viết cụt lủn 1 dòng! Hãy áp dụng #strong[Công thức 4 Bước “GỌI – TRÍCH – GIẢI – CHỐT”]:
+Trong đề luyện, có thể chia điểm Câu 9 theo các ý `0,25đ + 0,50đ + 0,25đ` (hoặc `0,50đ + 0,50đ`). Trả lời đủ yêu cầu; số dòng không tự quyết định điểm. Hãy áp dụng #strong[Công thức 4 Bước “GỌI – TRÍCH – GIẢI – CHỐT”]:
 
 #formula-box(title: "CÔNG THỨC 4 BƯỚC “GỌI – TRÍCH – GIẢI – CHỐT” CHO 5 DẠNG CÂU HỎI SỐ 9 (1,0 ĐIỂM)", breakable-box: true)[
-  - #strong[Dạng 9.1 — Lí giải ý nghĩa / tác dụng của chi tiết kì ảo tiêu biểu (Tần suất ra thi ~45%):]
+  - #strong[Dạng 9.1 — Lí giải ý nghĩa / tác dụng của chi tiết kì ảo tiêu biểu :]
     - *Bước 1 (GỌI – 0,25đ):* Khẳng định đây là chi tiết tưởng tượng kì ảo đặc sắc, giàu giá trị tạo hình của truyện thần thoại [...].
     - *Bước 2 (TRÍCH):* Nhắc ngắn gọn nội dung chi tiết trong ngoặc kép.
     - *Bước 3 (GIẢI KÉP – 0,50đ):* *(Về nội dung – nhận thức)*: Giúp người cổ đại cắt nghĩa hồn nhiên hiện tượng [...] và gửi gắm ước mơ/khát vọng [...]; *(Về nghệ thuật)*: Tô đậm quyền năng phi thường của vị thần, tăng sức hấp dẫn li kì cho câu chuyện.
     - *Bước 4 (CHỐT – 0,25đ):* Cho thấy trí tưởng tượng bay bổng và lối tư duy *vạn vật hữu linh* của người xưa.
 
-  - #strong[Dạng 9.2 — Phân tích đặc điểm, vị trí, vai trò của nhân vật thần thoại (~25%):]
+  - #strong[Dạng 9.2 — Phân tích đặc điểm, vị trí, vai trò của nhân vật thần thoại :]
     - Chỉ rõ #strong[2 bình diện]: *(1) Bình diện thần linh kì vĩ* (ngoại hình khổng lồ/đặc dị, quyền năng siêu nhiên thực hiện sứ mệnh kiến tạo/cai quản tự nhiên) + *(2) Bình diện đời thường gần gũi* (mang nét tính cách hồn nhiên như con người: nóng nảy, hay quên, hờn dỗi, giàu lòng thương...) → *Vai trò*: Là trung tâm kết nối cốt truyện và là phương tiện để dân gian gửi gắm vũ trụ quan, nhân sinh quan.
 
-  - #strong[Dạng 9.3 — Xác định chủ đề và phân tích căn cứ xác định chủ đề (~15%):]
+  - #strong[Dạng 9.3 — Xác định chủ đề và phân tích căn cứ xác định chủ đề :]
     - *Ý 1 (0,50đ — Nêu chủ đề):* Qua câu chuyện về [...], văn bản thể hiện cách nhận thức hồn nhiên của người xưa nhằm lí giải [...], đồng thời gửi gắm khát vọng [...].
     - *Ý 2 (0,50đ — Chỉ rõ 3 căn cứ):* Chủ đề được xác lập dựa trên: *(a) Nhan đề văn bản [...]; (b) Hình tượng nhân vật trung tâm và chuỗi sự kiện kì ảo [...]; (c) Đoạn kết giải thích dấu tích/hiện tượng lưu truyền đến ngày nay [...]*.
 
-  - #strong[Dạng 9.4 — Lí giải tác dụng ngôi kể / người kể chuyện / lời người kể chuyện & lời nhân vật (~10%):]
-    - *Ngôi kể thứ ba (người kể giấu mình, điểm nhìn toàn tri):* Giúp bao quát linh hoạt không gian rộng lớn từ Thiên đình xuống Hạ giới, tạo giọng điệu khách quan, cổ kính, tăng độ tin cậy thiêng liêng cho câu chuyện sáng thế.
+  - #strong[Dạng 9.4 — Lí giải tác dụng ngôi kể / người kể chuyện / lời người kể chuyện & lời nhân vật :]
+    - *Ngôi kể thứ ba (người kể giấu mình):* Giúp bao quát linh hoạt không gian rộng lớn từ Thiên đình xuống Hạ giới, thuật được các sự việc ở nhiều nơi; đánh giá giọng điệu dựa vào lời kể cụ thể.
     - *Lời người kể chuyện kết hợp lời nhân vật:* Lời kể mộc mạc dẫn dắt mạch sự kiện nhanh gọn; lời thoại trực tiếp làm nổi bật tính cách, uy quyền hoặc sự hóm hỉnh, đời thường của nhân vật.
 
-  - #strong[Dạng 9.5 — Tóm tắt cốt truyện (~5%):]
+  - #strong[Dạng 9.5 — Tóm tắt cốt truyện :]
     - Viết gói gọn trong #strong[4–6 câu văn xuôi] theo trục nhân – quả (*Bối cảnh ban đầu → Biến cố/nhiệm vụ của thần → Hành động kì tích → Kết quả giải thích hiện tượng*), giữ nguyên ngôi thứ ba, không chép lời thoại trực tiếp, không xen bình luận cá nhân.
 ]
 
@@ -236,7 +236,7 @@ D. Truyện lấy bối cảnh đô thị hiện đại thay cho không gian thi
 
 *Câu 27.* Dòng nào nêu đúng nhất tác dụng của lời người kể chuyện ngôi thứ ba trong văn bản *Thần Biển*?\
 A. Bộc lộ trực tiếp nỗi cô đơn riêng tư của cá nhân nhà văn trước biển cả.\
-B. Dẫn dắt người đọc chiêm ngưỡng bức tranh kì vĩ ngoài khơi xa một cách khách quan, tự nhiên, làm nổi bật mối liên hệ nhân – quả giữa nhịp thở của thần và hiện tượng thủy triều, sóng thần.\
+B. Dẫn dắt người đọc chiêm ngưỡng bức tranh kì vĩ ngoài khơi xa qua lời kể ngôi thứ ba, làm nổi bật mối liên hệ nhân – quả giữa nhịp thở của thần và hiện tượng thủy triều, sóng thần.\
 C. Tạo ra cuộc tranh biện gay gắt giữa nhiều nhân vật có quan điểm trái chiều.\
 D. Xóa bỏ hoàn toàn yếu tố kì ảo để biến văn bản thành báo cáo hải dương học.
 
@@ -313,7 +313,7 @@ D. Khuyên răn con người từ bỏ cuộc sống trần thế để đi tìm
     [*24*], [*B*], [Chính nghĩa cử giải cứu Prô-mê-tê trước đó đã mang lại cho Hê-ra-clét bí quyết sống còn để vượt qua thử thách táo vàng.],
     [*25*], [*B*], [Cả Nữ Oa và Prô-mê-tê đều kết tinh tình thương bao la với con người và tinh thần kiến tạo văn minh nhân loại.],
     [*26*], [*B*], [*Cóc kiện Trời* vừa giải thích tiếng cóc nghiến răng báo mưa (dấu vết suy nguyên), vừa chuyển trung tâm sang mưu trí và sức mạnh đoàn kết của kẻ nhỏ yếu thắng cường quyền (đặc trưng cổ tích loài vật).],
-    [*27*], [*B*], [Ngôi thứ ba toàn tri giúp người kể bao quát đại dương mênh mông, kết nối tự nhiên hành trạng của thần với hiện tượng thủy triều – sóng thần.],
+    [*27*], [*B*], [Ngôi thứ ba giúp người kể bao quát đại dương mênh mông, kết nối tự nhiên hành trạng của thần với hiện tượng thủy triều – sóng thần.],
     [*28*], [*A*], [Bao quát trọn vẹn hai trục chủ đề của chùm thần thoại tự nhiên Việt Nam: *nhận thức cắt nghĩa vũ trụ* và *khát vọng sống bình yên, hòa hợp với thiên nhiên*.]
   )
 ]
@@ -329,7 +329,7 @@ D. Khuyên răn con người từ bỏ cuộc sống trần thế để đi tìm
     - *Chủ đề (0,50đ):* Văn bản thể hiện nhận thức của người Việt cổ về sức mạnh thiêng liêng hai mặt của lửa, lí giải tập tục giữ lửa bếp và gửi gắm ước mơ về cuộc sống ấm no cùng lời nhắc nhở trân trọng, giữ gìn cẩn trọng những giá trị quý giá.
     - *Căn cứ xác định (0,50đ):* Dựa vào nhan đề *Thần Lửa*; hình tượng bà Hỏa hung dữ nhưng giữ lửa thiêng; sự kiện ông lão ủ than hồng hưởng ấm no đối lập với sự kiện người con dâu dội nước làm mất bảo vật ở kết truyện.
 
-  - #strong[Câu 33 (1,0đ — Tác dụng ngôi kể thứ ba & lời kể dân gian):] Ngôi kể thứ ba với người kể chuyện giấu mình giúp bao quát linh hoạt không gian rừng sâu lẫn mái nhà ông lão, tạo cái nhìn khách quan và niềm tin hồn nhiên vào chuyện thần linh *(0,50đ)*. Lời kể dân gian mộc mạc, giản dị (*“mừng quýnh”, “ăn một bụng no nê”, “tiếc thay”*) vừa dẫn dắt sự kiện mạch lạc, vừa kín đáo bộc lộ niềm tiếc nuối của cộng đồng khi con người đánh mất bảo vật thiêng *(0,50đ)*.
+  - #strong[Câu 33 (1,0đ — Tác dụng ngôi kể thứ ba & lời kể dân gian):] Ngôi kể thứ ba với người kể chuyện giấu mình giúp bao quát linh hoạt không gian rừng sâu lẫn mái nhà ông lão, thuận tiện thuật hành động của thần và ông lão *(0,50đ)*. Lời kể dân gian mộc mạc, giản dị (*“mừng quýnh”, “ăn một bụng no nê”, “tiếc thay”*) vừa dẫn dắt sự kiện mạch lạc, vừa kín đáo bộc lộ niềm tiếc nuối của cộng đồng khi con người đánh mất bảo vật thiêng *(0,50đ)*.
 
   - #strong[Câu 34 (1,0đ — Vẻ đẹp nhân vật Hê-ra-clét):] Hình tượng Hê-ra-clét tỏa sáng vẻ đẹp hài hòa toàn bích của người anh hùng thần thoại Hy Lạp trên ba phương diện: *(1) Sức mạnh thể chất và ý chí phi thường* khi ghé đôi vai trần gánh cả vòm trời nặng trĩu *(0,50đ)*; *(2) Trí tuệ sắc sảo, ứng biến thông minh* khi đọc vị thấu mưu lừa của thần Át-lát và dùng kế “xin kê đệm vai” để giành lại chùm táo vàng; *(3) Phong thái hiệp nghĩa, điềm đĩnh, lịch duyệt* ngay trước các vị thần khổng lồ *(0,50đ)*.
 

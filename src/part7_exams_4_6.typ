@@ -9,7 +9,7 @@
 
 #passage-box(
   title: "CUỘC TU BỔ LẠI CÁC GIỐNG VẬT",
-  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003, tr. 77 – 78"
+  source: "Bản luyện tập theo Cuộc tu bổ lại các giống vật, bản in trong SGK Chân trời sáng tạo; đối chiếu S3. Nguồn sưu tầm được bản đối chiếu ghi là Nguyễn Đổng Chi."
 )[
   Ngọc Hoàng trước khi sáng tạo ra con người đã nặn ra vạn vật. Nhưng lúc sơ khởi, một phần vì thiếu nguyên liệu, một phần cũng vì vội vàng muốn có một thế giới ngay trong một sớm một chiều cho nên có một số động vật cơ thể cấu tạo chưa được đầy đủ: có con thiếu cánh, có con thiếu chân, v.v...
 
@@ -32,10 +32,10 @@
 *Lựa chọn 01 đáp án đúng nhất cho mỗi câu hỏi từ Câu 1 đến Câu 8 (mỗi câu 0,5 điểm):*
 
 *Câu 1* #badge-biet. Thời gian diễn ra sự việc trong văn bản *Cuộc tu bổ lại các giống vật* được xác định vào thời điểm nào?\
-A. Sau khi con người đã xây dựng xong các thành quách, cung điện đồ sộ.\
-B. Lúc sơ khởi, trước khi Ngọc Hoàng sáng tạo ra con người.\
-C. Vào thế kỉ thứ X khi đất nước giành độc lập tự chủ.\
-D. Vào đêm giao thừa hằng năm ở các làng quê Việt Nam.
+A. Vào đêm giao thừa hằng năm ở các làng quê Việt Nam.\
+B. Sau khi con người đã xây dựng xong các thành quách, cung điện đồ sộ.\
+C. Lúc sơ khởi, trước khi Ngọc Hoàng sáng tạo ra con người.\
+D. Vào thế kỉ thứ X khi đất nước giành độc lập tự chủ.
 
 *Câu 2* #badge-biet. Theo văn bản, vì sao khi mới được Ngọc Hoàng nặn ra, một số loài vật lại có cơ thể chưa đầy đủ?\
 A. Vì các loài vật mải đánh nhau làm gãy chân và rách cánh.\
@@ -44,8 +44,10 @@ C. Vì ba vị Thiên thần cố tình giấu bớt nguyên liệu trên núi.\
 D. Vì con người đã lấy mất nguyên liệu của muôn loài.
 
 *Câu 3* #badge-biet. Khi nguyên liệu mang theo đã phát hết nhẵn, Thiên thần đã dùng vật gì để chắp thêm chân cho con vịt và con chó?\
-A. Bẻ một nắm chân hương. #h(3.5em) B. Bẻ cành tre khô bên suối.\
-C. Tạm bẻ chân ghế để chắp vào. #h(2.5em) D. Nặn thêm bằng bùn đất sét.
+A. Nặn thêm bằng bùn đất sét.\
+B. Bẻ một nắm chân hương.\
+C. Bẻ cành tre khô bên suối.\
+D. Tạm bẻ chân ghế để chắp vào.
 
 *Câu 4* #badge-biet. Chi tiết Thiên thần gắn *“một nắm chân hương”* làm đôi chân cho chim chiền chiện, đỏ nách, ốc cau nhằm cắt nghĩa đặc điểm và tập tính tự nhiên nào của các loài chim ấy?\
 A. Tiếng hót thánh thót vang xa trên bầu trời mùa xuân.\
@@ -60,8 +62,10 @@ C. Cuộc sống du mục trên thảo nguyên băng giá.\
 D. Nghi lễ cung đình xa hoa của hoàng tộc phương Bắc.
 
 *Câu 6* #badge-biet. Thành phần ngôn ngữ trong câu: *“— Chết nỗi! Chân như thế này thì đậu thế nào cho vững được?”* là:\
-A. Lời người kể chuyện bình luận ngoại đề. #h(1.5em) B. Lời trực tiếp của nhân vật (các loài chim).\
-C. Lời độc thoại nội tâm của Ngọc Hoàng. #h(1.7em) D. Lời dẫn gián tiếp của ba vị Thiên thần.
+A. Lời độc thoại nội tâm của Ngọc Hoàng.\
+B. Lời dẫn gián tiếp của ba vị Thiên thần.\
+C. Lời người kể chuyện bình luận ngoại đề.\
+D. Lời trực tiếp của nhân vật (các loài chim).
 
 *Câu 7* #badge-hieu. Qua hành động cố lo làm tròn nhiệm vụ, thương tình bẻ chân ghế giúp chó vịt và bẻ chân hương giúp các loài chim nhỏ dù nguyên liệu đã cạn, hình tượng ba vị Thiên thần hiện lên với phẩm chất gì đáng quý?\
 A. Nóng nảy, nguyên tắc cứng nhắc và thờ ơ trước nỗi khổ của muôn loài.\
@@ -70,10 +74,10 @@ C. Hấp tấp, qua loa cho xong việc để sớm trở về Thiên đình d�
 D. Thiên vị các loài chim nhỏ hơn các loài thú bốn chân.
 
 *Câu 8* #badge-hieu. Nhận xét nào đánh giá đúng nhất sự kết hợp giữa lời người kể chuyện và lời nhân vật trong văn bản trên?\
-A. Toàn bộ văn bản chỉ có đối thoại kịch mà hoàn toàn vắng bóng lời người kể chuyện.\
-B. Lời người kể chuyện ngôi thứ ba dẫn dắt mạch sự việc tự nhiên, kết hợp hài hòa với những lời đối thoại ngắn gọn, hóm hỉnh của Thiên thần và loài vật làm tăng tính sinh động, chân thực cho câu chuyện suy nguyên.\
-C. Lời nhân vật sử dụng toàn bộ điển tích chữ Hán cầu kì khó hiểu.\
-D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não nề.
+A. Lời người kể chuyện ngôi thứ ba dẫn dắt mạch sự việc tự nhiên, kết hợp hài hòa với những lời đối thoại ngắn gọn, hóm hỉnh của Thiên thần và loài vật làm tăng tính sinh động, chân thực cho câu chuyện suy nguyên.\
+B. Lời nhân vật sử dụng toàn bộ điển tích chữ Hán cầu kì khó hiểu.\
+C. Lời người kể chuyện mang giọng điệu bi thương, ai oán não nề.\
+D. Toàn bộ văn bản chỉ có đối thoại kịch mà hoàn toàn vắng bóng lời người kể chuyện.
 
 *Trả lời các câu hỏi Tự luận sau:*
 
@@ -87,7 +91,7 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
 
 #passage-box(
   title: "MƯỜI HAI BÀ MỤ",
-  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003"
+  source: "Bản luyện tập biên tập theo Mười hai Bà Mụ; nguồn đối chiếu S10. Không coi là trích nguyên văn một ấn bản in."
 )[
   Mặt đất lúc mới phân khai còn ẩm ướt lại đen tối mù mịt. Lúc đó có hai nữ thần Mặt Trời và Mặt Trăng được lệnh của Ngọc Hoàng bắt đầu xuất hiện để vừa chiếu cho sáng khắp mọi nơi vừa hun nóng cho khô ráo mặt đất. Từ lúc mọi công việc kiến thiết vũ trụ đã xong, Ngọc Hoàng mới bắt đầu nghĩ đến chuyện sáng tạo ra vạn vật. Ông ta trước hết dùng những chất cặn còn sót lại trong trời đất, nặn ra đủ mọi giống vật từ những con to lớn như voi, tê ngưu, cọp đến những vật bé tí như sâu, kiến, bọ, trùng, v.v... Sau đó, Ngọc Hoàng mới gạn lấy chất trong, chất tinh túy rồi nặn ra một giống vật khác một cách công phu hơn. Đó là loài người. Và cũng vì thế mà người ta khôn hơn vạn vật.
 
@@ -101,14 +105,14 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
   #study-table(
     (0.6fr, 0.6fr, 1.3fr, 4.5fr),
     ("Câu", "Đ/A", "Chỉ báo", "Giải thích căn cứ & Loại trừ phương án nhiễu"),
-    [*1*], [*B*], [CB1 – Biết], [Câu mở đầu xác định rõ thời gian cổ sơ: *“Ngọc Hoàng trước khi sáng tạo ra con người đã nặn ra vạn vật. Nhưng lúc sơ khởi...”*.],
+    [*1*], [*C*], [CB1 – Biết], [Câu mở đầu xác định rõ thời gian cổ sơ: *“Ngọc Hoàng trước khi sáng tạo ra con người đã nặn ra vạn vật. Nhưng lúc sơ khởi...”*.],
     [*2*], [*B*], [CB2 – Biết], [Nguyên văn đoạn 1: *“một phần vì thiếu nguyên liệu, một phần cũng vì vội vàng muốn có một thế giới ngay trong một sớm một chiều”*.],
-    [*3*], [*C*], [CB3 – Biết], [Đoạn 3 nêu rõ: *“Thiên thần thương tình bèn tạm bẻ chân ghế chắp cho một chân con vịt và một chân sau con chó bị thiếu”*.],
+    [*3*], [*D*], [CB3 – Biết], [Đoạn 3 nêu rõ: *“Thiên thần thương tình bèn tạm bẻ chân ghế chắp cho một chân con vịt và một chân sau con chó bị thiếu”*.],
     [*4*], [*C*], [CB3 – Biết], [Chân hương mảnh, màu đỏ gắn với chân chim nhỏ và lời dặn đặt nhớm chân thử độ vững cắt nghĩa thói quen chới với ba lần trước khi đậu.],
     [*5*], [*A*], [CB4 – Biết], [*Chân ghế gỗ* và *chân hương* là hai vật dụng hết sức bình dị, quen thuộc trong mỗi nếp nhà và bàn thờ gia tiên người Việt.],
-    [*6*], [*B*], [CB3 – Biết], [Đặt sau dấu gạch ngang đầu dòng và lời dẫn *“bọn chim kia kêu lên:”* → lời trực tiếp của nhân vật.],
+    [*6*], [*D*], [CB3 – Biết], [Đặt sau dấu gạch ngang đầu dòng và lời dẫn *“bọn chim kia kêu lên:”* → lời trực tiếp của nhân vật.],
     [*7*], [*B*], [CB6 – Hiểu], [Ba vị Thiên thần không bỏ mặc những con vật đến muộn mà tìm mọi cách linh hoạt lấy vật dụng quanh mình bù đắp khiếm khuyết cho chúng.],
-    [*8*], [*B*], [CB8 – Hiểu], [Sự đan xen nhịp nhàng giữa lời kể ngôi thứ ba mộc mạc và lời thoại trực tiếp tạo nét duyên dáng, hóm hỉnh hiếm có cho truyện thần thoại.]
+    [*8*], [*A*], [CB8 – Hiểu], [Sự đan xen nhịp nhàng giữa lời kể ngôi thứ ba mộc mạc và lời thoại trực tiếp tạo nét duyên dáng, hóm hỉnh hiếm có cho truyện thần thoại.]
   )
 
   *2. Hướng dẫn chấm Câu 9 (Thông hiểu — 1,0 điểm):*
@@ -119,28 +123,27 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
   - *Nêu rõ bài học (0,25đ):* Bài học về #strong[sự cẩn trọng, chu đáo, chuẩn bị kĩ lưỡng và tinh thần trách nhiệm sửa sai đến cùng trong công việc, tránh tâm lí nóng vội đốt cháy giai đoạn].
   - *Lí giải thuyết phục (0,50đ):* Ngay cả đấng tối cao như Ngọc Hoàng khi nóng vội *“một sớm một chiều”* cũng để lại sai sót khiến muôn loài thiệt thòi; song đáng quý là Ngọc Hoàng đã kịp thời cử Thiên thần xuống “tu bổ” khắc phục hậu quả thay vì bỏ mặc.
   - *Liên hệ bản thân (0,25đ):* Trong học tập và rèn luyện, cần lập kế hoạch bài bản, tỉ mỉ từng bước và dũng cảm hoàn thiện những thiếu sót của mình.
-  - *Đoạn trả lời mẫu chuẩn 1,0đ:* Chi tiết Ngọc Hoàng vì *“vội vàng muốn có một thế giới ngay trong một sớm một chiều”* khiến nhiều loài vật khiếm khuyết nhưng sau đó đã cử ba vị Thiên thần xuống tận tâm tu bổ lại đem đến cho em bài học thấm thía về sự cẩn trọng và trách nhiệm trong công việc. Bất kì thành quả bền vững nào cũng đòi hỏi sự chuẩn bị chu đáo về “nguyên liệu” tri thức lẫn sự tỉ mỉ trong từng khâu thực hiện; tâm lí nóng vội đốt cháy giai đoạn tất yếu dẫn đến những lỗ hổng đáng tiếc. Tuy nhiên, điều đáng trân trọng hơn cả là khi nhận ra thiếu sót, ta không trốn tránh mà chủ động sửa chữa, bù đắp đến cùng như cách nhà Trời tu bổ muôn loài. Từ đó, em tự nhủ trong học tập phải luôn rèn tính cẩn thận, kiên nhẫn tích lũy từng ngày và nghiêm túc khắc phục ngay mỗi lỗi sai của bản thân.
+  - *Đoạn trả lời tham khảo:* Chi tiết Ngọc Hoàng vì *“vội vàng muốn có một thế giới ngay trong một sớm một chiều”* khiến nhiều loài vật khiếm khuyết nhưng sau đó đã cử ba vị Thiên thần xuống tận tâm tu bổ lại đem đến cho em bài học thấm thía về sự cẩn trọng và trách nhiệm trong công việc. Bất kì thành quả bền vững nào cũng đòi hỏi sự chuẩn bị chu đáo về “nguyên liệu” tri thức lẫn sự tỉ mỉ trong từng khâu thực hiện; tâm lí nóng vội đốt cháy giai đoạn tất yếu dẫn đến những lỗ hổng đáng tiếc. Tuy nhiên, điều đáng trân trọng hơn cả là khi nhận ra thiếu sót, ta không trốn tránh mà chủ động sửa chữa, bù đắp đến cùng như cách nhà Trời tu bổ muôn loài. Từ đó, em tự nhủ trong học tập phải luôn rèn tính cẩn thận, kiên nhẫn tích lũy từng ngày và nghiêm túc khắc phục ngay mỗi lỗi sai của bản thân.
 
-  *4. Hướng dẫn chấm Chi tiết Câu 11 (Nghị luận truyện *Mười hai Bà Mụ* — 4,0 điểm):*
-  - *Cấu trúc (0,25đ); Chính tả, ngữ pháp (0,25đ); Sáng tạo (0,50đ).*
-  - *Giới thiệu & Tóm tắt (0,75đ):* Giới thiệu *Mười hai Bà Mụ* (thần thoại suy nguyên giải thích nguồn gốc loài người của Việt Nam, Nguyễn Đổng Chi sưu tầm); tóm tắt việc Ngọc Hoàng gạn chất trong tinh túy tạo loài người và giao 12 nữ thần khéo tay nắn hình hài, dạy trẻ thơ nói cười.
-  - *Phân tích, đánh giá Chủ đề (0,75đ):* (1) Cắt nghĩa nguồn gốc con người, lí giải vì sao con người tinh anh, thông tuệ hơn muôn loài (*được nặn từ chất trong tinh túy và công phu hơn*) cũng như giải thích sự kì diệu khi em bé chào đời biết cười nói và nguồn gốc tín ngưỡng thờ 12 Bà Mụ; (2) Đề cao giá trị tối thượng của con người trong vũ trụ, ca ngợi tình yêu thương chăm chút trẻ thơ và tinh thần hợp lực cộng đồng (*cùng làm, cùng chịu trách nhiệm chung*).
-  - *Phân tích, đánh giá Nghệ thuật (1,00đ):* Không gian buổi mới phân khai nối tiếp hệ thần thoại (*Mặt Trời – Mặt Trăng → Vạn vật → Con người*); thủ pháp đối lập đắt giá (*chất cặn* nặn thú vật ↔ *chất trong tinh túy* nặn con người); nghệ thuật xây dựng hình tượng tập thể 12 nữ thần khéo léo, dịu hiền mang bóng dáng những người mẹ, người bà đỡ dân gian; ngôi kể thứ ba đan xen nhiều giả thuyết truyền miệng (*“có thuyết nói”, “lại có người cho”*) tạo vẻ đẹp đa thanh, chân thực của văn học dân gian.
-  - *Đánh giá mở rộng (0,50đ):* Đối sánh với *Prô-mê-tê và loài người* (Hy Lạp) hoặc *Nữ Oa tạo người* (Trung Hoa) để thấy niềm tự hào nhân bản sâu sắc của người Việt cổ về phẩm giá con người.
+  *4. Gợi ý nội dung Câu 11 (4,0 điểm):*
+  Chủ đề: cách hình dung nguồn gốc, hình hài và khả năng của con người. Phân tích: chất tinh túy, việc nắn các bộ phận, dạy nói cười; phân biệt các thuyết được kể. Nghệ thuật: nhân vật tập thể, chi tiết kì ảo, lời dẫn giới thiệu nhiều cách kể. Không suy ra chế độ xã hội chỉ từ hình tượng nữ thần; không dùng truyện để kì thị đặc điểm cơ thể.
+
+  Chấm theo rubric ở mục 5.7. Chấp nhận cách hiểu khác có căn cứ; không bắt buộc trích danh ngôn, đối sánh hoặc viết một số đoạn cố định.
+
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 04 (~900 CHỮ — PHÂN TÍCH MƯỜI HAI BÀ MỤ)")[
-  Trong hành trình truy tìm cội nguồn vạn vật thuở hồng hoang, không câu hỏi nào làm rung động tâm trí con người cổ đại mãnh liệt bằng câu hỏi về chính mình: *Loài người từ đâu sinh ra, vì sao con người lại có trí khôn vượt lên muôn thú, và ai đã nắn nên hình hài kì diệu cùng nụ cười trong trẻo của mỗi hài nhi mới lọt lòng?* Nếu thần thoại Hy Lạp giải đáp câu hỏi ấy bằng ngọn lửa của Prô-mê-tê, thần thoại Trung Hoa gửi gắm vào bàn tay đất sét của Nữ Oa, thì tâm hồn người Việt cổ đã dệt nên thiên thần thoại ấm áp *Mười hai Bà Mụ* (trích *Lược khảo về thần thoại Việt Nam* của học giả Nguyễn Đổng Chi). Tác phẩm là khúc ca suy nguyên thấm đẫm tinh thần nhân bản, hấp dẫn người đọc bởi chiều sâu chủ đề tôn vinh con người cùng những nét đặc sắc mộc mạc mà tinh tế về nghệ thuật tự sự dân gian.
+#essay-box(title: "BÀI THAM KHẢO ĐỀ 04 — ĐỌC CÁCH LẬP LUẬN, KHÔNG HỌC THUỘC")[
+  Mười hai Bà Mụ là truyện thần thoại tìm lời giải về sự hình thành con người qua công việc của những vị thần. Bản kể được cho không chỉ thuật chuyện nặn người mà còn ghi lại những cách giải thích khác nhau về nhiệm vụ của mười hai nữ thần. Chính sự đan xen ấy làm người đọc nhận ra một câu chuyện được lưu truyền trong cộng đồng, với nhiều cách hình dung về sự sống và hình hài con người.
 
-  Đặt trong mạch liên kết của hệ thần thoại sáng thế Việt Nam, *Mười hai Bà Mụ* mở ra khi mặt đất vừa mới phân khai, đã được hai nữ thần Mặt Trời và Mặt Trăng chiếu sáng, hun khô. Bắt tay vào kiến tạo sự sống, Ngọc Hoàng dùng những chất cặn còn sót lại trong trời đất nặn ra muôn loài cầm thú, côn trùng trước; sau đó mới gạn lấy phần chất trong, chất tinh túy nhất để công phu nặn ra loài người. Tiếp nối công cuộc ấy, Ngọc Hoàng giao phó cho mười hai vị nữ thần khéo tay — tục gọi là Mười hai Bà Mụ — trọng trách chăm nom, nắn lại tai mắt, tứ chi và dạy nói dạy cười cho từng đứa trẻ đỏ hỏn chào đời nơi trần thế, cùng nhau chia sẻ trách nhiệm chung về mọi khiếm khuyết của con người.
+  Sau khi kiến thiết vũ trụ, Ngọc Hoàng tạo ra muôn vật rồi dùng chất trong, tinh túy để nặn người. Việc hoàn thiện con người được giao cho mười hai nữ thần khéo tay. Có cách kể xem các bà giúp việc từ buổi sáng tạo, có cách kể gắn công việc của các bà với việc đầu thai. Các nhiệm vụ nắn tai, mắt, tứ chi, dạy nói, dạy cười cụ thể hóa quá trình làm nên một con người trong trí tưởng tượng dân gian.
 
-  Giá trị tư tưởng rực rỡ nhất của *Mười hai Bà Mụ* kết tinh ở chủ đề suy nguyên mang tầm vóc nhân văn cao cả: giải thích nguồn gốc loài người để khẳng định vị thế tinh hoa của con người giữa vũ trụ, đồng thời tôn vinh thiên chức nâng niu sự sống trẻ thơ. Dưới nhãn quan hồn nhiên của tổ tiên ta, con người không phải sản phẩm ngẫu nhiên hay vội vàng mà là đỉnh cao sáng tạo của đất trời — được chắt lọc từ *“chất trong, chất tinh túy”* và nhào nặn *“một cách công phu hơn”* hẳn muôn loài tạo từ chất cặn. Cách cắt nghĩa ấy thể hiện niềm tự hào sâu sắc của người Việt cổ về trí tuệ, tâm hồn và phẩm giá con người (*“vì thế mà người ta khôn hơn vạn vật”*). Không dừng lại ở buổi đầu tạo sinh, chủ đề tác phẩm còn chạm tới vẻ đẹp thiêng liêng của mỗi sinh mệnh cá thể thông qua hình ảnh Mười hai Bà Mụ cần mẫn nắn từng vành tai, đôi mắt, dạy từng tiếng khóc nụ cười cho trẻ sơ sinh. Từ đó, truyện lí giải cội nguồn phong tục *cúng Mụ (đầy cữ, đầy tháng, thôi nôi)* bền bỉ hàng ngàn năm trong mỗi gia đình Việt, đồng thời đề cao tinh thần đoàn kết, đồng trách nhiệm (*“mỗi một khuyết điểm đều do cả mười hai nữ thần chịu chung”*).
+  Trước hết, truyện thể hiện nhu cầu hiểu về nguồn gốc và sự khác biệt của con người. Việc chọn chất tinh túy đặt con người vào một vị trí được đề cao so với muôn vật. Đây là quan niệm của bản kể, thể hiện niềm tự hào về trí khôn, chứ không phải kết luận khoa học về sinh học. Chi tiết nặn hình hài cũng cho thấy người kể quan sát nhiều bộ phận và hoạt động của con người rồi hình dung mỗi phần có một công việc tạo tác riêng. Cái khó hiểu được giải thích qua một quá trình làm việc mà người nghe có thể hình dung.
 
-  Để chuyển tải chủ đề sâu sắc ấy, tác giả dân gian đã vận dụng điêu luyện những hình thức nghệ thuật đặc trưng của thể loại thần thoại. Trước hết là không gian vũ trụ buổi bình minh nối kết tự nhiên với thời gian cổ sơ phiếm chỉ (*“Mặt đất lúc mới phân khai”, “từ lúc mọi công việc kiến thiết vũ trụ đã xong”*), đặt sự ra đời của loài người vào đúng trật tự hợp lí của chuỗi sáng thế: có trời đất, ánh sáng, hơi ấm và muôn vật rồi con người mới xuất hiện như chủ nhân trung tâm của thế gian. Cốt truyện đơn giản nhưng hàm súc cao độ nhờ thủ pháp đối lập giàu sức biểu cảm ở đoạn mở đầu: đối lập giữa *“chất cặn còn sót lại”* với *“chất trong, chất tinh túy”*, giữa các loài vật lớn bé đa dạng với giống người được tạo tác công phu. Chỉ một nét đối sánh ngắn gọn ấy đã làm bừng sáng tư tưởng đề cao con người mà không cần đến những lời thuyết lí dài dòng.
+  Nhân vật tập thể mười hai Bà Mụ là cách tổ chức hình tượng nổi bật. Những nữ thần được gọi là khéo tay, thực hiện công việc liên quan đến cơ thể và sự phát triển đầu đời. Các hoạt động nắn, tạo và dạy đưa dáng vẻ lao động, chăm sóc vào thế giới thần linh. Không cần miêu tả một cuộc chiến hay một sức mạnh phá núi, bản kể vẫn tạo được quyền năng siêu nhiên: làm ra hình hài và trao những khả năng sống cho con người. Chi tiết đó cho phép liên hệ đến sự chăm sóc trẻ nhỏ, nhưng không đủ để khẳng định một mô hình xã hội cụ thể.
 
-  Đặc biệt, nghệ thuật xây dựng hình tượng nhân vật tập thể *Mười hai Bà Mụ* mang đậm vẻ đẹp văn hoá mẫu tính Việt Nam. Thay vì một vị nam thần uy quyền lạnh lùng, người trực tiếp hoàn thiện hình hài và trao truyền cảm xúc đầu đời (*dạy nói, dạy cười*) cho con người lại là mười hai nữ thần *“khéo tay”*, ân cần và tận tụy — hình bóng thần thánh hóa của những người mẹ, người bà đỡ hiền từ nơi thôn xóm. Hơn nữa, ngôi kể thứ ba khách quan kết hợp khéo léo lối trần thuật đa thanh của văn học truyền miệng (*“Có thuyết nói...”, “Lại có người cho...”, “cũng có nhiều người thì lại cho rằng...”*) vừa giữ được màn sương huyền thoại lung linh cổ kính, vừa khơi gợi trí tò mò, đồng sáng tạo nơi người tiếp nhận.
+  Những lời dẫn nêu nhiều thuyết có vai trò quan trọng trong cách kể. Chúng cho thấy câu chuyện không hoàn toàn ép các cách giải thích vào một phiên bản duy nhất. Người đọc nhận ra sự khác nhau giữa việc tạo người ban đầu và việc nắn lại hình hài khi đầu thai. Khi phân tích, cần phân biệt điều mỗi thuyết nói, không cộng tất cả thành một chuỗi sự kiện chắc chắn đã xảy ra. Ngôi kể thứ ba cho phép người kể giới thiệu những quan niệm ấy và chuyển từ công việc của Ngọc Hoàng sang nhiệm vụ các bà.
 
-  Trải qua bao thế kỉ, khi y học và sinh học hiện đại đã giải mã tường tận cơ chế di truyền sự sống, truyện *Mười hai Bà Mụ* vẫn vẹn nguyên sức lay động thiêng liêng mỗi khi tiếng trẻ thơ cất khóc chào đời. Tác phẩm nhắc nhở mỗi chúng ta hôm nay hãy biết trân quý cơ thể, trí tuệ “tinh túy” mà tạo hóa và cha mẹ ban tặng, biết sống xứng đáng với phẩm giá con người và dành trọn tình yêu thương che chở cho những mầm non tương lai.
+  Giá trị của Mười hai Bà Mụ nằm ở cách biến câu hỏi về sự sống thành câu chuyện tạo tác gần gũi. Có những quan niệm trong truyện không phù hợp để áp dụng vào việc giải thích cơ thể con người hiện nay. Đặc biệt, cần tránh dùng cách nói về sai sót khi nặn người để chê bai người khuyết tật hoặc người có đặc điểm cơ thể khác mình. Với em, việc đọc truyện trong bối cảnh văn hóa xưa giúp hiểu trí tưởng tượng dân gian, còn cách ứng xử hôm nay phải dựa trên sự tôn trọng phẩm giá của mọi người.
 ]
 
 // ============================================================================
@@ -152,7 +155,7 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
 
 #passage-box(
   title: "SỰ TÍCH ÔNG ĐÙNG, BÀ ĐÙNG",
-  source: "Theo Truyện cổ dân tộc Mường, Kho tàng thần thoại các dân tộc Việt Nam"
+  source: "Bản luyện tập biên tập theo Sự tích ông Đùng, bà Đùng; đối chiếu bản đọc Tiếng Việt 3 KNTT tại S7."
 )[
   Chuyện kể rằng, ngày xửa ngày xưa, trời đất còn chưa phân tách rõ ràng, nhờ có mụ Dạ Dần đẻ đất đẻ nước mà người Mường có các xứ Mường như ngày nay. Khi Mường Bi được tạo lập xong thì dân Mường thấy xuất hiện một đôi vợ chồng cao lớn khác thường. Ông Đùng, bà Đùng đứng cao lắm, có dễ đứng cao hơn năm lần đỉnh núi cao nhất. Đứng ở Mường Bi mà nhìn lên tận Châu Mộc, Sơn La, nhìn xuống mãi đồng bằng giáp biển, nhìn xa tới Thanh Hóa. Người Mường gọi họ là ông Đùng, bà Đùng, nghĩa là ông bà khổng lồ, người nhà Trời xuống giúp dân Mường gây dựng cơ nghiệp.
 
@@ -164,10 +167,10 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
 *Lựa chọn 01 đáp án đúng nhất cho mỗi câu hỏi từ Câu 1 đến Câu 8 (mỗi câu 0,5 điểm):*
 
 *Câu 1* #badge-biet. Bối cảnh không gian ở xứ Mường Bi trước khi ông Đùng, bà Đùng ra tay cải tạo được miêu tả như thế nào?\
-A. Đồng ruộng thẳng cánh cò bay, phố xá đông đúc tấp nập.\
-B. Đất cao thấp lồi lõm, cây cối hoang dại mọc chằng chịt, nước chảy ngập lênh láng khắp nơi.\
-C. Hạn hán khô cằn nứt nẻ suốt ba năm không có một giọt nước.\
-D. Băng tuyết phủ trắng xóa quanh năm không loài cây nào mọc nổi.
+A. Hạn hán khô cằn nứt nẻ suốt ba năm không có một giọt nước.\
+B. Băng tuyết phủ trắng xóa quanh năm không loài cây nào mọc nổi.\
+C. Đồng ruộng thẳng cánh cò bay, phố xá đông đúc tấp nập.\
+D. Đất cao thấp lồi lõm, cây cối hoang dại mọc chằng chịt, nước chảy ngập lênh láng khắp nơi.
 
 *Câu 2* #badge-biet. Theo văn bản, đôi vợ chồng khổng lồ ông Đùng, bà Đùng đã thực hiện hai kì tích lớn nào giúp dân Mường?\
 A. Đúc trống đồng và chế tạo cung nỏ đánh đuổi giặc ngoại xâm.\
@@ -176,31 +179,34 @@ C. Nhổ cây san đất tạo thành cánh đồng Thạch Bi màu mỡ và b�
 D. Mở hội thi tuyển chọn các loài cá dưới suối hóa thành rồng phun mưa.
 
 *Câu 3* #badge-biet. Chi tiết *“do vét đất cả vào ban đêm không nhìn rõ”* được tác giả dân gian dùng để giải thích đặc điểm địa lí nào của con sông Đà?\
-A. Nước sông Đà đổi màu theo hai mùa xuân và thu.\
-B. Dòng sông Đà chảy ngoằn ngoèo và có nhiều thác ghềnh (*“trăm bảy mươi thác, trăm ba mươi ghềnh”*).\
-C. Sông Đà có nhiều loài cá quý sinh sống dưới đáy vực sâu.\
-D. Hai bên bờ sông Đà có nhiều rừng hoa ban nở trắng.
+A. Dòng sông Đà chảy ngoằn ngoèo và có nhiều thác ghềnh (*“trăm bảy mươi thác, trăm ba mươi ghềnh”*).\
+B. Sông Đà có nhiều loài cá quý sinh sống dưới đáy vực sâu.\
+C. Hai bên bờ sông Đà có nhiều rừng hoa ban nở trắng.\
+D. Nước sông Đà đổi màu theo hai mùa xuân và thu.
 
 *Câu 4* #badge-biet. Câu văn: *“Họ làm suốt từ lúc #strong[mặt trời thức] đến lúc #strong[mặt trời đi ngủ] vẫn không nghỉ”* sử dụng biện pháp tu từ nào ở các từ in đậm?\
-A. Nhân hóa. #h(3.5em) B. Hoán dụ. #h(3.5em) C. Nói giảm nói tránh. #h(2.5em) D. Chơi chữ.
+A. Hoán dụ.\
+B. Nói giảm nói tránh.\
+C. Chơi chữ.\
+D. Nhân hóa.
 
 *Câu 5* #badge-biet. Văn bản *Sự tích Ông Đùng, bà Đùng* phản ánh rõ nét bối cảnh lịch sử – văn hoá nào của đồng bào dân tộc Mường thời cổ đại?\
-A. Công cuộc khai hoang lập bản, san ruộng làm lúa và trị thủy chinh phục thiên nhiên vùng thung lũng núi cao Tây Bắc – Hòa Bình.\
-B. Nghề đánh bắt hải sản xa bờ trên đại dương mênh mông.\
-C. Đời sống thương mại trao đổi hàng hóa với thương thuyền phương Tây.\
-D. Sinh hoạt văn chương khoa cử nơi kinh đô phong kiến.
+A. Sinh hoạt văn chương khoa cử nơi kinh đô phong kiến.\
+B. Công cuộc khai hoang lập bản, san ruộng làm lúa và trị thủy chinh phục thiên nhiên vùng thung lũng núi cao Tây Bắc – Hòa Bình.\
+C. Nghề đánh bắt hải sản xa bờ trên đại dương mênh mông.\
+D. Đời sống thương mại trao đổi hàng hóa với thương thuyền phương Tây.
 
 *Câu 6* #badge-biet. Cặp nhân vật ông Đùng – bà Đùng thuộc mô-típ nhân vật đặc trưng nào trong kho tàng thần thoại các dân tộc Việt Nam?\
-A. Mô-típ người con út mồ côi nghèo khổ nhờ bụt giúp mà đổi đời.\
-B. Mô-típ cặp đôi nam – nữ thần khổng lồ kiến tạo địa hình sông núi (tương đồng với ông Tứ Tượng – bà Nữ Oa, ông Đực – bà Cái).\
-C. Mô-típ nho sĩ ẩn dật chốn lâm tuyền lánh đục tìm trong.\
-D. Mô-típ con vật nhỏ bé thắng kẻ mạnh bằng mưu mẹo.
+A. Mô-típ cặp đôi nam – nữ thần khổng lồ kiến tạo địa hình sông núi (tương đồng với ông Tứ Tượng – bà Nữ Oa, ông Đực – bà Cái).\
+B. Mô-típ nho sĩ ẩn dật chốn lâm tuyền lánh đục tìm trong.\
+C. Mô-típ con vật nhỏ bé thắng kẻ mạnh bằng mưu mẹo.\
+D. Mô-típ người con út mồ côi nghèo khổ nhờ bụt giúp mà đổi đời.
 
 *Câu 7* #badge-hieu. Hình ảnh *“Ông Đùng lom khom dùng tay bới đất đằng trước, bà Đùng hì hụi vét đất đằng sau. Hai ông bà vừa làm vừa trò chuyện vui vẻ nên không thấy mệt mỏi gì cả”* gửi gắm vẻ đẹp nhân sinh gì?\
-A. Sự phân biệt thứ bậc bất bình đẳng giữa người chồng và người vợ.\
-B. Vẻ đẹp của tình nghĩa vợ chồng thuận hòa, đồng tâm hiệp lực và niềm lạc quan trong lao động kiến tạo cuộc sống.\
-C. Thái độ làm việc chủ quan, thiếu nghiêm túc của các vị thần.\
-D. Nỗi chán chường mệt mỏi của thần linh khi phải phục dịch con người.
+A. Nỗi chán chường mệt mỏi của thần linh khi phải phục dịch con người.\
+B. Sự phân biệt thứ bậc bất bình đẳng giữa người chồng và người vợ.\
+C. Vẻ đẹp của tình nghĩa vợ chồng thuận hòa, đồng tâm hiệp lực và niềm lạc quan trong lao động kiến tạo cuộc sống.\
+D. Thái độ làm việc chủ quan, thiếu nghiêm túc của các vị thần.
 
 *Câu 8* #badge-hieu. Nhận xét nào khái quát đúng nhất đặc trưng nghệ thuật nổi bật của văn bản *Sự tích Ông Đùng, bà Đùng*?\
 A. Ngôn ngữ bác học cầu kì, sử dụng dày đặc các điển cố lịch sử Trung Hoa.\
@@ -220,7 +226,7 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
 
 #passage-box(
   title: "NỮ OA VÁ TRỜI",
-  source: "Thần thoại Trung Quốc — Theo bản dịch của Thái Hoàng và Bùi Văn Nguyên"
+  source: "Thần thoại Trung Quốc; bản luyện tập biên tập theo bản soạn lại ghi tên Thái Hoàng, Bùi Văn Nguyên tại S8."
 )[
   Người Trung Hoa kể rằng Nữ Oa là vị thần sinh ra loài người. Con cháu bà sống trong cõi thế gian bình yên vô sự thì bỗng một hôm Thủy thần Cung Công và Hỏa thần Chúc Dung gây sự đánh nhau rất dữ dội. Cung Công thua to, tự nghĩ chẳng còn mặt mũi nào sống trong trời đất nữa bèn đập đầu vào núi Bất Chu, vốn là cây cột chống trời ở phía Tây Bắc, để tự tử. Vì sức đập không đủ mạnh nên Cung Công không chết, chỉ có cây cột chống trời là gãy gập xuống, một góc trời bị sụt lở gây ra tai họa khủng khiếp cho loài người.
 
@@ -236,13 +242,13 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
   #study-table(
     (0.6fr, 0.6fr, 1.3fr, 4.5fr),
     ("Câu", "Đ/A", "Chỉ báo", "Giải thích căn cứ & Loại trừ phương án nhiễu"),
-    [*1*], [*B*], [CB1 – Biết], [Đoạn 2 miêu tả nguyên văn: *“Đất thì cao thấp, lồi lõm. Cây cối hoang dại mọc chằng chịt, rối bời. Nước thì chảy từ trong lòng đất ra, ngập lênh láng khắp Mường”*.],
+    [*1*], [*D*], [CB1 – Biết], [Đoạn 2 miêu tả nguyên văn: *“Đất thì cao thấp, lồi lõm. Cây cối hoang dại mọc chằng chịt, rối bời. Nước thì chảy từ trong lòng đất ra, ngập lênh láng khắp Mường”*.],
     [*2*], [*C*], [CB2 – Biết], [Đoạn 2 (làm cánh đồng Thạch Bi) và đoạn 3 (bới đất khơi dòng sông Đà).],
-    [*3*], [*B*], [CB3 – Biết], [Câu kết văn bản giải thích rõ dòng chảy ngoằn ngoèo và *“trăm bảy mươi thác, trăm ba mươi ghềnh”* của sông Đà.],
-    [*4*], [*A*], [CB3 – Biết], [Gán hoạt động sinh học của người (*thức, đi ngủ*) cho thiên thể Mặt Trời → phép *nhân hóa*.],
-    [*5*], [*A*], [CB4 – Biết], [Phản ánh trực tiếp lịch sử khai phá thung lũng Mường Bi (Hòa Bình) và chế ngự dòng Đà giang hung dữ của cư dân Mường cổ.],
-    [*6*], [*B*], [CB3 – Biết], [Thuộc mô-típ cặp thần khổng lồ nam – nữ kiến tạo núi sông phổ biến trong thần thoại Việt – Mường.],
-    [*7*], [*B*], [CB6 – Hiểu], [Khắc họa vẻ đẹp bình dị, ấm áp của tình nghĩa vợ chồng gắn bó và niềm vui lao động sáng tạo quên mệt nhọc.],
+    [*3*], [*A*], [CB3 – Biết], [Câu kết văn bản giải thích rõ dòng chảy ngoằn ngoèo và *“trăm bảy mươi thác, trăm ba mươi ghềnh”* của sông Đà.],
+    [*4*], [*D*], [CB3 – Biết], [Gán hoạt động sinh học của người (*thức, đi ngủ*) cho thiên thể Mặt Trời → phép *nhân hóa*.],
+    [*5*], [*B*], [CB4 – Biết], [Phản ánh trực tiếp lịch sử khai phá thung lũng Mường Bi (Hòa Bình) và chế ngự dòng Đà giang hung dữ của cư dân Mường cổ.],
+    [*6*], [*A*], [CB3 – Biết], [Thuộc mô-típ cặp thần khổng lồ nam – nữ kiến tạo núi sông phổ biến trong thần thoại Việt – Mường.],
+    [*7*], [*C*], [CB6 – Hiểu], [Khắc họa vẻ đẹp bình dị, ấm áp của tình nghĩa vợ chồng gắn bó và niềm vui lao động sáng tạo quên mệt nhọc.],
     [*8*], [*B*], [CB9 – Hiểu], [Kết hợp hài hòa bút pháp cường điệu khổng lồ với chất liệu lao động dân dã để suy nguyên địa mạo quê hương.]
   )
 
@@ -255,28 +261,27 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
   - *Nêu rõ bài học (0,25đ):* Sức mạnh kì diệu của #strong[sự đồng tâm hiệp lực, chia sẻ trách nhiệm và tinh thần lạc quan khi làm việc tập thể].
   - *Lí giải (0,50đ):* Công trình vĩ đại khơi dòng sông Đà không thể hoàn thành nếu thiếu sự phối hợp nhịp nhàng (*người bới trước, người vét sau*) và niềm vui sẻ chia giúp hóa giải mọi nhọc nhằn thâu đêm suốt sáng.
   - *Liên hệ bản thân (0,25đ):* Biết lắng nghe, tôn trọng, phối hợp ăn ý khi làm việc nhóm ở trường lớp và giữ thái độ tích cực trước việc khó.
-  - *Đoạn trả lời mẫu chuẩn 1,0đ:* Hình ảnh ông Đùng bới đất đằng trước, bà Đùng hì hụi vét đất đằng sau, *“vừa làm vừa trò chuyện vui vẻ”* suốt ngày đêm để khai mở dòng sông Đà gợi cho em bài học sâu sắc về sức mạnh của tinh thần đoàn kết hợp tác. Những công việc vĩ đại tưởng chừng quá sức cá nhân luôn có thể được chinh phục khi con người biết đồng lòng chung sức, phân công nhịp nhàng và truyền cho nhau nguồn năng lượng tích cực. Chính sự hòa hợp và niềm vui sẻ chia đã biến lao động nặng nhọc thành hành trình kiến tạo đầy hứng khởi. Trong môi trường học tập hiện đại hôm nay, em nhận thức rằng biết lắng nghe, sẻ chia gánh nặng cùng tập thể với thái độ lạc quan chính là chiếc chìa khóa giúp chúng ta đi xa hơn và tạo nên những thành quả bền vững.
+  - *Đoạn trả lời tham khảo:* Hình ảnh ông Đùng bới đất đằng trước, bà Đùng hì hụi vét đất đằng sau, *“vừa làm vừa trò chuyện vui vẻ”* suốt ngày đêm để khai mở dòng sông Đà gợi cho em bài học sâu sắc về sức mạnh của tinh thần đoàn kết hợp tác. Những công việc vĩ đại tưởng chừng quá sức cá nhân luôn có thể được chinh phục khi con người biết đồng lòng chung sức, phân công nhịp nhàng và truyền cho nhau nguồn năng lượng tích cực. Chính sự hòa hợp và niềm vui sẻ chia đã biến lao động nặng nhọc thành hành trình kiến tạo đầy hứng khởi. Trong môi trường học tập hiện đại hôm nay, em nhận thức rằng biết lắng nghe, sẻ chia gánh nặng cùng tập thể với thái độ lạc quan chính là chiếc chìa khóa giúp chúng ta đi xa hơn và tạo nên những thành quả bền vững.
 
-  *4. Hướng dẫn chấm Chi tiết Câu 11 (Nghị luận truyện *Nữ Oa vá trời* — 4,0 điểm):*
-  - *Cấu trúc (0,25đ); Chính tả, ngữ pháp (0,25đ); Sáng tạo (0,50đ).*
-  - *Giới thiệu & Tóm tắt (0,75đ):* Giới thiệu *Nữ Oa vá trời* (kiệt tác thần thoại Trung Quốc cổ đại); tóm tắt biến cố Cung Công húc gãy cột chống trời Bất Chu gây đại họa và kì tích Nữ Oa luyện đá ngũ sắc vá trời, dựng 4 chân rùa, ngăn lũ, diệt ác thú, chế ống sậy trả lại bình yên cho loài người.
-  - *Phân tích, đánh giá Chủ đề (0,75đ):* (1) Cắt nghĩa nguồn gốc mây ngũ sắc, vòm trời vững chãi, địa hình và nhạc cụ cổ; (2) Ca ngợi #strong[tình mẫu tử thiêng liêng bao la, ý chí kiên cường bất khuất của người Mẹ Thần] và khát vọng chế ngự thiên tai (động đất, cháy rừng, hồng thủy, ác thú), hướng tới cuộc sống thái bình, tươi vui của nhân loại cổ đại.
-  - *Phân tích, đánh giá Nghệ thuật (1,00đ):* Bối cảnh không gian vũ trụ hoành tráng rung chuyển dữ dội; cốt truyện kịch tính theo cấu trúc *Bình yên → Đại họa tận thế → Kì tích cứu thế → Hồi sinh thanh bình*; hệ thống chi tiết kì ảo tráng lệ bậc nhất phương Đông (*luyện đá ngũ sắc thành keo vá trời, bốn chân rùa khổng lồ chống bốn cực, tro lau lách ngăn lũ, sênh phượng hoàng*); khắc họa nhân vật Nữ Oa kết hợp hoàn hảo tầm vóc thần linh vĩ đại với trái tim người mẹ tần tảo (*“đau lòng”, “thương con”, “một mình hì hục khuân đất, đội đá”*); lời người kể chuyện giàu cảm xúc cảm thán (*“Nhưng trời sập còn biết trốn vào đâu!”*).
-  - *Đánh giá mở rộng (0,50đ):* Đối sánh Nữ Oa vá trời với *Thần Trụ Trời* (Việt Nam) để thấy mô-típ *cột chống trời* phổ quát phương Đông và vẻ đẹp riêng của hình tượng Nữ Thần Mẹ cứu thế.
+  *4. Gợi ý nội dung Câu 11 (4,0 điểm):*
+  Chủ đề: khát vọng cứu người, khôi phục cuộc sống sau tai họa. Phân tích chuỗi hành động vá trời, chống trời, ngăn lũ và trừ hiểm họa; đối lập hành vi phá hủy và hàn gắn. Nghệ thuật: phóng đại, chi tiết kì ảo gắn thao tác lao động, kết cấu tai họa – khắc phục – bình yên.
+
+  Chấm theo rubric ở mục 5.7. Chấp nhận cách hiểu khác có căn cứ; không bắt buộc trích danh ngôn, đối sánh hoặc viết một số đoạn cố định.
+
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 05 (~950 CHỮ — PHÂN TÍCH NỮ OA VÁ TRỜI)")[
-  Đại văn hào M. Gorki từng khẳng định đầy chí lí: *“Thần thoại là sự phản ánh thiên nhiên và cuộc đấu tranh với thiên nhiên trong trí tưởng tượng nghệ thuật của người tiền sử”*. Đứng trước những cơn cuồng nộ kinh hoàng của đất trời thuở sơ khai, con người cổ đại không chịu cúi đầu tuyệt vọng mà đã ký thác khát vọng sinh tồn bất diệt của mình vào những đấng thần linh cứu thế vĩ đại. Trong kho tàng thần thoại phương Đông, hiếm có tác phẩm nào khắc họa vẻ đẹp ấy tráng lệ và xúc động như *Nữ Oa vá trời* (thần thoại Trung Quốc). Tác phẩm là bản giao hưởng huyền thoại tuyệt mĩ, kết tinh hài hòa giữa chủ đề ngợi ca tình mẫu tử cứu nhân độ thế và những nét đặc sắc rực rỡ về hình thức nghệ thuật tự sự cổ đại.
+#essay-box(title: "BÀI THAM KHẢO ĐỀ 05 — ĐỌC CÁCH LẬP LUẬN, KHÔNG HỌC THUỘC")[
+  Nữ Oa vá trời kể về việc cứu thế giới sau một tai họa do cuộc xung đột giữa các thần gây nên. Trong bản kể ở đề bài, Nữ Oa là vị thần sinh ra loài người, vì thương con cháu mà tìm cách hàn gắn vòm trời và ngăn những hiểm họa trên mặt đất. Chủ đề cứu giúp sự sống được thể hiện qua một chuỗi hành động cụ thể, gắn sức mạnh thần linh với những công việc lao động quen thuộc.
 
-  Câu chuyện bắt đầu từ biến cố kinh thiên động địa phá vỡ cuộc sống yên bình của loài người: Thủy thần Cung Công thua trận trước Hỏa thần Chúc Dung đã hổ thẹn đập đầu vào núi Bất Chu — cây cột chống trời phía Tây Bắc — khiến vòm trời rách toang, đất rung núi cháy, hồng thủy dâng tràn nhấn chìm nhân thế. Đau xót trước cảnh đàn con thơ ngoi ngóp tuyệt vọng, nữ thần Nữ Oa đã một mình ngày đêm khuân đất đội đá, luyện đá ngũ sắc thành keo vá lành vòm trời, chặt bốn chân rùa khổng lồ dựng cột chống vững bốn phương, đốt tro lau lách ngăn lũ, giết rồng đen xua ác thú và ghép ống sậy làm nhạc cụ trao cho con cháu, đưa mặt đất trở lại cảnh bốn mùa no ấm, thanh bình.
+  Cung Công thua trận, đập đầu vào núi Bất Chu khiến cột chống trời gãy và một góc trời sụt lở. Đất rung chuyển, lửa cháy, nước dâng, loài người chạy trốn. Nữ Oa luyện đá ngũ sắc vá những chỗ thủng, dùng chân rùa làm cột chống, đốt lau ngăn lũ và trừ các mối đe dọa khác. Khi cuộc sống bình yên trở lại, con người tưởng nhớ công lao của bà. Mạch truyện đi từ biến cố phá hủy đến quá trình khôi phục.
 
-  Chiều sâu tư tưởng làm nên sức sống ngàn năm của *Nữ Oa vá trời* trước hết tỏa sáng ở chủ đề kép: vừa cắt nghĩa thế giới tự nhiên vừa tôn vinh sức mạnh vĩ đại của tình thương và ý chí con người trước thảm họa thiên nhiên. Ở tầng nghĩa suy nguyên, người Trung Hoa cổ đã lí giải đầy thơ mộng vì sao vòm trời cao xanh điểm những đám mây ngũ sắc rực rỡ, đồng thời lưu giữ ký ức tập thể về những trận thiên tai khủng khiếp thời tiền sử (núi lửa, động đất, lũ lụt sông Hoàng Hà) và nguồn gốc nhạc cụ sênh phượng cổ truyền. Nhưng vượt lên trên mục đích giải thích tự nhiên, linh hồn chủ đề của tác phẩm chính là khúc ca ngợi ca #strong[tình mẫu tử thiêng liêng hóa thành sức mạnh dời non lấp bể]. Khác với hai vị nam thần Cung Công và Chúc Dung vì tự ái tranh giành quyền lực mà gieo tai họa cho muôn dân, Nữ Oa hành động hoàn toàn từ trái tim người mẹ (*“đau lòng thấy con cháu ngoi ngóp”, “chỉ vì thương con”*). Chính tình thương ấy đã biến công việc *“xưa nay chưa ai dám nghĩ đến”* thành hiện thực, khẳng định niềm tin bất diệt của nhân loại vào sự chiến thắng của sự sống, lòng nhân ái và lao động sáng tạo trước mọi thế lực hủy diệt.
+  Tình thương là động lực của hành động trung tâm. Nữ Oa đau lòng trước cảnh con cháu gặp nạn nên quyết tâm làm một việc chưa ai làm. Lời kể nhấn vào việc bà không quản khó khăn, tự đi khuân đất, đội đá. Nhờ vậy, sức mạnh không chỉ được nêu như một đặc điểm sẵn có của thần; nó được thể hiện qua sự bền bỉ làm việc. Từ hình tượng người mẹ cứu con, có thể nhận ra mong muốn của cộng đồng về một sức mạnh bảo vệ con người trước tai họa.
 
-  Để khắc tạc bức tượng đài tư tưởng kì vĩ đó, tác giả dân gian đã kiến tạo một chỉnh thể nghệ thuật thần thoại đạt tới độ mẫu mực cổ điển. Trước hết là không gian vũ trụ mở rộng tới bốn cực trời đất đặt trong thế tương phản dữ dội: từ cảnh *“vòm trời rách toang, đất đai ầm ầm rung chuyển, núi rừng bốc cháy, nước ngập mênh mông”* tối tăm ngột ngạt chuyển sang bức tranh *“ánh sáng trở lại chan hòa... vòm trời trong xanh, điểm mây ngũ sắc”* khoáng đạt thanh bình. Cốt truyện tuy vẫn xoay quanh nhân vật trung tâm đơn tuyến là Nữ Oa nhưng giàu kịch tính bậc nhất nhờ cấu trúc chuỗi năm kì tích liên hoàn dồn dập: *luyện đá vá trời → dựng bốn chân rùa chống bốn cực → đốt tro lau ngăn lũ → diệt rồng đen ác thú → chế nhạc cụ ống sậy*. Đáng chú ý, sau khi bảo toàn sinh mệnh vật chất cho con người, Nữ Oa còn trao tặng tiếng nhạc *“réo rắt vui tai”* để nuôi dưỡng đời sống tinh thần — một nét hoàn kết cốt truyện vô cùng tinh tế!
+  Những chi tiết kì ảo quyết định quy mô của truyện. Đá có thể luyện thành keo vá trời, chân rùa có thể trở thành cột chống ở bốn phương, tro lau có thể ngăn dòng lũ. Mỗi vật liệu đều gắn với một nguy cơ phải xử lí, nên chuỗi hành động không phải một danh sách phép màu rời rạc. Người kể dùng các thao tác sửa chữa, dựng chống, đốt và đắp để hình dung việc khôi phục thế giới. Nhờ những thao tác có nét gần gũi ấy, công việc ở tầm vũ trụ vẫn trở nên cụ thể đối với người nghe.
 
-  Hơn thế nữa, bút pháp phóng đại kì ảo kết hợp nghệ thuật khắc họa nhân vật trong *Nữ Oa vá trời* mang vẻ đẹp vừa hoành tráng vừa bình dị thấm thía. Hình ảnh ngọn lửa luyện đá ngũ sắc rực sáng giữa bầu trời sụp đổ hay bốn chiếc chân rùa khổng lồ sừng sững chống đỡ bốn phương trời là những chi tiết kì ảo mang tầm vóc thẩm mĩ siêu phàm, sánh ngang hình ảnh *Thần Trụ Trời* đội đất đắp cột trong thần thoại Việt Nam. Thế nhưng giữa vầng hào quang thần thánh ấy, Nữ Oa vẫn hiện lên gần gũi xiết bao qua những từ láy thuần phác gợi dáng vẻ tảo tần của người mẹ lao động: *“một mình hì hục khuân đất, đội đá”* ngày đêm không quản nhọc nhằn. Kết hợp với ngôi kể thứ ba linh hoạt đan cài những câu cảm thán, câu hỏi tu từ bộc lộ trực tiếp nỗi xót thương và niềm cảm phục của người kể chuyện dân gian (*“Nhưng trời sập còn biết trốn vào đâu!”, “xưa nay đã có ai nghĩ đến, đừng nói dám làm!”*), lời văn cuốn người đọc hòa nhập trọn vẹn vào nhịp đập bi tráng của câu chuyện.
+  Thủ pháp tương phản làm rõ ý nghĩa hành động của Nữ Oa. Cung Công vì thất bại mà gây ra sự đổ vỡ; Nữ Oa vì loài người mà hàn gắn. Đầu truyện đầy chuyển động dữ dội, cuối truyện trở lại cảnh con người chăm lo làm ăn. Sự thay đổi của không gian sống là bằng chứng cho kết quả công việc của bà. Hình ảnh mây ngũ sắc và việc tưởng nhớ vị thần nối câu chuyện cứu nạn với cách người xưa hình dung bầu trời, nghi lễ. Chỉ nên phân tích những dấu vết có trong bản được cho, tránh thêm lời giải về địa hình từ một bản kể khác.
 
-  Khép lại trang văn *Nữ Oa vá trời*, ngôi miếu thờ người Mẹ Thần trong lòng nhân gian vẫn tỏa khói hương thành kính suốt mấy thiên niên kỉ như minh chứng cho sức hấp dẫn bất tử của thần thoại. Giữa thế giới hiện đại đang đối mặt với biến đổi khí hậu và những rạn nứt môi trường nghiêm trọng hôm nay, hình tượng Nữ Oa đội đá vá trời càng nhắc nhở thế hệ trẻ biết trân trọng sự bình yên của bầu trời xanh, biết sống giàu lòng nhân ái, có trách nhiệm hàn gắn, bảo vệ mái nhà Trái Đất chung của nhân loại.
+  Nữ Oa vá trời thể hiện niềm tin và khát vọng bảo vệ sự sống qua hình tượng một nữ thần làm việc không ngừng để cứu người khỏi những tai họa. Cách kể thần kì cần được đọc trong thế giới tưởng tượng của thần thoại. Với người đọc hôm nay, điều có thể tiếp nhận là trách nhiệm trước thiệt hại do hành động của mình và sự sẵn lòng giúp đỡ cộng đồng khi gặp nạn. Giá trị ấy được gợi ra từ sự đối lập giữa phá hủy và hàn gắn, cũng như từ kết quả bình yên mà truyện đã kể.
 ]
 
 // ============================================================================
@@ -288,7 +293,7 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
 
 #passage-box(
   title: "PRÔ-MÊ-TÊ VÀ LOÀI NGƯỜI",
-  source: "Theo Nguyễn Văn Khoả, Thần thoại Hy Lạp, tập I, NXB Khoa học Xã hội, Hà Nội, 1990, tr. 79 – 81"
+  source: "Bản luyện tập theo Prô-mê-tê và loài người, Nguyễn Văn Khoả kể lại; nguồn đối chiếu S9 ghi Thần thoại Hy Lạp, tập 1, 1990, tr. 79–81. Chưa đối chiếu trực tiếp sách in."
 )[
   Thuở ấy thế gian chỉ mới có các vị thần. Mặt đất mênh mông, dẫu đã có khá nhiều vị thần cai quản song vẫn còn hết sức vắng vẻ. Không muốn để tình cảnh buồn tẻ đó kéo dài, bữa kia hai anh em Prô-mê-tê và Ê-pi-mê-tê xin với U-ra-nôx và Gai-a tạo ra cho thế gian thêm nhiều nhiều cái gì đó để cho cuộc sống đông vui. U-ra-nôx và Gai-a ưng thuận. Hai vị giao luôn việc đó cho hai anh em Prô-mê-tê và Ê-pi-mê-tê. Cậu em Ê-pi-mê-tê mừng quá, tranh ngay lấy việc đó và giao cho ông anh lo việc xem xét, sửa chữa lại sau. Ê-pi-mê-tê lấy đất và nước nhào nặn ra, trước hết, là các loài vật và ban cho mỗi con vật một đặc ân của thần, một “vũ khí” để có thể phòng thân, hộ mệnh, bảo vệ được cuộc sống của giống loài mình. Con thì được ban cho ân huệ chạy nhanh như gió. Con thì có đôi mắt sáng xanh nhìn thấu cả đêm đen. Con thì có thân hình khổng lồ mạnh khỏe hết chỗ nói. Có con thân hình bé nhỏ nhưng lại có nọc độc gớm ghê. Rồi con có bộ lông dày, con có sải cánh rộng. Con thì xuống nước không chìm, con thì trèo leo thoăn thoắt... Tóm lại mỗi con vật, mỗi giống loài đều có “vũ khí” cần thiết để sống được ở thế gian.
 
@@ -304,14 +309,16 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
 *Lựa chọn 01 đáp án đúng nhất cho mỗi câu hỏi từ Câu 1 đến Câu 8 (mỗi câu 0,5 điểm):*
 
 *Câu 1* #badge-biet. Câu mở đầu *“Thuở ấy thế gian chỉ mới có các vị thần. Mặt đất mênh mông, dẫu đã có khá nhiều vị thần cai quản song vẫn còn hết sức vắng vẻ”* cho biết điều gì về không gian và thời gian của truyện?\
-A. Thời gian hiện đại xác định và không gian đô thị sầm uất của Hy Lạp.\
-B. Thời gian cổ sơ phiếm chỉ và không gian vũ trụ nguyên thủy đang trong buổi đầu kiến tạo sự sống.\
-C. Thời gian trung đại và không gian cung đình phong kiến phương Đông.\
-D. Thời gian tuần hoàn bốn mùa và không gian làng quê trồng lúa nước.
+A. Thời gian cổ sơ phiếm chỉ và không gian vũ trụ nguyên thủy đang trong buổi đầu kiến tạo sự sống.\
+B. Thời gian trung đại và không gian cung đình phong kiến phương Đông.\
+C. Thời gian tuần hoàn bốn mùa và không gian làng quê trồng lúa nước.\
+D. Thời gian hiện đại xác định và không gian đô thị sầm uất của Hy Lạp.
 
 *Câu 2* #badge-biet. Theo văn bản, Ê-pi-mê-tê đã dùng nguyên liệu gì để nhào nặn ra các loài vật?\
-A. Đá ngũ sắc và tro lau lách. #h(3.0em) B. Cát vàng và ánh sáng mặt trời.\
-C. Đất và nước. #h(6.0em) D. Đồng đỏ và sương sớm.
+A. Đồng đỏ và sương sớm.\
+B. Đá ngũ sắc và tro lau lách.\
+C. Cát vàng và ánh sáng mặt trời.\
+D. Đất và nước.
 
 *Câu 3* #badge-biet. Thiếu sót “tai hại” mà chàng Ê-pi-mê-tê lơ đễnh mắc phải sau khi tạo ra muôn loài là gì?\
 A. Quên không tạo ra các loài chim bay trên bầu trời.\
@@ -320,32 +327,34 @@ C. Đánh rơi ngọn đuốc làm cháy rụi khu rừng trên mặt đất.\
 D. Làm cho các loài thú dữ không thể di chuyển được.
 
 *Câu 4* #badge-biet. Để sửa chữa thiếu sót của em trai và giúp con người mạnh hơn hẳn con vật, Prô-mê-tê đã thực hiện hai hành động kì vĩ nào?\
-A. Ban cho con người đôi cánh chim đại bàng và bộ lông dày chống rét.\
-B. Dựa theo dáng thần tái tạo con người đứng thẳng đi bằng hai chân để đôi tay làm việc, rồi băng lên cỗ xe thần Mặt Trời Hê-li-ôx lấy lửa trao cho loài người.\
-C. Xây một tòa thành đá khổng lồ bao bọc loài người khỏi mưa bão.\
-D. Tiêu diệt toàn bộ hổ, báo, voi, sói trên mặt đất để bảo vệ con người.
+A. Dựa theo dáng thần tái tạo con người đứng thẳng đi bằng hai chân để đôi tay làm việc, rồi băng lên cỗ xe thần Mặt Trời Hê-li-ôx lấy lửa trao cho loài người.\
+B. Xây một tòa thành đá khổng lồ bao bọc loài người khỏi mưa bão.\
+C. Tiêu diệt toàn bộ hổ, báo, voi, sói trên mặt đất để bảo vệ con người.\
+D. Ban cho con người đôi cánh chim đại bàng và bộ lông dày chống rét.
 
-*Câu 5* #badge-biet. Chi tiết Prô-mê-tê *“dựa theo thân hình trang nhã của các vị thần tái tạo lại con người cho có một thân hình đẹp đẽ thanh tao”* phản ánh nét đặc sắc nào trong bối cảnh văn hoá Hy Lạp cổ đại?\
-A. Quan niệm thần linh mang hình thái quái dị, xa lạ hoàn toàn với con người.\
-B. Quan niệm nhân văn đề cao vẻ đẹp hình thể hài hòa của con người, lấy con người làm thước đo của vũ trụ (*“thần – người đồng hình”*).\
-C. Tư tưởng khổ hạnh coi nhẹ cơ thể vật chất trần tục.\
-D. Tín ngưỡng sùng bái các loài bò sát khổng lồ.
+*Câu 5* #badge-biet. Theo văn bản, Prô-mê-tê đã dựa theo hình mẫu nào để tái tạo hình dáng con người?\
+A. Hình dáng một con bò sát khổng lồ.\
+B. Hình dáng các con vật có nọc độc.\
+C. Thân hình trang nhã của các vị thần.\
+D. Thân cây cổ thụ trên mặt đất.
 
 *Câu 6* #badge-biet. Trong đoạn văn: *“Con thì được ban cho ân huệ chạy nhanh như gió. Con thì có đôi mắt sáng xanh nhìn thấu cả đêm đen. Con thì có thân hình khổng lồ...”*, những biện pháp tu từ nào được kết hợp nổi bật?\
-A. Ẩn dụ và hoán dụ. #h(4.2em) B. Điệp cấu trúc (*“Con thì...”*), liệt kê và so sánh.\
-C. Nói giảm nói tránh và nghịch ngữ. #h(1.5em) D. Chơi chữ và câu hỏi tu từ.
+A. Ẩn dụ và hoán dụ.\
+B. Điệp cấu trúc (*“Con thì...”*), liệt kê và so sánh.\
+C. Nói giảm nói tránh và nghịch ngữ.\
+D. Chơi chữ và câu hỏi tu từ.
 
 *Câu 7* #badge-hieu. Chuỗi câu hỏi liên tiếp: *“Làm thế nào bây giờ? Làm thế nào để con người sống được ở thế gian...? Con người sẽ sống thế nào trước các con vật...?”* là dạng lời văn nào và có tác dụng gì?\
-A. Lời đối thoại trực tiếp giữa U-ra-nôx và Gai-a nhằm trách phạt Ê-pi-mê-tê.\
-B. Lời nửa trực tiếp (hòa quyện lời người kể chuyện với dòng suy tư trăn trở của Prô-mê-tê), làm nổi bật nỗi lo âu thương cảm sâu sắc và trí tuệ trách nhiệm của vị thần trước số phận loài người.\
-C. Lời than khóc tuyệt vọng của loài người khi bị thú dữ tấn công.\
-D. Lời bình luận châm biếm của dịch giả hiện đại.
+A. Lời than khóc tuyệt vọng của loài người khi bị thú dữ tấn công.\
+B. Lời bình luận châm biếm của dịch giả hiện đại.\
+C. Lời đối thoại trực tiếp giữa U-ra-nôx và Gai-a nhằm trách phạt Ê-pi-mê-tê.\
+D. Lời nửa trực tiếp (hòa quyện lời người kể chuyện với dòng suy tư trăn trở của Prô-mê-tê), làm nổi bật nỗi lo âu thương cảm sâu sắc và trí tuệ trách nhiệm của vị thần trước số phận loài người.
 
 *Câu 8* #badge-hieu. Hình tượng #strong[“ngọn lửa của Prô-mê-tê”] trong văn bản mang ý nghĩa biểu tượng sâu xa nào?\
-A. Chỉ đơn thuần là hiện tượng cháy vật lí thông thường trong tự nhiên.\
-B. Biểu tượng cho ánh sáng của trí tuệ, kĩ thuật lao động (*“dạy họ biết bao nghề”*) và sức mạnh văn minh giúp con người làm chủ thiên nhiên.\
-C. Biểu tượng cho chiến tranh hủy diệt giữa các vị thần trên đỉnh Ô-lim-pơ.\
-D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Trời đối với mặt đất.
+A. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Trời đối với mặt đất.\
+B. Chỉ đơn thuần là hiện tượng cháy vật lí thông thường trong tự nhiên.\
+C. Biểu tượng cho ánh sáng của trí tuệ, kĩ thuật lao động (*“dạy họ biết bao nghề”*) và sức mạnh văn minh giúp con người làm chủ thiên nhiên.\
+D. Biểu tượng cho chiến tranh hủy diệt giữa các vị thần trên đỉnh Ô-lim-pơ.
 
 *Trả lời các câu hỏi Tự luận sau:*
 
@@ -362,14 +371,14 @@ D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Tr
   #study-table(
     (0.6fr, 0.6fr, 1.3fr, 4.5fr),
     ("Câu", "Đ/A", "Chỉ báo", "Giải thích căn cứ & Loại trừ phương án nhiễu"),
-    [*1*], [*B*], [CB1 – Biết], [*“Thuở ấy”* = thời gian cổ sơ phiếm chỉ; *“thế gian chỉ mới có các vị thần, mặt đất mênh mông vắng vẻ”* = không gian vũ trụ buổi đầu tạo lập.],
-    [*2*], [*C*], [CB2 – Biết], [Đoạn 1 ghi rõ: *“Ê-pi-mê-tê lấy đất và nước nhào nặn ra, trước hết, là các loài vật”*.],
+    [*1*], [*A*], [CB1 – Biết], [*“Thuở ấy”* = thời gian cổ sơ phiếm chỉ; *“thế gian chỉ mới có các vị thần, mặt đất mênh mông vắng vẻ”* = không gian vũ trụ buổi đầu tạo lập.],
+    [*2*], [*D*], [CB2 – Biết], [Đoạn 1 ghi rõ: *“Ê-pi-mê-tê lấy đất và nước nhào nặn ra, trước hết, là các loài vật”*.],
     [*3*], [*B*], [CB2 – Biết], [Đoạn 2 nêu rõ Ê-pi-mê-tê phân phát hết đặc ân cho thú vật, để sót lại con người *“trần trụi hoàn toàn”* không có vũ khí gì.],
-    [*4*], [*B*], [CB2 – Biết], [Gồm 2 kì tích nối tiếp: tái tạo dáng người đứng thẳng thanh tao giải phóng đôi tay + băng lên cỗ xe thần Hê-li-ôx lấy lửa trao cho loài người.],
-    [*5*], [*B*], [CB4 – Biết], [Văn hoá Hy Lạp cổ đại tôn vinh vẻ đẹp chuẩn mực của con người (*con người mang vóc dáng trang nhã của thần linh*).],
+    [*4*], [*A*], [CB2 – Biết], [Gồm 2 kì tích nối tiếp: tái tạo dáng người đứng thẳng thanh tao giải phóng đôi tay + băng lên cỗ xe thần Hê-li-ôx lấy lửa trao cho loài người.],
+    [*5*], [*C*], [CB4 – Biết], [Chi tiết nêu trực tiếp: thần dựa theo thân hình trang nhã của các vị thần để tạo lại hình dáng con người. Không cần suy rộng thành nhận định về toàn bộ văn hóa Hy Lạp.],
     [*6*], [*B*], [CB3 – Biết], [Điệp cấu trúc *“Con thì...”* đầu câu + liệt kê hàng loạt đặc tính muôn thú + so sánh *“nhanh như gió”*.],
-    [*7*], [*B*], [CB8 – Hiểu], [Đây là nghệ thuật trần thuật nửa trực tiếp đặc sắc: lời người kể chuyện nhập vào dòng trăn trở nội tâm của Prô-mê-tê để làm bật nổi lòng nhân ái và tầm nhìn xa của vị thần.],
-    [*8*], [*B*], [CB9 – Hiểu], [Ngọn lửa vừa xua bóng tối giá lạnh, vừa là “vũ khí” trí tuệ và khởi nguồn của trăm nghề văn minh nhân loại.]
+    [*7*], [*D*], [CB8 – Hiểu], [Đây là nghệ thuật trần thuật nửa trực tiếp đặc sắc: lời người kể chuyện nhập vào dòng trăn trở nội tâm của Prô-mê-tê để làm bật nổi lòng nhân ái và tầm nhìn xa của vị thần.],
+    [*8*], [*C*], [CB9 – Hiểu], [Ngọn lửa vừa xua bóng tối giá lạnh, vừa là “vũ khí” trí tuệ và khởi nguồn của trăm nghề văn minh nhân loại.]
   )
 
   *2. Hướng dẫn chấm Câu 9 (Thông hiểu — 1,0 điểm):*
@@ -380,26 +389,25 @@ D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Tr
   - *Giải mã ý nghĩa câu thơ (0,25đ):* Về thể chất tự nhiên, con người vốn *“mong manh và bấy yếu”* hơn muôn thú, nhưng chính “ngọn lửa thiêng” của tri thức và kĩ năng sáng tạo đã nâng con người lên vị trí làm chủ thế giới.
   - *Xác định “ngọn lửa” của người trẻ hôm nay (0,50đ):* Đó chính là #strong[ngọn lửa của tri thức khoa học, tư duy sáng tạo, đam mê nghề nghiệp và lòng nhân ái khát khao cống hiến]. Không ai có “bộ lông dày” bảo bọc mãi mãi; chỉ có năng lực tự học suốt đời mới là “vũ khí” hộ mệnh vững chắc nhất giữa thế giới biến động.
   - *Liên hệ bản thân (0,25đ):* Chủ động thắp sáng ngọn lửa học tập, rèn luyện kĩ năng mỗi ngày.
-  - *Đoạn trả lời mẫu chuẩn 1,0đ:* Ba câu thơ kết lại văn bản vang lên như một tuyên ngôn bất hủ về sức mạnh đích thực của giống loài người: dẫu thể xác tự nhiên vốn *“mong manh và bấy yếu”*, chính *“ngọn lửa thiêng”* của trí tuệ và nghề nghiệp đã biến con người thành chủ nhân sáng tạo của thế gian. Đối với thế hệ trẻ bước vào kỉ nguyên số hôm nay, “ngọn lửa của Prô-mê-tê” cần thắp giữ trong tim không gì khác hơn là ngọn lửa của tri thức hiện đại, khát vọng sáng tạo không ngừng và lòng nhiệt huyết sống có ích. Giữa một thế giới đầy biến thiên không kém thuở hồng hoang, không một đặc ân sẵn có nào bảo vệ ta vững chắc bằng đôi bàn tay lao động lành nghề và khối óc độc lập biết làm chủ công nghệ. Bởi vậy, em luôn tự nhắc mình phải bền bỉ nuôi dưỡng ngọn lửa hiếu học mỗi ngày để biến sự mong manh của tuổi trẻ thành bản lĩnh vững vàng kiến tạo tương lai.
+  - *Đoạn trả lời tham khảo:* Ba câu thơ kết lại văn bản vang lên như một tuyên ngôn bất hủ về sức mạnh đích thực của giống loài người: dẫu thể xác tự nhiên vốn *“mong manh và bấy yếu”*, chính *“ngọn lửa thiêng”* của trí tuệ và nghề nghiệp đã biến con người thành chủ nhân sáng tạo của thế gian. Đối với thế hệ trẻ bước vào kỉ nguyên số hôm nay, “ngọn lửa của Prô-mê-tê” cần thắp giữ trong tim không gì khác hơn là ngọn lửa của tri thức hiện đại, khát vọng sáng tạo không ngừng và lòng nhiệt huyết sống có ích. Giữa một thế giới đầy biến thiên không kém thuở hồng hoang, không một đặc ân sẵn có nào bảo vệ ta vững chắc bằng đôi bàn tay lao động lành nghề và khối óc độc lập biết làm chủ công nghệ. Bởi vậy, em luôn tự nhắc mình phải bền bỉ nuôi dưỡng ngọn lửa hiếu học mỗi ngày để biến sự mong manh của tuổi trẻ thành bản lĩnh vững vàng kiến tạo tương lai.
 
-  *4. Hướng dẫn chấm Chi tiết Câu 11 (Viết bài văn nghị luận — 4,0 điểm):*
-  - *Cấu trúc (0,25đ); Chính tả, ngữ pháp (0,25đ); Sáng tạo (0,50đ).*
-  - *Giới thiệu & Tóm tắt (0,75đ):* Giới thiệu *Prô-mê-tê và loài người* (kiệt tác thần thoại Hy Lạp do học giả Nguyễn Văn Khoả kể lại); tóm tắt quá trình hai anh em tạo muôn loài, sự đãng trí của Ê-pi-mê-tê và hai kì tích tái tạo vóc dáng + lấy lửa Mặt Trời trao cho con người của Prô-mê-tê.
-  - *Phân tích, đánh giá Chủ đề (0,75đ):* Giao thoa tuyệt đẹp giữa *thần thoại suy nguyên* (lí giải nguồn gốc muôn thú, dáng đứng thẳng thanh tao của con người, nguồn gốc ngọn lửa) và *thần thoại sáng tạo văn hoá* (tôn vinh ngọn lửa văn minh – tri thức – nghề nghiệp giúp con người chiến thắng thiên nhiên khắc nghiệt); ngợi ca vẻ đẹp nhân bản cao cả của vị thần vì con người (Prô-mê-tê) và khẳng định vị thế làm chủ thế giới bằng trí tuệ của nhân loại.
-  - *Phân tích, đánh giá Nghệ thuật (1,00đ):* Không gian vũ trụ trải dài từ mặt đất vắng vẻ tới bầu trời cao xa nơi cỗ xe thần Mặt Trời Hê-li-ôx; tình huống truyện giàu kịch tính (sự “bỏ quên” tai hại của Ê-pi-mê-tê); thủ pháp tương phản kép (Ê-pi-mê-tê lơ đễnh ↔ Prô-mê-tê nhìn xa trông rộng; muôn thú đầy vũ khí cơ bắp ↔ con người mong manh nhưng sở hữu ngọn lửa vô địch); lời trần thuật linh hoạt kết hợp điệp cấu trúc, liệt kê dồn dập, câu hỏi nửa trực tiếp giàu trăn trở và khổ thơ vần đúc kết giàu dư vang sử thi.
-  - *Đánh giá mở rộng (0,50đ):* Đối sánh với *Mười hai Bà Mụ* và *Thần Lửa* của Việt Nam để làm bật tinh thần duy lí, tôn vinh tư thế đứng thẳng và khát vọng khai sáng văn minh đặc trưng của văn hoá Hy Lạp cổ đại.
+  *4. Gợi ý nội dung Câu 11 (4,0 điểm):*
+  Chủ đề: lí giải điều kiện tồn tại và sức mạnh của con người, đề cao trí tuệ và sự quan tâm đến sự sống. Dẫn chứng: con người bị bỏ sót; dáng đứng; hành động lấy lửa; tác dụng của lửa. Nghệ thuật: tình huống thiếu sót cần khắc phục, tương phản hai anh em và người với muôn thú, điệp cấu trúc trong lời kể.
+
+  Chấm theo rubric ở mục 5.7. Chấp nhận cách hiểu khác có căn cứ; không bắt buộc trích danh ngôn, đối sánh hoặc viết một số đoạn cố định.
+
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 06 (~960 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
-  Trong lịch sử tư tưởng nhân loại, C. Mác từng tôn vinh Prô-mê-tê là *“vị thánh và người tử vì đạo cao quý nhất trong lịch triết học”* — biểu tượng bất diệt của trí tuệ khai sáng và tình yêu thương con người vô bờ bến. Quay ngược dòng thời gian về buổi bình minh rực rỡ của văn minh Địa Trung Hải qua bản kể tài hoa của học giả Nguyễn Văn Khoả (*Thần thoại Hy Lạp*), truyện *Prô-mê-tê và loài người* hiện lên như một viên kim cương lấp lánh của thể loại thần thoại cổ đại. Tác phẩm không chỉ chinh phục độc giả bằng chủ đề nhân văn sâu thẳm lí giải cội nguồn sức mạnh văn minh con người, mà còn cuốn hút mãnh liệt nhờ hệ thống hình thức nghệ thuật tự sự giàu kịch tính và chất thơ tráng lệ.
+#essay-box(title: "BÀI THAM KHẢO ĐỀ 06 — ĐỌC CÁCH LẬP LUẬN, KHÔNG HỌC THUỘC")[
+  Prô-mê-tê và loài người kể việc con người được trao những điều kiện để tồn tại giữa muôn loài. Trong bản kể ở đề bài, sự thiếu sót của Ê-pi-mê-tê đặt con người vào thế yếu; Prô-mê-tê sửa chữa bằng việc tạo lại dáng người và đem lửa xuống mặt đất. Truyện lí giải sức mạnh của con người qua một tình huống có vấn đề, từ đó đề cao trí tuệ và sự quan tâm đến sự sống.
 
-  Câu chuyện mở ra vào thuở hồng hoang khi thế gian mới chỉ có các vị thần và mặt đất mênh mông còn hết sức buồn tẻ. Được thần Bầu Trời U-ra-nôx và Đất Mẹ Gai-a ưng thuận, hai anh em Titan là Prô-mê-tê và Ê-pi-mê-tê bắt tay nhào nặn sự sống từ đất và nước. Cậu em Ê-pi-mê-tê hăm hở tranh làm trước, ban phát hết mọi đặc ân “vũ khí” phòng thân cho muôn loài cầm thú, để rồi đến cuối cùng lại lơ đễnh bỏ sót con người trong tình cảnh trần trụi, bấy yếu hoàn toàn. Không đành lòng nhìn con người diệt vong trước nanh vuốt thú dữ và thiên tai khắc nghiệt, người anh Prô-mê-tê thông minh đã tái tạo vóc dáng con người đứng thẳng thanh tao như thần linh, rồi dũng cảm băng lên bầu trời xa tít tắp châm lửa từ cỗ xe thần Mặt Trời Hê-li-ôx đem xuống trao tặng nhân gian, mở ra kỉ nguyên văn minh hạnh phúc cho loài người.
+  Khi mặt đất còn vắng vẻ, hai anh em thần được phép tạo ra muôn loài. Ê-pi-mê-tê nhận làm trước, nhào nặn các con vật và ban cho chúng những khả năng phòng thân. Đến khi Prô-mê-tê kiểm tra, con người vẫn chưa có gì bảo vệ. Người anh tạo lại thân hình để con người đứng thẳng, đi bằng hai chân, rồi lấy lửa từ cỗ xe thần Mặt Trời đem cho họ. Ngọn lửa giúp thay đổi cuộc sống của loài người.
 
-  Sức vóc tư tưởng vĩ đại của *Prô-mê-tê và loài người* trước hết kết tinh ở chủ đề giao thoa độc đáo giữa cảm hứng *suy nguyên vũ trụ* và cảm hứng *sáng tạo văn hoá*. Khác với nhiều thần thoại chỉ dừng lại ở việc giải thích con người nặn bằng bùn đất như thế nào, người Hy Lạp cổ đại đã đặt ra một nghịch lí sinh tồn vô cùng sắc sảo: xét về bản năng sinh học tự nhiên, con người không có cánh rộng như chim, không chạy nhanh như gió, không có lông dày hay nọc độc, móng sắc như hổ báo — nhưng vì sao giống loài *“mong manh và bấy yếu”* ấy lại vươn lên làm chủ muôn vật? Câu trả lời của tác phẩm vang lên đầy kiêu hãnh qua ba tặng phẩm vô giá của Prô-mê-tê: *vóc dáng đẹp đẽ thanh tao sánh ngang thần linh*, *tư thế đứng thẳng bằng hai chân giải phóng đôi bàn tay lao động*, và đặc biệt là *ngọn lửa thiêng từ cỗ xe Mặt Trời*. Ngọn lửa ấy không chỉ đẩy lùi bóng tối, giá lạnh, đói khát mà còn là biểu tượng rực rỡ cho ánh sáng trí tuệ, khoa học và kĩ thuật chế tác (*“Ngọn lửa thiêng dạy họ biết bao nghề”*). Qua đó, chủ đề tác phẩm tôn vinh nồng nhiệt phẩm giá cao quý của con người — lấy con người làm trung tâm vũ trụ — đồng thời ca ngợi lòng nhân ái vị tha và tầm nhìn khai sáng vĩ đại của vị ân nhân Prô-mê-tê.
+  Chủ đề được triển khai từ sự tương phản giữa khả năng sinh tồn của muôn thú và tình trạng trần trụi của con người. Con vật có tốc độ, đôi mắt, thân hình hoặc khả năng riêng; người lại bị bỏ sót. Cách đặt vấn đề ấy khiến câu chuyện tập trung vào câu hỏi con người dựa vào đâu để sống. Lời giải được thể hiện bằng những món quà của Prô-mê-tê, nhất là lửa. Ngọn lửa vừa là phương tiện giúp bớt tối tăm, lạnh giá, vừa gắn với việc học các nghề. Bởi vậy, có thể đọc nó như hình ảnh của khả năng tạo dựng đời sống.
 
-  Chủ đề mang tầm triết luận sâu xa ấy được thể hiện qua những nét đặc sắc bậc thầy về hình thức nghệ thuật thần thoại. Trước hết, không gian và thời gian nghệ thuật mang kích thước vũ trụ kì vĩ: thời gian phiếm chỉ buổi đầu (*“Thuở ấy”*) kết hợp không gian mở rộng theo trục thẳng đứng đầy choáng ngợp — từ mặt đất hoang sơ đầy biến thiên *“bãi bể hóa nương dâu”* vút thẳng lên *“bầu trời cao xa tít tắp, đến tận cỗ xe của thần Mặt Trời Hê-li-ôx”*. Cốt truyện tuy gọn gàng nhưng thoát hẳn lối kể phẳng lặng nhờ việc kiến tạo #strong[tình huống “thiếu sót tai hại” đầy kịch tính]: khoảnh khắc Prô-mê-tê sững sờ đứng trước con người *“trần trụi, trần trụi hoàn toàn”* khi kho đặc ân đã cạn kiệt chính là điểm nút thắt nghệ thuật đắt giá đẩy hành động anh hùng lên đỉnh điểm.
+  Tình huống thiếu sót là điểm nối các hành động, không chỉ để gây bất ngờ. Việc ban hết đặc ân buộc Prô-mê-tê phải tìm một cách khác để giúp người. Thần không lấy lại khả năng đã cho muôn vật mà tạo ra điều kiện mới. Chính bước chuyển ấy làm rõ vai trò giải quyết vấn đề của nhân vật. Khi đánh giá thần có trí tuệ và trách nhiệm, người viết có thể dựa vào hành động kiểm tra, nhận ra thiếu sót và tìm cách khắc phục; không cần chỉ lặp những lời ca ngợi.
 
-  Đặc biệt, nghệ thuật xây dựng nhân vật bằng #strong[thủ pháp tương phản kép] đã tạo nên sức hấp dẫn thẩm mĩ khó quên cho văn bản. Tương phản thứ nhất nằm ngay trong cặp nhân vật anh em mang ý nghĩa triết học từ chính tên gọi tiếng Hy Lạp: *Ê-pi-mê-tê* (kẻ nghĩ sau — hấp tấp, bản năng, đãng trí) đối lập gay gắt với *Prô-mê-tê* (người nghĩ trước — điềm tĩnh, thông tuệ, giàu trách nhiệm và tình thương). Tương phản thứ hai đặt sự *“hoàn hảo”* cơ bắp của muôn thú cạnh sự *“bấy yếu”* thể xác nhưng vô địch về văn minh tinh thần của con người có lửa. Hơn nữa, lời trần thuật ngôi thứ ba trong bản kể cực kì biến hóa: lúc rộn ràng với phép điệp cấu trúc *“Con thì...”* và phép liệt kê dồn dập khắc họa thế giới muôn loài; lúc lắng sâu trăn trở trong chuỗi câu hỏi tu từ nửa trực tiếp (*“Làm thế nào bây giờ?... Con người sẽ sống thế nào...?”*); lúc bừng sáng hào sảng khi ngọn lửa rực cháy khắp thế gian và khép lại bằng ba dòng thơ súc tích ngân vang như một khúc khải hoàn ca.
+  Nghệ thuật xây dựng hai anh em theo thế tương phản giúp câu chuyện dễ theo dõi. Sự hăng hái nhưng lơ đễnh của Ê-pi-mê-tê làm nổi bật sự chu đáo của Prô-mê-tê. Những câu kể lặp cấu trúc về từng con vật tạo cảm giác các khả năng được phân phát liên tiếp, chuẩn bị cho việc phát hiện một đối tượng chưa được nhận. Không gian từ mặt đất lên cỗ xe Mặt Trời mở rộng quy mô hành động lấy lửa. Các chi tiết đó gắn với quá trình thay đổi vị thế con người, thay vì chỉ dùng để trang trí một thế giới lạ.
 
-  Hơn ba thiên niên kỉ đã trôi qua kể từ buổi bình minh Hy Lạp cổ đại, song ngọn đuốc mà Prô-mê-tê châm từ cỗ xe Mặt Trời vẫn cháy sáng bất diệt trong tâm thức nhân loại — tương đồng kì diệu với niềm tự hào con người được gạn từ *“chất trong tinh túy”* trong thần thoại *Mười hai Bà Mụ* của dân tộc Việt Nam. Khép lại trang văn, mỗi người trẻ hôm nay càng thấm thía bổn phận đứng thẳng hiên ngang bằng đôi chân mình, không ngừng thắp sáng ngọn lửa tri thức và lòng nhân ái để viết tiếp hành trình văn minh rực rỡ của con người trên mặt đất.
+  Truyện có thể đặt cạnh Mười hai Bà Mụ để nhận ra một điểm chung: sự hình thành con người được kể qua công việc của thần. Tuy nhiên, mỗi bản chọn một trọng tâm khác nhau, một bên chú ý hình hài và các khả năng đầu đời, một bên nhấn vào sự thiếu thốn được khắc phục bằng dáng đứng và lửa. Prô-mê-tê và loài người vì thế gợi cho em suy nghĩ về việc dùng hiểu biết để hỗ trợ người khác và sửa lỗi sau khi nhận ra thiếu sót. Những suy nghĩ ấy bắt đầu từ hành động nhân vật, làm rõ giá trị của truyện mà không cần xem lời kể thần kì là một lịch sử khoa học về loài người.
 ]

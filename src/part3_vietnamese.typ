@@ -8,14 +8,14 @@
 
 = 3.1. Chuyên đề Trọng tâm: Sử dụng Từ Hán Việt (SGK Ngữ văn 10 KNTT, tr. 28 – 29)
 
-Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*, kiến thức #strong[Từ Hán Việt] xuất hiện trực tiếp ở: *(1) 1–2 câu hỏi trắc nghiệm Đọc hiểu (tìm từ Hán Việt, giải nghĩa từ Hán Việt trong ngữ cảnh thần thoại như “hạ giới”, “thiên đình”, “thủy phủ”, “sơ khởi”, “tu bổ”, “sinh linh”... hoặc nhận diện lỗi dùng từ); (2) Tiêu chí chuẩn dùng từ và sắc thái trang trọng của bài văn Nghị luận 4,0 điểm*.
+Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*, kiến thức #strong[Từ Hán Việt] được luyện trong tài liệu ở: *(1) câu hỏi trắc nghiệm Đọc hiểu (tìm từ Hán Việt, giải nghĩa từ Hán Việt trong ngữ cảnh thần thoại như “hạ giới”, “thiên đình”, “thủy phủ”, “sơ khởi”, “tu bổ”, “sinh linh”... hoặc nhận diện lỗi dùng từ); (2) Tiêu chí chuẩn dùng từ và sắc thái trang trọng của bài văn Nghị luận 4,0 điểm*.
 
 == A. Cấu tạo Yếu tố Hán Việt & Từ ghép Hán Việt
 
 - #strong[Yếu tố Hán Việt:] Là các tiếng gốc Hán đọc theo âm Hán Việt dùng để cấu tạo từ. Đa số yếu tố Hán Việt *không dùng độc lập* như từ đơn (*sơn, thủy, thiên, địa, nhân, sĩ, quốc, gia...*), một số ít có thể dùng độc lập (*hoa, quả, bút, tâm, đức, tài, phúc...*).
 - #strong[Hiện tượng đồng âm khác nghĩa (Cực kì quan trọng khi giải nghĩa từ):] Cùng một âm đọc nhưng mang gốc nghĩa hoàn toàn khác nhau:
   - *Thiên:* (1) Trời (*thiên đình, thiên thần, thiên hạ*); (2) Nghìn (*thiên niên kỉ, thiên lí mã*); (3) Dời chuyển (*thiên đô, biến thiên*); (4) Lệch, nghiêng (*thiên vị, thiên kiến*).
-  - *Nhân:* (1) Người (*nhân gian, nhân loại, vĩ nhân*); (2) Lòng thương người (*nhân đạo, nhân ái, nhân từ*); (3) Hạt, lõi bên trong (*nhân quả, nguyên nhân*).
+  - *Nhân:* (1) Người (*nhân gian, nhân loại, vĩ nhân*); (2) Lòng thương người (*nhân đạo, nhân ái, nhân từ*); (3) Hạt, phần ở trong (*nhân hạt*); (4) Nguyên do (*nguyên nhân, nhân quả* trong quan hệ nguyên nhân – kết quả).
   - *Hàn:* (1) Lạnh, nghèo khổ (*bần hàn, hàn sĩ, hàn vi, hàn ôn*); (2) Lông chim, bút văn chương (*hàn lâm*).
   - *Yếu:* (1) Quan trọng, then chốt (*yếu điểm, trọng yếu, thiết yếu, yếu nhân*); *(Lưu ý: “yếu” trong Hán Việt KHÔNG có nghĩa là yếu ớt — từ “yếu ớt” là từ thuần Việt!)*.
 
@@ -38,24 +38,24 @@ Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*,
 
 == B. Ba Giá trị Biểu đạt của Từ Hán Việt trong Văn học
 
-Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ Hán Việt trong đoạn văn”*, học sinh trả lời theo #strong[3 giá trị chuẩn]:
+Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ Hán Việt trong đoạn văn”*, học sinh xác định sắc thái thực tế trong ngữ cảnh; có thể xét ba khả năng sau:
 1. #strong[Tạo sắc thái trang trọng, tôn nghiêm, thiêng liêng:] Phù hợp khi miêu tả thế giới thần linh, cõi trời (*Ngọc Hoàng, Thiên đình, Thủy phủ, chiếu chỉ, phán truyền, sinh linh, hạ giới*).
 2. #strong[Gợi không khí cổ xưa, cổ kính, truyền thống:] Phù hợp với bối cảnh lịch sử – huyền thoại xa xưa (như trong *Thần thoại*, *Tản Viên từ Phán sự lục* hay vẻ đẹp *“vang bóng một thời”* trong *Chữ người tử tù*: *nhất sinh, tứ bình, trung đường, biệt nhỡn liên tài, thiên lương*).
 3. #strong[Biểu đạt khái quát, hàm súc, tao nhã (tránh thô tục):] Thay thế một cụm từ thuần Việt dài dòng bằng một từ cô đọng (VD: *sinh thực khí*, *tạ thế*, *hiếu sinh*).
 
-== C. Khẩu quyết 4 Lỗi Dùng Từ Hán Việt & Bảng 20 Cặp Từ Dễ Sai Nhất
+== C. Khẩu quyết 4 Lỗi Dùng Từ Hán Việt & Bảng phân biệt từ dễ nhầm
 
 #mnemonic-box(title: "KHẨU QUYẾT 4 LỖI DÙNG TỪ HÁN VIỆT: “ÂM NHẦM — NGHĨA LỆCH — CẢNH SAI — THỪA LẶP”")[
-  1. #strong[ÂM NHẦM (Nhầm lẫn vỏ ngữ âm gần giống):] VD SGK: *“Đọc sách giúp tích lũy nhiều #strong[trí thức] bổ ích”* → Sai (*trí thức* chỉ tầng lớp người lao động trí óc) → Sửa thành #strong[tri thức] (hiểu biết, kiến thức).
-  2. #strong[NGHĨA LỆCH (Hiểu sai nghĩa gốc của yếu tố Hán Việt):] VD SGK: *“Nước đến chân mới nhảy là một #strong[yếu điểm] của học sinh”* → Sai (*yếu điểm* = điểm trọng yếu, quan trọng nhất) → Sửa thành #strong[điểm yếu / khuyết điểm / nhược điểm].
-  3. #strong[CẢNH SAI (Không hợp ngữ cảnh và sắc thái biểu cảm):] VD SGK: *“Tại phiên tòa cõi âm, Tử Văn thể hiện sự cứng cỏi, ngang tàng của #strong[hàn sĩ]”* → Sai (*hàn sĩ* nhấn mạnh cảnh nghèo túng, không ăn nhập với khí phách ngang tàng) → Sửa thành #strong[kẻ sĩ / nho sĩ]. Hoặc nói *“Nữ hoàng đang xem ti vi cùng #strong[phu nhân] thủ tướng”* (dùng *phu nhân* tự xưng như *“phu nhân của tôi”* là sai nghi thức giao tiếp vì *phu nhân* chỉ dùng tôn xưng vợ người khác!).
-  4. #strong[THỪA LẶP (Lặp nghĩa giữa yếu tố Hán Việt và từ thuần Việt đi kèm):] VD: *“con #strong[độc] nhất #strong[một] mình”*, *“người #strong[quá cố] đã #strong[mất]”*, *“#strong[tối] #strong[tối] tân”*, *“đề cập #strong[đến]” / “tham quan #strong[thăm]”*, *“#strong[hoàn toàn] #strong[tuyệt đối]”*.
+  1. #strong[ÂM NHẦM (Nhầm lẫn vỏ ngữ âm gần giống):] Ví dụ luyện tập: *“Đọc sách giúp tích lũy nhiều #strong[trí thức] bổ ích”* → Sai (*trí thức* chỉ tầng lớp người lao động trí óc) → Sửa thành #strong[tri thức] (hiểu biết, kiến thức).
+  2. #strong[NGHĨA LỆCH (Hiểu sai nghĩa gốc của yếu tố Hán Việt):] Ví dụ luyện tập: *“Nước đến chân mới nhảy là một #strong[yếu điểm] của học sinh”* → Sai (*yếu điểm* = điểm trọng yếu, quan trọng nhất) → Sửa thành #strong[điểm yếu / khuyết điểm / nhược điểm].
+  3. #strong[CẢNH SAI (Không hợp ngữ cảnh và sắc thái biểu cảm):] Ví dụ luyện tập: *“Tại phiên tòa cõi âm, Tử Văn thể hiện sự cứng cỏi, ngang tàng của #strong[hàn sĩ]”* → Sai (*hàn sĩ* nhấn mạnh cảnh nghèo túng, không ăn nhập với khí phách ngang tàng) → Sửa thành #strong[kẻ sĩ / nho sĩ]. Từ *phu nhân* có sắc thái trang trọng; cần chọn theo quan hệ giao tiếp, không thay máy móc cho từ *vợ* trong mọi câu.
+  4. #strong[THỪA LẶP (Lặp nghĩa giữa yếu tố Hán Việt và từ thuần Việt đi kèm):] VD: *“con #strong[độc] nhất #strong[một] mình”*, *“người #strong[quá cố] đã #strong[mất]”*, *“tái lặp lại một lần nữa”* (cần xét ngữ cảnh). Không mặc định *“đề cập đến”* là lỗi thừa từ; đây là cách kết hợp được dùng trong tiếng Việt.
 ]
 
 #study-table(
   (1.7fr, 2.6fr, 2.7fr),
   ("Cặp từ hay nhầm", "Phân biệt nghĩa chuẩn xác", "Cách dùng đúng trong bài viết"),
-  [*Yếu điểm* vs. *Điểm yếu*], [*Yếu điểm* = điểm quan trọng then chốt.\ *Điểm yếu* = hạn chế, thiếu sót.], [Chủ đề là *yếu điểm* của tác phẩm; hay quên là *điểm yếu* của Thần Mưa.],
+  [*Yếu điểm* vs. *Điểm yếu*], [*Yếu điểm* = điểm quan trọng then chốt.\ *Điểm yếu* = hạn chế, thiếu sót.], [Đánh vào *yếu điểm* của tuyến phòng thủ; hay quên là *điểm yếu* của Thần Mưa.],
   [*Tri thức* vs. *Trí thức*], [*Tri thức* = hệ thống hiểu biết.\ *Trí thức* = người có học vấn chuyên môn.], [Tích lũy *tri thức* văn học; người *trí thức* yêu nước.],
   [*Cứu cánh* vs. *Cứu trợ*], [*Cứu cánh* = mục đích cuối cùng.\ *Cứu trợ* = giúp đỡ lúc hoạn nạn.], [Nghệ thuật vị nhân sinh lấy con người làm *cứu cánh* tối hậu.],
   [*Bàng quan* vs. *Bàng quang*], [*Bàng quan* = đứng ngoài cuộc, thờ ơ.\ *Bàng quang* = cơ quan bóng đái.], [Không thể giữ thái độ *bàng quan* trước cái ác.],
@@ -67,7 +67,7 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [*Sáng kiến* vs. *Sáng chế*], [*Sáng kiến* = ý kiến mới cải tiến công việc.\ *Sáng chế* = tạo ra vật phẩm kĩ thuật mới.], [Đưa ra *sáng kiến* bảo tồn di sản văn hoá dân gian.]
 )
 
-== D. Từ điển Bỏ túi 24 Từ Hán Việt Cốt lõi Hay Gặp Trong Ngữ liệu Thần thoại
+== D. Bảng từ ngữ thường gặp trong thần thoại
 
 #study-table(
   (1.3fr, 2.2fr, 1.3fr, 2.2fr),
@@ -76,7 +76,7 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [*Khai thiên lập địa*], [Mở trời dựng đất (buổi đầu tạo lập vũ trụ).], [*Thiên đình*], [Triều đình trên trời nơi Ngọc Hoàng cai quản.],
   [*Hạ giới / Trần gian*], [Cõi đất bên dưới nơi con người, muôn vật sống.], [*Thủy phủ / Thủy tộc*], [Cung phủ dưới nước / các loài sống dưới nước.],
   [*Sinh linh / Vạn vật*], [Muôn loài sinh vật có sự sống trên thế gian.], [*Tu bổ*], [Sửa chữa, bù đắp thêm cho hoàn chỉnh, tốt đẹp.],
-  [*Khoán trắng*], [Giao phó toàn quyền cho người khác tự lo liệu.], [*Ủy thác*], [Tin cậy giao phó công việc quan trọng cho ai làm.],
+  [*Khoán trắng* (cụm từ)], [Giao phó toàn bộ việc cho người khác tự lo; không dùng làm ví dụ điển hình về từ Hán Việt.], [*Ủy thác*], [Tin cậy giao phó công việc quan trọng cho ai làm.],
   [*Sát hạch*], [Kiểm tra, thi tuyển gắt gao để chọn kẻ có tài.], [*Ngự sử*], [Quan giữ việc giám sát, chấm xét của triều đình.],
   [*Thịnh nộ / Lôi đình*], [Cơn giận dữ dội như sấm sét.], [*Bạo thiên nghịch địa*], [Ngang ngược chống lại cả trời đất.],
   [*Nhật thực / Nguyệt thực*], [Hiện tượng Mặt Trời / Mặt Trăng bị che khuất.], [*Thượng huyền / Hạ huyền*], [Trăng khuyết đầu tháng (mồng 7–8) / cuối tháng (22–23).],
@@ -93,7 +93,7 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
 == B. Công thức 3 Tầng Phân tích Tác dụng Biện pháp Tu từ (Ăn trọn 1,0/1,0 điểm Tự luận)
 
 #formula-box(title: "CÔNG THỨC 3 TẦNG NÊU TÁC DỤNG BIỆN PHÁP TU TỪ TRONG ĐỌC HIỂU")[
-  Khi gặp câu hỏi: *“Chỉ ra và nêu tác dụng của biện pháp tu từ trong câu văn [...]”*, bắt buộc trả lời đủ #strong[3 dấu cộng] để không bị trừ bất kì 0,25 điểm nào:
+  Khi gặp câu hỏi: *“Chỉ ra và nêu tác dụng của biện pháp tu từ trong câu văn [...]”*, có thể triển khai theo ba bước; điểm từng bước tùy hướng dẫn chấm của đề:
   1. #strong[Tầng 1 — Gọi tên & Chỉ rõ từ ngữ biểu hiện (0,25đ):] Nêu chính xác tên biện pháp tu từ + trích dẫn đúng cụm từ chứa biện pháp đó trong ngoặc kép.
   2. #strong[Tầng 2 — Tác dụng về Nội dung / Nhận thức (0,50đ):] Nhấn mạnh hình ảnh vị thần / hiện tượng tự nhiên hiện lên kì vĩ, sống động như thế nào; qua đó thể hiện quan niệm, trí tưởng tượng phong phú hoặc khát vọng gì của người cổ đại.
   3. #strong[Tầng 3 — Tác dụng về Hình thức Nghệ thuật (0,25đ):] Làm cho lời văn giàu hình ảnh, giàu nhịp điệu, tăng sức gợi hình gợi cảm, tạo màu sắc hoang đường kì ảo hấp dẫn cho truyện thần thoại.
