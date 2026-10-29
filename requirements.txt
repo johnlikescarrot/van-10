@@ -1,0 +1,4 @@
+typst==0.15.0
+fonttools==4.68.0
+brotli==1.2.1
+pypdf==6.21.4

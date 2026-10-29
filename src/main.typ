@@ -9,4 +9,6 @@
 #include "part5_writing_skills.typ"
 #include "part6_exams_1_3.typ"
 #include "part7_exams_4_6.typ"
-#include "part8_memory_kit.typ"
+#include "part8_exams_7_8.typ"
+#include "part9_memory_kit.typ"
+#include "part10_appendix.typ"

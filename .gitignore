@@ -1,0 +1,4 @@
+# Build intermediates: downloaded font sources and the staging PDF.
+build/
+__pycache__/
+*.pyc
