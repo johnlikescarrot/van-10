@@ -66,6 +66,9 @@
   #body
 ]
 
+// Ô đánh dấu in được dùng trong bảng kiểm (Phiếu tự chấm)
+#let check-box = box(width: 7.5pt, height: 7.5pt, stroke: 0.6pt + c-border, radius: 1.5pt)
+
 // Hộp Cảnh báo Bẫy Phòng Thi (Exam Trap Box)
 #let trap-box(title: "CẢNH BÁO BẪY MẤT ĐIỂM PHÒNG THI", body) = block(
   width: 100%,
@@ -225,7 +228,7 @@
 // Header thẻ Đề kiểm tra
 #let exam-header(num, subtitle, model-type) = {
   pagebreak(weak: true)
-  place(hide(heading(level: 2, offset: 0)[Đề minh họa số #num: #subtitle (#model-type)]))
+  place(hide(heading(level: 2, offset: 0)[Đề minh hoạ số #num: #subtitle (#model-type)]))
   block(
     width: 100%,
     fill: rgb("#F0F5FF"),
@@ -410,28 +413,32 @@
               #align(center)[
                 #text(size: 15pt, weight: "bold", fill: c-indigo)[60%]\
                 #text(size: 8pt, weight: "bold", fill: c-navy)[ĐỌC HIỂU (6,0đ)]\
-                #text(size: 7.4pt, fill: c-slate)[8 TNKQ + 2 Tự luận\ Thần thoại ngoài SGK]
+                #text(size: 7.4pt, fill: c-slate)[8 TNKQ + 2 Tự luận\
+Thần thoại ngoài SGK]
               ]
             ],
             block(fill: c-purple-soft, radius: 5pt, inset: 8pt, width: 100%)[
               #align(center)[
                 #text(size: 15pt, weight: "bold", fill: c-purple)[40%]\
                 #text(size: 8pt, weight: "bold", fill: c-navy)[LÀM VĂN (4,0đ)]\
-                #text(size: 7.4pt, fill: c-slate)[01 Bài văn nghị luận\ Phân tích, đánh giá]
+                #text(size: 7.4pt, fill: c-slate)[01 Bài văn nghị luận\
+Phân tích, đánh giá]
               ]
             ],
             block(fill: c-gold-soft, radius: 5pt, inset: 8pt, width: 100%)[
               #align(center)[
                 #text(size: 15pt, weight: "bold", fill: c-amber)[40-30-30]\
                 #text(size: 8pt, weight: "bold", fill: c-navy)[TỈ LỆ NHẬN THỨC]\
-                #text(size: 7.4pt, fill: c-slate)[Biết 40% • Hiểu 30%\ Vận dụng 30%]
+                #text(size: 7.4pt, fill: c-slate)[Biết 40% • Hiểu 30%\
+Vận dụng 30%]
               ]
             ],
             block(fill: c-jade-soft, radius: 5pt, inset: 8pt, width: 100%)[
               #align(center)[
                 #text(size: 15pt, weight: "bold", fill: c-jade)[106 CÂU]\
                 #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & 6 ĐỀ]\
-                #text(size: 7.4pt, fill: c-slate)[100% có đáp án,\ giải nhiễu & văn mẫu]
+                #text(size: 7.4pt, fill: c-slate)[100% có đáp án,\
+giải nhiễu & văn mẫu]
               ]
             ]
           )
@@ -445,7 +452,7 @@
           row-gutter: 8pt,
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[01. HỆ THỐNG HÓA SIÊU TRÍ NHỚ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[Sơ đồ hóa Dual-Coding, Khẩu quyết 5K–1C, Ma trận phân biệt 5 thể loại tự sự & 12 thần thoại ngoài SGK.]
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Sơ đồ hoá Dual-Coding, Khẩu quyết 5K–1C, Ma trận phân biệt 5 thể loại tự sự & 12 thần thoại ngoài SGK.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[02. PHỦ KÍN 100% BẢN ĐẶC TẢ]\
@@ -490,10 +497,10 @@
       columns: (1fr, 1fr),
       column-gutter: 12pt,
       row-gutter: 5pt,
-      [*1. Mã hóa kép (Dual Coding):* Kết hợp bảng ma trận đối chiếu và sơ đồ cấu trúc để não bộ lưu trữ đồng thời kênh ngôn ngữ và kênh không gian.],
+      [*1. Mã hoá kép (Dual Coding):* Kết hợp bảng ma trận đối chiếu và sơ đồ cấu trúc để não bộ lưu trữ đồng thời kênh ngôn ngữ và kênh không gian.],
       [*2. Khẩu quyết âm vần (Chunking & Mnemonics):* Mọi cụm kiến thức phức tạp đều được nén thành công thức ngắn gọn (*5K–1C*, *GỌI–TRÍCH–GIẢI–CHỐT*).],
       [*3. Phòng vệ lỗi sai (Error Inoculation):* Hệ thống hộp *Cảnh báo bẫy phòng thi* chỉ rõ các phương án nhiễu hay đánh lừa học sinh nhất.],
-      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 40 câu theo chỉ báo + 06 đề thi thực chiến (66 câu) + 24 thẻ Flashcards kèm lộ trình ôn 7 ngày.]
+      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 40 câu theo chỉ báo + 06 đề thi thực chiến (66 câu) + 32 thẻ Flashcards, bảng tự chấm toàn đề & lộ trình ôn 7 ngày.]
     )
   ]
 
