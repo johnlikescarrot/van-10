@@ -50,7 +50,7 @@ Giám khảo chấm Câu 9 theo thang điểm thành phần `0,25đ + 0,50đ + 0
     - *Ý 2 (0,50đ — Chỉ rõ 3 căn cứ):* Chủ đề được xác lập dựa trên: *(a) Nhan đề văn bản [...]; (b) Hình tượng nhân vật trung tâm và chuỗi sự kiện kì ảo [...]; (c) Đoạn kết giải thích dấu tích/hiện tượng lưu truyền đến ngày nay [...]*.
 
   - #strong[Dạng 9.4 — Lí giải tác dụng ngôi kể / người kể chuyện / lời người kể chuyện & lời nhân vật (~10%):]
-    - *Ngôi kể thứ ba (người kể giấu mình, điểm nhìn toàn tri):* Giúp bao quát linh hoạt không gian rộng lớn từ Thiên đình xuống Hạ giới, tạo giọng điệu khách quan, cổ kính, tăng độ tin cậy thiêng liêng cho câu chuyện sáng thế.
+    - *Ngôi kể thứ ba (người kể giấu mình):* Có thể bao quát nhiều sự kiện và không gian; chỉ kết luận điểm nhìn toàn tri khi văn bản có căn cứ.
     - *Lời người kể chuyện kết hợp lời nhân vật:* Lời kể mộc mạc dẫn dắt mạch sự kiện nhanh gọn; lời thoại trực tiếp làm nổi bật tính cách, uy quyền hoặc sự hóm hỉnh, đời thường của nhân vật.
 
   - #strong[Dạng 9.5 — Tóm tắt cốt truyện (~5%):]

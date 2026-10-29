@@ -43,7 +43,7 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
   [*06*], [Điểm khác biệt cốt lõi nhất giữa #strong[Thần thoại] và #strong[Truyền thuyết] là gì?], [Thần thoại diễn ra ở #strong[thời gian cổ sơ phiếm chỉ] gắn với các vị thần kiến tạo vũ trụ; Truyền thuyết gắn với #strong[thời đại lịch sử xác định] (Hùng Vương, An Dương Vương...) và nhân vật/sự kiện lịch sử được kì ảo hóa.],
   [*07*], [Điểm khác biệt cốt lõi giữa #strong[Thần thoại] và #strong[Truyện cổ tích] là gì?], [Thần thoại giải thích tự nhiên (*“Vì sao có...?”*); Cổ tích giải quyết xung đột đạo đức – xã hội đời thường (*thiện – ác, giàu – nghèo*) theo ước mơ công lí *“ở hiền gặp lành”*.],
   [*08*], [Phân biệt #strong[Câu chuyện (Story)] và #strong[Cốt truyện (Plot)]?], [#strong[Câu chuyện:] chuỗi sự việc theo trật tự thời gian tự nhiên trước – sau. #strong[Cốt truyện:] chuỗi sự kiện được tổ chức nghệ thuật theo quan hệ nhân quả/xung đột nhằm bộc lộ chủ đề.],
-  [*09*], [Cách nhận diện nhanh #strong[Ngôi kể thứ ba] và tác dụng của nó trong thần thoại?], [Người kể giấu mình (không xưng *“tôi”*), gọi tên các nhân vật (*Ngọc Hoàng, Nữ Oa, Prô-mê-tê...*). Tác dụng: bao quát toàn tri mọi cõi vũ trụ, giữ vẻ khách quan thiêng liêng.],
+  [*09*], [Cách nhận diện nhanh #strong[Ngôi kể thứ ba] và tác dụng của nó trong thần thoại?], [Người kể giấu mình (không xưng *“tôi”*), gọi tên các nhân vật (*Ngọc Hoàng, Nữ Oa, Prô-mê-tê...*). Tác dụng: có thể bao quát nhiều sự kiện; phạm vi hiểu biết cần được kiểm chứng trong văn bản.],
   [*10*], [Thế nào là #strong[Lời nửa trực tiếp] trong văn bản tự sự?], [Lời của người kể chuyện nhưng tái hiện ý thức, giọng điệu trăn trở nội tâm của nhân vật (không tách gạch đầu dòng, thường là chuỗi câu hỏi/cảm thán như nỗi lo của Prô-mê-tê).],
   [*11*], [3 sắc thái biểu cảm đặc trưng của lớp #strong[Từ Hán Việt] là gì?], [*(1) Trang trọng, tôn kính, thiêng liêng*; *(2) Khái quát, trừu tượng, khoa học*; *(3) Tao nhã, tế nhị, tránh thô tục hoặc ghê sợ*.],
   [*12*], [Giải mã khẩu quyết 4 lỗi dùng từ Hán Việt #strong[“ÂM NHẦM – NGHĨA LỆCH – CẢNH SAI – THỪA LẶP”]?], [*(1) Nhầm âm gần giống* (yếu điểm ≠ điểm yếu); *(2) Hiểu sai nghĩa yếu tố cấu tạo* (cứu cánh = mục đích cuối cùng); *(3) Sai ngữ cảnh giao tiếp*; *(4) Lặp nghĩa thừa từ* (tối ưu nhất, đề cử bầu...).],
@@ -74,13 +74,13 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
   - #strong[Không gian:] Vũ trụ nguyên sơ đang tạo lập, 3 cõi liên thông (*Thiên đình – Mặt đất – Thủy phủ*), không xác định địa danh hành chính hiện đại.
   - #strong[Thời gian:] Cổ sơ phiếm chỉ (*“Thuở ấy”, “Lúc trời đất mới phân khai”, “Từ thuở hồng hoang”*), mang tính vĩnh hằng.
   - #strong[Cốt truyện & Nhân vật:] Cốt truyện #strong[đơn tuyến], xoay quanh #strong[vị Thần / người Khổng lồ] thực hiện kì tích kiến tạo thế giới hoặc truyền dạy văn hoá.
-  - #strong[Nghệ thuật đặc trưng:] Trí tưởng tượng #strong[kì ảo lãng mạn], thủ pháp #strong[phóng đại (cường điệu)] tầm vóc thần linh và #strong[nhân hóa (hữu linh hóa)] tự nhiên; ngôi kể thứ ba toàn tri.
+  - #strong[Nghệ thuật đặc trưng:] Trí tưởng tượng #strong[kì ảo lãng mạn], thủ pháp #strong[phóng đại (cường điệu)] tầm vóc thần linh và #strong[nhân hóa (hữu linh hóa)] tự nhiên; ngôi kể thứ ba khi có căn cứ.
 
   *2. CÔNG THỨC ĂN TRỌN 2,0 ĐIỂM TỰ LUẬN ĐỌC HIỂU (CÂU 9 & CÂU 10):*
   - #strong[Câu 9 (Thông hiểu — 1,0đ, viết 6 – 8 dòng):] Mở đầu bằng từ khóa câu hỏi → Trích dẫn ngắn 1 – 2 cụm từ trong ngữ liệu đặt trong ngoặc kép `“...”` → Giải mã 2 chiều (*Tác dụng nghệ thuật sinh động/kì ảo* + *Ý nghĩa nội dung/chủ đề suy nguyên & nhân văn*).
   - #strong[Câu 10 (Vận dụng — 1,0đ, viết 6 – 8 dòng, hình thức 01 đoạn văn liền mạch):] *(1) Câu mở đoạn* nêu trực diện thông điệp/đồng tình → *(2) Lí giải* vì sao thông điệp đúng đắn, sâu sắc → *(3) Mở rộng/Phản đề* ngắn gọn → *(4) Liên hệ hành động thực tế* của tuổi trẻ hôm nay. *(Tuyệt đối không xuống dòng gạch đầu dòng nếu đề yêu cầu viết đoạn văn!)*
 
-  *3. DÀN Ý BẤT BẠI CHO BÀI VĂN NGHỊ LUẬN 4,0 ĐIỂM (CÂU 11 — KHOẢNG 700 – 900 CHỮ):*
+  *3. DÀN Ý BẤT BẠI CHO BÀI VĂN NGHỊ LUẬN 4,0 ĐIỂM (CÂU 11 — THEO DUNG LƯỢNG ĐỀ YÊU CẦU):*
   - #strong[Mở bài (1 đoạn):] Dẫn dắt sức hấp dẫn thần thoại / nhận định văn học → Giới thiệu #strong[tên tác phẩm + thể loại thần thoại (quốc gia/sưu tầm) + nêu khái quát giá trị chủ đề & đặc sắc nghệ thuật].
   - #strong[Thân bài (4 đoạn rõ ràng):]
     1. *Đoạn 1 — Khái quát & Tóm tắt:* Nhóm thần thoại (*suy nguyên / sáng tạo*) + tóm tắt tinh gọn cốt truyện trong 5 – 7 dòng.

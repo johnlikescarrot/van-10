@@ -6,7 +6,7 @@
   "Mô hình Ngôi Đền 5 Tầng (4,0 điểm) • Dàn ý vạn năng • 4 kiểu Mở bài • Kĩ thuật P-E-E-V • Kho nhận định lí luận văn học"
 )
 
-= 5.1. Bản chất Kiểu bài & Thang chấm 4,0 điểm Chuẩn Ma trận 2026 – 2027
+= 5.1. Bản chất Kiểu bài & Thang chấm tham khảo 4,0 điểm 2026 – 2027
 
 Theo SGK *Ngữ văn 10 Kết nối tri thức Tập 1* (tr. 29 – 34) và *Bản đặc tả Giữa kì I*, kiểu bài #strong[Nghị luận phân tích, đánh giá một tác phẩm truyện (thần thoại ngoài SGK)] đòi hỏi sự kết hợp nhuần nhuyễn của #strong[hai thao tác tư duy không tách rời]:
 - #strong[Phân tích (Analysis):] Chia tách tác phẩm thành các yếu tố bộ phận (*chủ đề, không gian – thời gian, cốt truyện, chi tiết kì ảo, nhân vật, ngôi kể, lời văn*) để chỉ ra chúng biểu hiện cụ thể như thế nào qua bằng chứng văn bản.
@@ -14,10 +14,10 @@ Theo SGK *Ngữ văn 10 Kết nối tri thức Tập 1* (tr. 29 – 34) và *B�
 
 #study-table(
   (1.5fr, 3.8fr, 0.9fr, 0.8fr),
-  ("Tiêu chí chấm", "Yêu cầu cụ thể bài làm phải đạt được", "Điểm chuẩn", "Mức tư duy"),
+  ("Tiêu chí chấm", "Yêu cầu cụ thể bài làm phải đạt được", "Điểm gợi ý", "Mức tư duy"),
 
   [*a. Đảm bảo cấu trúc bài nghị luận*],
-  [Có đủ 3 phần *Mở bài* (nêu vấn đề), *Thân bài* (triển khai thành nhiều đoạn văn luận điểm rõ ràng), *Kết bài* (khái quát, nâng cao vấn đề). Dung lượng chuẩn 600 – 900 chữ.],
+  [Có đủ 3 phần *Mở bài* (nêu vấn đề), *Thân bài* (triển khai thành nhiều đoạn văn luận điểm rõ ràng), *Kết bài* (khái quát, nâng cao vấn đề). Dung lượng theo yêu cầu của đề; bản ma trận không quy định số chữ.],
   align(center)[*0,25đ*], align(center)[Biết],
 
   [*b. Xác định đúng vấn đề & Giới thiệu, tóm tắt*],
@@ -64,7 +64,7 @@ Theo SGK *Ngữ văn 10 Kết nối tri thức Tập 1* (tr. 29 – 34) và *B�
       #text(weight: "bold", size: 8.6pt, fill: rgb("#B54708"))[TẦNG 3 — PHÂN TÍCH, ĐÁNH GIÁ CHỦ ĐỀ (Đoạn 2–3 Thân bài • ~220–280 chữ):] #text(size: 8.4pt, fill: c-ink)[(1) Truyện cắt nghĩa, lí giải hiện tượng tự nhiên/đặc điểm loài vật/phong tục nào dưới lăng kính *vạn vật hữu linh*? (2) Truyện gửi gắm ước mơ, khát vọng chinh phục thiên nhiên, vẻ đẹp lao động và triết lí nhân sinh gì của người xưa?]
     ],
     block(fill: rgb("#F4F3FF"), stroke: 0.7pt + rgb("#9B8AFB"), radius: 4pt, inset: (x: 10pt, y: 6pt), width: 100%)[
-      #text(weight: "bold", size: 8.6pt, fill: c-purple)[TẦNG 4 — PHÂN TÍCH, ĐÁNH GIÁ ĐẶC SẮC NGHỆ THUẬT (Đoạn 4–5 Thân bài • ~250–320 chữ):] #text(size: 8.4pt, fill: c-ink)[Triển khai theo công thức *5K*: (a) *Không gian vũ trụ – Thời gian phiếm chỉ cổ sơ*; (b) *Cốt truyện đơn tuyến & Chi tiết kì ảo phóng đại đắt giá*; (c) *Nghệ thuật khắc họa nhân vật thần linh* (quyền năng kì vĩ + nét tính cách hồn nhiên đời thường); (d) *Ngôi kể thứ ba toàn tri & Ngôn ngữ dân gian mộc mạc*. *Lưu ý: Luôn chỉ rõ nghệ thuật ấy làm nổi bật chủ đề ra sao!*]
+      #text(weight: "bold", size: 8.6pt, fill: c-purple)[TẦNG 4 — PHÂN TÍCH, ĐÁNH GIÁ ĐẶC SẮC NGHỆ THUẬT (Đoạn 4–5 Thân bài • ~250–320 chữ):] #text(size: 8.4pt, fill: c-ink)[Triển khai theo công thức *5K*: (a) *Không gian vũ trụ – Thời gian phiếm chỉ cổ sơ*; (b) *Cốt truyện đơn tuyến & Chi tiết kì ảo phóng đại đắt giá*; (c) *Nghệ thuật khắc họa nhân vật thần linh* (quyền năng kì vĩ + nét tính cách hồn nhiên đời thường); (d) *Ngôi kể và ngôn ngữ phù hợp với văn bản*. *Lưu ý: Luôn chỉ rõ nghệ thuật ấy làm nổi bật chủ đề ra sao!*]
     ],
     block(fill: rgb("#ECFDF3"), stroke: 0.7pt + rgb("#6CE9A6"), radius: 4pt, inset: (x: 10pt, y: 6pt), width: 100%)[
       #text(weight: "bold", size: 8.6pt, fill: c-jade)[TẦNG 5 — ĐÁNH GIÁ MỞ RỘNG & KẾT BÀI (2 đoạn cuối • ~150–200 chữ):] #text(size: 8.4pt, fill: c-ink)[• *Đoạn Đánh giá nâng cao:* Đối sánh nhanh với *Thần Trụ Trời / Thần Sét / Prô-mê-tê* để làm rõ nét riêng; bàn luận giá trị của thông điệp giữa thời hiện đại.\ • *Kết bài:* Khẳng định lại vẻ đẹp *“một đi không trở lại”* của tác phẩm và bài học nhận thức, ứng xử sâu sắc cho bản thân.]
@@ -74,7 +74,7 @@ Theo SGK *Ngữ văn 10 Kết nối tri thức Tập 1* (tr. 29 – 34) và *B�
 
 = 5.3. Kĩ thuật Viết Đoạn “P – E – E – V” Chống Kể Lể Cốt Truyện Suông
 
-Lỗi nghiêm trọng nhất khiến 80% học sinh lớp 10 chỉ đạt 2,0/4,0 điểm là #strong[biến bài nghị luận thành bài kể lại truyện]. Để mỗi đoạn Thân bài đều chuẩn chất nghị luận văn học, hãy lắp đúng #strong[4 mắt xích P – E – E – V]:
+Một lỗi thường gặp là #strong[biến bài nghị luận thành bài kể lại truyện]. Để mỗi đoạn Thân bài đều chuẩn chất nghị luận văn học, hãy lắp đúng #strong[4 mắt xích P – E – E – V]:
 1. #strong[P (Point — Câu chủ đề nêu Luận điểm):] Đặt ngay đầu đoạn, gọi thẳng tên phương diện chủ đề hoặc thủ pháp nghệ thuật (*“Trước hết, sức hấp dẫn của truyện [Tên truyện] kết tinh ở nghệ thuật xây dựng hình tượng nhân vật thần vừa kì vĩ vừa thấm đẫm hơi thở đời thường...”*).
 2. #strong[E (Evidence — Trích dẫn Bằng chứng chọn lọc):] Đưa 2–3 chi tiết/cụm từ đắt giá nhất trong ngoặc kép (không chép tràng giang đại hải cả đoạn dài).
 3. #strong[E (Explanation — Phân tích Tác dụng):] Giải mã vì sao tác giả dân gian lại hư cấu chi tiết ấy, nó phản ánh quan sát thực tế và tư duy *vạn vật hữu linh* như thế nào.
