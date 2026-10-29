@@ -459,6 +459,14 @@
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. TRỌN BỘ CÂU HỎI & ĐÁP ÁN CHI TIẾT]\
             #text(size: 8pt, fill: rgb("#E2E8F0"))[40 câu luyện theo chỉ báo + 06 đề thi chuẩn 90 phút (66 câu), giải thích từng phương án nhiễu & thang điểm 0,25.]
           ],
+          block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[05. ĐÚNG YÊU CẦU SGK BÀI 1 (TR. 29 – 34)]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[5 yêu cầu chính thức + quy trình 5 bước “Chuẩn bị – Tìm ý – Lập dàn ý – Viết – Chỉnh sửa” + mô hình 6 đoạn bài viết tham khảo “Quà Giáng sinh”.]
+          ],
+          block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[06. PHỤ LỤC TRA CỨU NHANH TRONG PHÒNG THI]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Bảng tra nhanh 16 văn bản, bảng sửa 18 lỗi chính tả – ngữ pháp, ma trận đối chiếu 5 thể loại, phiếu tự chấm 10 phút.]
+          ],
         )
 
         #v(1fr)

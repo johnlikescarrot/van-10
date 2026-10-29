@@ -15,7 +15,7 @@
 
 #passage-box(
   title: "NỮ THẦN MẶT TRỜI VÀ MẶT TRĂNG",
-  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003"
+  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003 (lần đầu: 1956)"
 )[
   Hai chị em Mặt Trời và Mặt Trăng hình như là con gái của Ngọc Hoàng. Nhiệm vụ của hai cô hằng ngày phải đi xem xét dân sự một vòng, luân phiên nhau. Cô chị Mặt Trời được ngồi kiệu có bốn người khiêng đi. Trong số những người khiêng kiệu đó có hai bọn: một bọn già và một bọn trẻ thay đổi nhau. Bản tính bọn trẻ hay la cà dọc đường cho nên những khi đến lượt bọn họ khiêng kiệu cô Mặt Trời thường về chậm, ngày ở dưới hạ giới hóa dài ra. Trái lại đến lượt các cụ già khiêng kiệu thì lo làm tròn phận sự, mà không nghĩ gì đến những điều khác, nên nữ thần đi được nhanh chóng, ngày ngắn lại.
 
@@ -137,7 +137,7 @@ D. Khuyên răn người già và người trẻ phải biết phân chia công 
 
 #passage-box(
   title: "THẦN MƯA",
-  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003"
+  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003 (lần đầu: 1956)"
 )[
   Thần Mưa là vị thần hình rồng, thường bay xuống hạ giới hút nước biển, nước sông vào bụng rồi bay lên trời cao phun nước ra làm mưa cho thế gian có nước uống và cày cấy, cây cỏ trên mặt đất được tốt tươi. Thần Mưa thường theo lệnh Trời đi phân phát nước ở các nơi. Thần Mưa có tính hay quên, có vùng cả năm không đến, sinh ra hạn hán ở hạ giới, có vùng lại đến luôn, làm thành lụt lội. Do đó mà có lần người ở hạ giới phải lên kiện Trời vì Thần Mưa vắng mặt lâu ngày.
 
@@ -258,7 +258,7 @@ D. Sự bất công của viên Ngự sử khi chấm thi ở cửa Vũ Môn.
 
 #passage-box(
   title: "NỮ THẦN LÚA",
-  source: "Theo Kho tàng truyện thần thoại Việt Nam, NXB Giáo dục, Hà Nội, 2008"
+  source: "Theo Kho tàng thần thoại Việt Nam, NXB Giáo dục, Hà Nội, 2008"
 )[
   Nữ thần Lúa là con gái Ngọc Hoàng. Sau những trận lụt lội ghê gớm xảy ra, sinh linh cây cỏ đều bị diệt hết, Trời bèn cho những người còn sống sót sinh con đẻ cái trên mặt đất, sai Nữ thần Lúa xuống trần gian, nuôi sống loài người. Nữ thần là một cô gái xinh đẹp, dáng người ẻo lả, và có tính hay hờn dỗi.
 
@@ -357,7 +357,7 @@ D. Chứng minh lúa ngày xưa ngon hơn lúa ngày nay.
 ]
 
 #essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 03 (~910 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
-  Từ hàng ngàn năm dựng nước bên châu thổ những dòng sông lớn, cây lúa không chỉ là nguồn lương thực nuôi sống thể xác mà còn là linh hồn văn hoá của người Việt. Trong tâm thức thiêng liêng thuở hồng hoang, cha ông ta tin rằng mỗi nhành lúa trĩu bông ngoài đồng đều mang bóng dáng và hơi thở của một vị nữ thần hiền hậu. Truyện *Nữ thần Lúa* (trích *Kho tàng truyện thần thoại Việt Nam*) chính là kết tinh tuyệt đẹp của niềm tin *“vạn vật hữu linh”* ấy. Tác phẩm chinh phục người đọc qua bao thế hệ nhờ sự hòa quyện nhuần nhị giữa chủ đề suy nguyên giàu tính nhân bản và những nét đặc sắc tinh tế về hình thức nghệ thuật tự sự dân gian.
+  Từ hàng ngàn năm dựng nước bên châu thổ những dòng sông lớn, cây lúa không chỉ là nguồn lương thực nuôi sống thể xác mà còn là linh hồn văn hoá của người Việt. Trong tâm thức thiêng liêng thuở hồng hoang, cha ông ta tin rằng mỗi nhành lúa trĩu bông ngoài đồng đều mang bóng dáng và hơi thở của một vị nữ thần hiền hậu. Truyện *Nữ thần Lúa* (trích *Kho tàng thần thoại Việt Nam*) chính là kết tinh tuyệt đẹp của niềm tin *“vạn vật hữu linh”* ấy. Tác phẩm chinh phục người đọc qua bao thế hệ nhờ sự hòa quyện nhuần nhị giữa chủ đề suy nguyên giàu tính nhân bản và những nét đặc sắc tinh tế về hình thức nghệ thuật tự sự dân gian.
 
   Câu chuyện mở ra trong bối cảnh buổi sơ khai sau những trận lụt lội ghê gớm hủy diệt muôn loài, Ngọc Hoàng thương xót những người sống sót nên sai con gái là Nữ thần Lúa xuống trần gian nuôi sống nhân loại. Ban đầu, nhờ phép màu của nữ thần, lúa chín tự bò về tận nhà, ngắt bông bỏ vào nồi liền hóa thành cơm trắng thơm lành. Thế nhưng, chỉ vì một cô gái lười nhác để sân nhà ngập rác bẩn lại cáu gắt cầm cán chổi phang vào đầu bông lúa đang kéo về, Nữ thần Lúa giận dỗi biến đi, bắt con người từ đó phải tự tay gặt hái, phơi giã cực nhọc và hằng năm phải làm lễ cúng hồn Lúa (cúng cơm mới) để tạ lỗi, cầu mùa.
 

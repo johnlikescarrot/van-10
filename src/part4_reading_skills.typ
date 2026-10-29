@@ -252,7 +252,7 @@ D. Khuyên răn con người từ bỏ cuộc sống trần thế để đi tìm
 
 #passage-box(
   title: "Ngữ liệu Luyện tập A: THẦN LỬA (Trích)",
-  source: "Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, 2003"
+  source: "Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003 (lần đầu: 1956)"
 )[
   Thần Lửa là một bà già mặt mũi rất hung dữ. Người ta thường gọi là bà Hỏa. Thần chuyên giữ một thứ lửa rất mầu nhiệm có thể đặt nồi không mà nấu ra đủ những thức ăn rất ngon lành. Nhưng thứ lửa ấy không phải là để cho hạ giới dùng.
 
@@ -263,7 +263,7 @@ D. Khuyên răn con người từ bỏ cuộc sống trần thế để đi tìm
 
 #passage-box(
   title: "Ngữ liệu Luyện tập B: HÊ-RA-CLÉT ĐI TÌM TÁO VÀNG (Lược trích đoạn đấu trí với thần Át-lát)",
-  source: "Nguyễn Văn Khoả, Thần thoại Hy Lạp, tập II, NXB Đại học và Trung học chuyên nghiệp, 1986"
+  source: "Nguyễn Văn Khỏa, Thần thoại Hy Lạp, tập II, NXB Đại học và Trung học chuyên nghiệp, Hà Nội, 1986"
 )[
   [...] Đền ơn người anh hùng đã giải phóng cho mình khỏi xiềng xích và mỏ diều hâu trên đỉnh Cô-ca-dơ, thần Prô-mê-tê khuyên Hê-ra-clét không nên tự tay hái táo vàng mà hãy nhờ thần Át-lát — vị thần khổng lồ đang giơ đôi vai sừng sững chống đỡ vòm trời. Tìm đến nơi, Hê-ra-clét ngỏ lời ghé vai gánh đỡ bầu trời để Át-lát đi hái táo. Sức nặng ghê gớm của cả vòm trời đè trĩu lên vai khiến gân cốt người anh hùng căng ra, mồ hôi vã như tắm, nhưng chàng vẫn đứng vững nhờ ý chí sắt đá và sự tiếp sức của nữ thần Trí tuệ A-tê-na. Khi Át-lát mang ba quả táo vàng trở về, thấy thoát được gánh nặng ngàn năm, vị thần toan lừa Hê-ra-clét gánh vòm trời mãi mãi thay mình bằng cách ngỏ ý tự mang táo về Mi-xen giúp chàng. Nhanh trí nhận thấu mưu mẹo ấy, Hê-ra-clét giả vờ vui vẻ bằng lòng ngay, chỉ xin Át-lát đỡ hộ bầu trời một lát để chàng kiếm tấm đệm kê lên vai cho đỡ đau. Át-lát tưởng thật, đặt ba quả táo vàng xuống cỏ rồi ghé vai gánh lại bầu trời. Ngay lập tức, Hê-ra-clét cúi nhặt chùm táo vàng, lễ phép cảm tạ vị thần khổng lồ rồi ung dung lên đường trở về hoàn thành chiến công thứ mười một.
 ]

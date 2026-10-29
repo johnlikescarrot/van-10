@@ -6,7 +6,7 @@
   "Chuyên đề Từ Hán Việt (Bài 1 KNTT) • Phương thức biểu đạt • 6 Biện pháp tu từ Thần thoại • Chuẩn Mạch lạc & Liên kết"
 )
 
-= 3.1. Chuyên đề Trọng tâm: Sử dụng Từ Hán Việt (SGK Ngữ văn 10 KNTT, tr. 28 – 29)
+= 3.1. Chuyên đề Trọng tâm: Sử dụng Từ Hán Việt (SGK Ngữ văn 10 KNTT, Bài 1, tr. 28)
 
 Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*, kiến thức #strong[Từ Hán Việt] xuất hiện trực tiếp ở: *(1) 1–2 câu hỏi trắc nghiệm Đọc hiểu (tìm từ Hán Việt, giải nghĩa từ Hán Việt trong ngữ cảnh thần thoại như “hạ giới”, “thiên đình”, “thủy phủ”, “sơ khởi”, “tu bổ”, “sinh linh”... hoặc nhận diện lỗi dùng từ); (2) Tiêu chí chuẩn dùng từ và sắc thái trang trọng của bài văn Nghị luận 4,0 điểm*.
 
@@ -128,7 +128,7 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [Làm bật nổi xung đột nhận thức, tôn vinh vẻ đẹp trí tuệ và tầm vóc nhân văn của nhân vật trung tâm.]
 )
 
-= 3.3. Chuẩn mực Mạch lạc & Liên kết Đoạn văn – Văn bản (Tích hợp Bài 2 & Bài 3 KNTT)
+= 3.3. Chuẩn mực Mạch lạc & Liên kết Đoạn văn – Văn bản (Thực hành tiếng Việt – Bài 2 KNTT tr. 58 & Bài 3 KNTT tr. 86)
 
 Để đạt trọn điểm diễn đạt ở Câu 9, Câu 10 và Câu 11, học sinh cần kiểm soát chặt 3 yêu cầu Tiếng Việt cốt lõi:
 - #strong[Mạch lạc (Coherence — Sợi chỉ đỏ tư tưởng):] Toàn bộ các câu trong đoạn phải cùng phục vụ *một chủ đề thống nhất*, sắp xếp theo trình tự hợp lí (từ khái quát đến cụ thể; từ nghệ thuật đến nội dung hoặc ngược lại).

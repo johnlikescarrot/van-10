@@ -9,7 +9,7 @@
 
 #passage-box(
   title: "CUỘC TU BỔ LẠI CÁC GIỐNG VẬT",
-  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003, tr. 77 – 78"
+  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003 (lần đầu: 1956), tr. 77 – 78"
 )[
   Ngọc Hoàng trước khi sáng tạo ra con người đã nặn ra vạn vật. Nhưng lúc sơ khởi, một phần vì thiếu nguyên liệu, một phần cũng vì vội vàng muốn có một thế giới ngay trong một sớm một chiều cho nên có một số động vật cơ thể cấu tạo chưa được đầy đủ: có con thiếu cánh, có con thiếu chân, v.v...
 
@@ -87,7 +87,7 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
 
 #passage-box(
   title: "MƯỜI HAI BÀ MỤ",
-  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003"
+  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003 (lần đầu: 1956)"
 )[
   Mặt đất lúc mới phân khai còn ẩm ướt lại đen tối mù mịt. Lúc đó có hai nữ thần Mặt Trời và Mặt Trăng được lệnh của Ngọc Hoàng bắt đầu xuất hiện để vừa chiếu cho sáng khắp mọi nơi vừa hun nóng cho khô ráo mặt đất. Từ lúc mọi công việc kiến thiết vũ trụ đã xong, Ngọc Hoàng mới bắt đầu nghĩ đến chuyện sáng tạo ra vạn vật. Ông ta trước hết dùng những chất cặn còn sót lại trong trời đất, nặn ra đủ mọi giống vật từ những con to lớn như voi, tê ngưu, cọp đến những vật bé tí như sâu, kiến, bọ, trùng, v.v... Sau đó, Ngọc Hoàng mới gạn lấy chất trong, chất tinh túy rồi nặn ra một giống vật khác một cách công phu hơn. Đó là loài người. Và cũng vì thế mà người ta khôn hơn vạn vật.
 
@@ -152,7 +152,7 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
 
 #passage-box(
   title: "SỰ TÍCH ÔNG ĐÙNG, BÀ ĐÙNG",
-  source: "Theo Truyện cổ dân tộc Mường, Kho tàng thần thoại các dân tộc Việt Nam"
+  source: "Theo Truyện cổ dân tộc Mường (Nguyễn Đổng Chi sưu tầm)"
 )[
   Chuyện kể rằng, ngày xửa ngày xưa, trời đất còn chưa phân tách rõ ràng, nhờ có mụ Dạ Dần đẻ đất đẻ nước mà người Mường có các xứ Mường như ngày nay. Khi Mường Bi được tạo lập xong thì dân Mường thấy xuất hiện một đôi vợ chồng cao lớn khác thường. Ông Đùng, bà Đùng đứng cao lắm, có dễ đứng cao hơn năm lần đỉnh núi cao nhất. Đứng ở Mường Bi mà nhìn lên tận Châu Mộc, Sơn La, nhìn xuống mãi đồng bằng giáp biển, nhìn xa tới Thanh Hóa. Người Mường gọi họ là ông Đùng, bà Đùng, nghĩa là ông bà khổng lồ, người nhà Trời xuống giúp dân Mường gây dựng cơ nghiệp.
 
@@ -220,7 +220,7 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
 
 #passage-box(
   title: "NỮ OA VÁ TRỜI",
-  source: "Thần thoại Trung Quốc — Theo bản dịch của Thái Hoàng và Bùi Văn Nguyên"
+  source: "Truyện thần thoại Trung Quốc — Theo bản dịch của Thái Hoàng và Bùi Văn Nguyên"
 )[
   Người Trung Hoa kể rằng Nữ Oa là vị thần sinh ra loài người. Con cháu bà sống trong cõi thế gian bình yên vô sự thì bỗng một hôm Thủy thần Cung Công và Hỏa thần Chúc Dung gây sự đánh nhau rất dữ dội. Cung Công thua to, tự nghĩ chẳng còn mặt mũi nào sống trong trời đất nữa bèn đập đầu vào núi Bất Chu, vốn là cây cột chống trời ở phía Tây Bắc, để tự tử. Vì sức đập không đủ mạnh nên Cung Công không chết, chỉ có cây cột chống trời là gãy gập xuống, một góc trời bị sụt lở gây ra tai họa khủng khiếp cho loài người.
 
@@ -288,7 +288,7 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
 
 #passage-box(
   title: "PRÔ-MÊ-TÊ VÀ LOÀI NGƯỜI",
-  source: "Theo Nguyễn Văn Khoả, Thần thoại Hy Lạp, tập I, NXB Khoa học Xã hội, Hà Nội, 1990, tr. 79 – 81"
+  source: "Theo Nguyễn Văn Khỏa, Thần thoại Hy Lạp, tập I, NXB Khoa học Xã hội, Hà Nội, 1990, tr. 79 – 81"
 )[
   Thuở ấy thế gian chỉ mới có các vị thần. Mặt đất mênh mông, dẫu đã có khá nhiều vị thần cai quản song vẫn còn hết sức vắng vẻ. Không muốn để tình cảnh buồn tẻ đó kéo dài, bữa kia hai anh em Prô-mê-tê và Ê-pi-mê-tê xin với U-ra-nôx và Gai-a tạo ra cho thế gian thêm nhiều nhiều cái gì đó để cho cuộc sống đông vui. U-ra-nôx và Gai-a ưng thuận. Hai vị giao luôn việc đó cho hai anh em Prô-mê-tê và Ê-pi-mê-tê. Cậu em Ê-pi-mê-tê mừng quá, tranh ngay lấy việc đó và giao cho ông anh lo việc xem xét, sửa chữa lại sau. Ê-pi-mê-tê lấy đất và nước nhào nặn ra, trước hết, là các loài vật và ban cho mỗi con vật một đặc ân của thần, một “vũ khí” để có thể phòng thân, hộ mệnh, bảo vệ được cuộc sống của giống loài mình. Con thì được ban cho ân huệ chạy nhanh như gió. Con thì có đôi mắt sáng xanh nhìn thấu cả đêm đen. Con thì có thân hình khổng lồ mạnh khỏe hết chỗ nói. Có con thân hình bé nhỏ nhưng lại có nọc độc gớm ghê. Rồi con có bộ lông dày, con có sải cánh rộng. Con thì xuống nước không chìm, con thì trèo leo thoăn thoắt... Tóm lại mỗi con vật, mỗi giống loài đều có “vũ khí” cần thiết để sống được ở thế gian.
 
@@ -384,14 +384,14 @@ D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Tr
 
   *4. Hướng dẫn chấm Chi tiết Câu 11 (Viết bài văn nghị luận — 4,0 điểm):*
   - *Cấu trúc (0,25đ); Chính tả, ngữ pháp (0,25đ); Sáng tạo (0,50đ).*
-  - *Giới thiệu & Tóm tắt (0,75đ):* Giới thiệu *Prô-mê-tê và loài người* (kiệt tác thần thoại Hy Lạp do học giả Nguyễn Văn Khoả kể lại); tóm tắt quá trình hai anh em tạo muôn loài, sự đãng trí của Ê-pi-mê-tê và hai kì tích tái tạo vóc dáng + lấy lửa Mặt Trời trao cho con người của Prô-mê-tê.
+  - *Giới thiệu & Tóm tắt (0,75đ):* Giới thiệu *Prô-mê-tê và loài người* (kiệt tác thần thoại Hy Lạp do học giả Nguyễn Văn Khỏa kể lại); tóm tắt quá trình hai anh em tạo muôn loài, sự đãng trí của Ê-pi-mê-tê và hai kì tích tái tạo vóc dáng + lấy lửa Mặt Trời trao cho con người của Prô-mê-tê.
   - *Phân tích, đánh giá Chủ đề (0,75đ):* Giao thoa tuyệt đẹp giữa *thần thoại suy nguyên* (lí giải nguồn gốc muôn thú, dáng đứng thẳng thanh tao của con người, nguồn gốc ngọn lửa) và *thần thoại sáng tạo văn hoá* (tôn vinh ngọn lửa văn minh – tri thức – nghề nghiệp giúp con người chiến thắng thiên nhiên khắc nghiệt); ngợi ca vẻ đẹp nhân bản cao cả của vị thần vì con người (Prô-mê-tê) và khẳng định vị thế làm chủ thế giới bằng trí tuệ của nhân loại.
   - *Phân tích, đánh giá Nghệ thuật (1,00đ):* Không gian vũ trụ trải dài từ mặt đất vắng vẻ tới bầu trời cao xa nơi cỗ xe thần Mặt Trời Hê-li-ôx; tình huống truyện giàu kịch tính (sự “bỏ quên” tai hại của Ê-pi-mê-tê); thủ pháp tương phản kép (Ê-pi-mê-tê lơ đễnh ↔ Prô-mê-tê nhìn xa trông rộng; muôn thú đầy vũ khí cơ bắp ↔ con người mong manh nhưng sở hữu ngọn lửa vô địch); lời trần thuật linh hoạt kết hợp điệp cấu trúc, liệt kê dồn dập, câu hỏi nửa trực tiếp giàu trăn trở và khổ thơ vần đúc kết giàu dư vang sử thi.
   - *Đánh giá mở rộng (0,50đ):* Đối sánh với *Mười hai Bà Mụ* và *Thần Lửa* của Việt Nam để làm bật tinh thần duy lí, tôn vinh tư thế đứng thẳng và khát vọng khai sáng văn minh đặc trưng của văn hoá Hy Lạp cổ đại.
 ]
 
 #essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 06 (~960 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
-  Trong lịch sử tư tưởng nhân loại, C. Mác từng tôn vinh Prô-mê-tê là *“vị thánh và người tử vì đạo cao quý nhất trong lịch triết học”* — biểu tượng bất diệt của trí tuệ khai sáng và tình yêu thương con người vô bờ bến. Quay ngược dòng thời gian về buổi bình minh rực rỡ của văn minh Địa Trung Hải qua bản kể tài hoa của học giả Nguyễn Văn Khoả (*Thần thoại Hy Lạp*), truyện *Prô-mê-tê và loài người* hiện lên như một viên kim cương lấp lánh của thể loại thần thoại cổ đại. Tác phẩm không chỉ chinh phục độc giả bằng chủ đề nhân văn sâu thẳm lí giải cội nguồn sức mạnh văn minh con người, mà còn cuốn hút mãnh liệt nhờ hệ thống hình thức nghệ thuật tự sự giàu kịch tính và chất thơ tráng lệ.
+  Trong lịch sử tư tưởng nhân loại, C. Mác từng tôn vinh Prô-mê-tê là *“vị thánh và người tử vì đạo cao quý nhất trong lịch triết học”* — biểu tượng bất diệt của trí tuệ khai sáng và tình yêu thương con người vô bờ bến. Quay ngược dòng thời gian về buổi bình minh rực rỡ của văn minh Địa Trung Hải qua bản kể tài hoa của học giả Nguyễn Văn Khỏa (*Thần thoại Hy Lạp*), truyện *Prô-mê-tê và loài người* hiện lên như một viên kim cương lấp lánh của thể loại thần thoại cổ đại. Tác phẩm không chỉ chinh phục độc giả bằng chủ đề nhân văn sâu thẳm lí giải cội nguồn sức mạnh văn minh con người, mà còn cuốn hút mãnh liệt nhờ hệ thống hình thức nghệ thuật tự sự giàu kịch tính và chất thơ tráng lệ.
 
   Câu chuyện mở ra vào thuở hồng hoang khi thế gian mới chỉ có các vị thần và mặt đất mênh mông còn hết sức buồn tẻ. Được thần Bầu Trời U-ra-nôx và Đất Mẹ Gai-a ưng thuận, hai anh em Titan là Prô-mê-tê và Ê-pi-mê-tê bắt tay nhào nặn sự sống từ đất và nước. Cậu em Ê-pi-mê-tê hăm hở tranh làm trước, ban phát hết mọi đặc ân “vũ khí” phòng thân cho muôn loài cầm thú, để rồi đến cuối cùng lại lơ đễnh bỏ sót con người trong tình cảnh trần trụi, bấy yếu hoàn toàn. Không đành lòng nhìn con người diệt vong trước nanh vuốt thú dữ và thiên tai khắc nghiệt, người anh Prô-mê-tê thông minh đã tái tạo vóc dáng con người đứng thẳng thanh tao như thần linh, rồi dũng cảm băng lên bầu trời xa tít tắp châm lửa từ cỗ xe thần Mặt Trời Hê-li-ôx đem xuống trao tặng nhân gian, mở ra kỉ nguyên văn minh hạnh phúc cho loài người.
 
