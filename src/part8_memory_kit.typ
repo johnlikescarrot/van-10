@@ -2,7 +2,7 @@
 
 #part-banner(
   "PHẦN VII",
-  "Hệ Thống Ghi Nhớ Siêu Tốc & Lộ Trình Nước Rút 7 Ngày",
+  "Hệ Thống Ghi Nhớ Siêu Tốc, 40 Flashcards & Lộ Trình Nước Rút",
   "Ứng dụng khoa học nhận thức hiện đại (Active Recall — Truy xuất chủ động, Spaced Repetition — Lặp lại ngắt quãng & Dual Coding — Mã hóa kép) giúp khắc sâu 100% kiến thức vào trí nhớ dài hạn trước giờ G."
 )
 
@@ -22,7 +22,7 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
   [*Ngày 7*\ *(45 phút)*], [Tổng rà soát nhẹ nhàng & Chuẩn bị tâm lí thi (Phần VII)], [Tự khảo toàn bộ #strong[24 Flashcards Truy xuất chủ động], đọc kĩ #strong[Trang Tóm Lược Toàn Năng] và #strong[Checklist 5 Phút Vàng]; nghỉ ngơi sớm trước 22h00.], [Tổng ôn vòng cuối toàn bộ từ khóa cốt lõi.]
 )
 
-= 7.2. Bộ 24 Thẻ Truy Xuất Chủ Động (Active Recall Flashcards)
+= 7.2. Bộ Thẻ Truy Xuất Chủ Động (Active Recall Flashcards) — Thẻ 01 – 24
 
 #callout(
   title: "HƯỚNG DẪN SỬ DỤNG THẺ FLASHCARD HIỆU QUẢ GẤP 3 LẦN ĐỌC THỤ ĐỘNG",
