@@ -3,12 +3,12 @@
 #part-banner(
   "PHẦN III",
   "Tiếng Việt & Công Cụ Ngôn Ngữ Trong Đọc Hiểu – Viết",
-  "Chuyên đề Từ Hán Việt (Bài 1 KNTT) • Phương thức biểu đạt • 6 Biện pháp tu từ Thần thoại • Chuẩn Mạch lạc & Liên kết"
+  "Từ Hán Việt (Bài 1 KNTT) • Phương thức biểu đạt • Biện pháp tu từ • Mạch lạc và liên kết"
 )
 
 = 3.1. Chuyên đề Trọng tâm: Sử dụng Từ Hán Việt (SGK Ngữ văn 10 KNTT, tr. 28 – 29)
 
-Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*, kiến thức #strong[Từ Hán Việt] xuất hiện trực tiếp ở: *(1) 1–2 câu hỏi trắc nghiệm Đọc hiểu (tìm từ Hán Việt, giải nghĩa từ Hán Việt trong ngữ cảnh thần thoại như “hạ giới”, “thiên đình”, “thủy phủ”, “sơ khởi”, “tu bổ”, “sinh linh”... hoặc nhận diện lỗi dùng từ); (2) Tiêu chí chuẩn dùng từ và sắc thái trang trọng của bài văn Nghị luận 4,0 điểm*.
+Trong phần Đọc hiểu, đề có thể yêu cầu nhận diện hoặc giải nghĩa #strong[từ Hán Việt] trong ngữ cảnh thần thoại (như “hạ giới”, “thiên đình”, “thủy phủ”, “sơ khởi”, “tu bổ”, “sinh linh”...), hoặc nhận diện cách dùng từ chưa phù hợp. Khi viết, việc chọn từ đúng nghĩa và đúng sắc thái cũng giúp bài văn rõ ràng, trang trọng.
 
 == A. Cấu tạo Yếu tố Hán Việt & Từ ghép Hán Việt
 
@@ -16,8 +16,8 @@ Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*,
 - #strong[Hiện tượng đồng âm khác nghĩa (Cực kì quan trọng khi giải nghĩa từ):] Cùng một âm đọc nhưng mang gốc nghĩa hoàn toàn khác nhau:
   - *Thiên:* (1) Trời (*thiên đình, thiên thần, thiên hạ*); (2) Nghìn (*thiên niên kỉ, thiên lí mã*); (3) Dời chuyển (*thiên đô, biến thiên*); (4) Lệch, nghiêng (*thiên vị, thiên kiến*).
   - *Nhân:* (1) Người (*nhân gian, nhân loại, vĩ nhân*); (2) Lòng thương người (*nhân đạo, nhân ái, nhân từ*); (3) Hạt, lõi bên trong (*nhân quả, nguyên nhân*).
-  - *Hàn:* (1) Lạnh, nghèo khổ (*bần hàn, hàn sĩ, hàn vi, hàn ôn*); (2) Lông chim, bút văn chương (*hàn lâm*).
-  - *Yếu:* (1) Quan trọng, then chốt (*yếu điểm, trọng yếu, thiết yếu, yếu nhân*); *(Lưu ý: “yếu” trong Hán Việt KHÔNG có nghĩa là yếu ớt — từ “yếu ớt” là từ thuần Việt!)*.
+  - *Hàn:* (1) Lạnh, nghèo khổ (*bần hàn, hàn sĩ, hàn vi, hàn ôn*); (2) Trong *hàn lâm*, chỉ môi trường học thuật hoặc cơ quan học thuật xưa.
+  - *Yếu:* Có thể là quan trọng, then chốt (*yếu điểm, trọng yếu, thiết yếu*), cũng có thể gợi sự yếu kém trong một số tổ hợp. Cần căn cứ vào cả từ ghép và ngữ cảnh.
 
 #study-table(
   (1.6fr, 2.7fr, 2.7fr),
@@ -40,7 +40,7 @@ Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*,
 
 Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ Hán Việt trong đoạn văn”*, học sinh trả lời theo #strong[3 giá trị chuẩn]:
 1. #strong[Tạo sắc thái trang trọng, tôn nghiêm, thiêng liêng:] Phù hợp khi miêu tả thế giới thần linh, cõi trời (*Ngọc Hoàng, Thiên đình, Thủy phủ, chiếu chỉ, phán truyền, sinh linh, hạ giới*).
-2. #strong[Gợi không khí cổ xưa, cổ kính, truyền thống:] Phù hợp với bối cảnh lịch sử – huyền thoại xa xưa (như trong *Thần thoại*, *Tản Viên từ Phán sự lục* hay vẻ đẹp *“vang bóng một thời”* trong *Chữ người tử tù*: *nhất sinh, tứ bình, trung đường, biệt nhỡn liên tài, thiên lương*).
+2. #strong[Gợi không khí cổ xưa, cổ kính, truyền thống:] Phù hợp với bối cảnh lịch sử – huyền thoại xa xưa (như trong *Thần thoại*, *Chuyện chức phán sự đền Tản Viên* hay vẻ đẹp *“vang bóng một thời”* trong *Chữ người tử tù*: *nhất sinh, tứ bình, trung đường, biệt nhỡn liên tài, thiên lương*).
 3. #strong[Biểu đạt khái quát, hàm súc, tao nhã (tránh thô tục):] Thay thế một cụm từ thuần Việt dài dòng bằng một từ cô đọng (VD: *sinh thực khí*, *tạ thế*, *hiếu sinh*).
 
 == C. Khẩu quyết 4 Lỗi Dùng Từ Hán Việt & Bảng 20 Cặp Từ Dễ Sai Nhất
@@ -61,7 +61,7 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [*Bàng quan* vs. *Bàng quang*], [*Bàng quan* = đứng ngoài cuộc, thờ ơ.\ *Bàng quang* = cơ quan bóng đái.], [Không thể giữ thái độ *bàng quan* trước cái ác.],
   [*Tham quan* vs. *Thăm quan*], [*Tham quan* = xem tận mắt để mở rộng hiểu biết (*“thăm quan”* là viết sai!).], [Đoàn học sinh đi *tham quan* di tích đền Tản Viên.],
   [*Độc giả / Khán giả / Thính giả*], [*Độc* = đọc sách báo; *Khán* = xem biểu diễn; *Thính* = nghe phát thanh.], [Truyện thần thoại chinh phục bao thế hệ *độc giả*.],
-  [*Nhậm chức* vs. *Nhận chức*], [*Nhậm* (gánh vác chức vụ chính thức) trang trọng hơn *nhận*.], [Tử Văn đến *nhậm chức* Phán sự đền Tản Viên.],
+  [*Nhậm chức* vs. *Nhận chức*], [*Nhậm chức* = bắt đầu đảm nhận một chức vụ; *nhận chức* = nhận một chức trách/vị trí. Sắc thái tùy văn cảnh.], [Tử Văn đến *nhậm chức* Phán sự đền Tản Viên.],
   [*Giả thuyết* vs. *Giả thiết*], [*Giả thuyết* = luận điểm khoa học tạm nêu.\ *Giả thiết* = điều kiện cho trước.], [Đặt ra *giả thuyết* nghiên cứu về nguồn gốc thần thoại.],
   [*Truyền tụng* vs. *Truyền tống*], [*Truyền tụng* = truyền miệng ngợi ca.\ *Truyền tống* = chuyển phát đi.], [Câu chuyện về Nữ Oa được nhân dân muôn đời *truyền tụng*.],
   [*Sáng kiến* vs. *Sáng chế*], [*Sáng kiến* = ý kiến mới cải tiến công việc.\ *Sáng chế* = tạo ra vật phẩm kĩ thuật mới.], [Đưa ra *sáng kiến* bảo tồn di sản văn hoá dân gian.]
@@ -78,7 +78,7 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [*Sinh linh / Vạn vật*], [Muôn loài sinh vật có sự sống trên thế gian.], [*Tu bổ*], [Sửa chữa, bù đắp thêm cho hoàn chỉnh, tốt đẹp.],
   [*Khoán trắng*], [Giao phó toàn quyền cho người khác tự lo liệu.], [*Ủy thác*], [Tin cậy giao phó công việc quan trọng cho ai làm.],
   [*Sát hạch*], [Kiểm tra, thi tuyển gắt gao để chọn kẻ có tài.], [*Ngự sử*], [Quan giữ việc giám sát, chấm xét của triều đình.],
-  [*Thịnh nộ / Lôi đình*], [Cơn giận dữ dội như sấm sét.], [*Bạo thiên nghịch địa*], [Ngang ngược chống lại cả trời đất.],
+  [*Thịnh nộ / Lôi đình*], [Cơn giận dữ dội / sự dữ dội như sấm sét.], [*Khởi nguyên*], [Nguồn gốc, điểm bắt đầu của sự vật.],
   [*Nhật thực / Nguyệt thực*], [Hiện tượng Mặt Trời / Mặt Trăng bị che khuất.], [*Thượng huyền / Hạ huyền*], [Trăng khuyết đầu tháng (mồng 7–8) / cuối tháng (22–23).],
   [*Phiếm chỉ / Ước lệ*], [Chỉ chung, không xác định cụ thể / quy ước tượng trưng.], [*Suy nguyên*], [Truy tìm căn nguyên, nguồn gốc ban đầu của sự vật.],
   [*Hữu linh / Siêu nhiên*], [Có linh hồn / vượt lên trên quy luật tự nhiên thường.], [*Biệt nhỡn liên tài*], [Cái nhìn trân trọng đặc biệt và lòng thương quý người tài.]
@@ -86,17 +86,17 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
 
 = 3.2. Phương thức Biểu đạt & 6 Biện pháp Tu từ Đặc trưng của Thần thoại
 
-== A. Quy tắc Vàng Xác định Phương thức Biểu đạt (Tránh Bẫy Câu TNKQ số 1–2)
-- Nếu đề hỏi #strong[“Phương thức biểu đạt CHÍNH của văn bản”] (chỉ 1 phương thức): Với mọi truyện thần thoại, đáp án LUÔN LUÔN là #strong[Tự sự] (kể lại chuỗi sự việc, nhân vật).
-- Nếu đề hỏi #strong[“Các phương thức biểu đạt được sử dụng trong văn bản”] (từ 2 phương thức trở lên): Thường là #strong[Tự sự kết hợp miêu tả (và biểu cảm)].
+== A. Xác định phương thức biểu đạt: đọc theo yêu cầu câu hỏi
+- Nếu đề hỏi #strong[“Phương thức biểu đạt chính”]: một truyện thần thoại thường lấy #strong[tự sự] làm phương thức chính vì kể chuỗi sự việc và hành động của nhân vật. Hãy kiểm tra toàn văn trước khi chọn.
+- Nếu đề hỏi #strong[“Các phương thức biểu đạt”]: văn bản có thể kết hợp tự sự với miêu tả, biểu cảm hoặc nghị luận ở mức độ khác nhau.
 
-== B. Công thức 3 Tầng Phân tích Tác dụng Biện pháp Tu từ (Ăn trọn 1,0/1,0 điểm Tự luận)
+== B. Công thức 3 tầng phân tích tác dụng biện pháp tu từ
 
 #formula-box(title: "CÔNG THỨC 3 TẦNG NÊU TÁC DỤNG BIỆN PHÁP TU TỪ TRONG ĐỌC HIỂU")[
-  Khi gặp câu hỏi: *“Chỉ ra và nêu tác dụng của biện pháp tu từ trong câu văn [...]”*, bắt buộc trả lời đủ #strong[3 dấu cộng] để không bị trừ bất kì 0,25 điểm nào:
-  1. #strong[Tầng 1 — Gọi tên & Chỉ rõ từ ngữ biểu hiện (0,25đ):] Nêu chính xác tên biện pháp tu từ + trích dẫn đúng cụm từ chứa biện pháp đó trong ngoặc kép.
-  2. #strong[Tầng 2 — Tác dụng về Nội dung / Nhận thức (0,50đ):] Nhấn mạnh hình ảnh vị thần / hiện tượng tự nhiên hiện lên kì vĩ, sống động như thế nào; qua đó thể hiện quan niệm, trí tưởng tượng phong phú hoặc khát vọng gì của người cổ đại.
-  3. #strong[Tầng 3 — Tác dụng về Hình thức Nghệ thuật (0,25đ):] Làm cho lời văn giàu hình ảnh, giàu nhịp điệu, tăng sức gợi hình gợi cảm, tạo màu sắc hoang đường kì ảo hấp dẫn cho truyện thần thoại.
+  Khi gặp câu hỏi: *“Chỉ ra và nêu tác dụng của biện pháp tu từ trong câu văn [...]”*, một câu trả lời đầy đủ thường có ba lớp:
+  1. #strong[Tầng 1 — Gọi tên và chỉ rõ biểu hiện:] Nêu tên biện pháp tu từ, trích đúng cụm từ hoặc hình ảnh có liên quan.
+  2. #strong[Tầng 2 — Tác dụng về nội dung:] Phân tích hình ảnh vị thần/hiện tượng tự nhiên hiện lên như thế nào; từ đó làm rõ quan niệm, trí tưởng tượng hoặc khát vọng nào.
+  3. #strong[Tầng 3 — Tác dụng về hình thức:] Nhận xét ngắn về sức gợi hình, gợi cảm, nhịp điệu hoặc màu sắc kì ảo của lời văn.
 ]
 
 #study-table(
@@ -128,9 +128,9 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [Làm bật nổi xung đột nhận thức, tôn vinh vẻ đẹp trí tuệ và tầm vóc nhân văn của nhân vật trung tâm.]
 )
 
-= 3.3. Chuẩn mực Mạch lạc & Liên kết Đoạn văn – Văn bản (Tích hợp Bài 2 & Bài 3 KNTT)
+= 3.3. Mạch lạc và liên kết đoạn văn – văn bản
 
-Để đạt trọn điểm diễn đạt ở Câu 9, Câu 10 và Câu 11, học sinh cần kiểm soát chặt 3 yêu cầu Tiếng Việt cốt lõi:
+Để đoạn trả lời và bài văn dễ theo dõi, học sinh nên kiểm soát ba yêu cầu tiếng Việt cốt lõi:
 - #strong[Mạch lạc (Coherence — Sợi chỉ đỏ tư tưởng):] Toàn bộ các câu trong đoạn phải cùng phục vụ *một chủ đề thống nhất*, sắp xếp theo trình tự hợp lí (từ khái quát đến cụ thể; từ nghệ thuật đến nội dung hoặc ngược lại).
 - #strong[Liên kết hình thức (Cohesion — Chất keo nối câu):] Chủ động sử dụng các phép liên kết câu và liên kết đoạn: *phép nối* (*Trước hết, Bên cạnh đó, Không dừng lại ở đó, Hơn thế nữa, Tóm lại...*), *phép thế* (*vị thần ấy, tác giả dân gian, kiệt tác cổ sơ này...*), *phép lặp từ khóa có chủ đích*.
 - #strong[Tránh lỗi trật tự từ mơ hồ:] Đặt cụm từ bổ nghĩa sát ngay danh từ/động từ mà nó bổ nghĩa để câu văn nghị luận sáng rõ, đanh thép.

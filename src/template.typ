@@ -224,7 +224,6 @@
 
 // Header thẻ Đề kiểm tra
 #let exam-header(num, subtitle, model-type) = {
-  pagebreak(weak: true)
   place(hide(heading(level: 2, offset: 0)[Đề minh họa số #num: #subtitle (#model-type)]))
   block(
     width: 100%,
@@ -277,7 +276,7 @@
 #let project-doc(body) = {
   set document(
     title: "Đề cương ôn tập Giữa kì I Ngữ văn 10 - Kết nối tri thức (2026-2027)",
-    author: "Tài liệu Ôn tập Chuyên sâu Ngữ văn 10 - GDPT 2018",
+    author: "Tài liệu tự học Ngữ văn 10 - phiên bản kiểm định",
   )
 
   set page(
@@ -302,7 +301,7 @@
         #set text(font: font-sans, size: 7.8pt, fill: c-muted)
         #grid(
           columns: (1fr, auto),
-          [Bám sát 100% Ma trận & Bản đặc tả Kiểm tra Giữa kì I (90 phút • 11 câu • Thang điểm 10)],
+          [Đối chiếu Ma trận & Bản đặc tả Giữa kì I (90 phút • 11 câu • thang điểm 10)],
           text(weight: "bold", fill: c-navy)[Trang #counter(page).display("1 / 1", both: true)]
         )
       ]
@@ -375,7 +374,7 @@
 
         #v(14mm)
         #text(font: font-sans, size: 12pt, weight: "semibold", fill: rgb("#93C5FD"), tracking: 1pt)[
-          TÀI LIỆU ÔN TẬP CHUYÊN SÂU & TỐI ƯU GHI NHỚ NHẬN THỨC
+          TÀI LIỆU TỰ HỌC CÓ HƯỚNG DẪN VÀ KIỂM ĐỊNH PHẠM VI
         ]
         #v(5mm)
         #text(font: font-sans, size: 25pt, weight: "bold", fill: white)[
@@ -400,7 +399,7 @@
           stroke: 1.2pt + rgb("#F59E0B"),
         )[
           #text(font: font-sans, size: 9pt, weight: "bold", fill: c-navy, tracking: 0.4pt)[
-            CẤU TRÚC ĐỀ CHUẨN MA TRẬN NĂM HỌC 2026 – 2027 (THỜI GIAN: 90 PHÚT)
+            CẤU TRÚC THAM KHẢO THEO MA TRẬN NĂM HỌC 2026 – 2027 (90 PHÚT)
           ]
           #v(8pt)
           #grid(
@@ -431,7 +430,7 @@
               #align(center)[
                 #text(size: 15pt, weight: "bold", fill: c-jade)[106 CÂU]\
                 #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & 6 ĐỀ]\
-                #text(size: 7.4pt, fill: c-slate)[100% có đáp án,\ giải nhiễu & văn mẫu]
+                #text(size: 7.4pt, fill: c-slate)[Có đáp án gợi ý,\ tự chấm & văn mẫu]
               ]
             ]
           )
@@ -444,20 +443,20 @@
           column-gutter: 12pt,
           row-gutter: 8pt,
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[01. HỆ THỐNG HÓA SIÊU TRÍ NHỚ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[Sơ đồ hóa Dual-Coding, Khẩu quyết 5K–1C, Ma trận phân biệt 5 thể loại tự sự & 12 thần thoại ngoài SGK.]
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[01. HỆ THỐNG HÓA KIẾN THỨC]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Sơ đồ hóa kiến thức, khẩu quyết 5K–1C, ma trận phân biệt 5 thể loại tự sự & 12 ngữ liệu mở rộng.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[02. PHỦ KÍN 100% BẢN ĐẶC TẢ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[13/13 chỉ báo Đọc hiểu, chuyên đề Từ Hán Việt & Tu từ, Công thức 4 bước trả lời Tự luận đạt điểm tối đa.]
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[02. ĐỐI CHIẾU 22 CHỈ BÁO]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[13 chỉ báo Đọc hiểu, 9 yêu cầu Viết, chuyên đề Từ Hán Việt và tu từ.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[03. DÀN Ý VẠN NĂNG & VĂN MẪU 4,0Đ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[Mô hình Ngôi Đền 5 Tầng phân tích chủ đề & nghệ thuật thần thoại kèm 06 bài văn mẫu hoàn chỉnh.]
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[03. DÀN Ý LINH HOẠT & VĂN MẪU]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Mô hình Ngôi Đền 5 Tầng phân tích chủ đề & nghệ thuật thần thoại kèm 06 bài viết tham khảo.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. TRỌN BỘ CÂU HỎI & ĐÁP ÁN CHI TIẾT]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[40 câu luyện theo chỉ báo + 06 đề thi chuẩn 90 phút (66 câu), giải thích từng phương án nhiễu & thang điểm 0,25.]
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. CÂU HỎI VÀ ĐÁP ÁN GỢI Ý]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[40 câu luyện theo chỉ báo + 06 đề minh họa 90 phút (66 câu), kèm lí giải và gợi ý tự chấm.]
           ],
         )
 
@@ -466,7 +465,7 @@
         #v(4mm)
         #grid(
           columns: (1fr, auto),
-          text(size: 8.5pt, fill: rgb("#CBD5E1"))[Biên soạn chuyên sâu theo định hướng đánh giá năng lực của Bộ GD&ĐT],
+          text(size: 8.5pt, fill: rgb("#CBD5E1"))[Biên soạn theo Ma trận, Bản đặc tả và ngữ liệu luyện tập tự biên soạn],
           text(size: 9pt, weight: "bold", fill: rgb("#FCD34D"))[NĂM HỌC 2026 – 2027]
         )
       ]
@@ -479,21 +478,21 @@
     fill: c-blue-soft,
     stroke: 0.8pt + c-blue-bdr,
     radius: 6pt,
-    inset: 12pt,
-    below: 12pt,
+    inset: 9pt,
+    below: 8pt,
   )[
-    #text(size: 10pt, weight: "bold", fill: c-navy)[CẨM NANG SỬ DỤNG ĐỀ CƯƠNG THEO KHOA HỌC NHẬN THỨC (COGNITIVE RETENTION)]
-    #v(4pt)
-    #set text(size: 9pt)
-    Đề cương này được thiết kế theo 4 nguyên lí khoa học ghi nhớ hiện đại nhằm giúp học sinh lớp 10 *hiểu bản chất – nhớ dài lâu – phản xạ tức thì trong 90 phút phòng thi*:
+    #text(size: 9.3pt, weight: "bold", fill: c-navy)[CẨM NANG SỬ DỤNG ĐỀ CƯƠNG: HỌC CHỦ ĐỘNG, KIỂM TRA CÓ CĂN CỨ]
+    #v(3pt)
+    #set text(size: 8.4pt)
+    Đề cương gợi ý bốn cách học chủ động. Hãy chọn cách phù hợp với thời gian và thói quen của mình; hiệu quả đến từ việc tự trả lời, nhận phản hồi và sửa lỗi đều đặn:
     #grid(
       columns: (1fr, 1fr),
-      column-gutter: 12pt,
-      row-gutter: 5pt,
-      [*1. Mã hóa kép (Dual Coding):* Kết hợp bảng ma trận đối chiếu và sơ đồ cấu trúc để não bộ lưu trữ đồng thời kênh ngôn ngữ và kênh không gian.],
-      [*2. Khẩu quyết âm vần (Chunking & Mnemonics):* Mọi cụm kiến thức phức tạp đều được nén thành công thức ngắn gọn (*5K–1C*, *GỌI–TRÍCH–GIẢI–CHỐT*).],
-      [*3. Phòng vệ lỗi sai (Error Inoculation):* Hệ thống hộp *Cảnh báo bẫy phòng thi* chỉ rõ các phương án nhiễu hay đánh lừa học sinh nhất.],
-      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 40 câu theo chỉ báo + 06 đề thi thực chiến (66 câu) + 24 thẻ Flashcards kèm lộ trình ôn 7 ngày.]
+      column-gutter: 10pt,
+      row-gutter: 3pt,
+      [*1. Kết hợp chữ và sơ đồ:* Dùng bảng đối chiếu, sơ đồ và từ khóa để nhìn rõ quan hệ giữa các ý.],
+      [*2. Gom nhóm từ khóa:* Nén kiến thức thành công thức ngắn (*5K–1C*, *GỌI–TRÍCH–GIẢI–CHỐT*) rồi tự giải thích lại bằng lời của mình.],
+      [*3. Phân tích lỗi sai:* Đọc lí do vì sao một phương án chưa đúng, rồi tìm bằng chứng trong ngữ liệu.],
+      [*4. Tự truy hồi:* Làm ngân hàng câu hỏi, đề minh họa và thẻ ôn khi chưa xem đáp án; quay lại lỗi sai sau một hoặc hai ngày.]
     )
   ]
 
@@ -501,12 +500,12 @@
     width: 100%,
     inset: (y: 4pt),
   )[
-    #text(size: 12.5pt, weight: "bold", fill: c-navy)[MỤC LỤC TỔNG QUÁT]
-    #v(2pt)
+    #text(size: 11.5pt, weight: "bold", fill: c-navy)[MỤC LỤC TỔNG QUÁT]
+    #v(1pt)
     #line(length: 100%, stroke: 1.2pt + c-indigo)
-    #v(4pt)
-    #set text(size: 9.2pt)
-    #outline(title: none, indent: 1.2em, depth: 2)
+    #v(3pt)
+    #set text(size: 8.7pt)
+    #outline(title: none, indent: 1.1em, depth: 2)
   ]
 
   body

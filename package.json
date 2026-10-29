@@ -1,0 +1,15 @@
+{
+  "name": "van-10-revision-guide",
+  "private": true,
+  "version": "2.0.0",
+  "description": "Reproducible Typst build for the Grade 10 Vietnamese Literature revision guide.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-pdf.mjs",
+    "check": "node scripts/check-pdf.mjs",
+    "verify": "npm run build && npm run check"
+  },
+  "devDependencies": {
+    "@myriaddreamin/typst-ts-node-compiler": "0.7.0"
+  }
+}

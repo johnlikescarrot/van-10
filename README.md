@@ -1,52 +1,74 @@
-# Đề Cương Ôn Tập Giữa Học Kì I — Ngữ Văn 10 (Kết Nối Tri Thức Với Cuộc Sống • Năm Học 2026 – 2027)
+# Đề cương ôn tập Giữa học kì I — Ngữ văn 10
 
-Tài liệu ôn tập chuyên sâu, hệ thống hóa theo khoa học nhận thức (*Cognitive Retention*) và bám sát **100% Ma trận – Bản đặc tả Kiểm tra Giữa kì I môn Ngữ văn lớp 10 năm học 2026 – 2027** (`MA TRẬN KIỂM TRA GIỮA KÌ 1 NGỮ VĂN 10 NĂM 2026-2027.docx`).
+**Bộ sách Kết nối tri thức với cuộc sống · Năm học 2026–2027**
 
-## 📄 Tài liệu PDF hoàn chỉnh
+Đây là tài liệu tự học được đối chiếu với tệp `MA TRẬN KIỂM TRA GIỮA KÌ 1 NGỮ VĂN 10 NĂM 2026-2027.docx` trong kho. Tài liệu giúp học sinh ôn theo phạm vi, cấu trúc và mức độ nhận thức của ma trận; **không thay thế** hướng dẫn của giáo viên, tổ chuyên môn hoặc đề kiểm tra chính thức.
 
-- **Tệp xuất bản chính thức:** [`DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf`](./DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf) *(65 trang khổ A4, nhúng trọn bộ phông chữ tiếng Việt học thuật `Be Vietnam Pro` & `Lora`, có mục lục và bookmark tương tác).*
+## PDF phát hành
 
-## 🎯 Cấu trúc chuẩn Ma trận & Bản đặc tả (90 phút • 11 câu • 10,0 điểm)
+- [`DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf`](./DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf)
 
-| Phần thi | Phạm vi ngữ liệu & Kiểu bài | Số lượng câu | Tỉ lệ điểm | Phân bổ nhận thức |
-| :--- | :--- | :---: | :---: | :--- |
-| **I. Đọc hiểu** | Truyện **Thần thoại** *(100% ngữ liệu ngoài SGK)* | **10 câu** *(8 TNKQ + 2 TL)* | **6,0 điểm (60%)** | Nhận biết: 6 TN (3,0đ) • Thông hiểu: 2 TN (1,0đ) + 1 TL (1,0đ) • Vận dụng: 1 TL (1,0đ) |
-| **II. Viết** | Nghị luận **phân tích, đánh giá chủ đề & đặc sắc nghệ thuật** tác phẩm truyện thần thoại ngoài SGK | **01 bài văn** *(Câu 11 tích hợp `1*`)* | **4,0 điểm (40%)** | Nhận biết: 1,0đ (10%) • Thông hiểu: 1,0đ (10%) • Vận dụng: 2,0đ (20%) |
-| **Tổng cộng** | **Toàn đề kiểm tra (90 phút)** | **11 câu** | **10,0 điểm (100%)** | **Nhận biết 40% • Thông hiểu 30% • Vận dụng 30%** |
+PDF có thể được tái tạo từ mã nguồn Typst và phông chữ được kèm trong kho.
 
-## 📚 Kiến trúc 07 Phần của Đề cương (65 trang)
+## Phạm vi đã đối chiếu
 
-1. **Phần I — Giải phẫu Ma trận & Bản đặc tả (2026 – 2027):** Giải mã kí hiệu `1*`, hai phương án cấu trúc đề thi thực tế (*Phương án A: 01 ngữ liệu tích hợp* & *Phương án B: 02 ngữ liệu độc lập*), bảng ánh xạ toàn bộ **22 chỉ báo** (13 chỉ báo Đọc hiểu + 9 chỉ báo Viết) và chiến thuật phân bổ 90 phút phòng thi.
-2. **Phần II — Hệ thống hóa Tri thức Ngữ văn & Thể loại Thần thoại:** Sơ đồ tư duy tự sự, khẩu quyết **“5K – 1C”** nhận diện thần thoại, ma trận phân biệt 5 thể loại tự sự (*Thần thoại – Sử thi – Truyền thuyết – Cổ tích – Truyện truyền kì*), hệ thống hóa 4 văn bản SGK Bài 1 để liên hệ mở rộng, giải phẫu 12 văn bản thần thoại ngoài SGK trọng tâm và đối sánh Đông – Tây.
-3. **Phần III — Tiếng Việt & Công cụ Ngôn ngữ (Tích hợp Bài 1, Bài 2, Bài 3 SGK KNTT):** Chuyên đề *Sử dụng từ Hán Việt* (khẩu quyết 4 lỗi **“Âm nhầm – Nghĩa lệch – Cảnh sai – Thừa lặp”**, bảng cặp từ dễ nhầm, từ điển bỏ túi 24 từ Hán Việt thần thoại), công thức 3 tầng phân tích 6 biện pháp tu từ và chuẩn mực mạch lạc – liên kết văn bản.
-4. **Phần IV — Phương pháp Giải nhanh Đọc hiểu & Ngân hàng 40 Câu hỏi theo Chỉ báo:** Chiến thuật loại nhiễu TNKQ, công thức **“GỌI – TRÍCH – GIẢI – CHỐT”** (Câu 9), đoạn văn 4 nhịp (Câu 10) và **40 câu hỏi thực chiến** (28 TNKQ + 12 Tự luận) phủ kín 13/13 chỉ báo kèm 100% đáp án & đoạn văn mẫu.
-5. **Phần V — Chuyên đề Viết bài văn Nghị luận Phân tích, Đánh giá Truyện Thần thoại (4,0 điểm):** Thang chấm chuẩn 0,25 điểm, mô hình dàn ý vạn năng **“Ngôi Đền 5 Tầng”**, kĩ thuật viết đoạn **P – E – E – V**, 4 khuôn Mở bài, 3 khuôn Kết bài, 8 nhận định lí luận văn học chọn lọc và 8 lỗi chí mạng cần tránh.
-6. **Phần VI — Bộ 06 Đề Kiểm tra Thực chiến Chuẩn 100% Ma trận (66 câu hỏi & đáp án toàn diện):**
-   - **Đề số 01 *(Phương án A)*:** *Nữ thần Mặt Trời và Mặt Trăng* (Nguyễn Đổng Chi).
-   - **Đề số 02 *(Phương án A)*:** *Thần Mưa (và Sự tích Cá chép hóa rồng)* (Nguyễn Đổng Chi).
-   - **Đề số 03 *(Phương án A)*:** *Nữ thần Lúa* (Thần thoại Việt Nam).
-   - **Đề số 04 *(Phương án B)*:** Đọc hiểu *Cuộc tu bổ lại các giống vật* + Viết nghị luận *Mười hai Bà Mụ* (Nguyễn Đổng Chi).
-   - **Đề số 05 *(Phương án B)*:** Đọc hiểu *Sự tích Ông Đùng, bà Đùng* (Thần thoại Mường) + Viết nghị luận *Nữ Oa vá trời* (Thần thoại Trung Quốc).
-   - **Đề số 06 *(Phương án A)*:** *Prô-mê-tê và loài người* (Thần thoại Hy Lạp — bản kể Nguyễn Văn Khoả).
-   - *Mỗi đề đều có bảng giải thích loại trừ phương án nhiễu cho 8 câu TNKQ, biểu điểm 0,25đ & đoạn văn mẫu cho Câu 9 – 10, cùng bài văn nghị luận mẫu hoàn chỉnh (~900 – 960 chữ) cho Câu 11.*
-7. **Phần VII — Hệ thống Ghi nhớ Siêu tốc & Lộ trình Nước rút 7 Ngày:** Lịch trình *Spaced Repetition* 7 ngày, bộ **24 thẻ Active Recall Flashcards**, *Trang Tóm lược Toàn năng (One-Page Master Cheat Sheet)* và *Checklist 5 Phút Vàng cuối giờ*.
+| Phần | Theo ma trận gốc | Cách tài liệu hỗ trợ ôn tập |
+| --- | --- | --- |
+| Đọc hiểu | Thần thoại ngoài sách giáo khoa; 6 câu TNKQ Nhận biết, 2 câu TNKQ Thông hiểu, 1 câu tự luận Thông hiểu, 1 câu tự luận Vận dụng; 6,0 điểm | Tri thức thể loại, tiếng Việt, 40 câu luyện tập và 6 đề minh họa |
+| Viết | Bài văn nghị luận phân tích, đánh giá một tác phẩm truyện; 4,0 điểm, tích hợp Nhận biết – Thông hiểu – Vận dụng | Dàn ý linh hoạt, bài tập lập luận, bảng tự rà và bài tham khảo |
+| Toàn bài | 90 phút, 11 câu, 10,0 điểm; Nhận biết 40%, Thông hiểu 30%, Vận dụng 30% | Gợi ý phân bổ thời gian và lộ trình tự học 7 ngày |
 
-## 🗂️ Cấu trúc Mã nguồn Typst (`src/`)
+Ma trận không ấn định cách đánh số câu, dung lượng bài viết, cách ghép ngữ liệu hay rubric điểm nhỏ. Các cách trình bày, mốc số dòng và biểu điểm trong đề cương chỉ phục vụ luyện tập.
+
+## Nội dung
+
+1. **Phần I — Ma trận và bản đặc tả:** đọc đúng cấu trúc 90 phút, ánh xạ 13 chỉ báo Đọc hiểu và 9 yêu cầu Viết.
+2. **Phần II — Tri thức truyện kể và thần thoại:** công cụ đọc cốt truyện, người kể, nhân vật, chủ đề và khẩu quyết 5K–1C nhất quán.
+3. **Phần III — Tiếng Việt:** từ Hán Việt, phương thức biểu đạt, biện pháp tu từ, mạch lạc và liên kết.
+4. **Phần IV — Kĩ năng Đọc hiểu:** cách kiểm tra phương án, khung trả lời tự luận và 40 câu luyện tập.
+5. **Phần V — Kĩ năng Viết:** chuyển chi tiết thành lập luận, dàn ý năm tầng, bảng tự rà; có ví dụ chuyển giao từ *Chữ người tử tù*.
+6. **Phần VI — Sáu đề minh họa:** 66 câu hỏi cùng đáp án gợi ý và bài viết tham khảo. Toàn bộ ngữ liệu trong khung đề là bản **biên soạn lại** từ mô-típ thần thoại để luyện thao tác đọc văn bản mới.
+7. **Phần VII — Tự học:** lịch 7 ngày, 24 thẻ tự kiểm và checklist trước khi nộp bài.
+8. **Phần VIII — Nguồn và kiểm định:** tuyên bố phạm vi, ngữ liệu, đáp án gợi ý, nhật kí đối chiếu và giấy phép phông chữ.
+
+## Nguồn và cách dùng có trách nhiệm
+
+- Tệp ma trận trong kho là nguồn quyết định cấu trúc đánh giá.
+- SGK *Ngữ văn 10, Tập một — Kết nối tri thức với cuộc sống* là nguồn tham chiếu kiến thức và kĩ năng.
+- Các mô-típ thần thoại được đối chiếu với danh mục ở Phần VIII của PDF. Đề cương không tuyên bố các ngữ liệu luyện tập là trích dẫn nguyên văn.
+- Đáp án, bài mẫu và mức chia ý là **gợi ý tự học**. Một cách lí giải khác vẫn có giá trị nếu bám sát ngữ liệu và lập luận hợp lí.
+
+## Tái tạo PDF
+
+Yêu cầu: Node.js 20+ và npm.
+
+```bash
+npm ci
+npm run verify
+```
+
+- `npm run build` biên dịch `src/main.typ` thành PDF đích.
+- `npm run check` kiểm tra chữ ký PDF, kích thước tối thiểu và trailer PDF.
+- Trình biên dịch được ghim tại `@myriaddreamin/typst-ts-node-compiler@0.7.0`; quá trình build coi mọi cảnh báo Typst là lỗi.
+
+## Cấu trúc kho
 
 ```text
-van-10/
-├── DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf   # Bản PDF hoàn chỉnh (65 trang)
-├── MA TRẬN KIỂM TRA GIỮA KÌ 1 NGỮ VĂN 10 NĂM 2026-2027.docx  # Ma trận & Bản đặc tả gốc
-├── README.md
+.
+├── DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf
+├── MA TRẬN KIỂM TRA GIỮA KÌ 1 NGỮ VĂN 10 NĂM 2026-2027.docx
+├── package.json / package-lock.json
+├── scripts/
+│   ├── build-pdf.mjs
+│   └── check-pdf.mjs
 └── src/
-    ├── main.typ                 # Tệp gốc kết nối toàn bộ đề cương
-    ├── template.typ             # Hệ thống định dạng học thuật, bảng biểu, hộp tư duy & trang bìa
-    ├── part1_matrix.typ         # Phần I: Giải phẫu Ma trận & Bản đặc tả
-    ├── part2_knowledge.typ      # Phần II: Tri thức Ngữ văn & Thể loại Thần thoại
-    ├── part3_vietnamese.typ     # Phần III: Tiếng Việt (Từ Hán Việt, BPTT, Mạch lạc & Liên kết)
-    ├── part4_reading_skills.typ # Phần IV: Kĩ năng Đọc hiểu & Ngân hàng 40 câu theo chỉ báo
-    ├── part5_writing_skills.typ # Phần V: Phương pháp Viết bài văn nghị luận 4,0 điểm
-    ├── part6_exams_1_3.typ      # Phần VI (Đề 01 – Đề 03 kèm đáp án & bài văn mẫu)
-    ├── part7_exams_4_6.typ      # Phần VI (Đề 04 – Đề 06 kèm đáp án & bài văn mẫu)
-    └── part8_memory_kit.typ     # Phần VII: Lộ trình 7 ngày, Flashcards & Master Cheat Sheet
+    ├── main.typ
+    ├── template.typ
+    ├── part1_matrix.typ … part8_memory_kit.typ
+    ├── part9_sources_quality.typ
+    └── fonts/                 # Be Vietnam Pro, Lora, DejaVu Sans và giấy phép đi kèm
 ```
+
+## Phông chữ
+
+`src/fonts/` chứa Be Vietnam Pro và Lora theo **SIL Open Font License 1.1**, cùng DejaVu Sans theo giấy phép Bitstream Vera/DejaVu để hiển thị ổn định các kí hiệu chuyên dụng. Bản sao giấy phép được kèm ngay trong thư mục đó để bản PDF có thể tái tạo ổn định trên máy khác.
