@@ -32,8 +32,8 @@
 #let c-border     = rgb("#D0D5DD")
 #let c-ink        = rgb("#182230")
 
-#let font-sans  = ("Be Vietnam Pro", "DejaVu Sans")
-#let font-serif = ("Lora", "DejaVu Serif")
+#let font-sans  = ("DejaVu Sans", "Libertinus Serif", "New Computer Modern")
+#let font-serif = ("DejaVu Serif", "Libertinus Serif", "New Computer Modern")
 
 // Nhãn cấp độ nhận thức (Badges)
 #let badge(label, bg: c-blue-soft, fg: c-indigo, bdr: c-blue-bdr) = box(

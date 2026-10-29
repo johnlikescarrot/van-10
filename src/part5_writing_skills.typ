@@ -121,3 +121,69 @@ Lỗi nghiêm trọng nhất khiến 80% học sinh lớp 10 chỉ đạt 2,0/4,
   7. *Viết toàn bộ Thân bài dính liền thành 1 khối khổng lồ:* Phải tách Thân bài thành *4–5 đoạn văn rõ ràng*, mỗi đoạn mở đầu bằng câu chủ đề sáng sủa.
   8. *Trích dẫn sai nguyên văn:* Chỉ đặt trong ngoặc kép những cụm từ trích chính xác từng chữ từ đề thi; phần còn lại diễn đạt linh hoạt bằng lời văn của mình.
 ]
+
+= 5.5. Mẫu Hình Triển Khai Hoàn Chỉnh — Truyện Ngắn “Chữ người tử tù” (Nguyễn Tuân) & Bài Học Vận Dụng Cho Thần Thoại
+
+Phần này vận dụng trọn vẹn mô hình “Ngôi Đền 5 Tầng” và kĩ thuật P – E – E – V cho một tác phẩm truyện ngoài thần thoại nhưng cùng phương pháp nghị luận, nhằm minh họa chuẩn mực SGK Ngữ văn 10 KNTT (tr. 29 – 34) về yêu cầu: *giới thiệu – tóm tắt – phân tích chủ đề – phân tích đặc sắc nghệ thuật – đánh giá tổng hợp*. Học sinh thay tên tác phẩm và chi tiết thần thoại ngoài SGK vào cùng khung này trong phòng thi.
+
+== A. Dàn Ý Tham Khảo Chuẩn SGK (Áp dụng trực tiếp cho Câu 11 – 4,0 điểm)
+
+#study-table(
+  (1.1fr, 3.2fr, 2.7fr),
+  ("Phần bài", "Luận điểm & Luận cứ cốt lõi (P – E – E – V)", "Bằng chứng / Dẫn chứng chọn lọc"),
+  [*Mở bài* \ (Dẫn dắt – Giới thiệu – Nêu luận đề)], [Dẫn từ quan niệm “Vang bóng một thời” → Giới thiệu Nguyễn Tuân (“nhà văn lớn, nghệ sĩ suốt đời đi tìm cái đẹp”) → Giới thiệu “Chữ người tử tù” (in trong *Vang bóng một thời*, 1940; tên ban đầu “Dòng chữ cuối cùng” đăng Tạp chí Tao Đàn) → Nêu luận đề: ca ngợi vẻ đẹp thiên lương, khí phách và sức cảm hóa của cái đẹp trước cái ác.], [Trích nhận định Nguyễn Đăng Mạnh; nhan đề giàu kịch tính “Chữ” (cái đẹp) đối lập “người tử tù” (cái ác / bi kịch).],
+  [*Thân bài 1* \ (Khái quát & Tóm tắt)], [Xác định thể loại truyện ngắn hiện đại mang không khí cổ xưa; tóm tắt 4–5 câu: Huấn Cao – tử tù cầm đầu cuộc đại phản, nổi tiếng “tài viết chữ rất nhanh, rất đẹp – có được chữ ông Huấn là có được báu vật ở đời”; quản ngục Sơn tỉnh – tấm lòng *biệt nhỡn liên tài*, say mê chữ đẹp; cuộc gặp éo le chốn lao tù; cảnh cho chữ đêm cuối cùng trước ngày Huấn Cao vào kinh chịu án chém.], [Giữ đúng chuỗi nhân – quả; không sa đà kể lể; giữ các mốc: vùng tỉnh Sơn – nhà lao – đêm cho chữ.],
+  [*Thân bài 2* \ (Tình huống truyện – Ý nghĩa chủ đề)], [Phân tích tình huống éo le: *tử tù* (đại diện cái đẹp, cái tài bị trói buộc) ↔ *quản ngục* (đại diện quyền lực chế độ cũ nhưng lại là tri kỉ của cái đẹp). Tình huống làm bộc lộ tính cách và nâng chủ đề: cái đẹp, cái thiện có thể chiến thắng cái xấu, cái ác ngay nơi tăm tối nhất.], [Đối chiếu: Huấn Cao “dỗ gông – khinh bạc – thản nhiên nhận rượu thịt” vs. quản ngục “khúm núm – biệt đãi – chắp tay vái lạy”.],
+  [*Thân bài 3* \ (Nhân vật Huấn Cao – Vẻ đẹp ba chiều)], [• *Tài hoa:* “tài viết chữ rất nhanh, rất đẹp”, chữ “vuông tươi tắn” chứa khát vọng tung hoành. \ • *Khí phách:* hiên ngang trước gông xiềng, trước lời đe dọa, mỉm cười khi nhận tin ngày mai ra pháp trường. \ • *Thiên lương:* khoảnh – “trừ chỗ tri kỉ, ông ít chịu cho chữ”, “ta nhất sinh không vì vàng ngọc hay quyền thế mà ép mình viết câu đối bao giờ”; cảm tấm lòng biệt nhỡn liên tài mà cho chữ và khuyên quản ngục “giữ thiên lương rồi hãy nghĩ đến chuyện chơi chữ”.], [Dẫn: “Ngươi hỏi ta muốn gì? Ta chỉ muốn có một điều: nhà ngươi đừng đặt chân vào đây nữa.” → sau khi thấu hiểu → “Thiếu chút nữa ta đã phụ mất một tấm lòng trong thiên hạ.”],
+  [*Thân bài 3* \ (Nhân vật Quản ngục – Bi kịch & Vẻ đẹp)], [Viên quản ngục dịu dàng, trọng người ngay thẳng nhưng lầm nghề gác ngục – bi kịch “nhầm nghề”; sở thích cao quý chơi chữ; hành động biệt đãi tử tù bất chấp hiểm nguy; đỉnh điểm khúm núm cất tiền kẽm đánh dấu ô chữ, sùng kính trước lời khuyên của Huấn Cao.], [Chi tiết: “kẻ mê muội này xin bái lĩnh” – sự chuyển hóa ngôi vị: người cho chữ (tử tù) chủ động, người xin chữ (quan coi ngục) bị động.],
+  [*Thân bài 4* \ (Cảnh cho chữ – Đỉnh cao nghệ thuật)], [Phân tích ba lớp: *Không gian*: ngục tối ẩm ướt, bẩn thỉu – tương phản với tấm lụa trắng tinh còn nguyên vẹn lần hồ. \ *Thời gian*: đêm khuya trước ngày ra pháp trường – khoảnh khắc tử – sinh. \ *Con người & Hành động*: Huấn Cao cổ đeo gông, chân vướng xiềng vẫn hiên ngang “say mê” viết chữ; quản ngục – thơ lại khúm núm. Lời khuyên cuối: “cái đẹp không thể chung sống với cái xấu, cái ác; chỉ xứng đáng thưởng thức cái đẹp khi giữ thiên lương.”], [Thủ pháp đối lập tương phản đạt đỉnh cao; nhịp văn chậm, cổ kính phục chế không khí xưa; ngôn ngữ góc cạnh, giàu tính tạo hình, nhiều từ Hán Việt cổ: *biệt nhỡn liên tài, thiên lương, nhất sinh*.],
+  [*Kết bài* \ (Đánh giá – Nâng cao)], [Khẳng định giá trị nội dung (tôn vinh cái đẹp, cái thiện bất tử; niềm tin vào sự cảm hóa) và nghệ thuật (tình huống độc đáo, xây dựng nhân vật qua đối lập, ngôn ngữ tài hoa). Liên hệ: bài học giữ thiên lương, trân trọng văn hóa thư pháp truyền thống và lòng yêu nước kín đáo của Nguyễn Tuân.], [Đối sánh với *Tản Viên từ Phán sự lục* (cùng đề cao khí phách kẻ sĩ) hoặc với thần thoại *Prô-mê-tê* (cùng tôn vinh người trao lửa văn hóa).],
+)
+
+== B. Đoạn Văn Nghị Luận Mẫu Áp Dụng Kĩ Thuật P – E – E – V (Trích Thân bài — 720 chữ)
+
+#essay-box(title: "ĐOẠN MẪU 1 — TÌNH HUỐNG TRUYỆN ĐỘC ĐÁO (P – E – E – V)")[
+  Trước hết, sức hấp dẫn của “Chữ người tử tù” kết tinh ở tình huống truyện éo le chưa từng có trong văn học Việt Nam nửa đầu thế kỉ XX. *Điểm nhìn (P):* Nhà văn đặt cuộc gặp gỡ giữa người tử tù và viên quản ngục trong không gian nhà lao tỉnh Sơn – nơi cái ác ngự trị. *Bằng chứng (E):* Huấn Cao là kẻ phản nghịch chống triều đình, mang án chém; còn quản ngục là người đứng đầu trại giam, đại diện cho luật lệ đương thời. *Giải thích (E):* Ở bình diện xã hội, họ đối địch; nhưng ở bình diện nghệ thuật, vị thế đảo ngược hoàn toàn: Huấn Cao là người sáng tạo cái đẹp (chữ thư pháp), còn quản ngục là kẻ say mê, trân trọng cái đẹp đến mức sẵn sàng biệt đãi tử tù bất chấp hiểm nguy. *Bình giá (V):* Chính sự đảo ngược ấy khiến câu chuyện phát triển hợp lí tới cao trào “cảnh cho chữ” và làm nổi bật chủ đề: cái đẹp, cái thiện có thể tỏa sáng và chiến thắng ngay giữa bóng tối ngục tù.
+]
+
+#essay-box(title: "ĐOẠN MẪU 2 — NHÂN VẬT HUẤN CAO (VẺ ĐẸP THIÊN LƯƠNG)")[
+  Ở trung tâm tác phẩm là hình tượng Huấn Cao – hiện thân cho vẻ đẹp uy nghi giữa *tài* và *tâm*. *Điểm nhìn (P):* Huấn Cao không chỉ tài hoa mà còn mang thiên lương trong sáng, nhất quán. *Bằng chứng (E):* Nguyễn Tuân khắc họa ông là người “có tài viết chữ rất nhanh, rất đẹp”, “có được chữ ông Huấn là có được báu vật ở đời”, nhưng “tính ông vốn khoảnh, trừ chỗ tri kỉ, ông ít chịu cho chữ” và tuyên ngôn “ta nhất sinh không vì vàng ngọc hay quyền thế mà ép mình viết câu đối bao giờ”. *Giải thích (E):* Mỗi nét chữ với Huấn Cao là báu vật tinh thần, chỉ trao cho tri kỉ, không thể mua chuộc bằng quyền lực. Khi nhận ra tấm lòng “biệt nhỡn liên tài” của quản ngục, ông xúc động thốt “thiếu chút nữa ta đã phụ mất một tấm lòng trong thiên hạ” rồi quyết định cho chữ và khuyên quản ngục giữ thiên lương. *Bình giá (V):* Từ khinh bạc (“Ngươi hỏi ta muốn gì? Ta chỉ muốn có một điều là nhà ngươi đừng đặt chân vào đây nữa”) đến trân trọng, Huấn Cao hoàn thiện như một bậc anh hùng thất thế mà vẫn hiên ngang, lấy thiên lương làm gốc của tài hoa.
+]
+
+#essay-box(title: "ĐOẠN MẪU 3 — CẢNH CHO CHỮ — SỰ ĐẢO NGƯỢC NGÔI VỊ (P – E – E – V)")[
+  Đỉnh cao tư tưởng và nghệ thuật của truyện dồn nén trong cảnh cho chữ đêm cuối cùng – “cảnh tượng xưa nay chưa từng có”. *Điểm nhìn (P):* Trong buồng tối chật hẹp, ẩm ướt, dưới ánh đuốc lập lòe, người tử tù cổ đeo gông, chân vướng xiềng lại trở thành người nghệ sĩ tự do sáng tạo. *Bằng chứng (E):* Trên tấm lụa trắng còn nguyên vẹn lần hồ, Huấn Cao “say mê” viết những nét chữ “vuông tươi tắn” nói lên hoài bão tung hoành; quản ngục và thầy thơ lại “khúm núm”, “cúi đầu bái lĩnh” lời khuyên “giữ thiên lương rồi hẵng nghĩ đến chuyện chơi chữ, ở đây khó giữ thiên lương cho lành vững rồi tu chí mà thoát khỏi chốn ngục tù này”. *Giải thích (E):* Không gian ngục tối – lụa trắng, thân phận tử tù – vị thế quản ngục, đêm khuya – ánh sáng chữ nghĩa tạo nên hệ thống đối lập tương phản cực đại, làm cho cái đẹp tỏa hào quang rực rỡ. *Bình giá (V):* Ở đây Nguyễn Tuân không chỉ ngợi ca thú chơi chữ tao nhã mà khẳng định chân lí: con người chỉ xứng đáng thưởng thức cái đẹp khi giữ được thiên lương; và chính cái đẹp có sức cảm hóa, dẫn đường cho con người thoát khỏi cái ác.
+]
+
+== C. Khung Vận Dụng Nhanh Cho Đề Thần Thoại Ngoài SGK (Thay Tên Tác Phẩm)
+
+Khi đề thi cho ngữ liệu thần thoại ngoài SGK (ví dụ: *Nữ thần Mặt Trời và Mặt Trăng, Thần Mưa, Nữ thần Lúa, Prô-mê-tê*), học sinh giữ nguyên khung trên và thay thế nội dung:
+
+#study-table(
+  (1.2fr, 2.8fr, 2.5fr),
+  ("Bước thay thế", "Thao tác cụ thể", "Ví dụ thay thế tức thì"),
+  [*Giữ Mở bài – đổi dẫn dắt*], [Thay dẫn dắt về “Vang bóng một thời” bằng dẫn dắt về “vẻ đẹp một đi không trở lại (C. Mác)” hoặc tư duy “vạn vật hữu linh” của người nguyên thủy.], [“Bàn về sức quyến rũ vĩnh cửu của thần thoại, C. Mác gọi đó là ‘thời thơ ấu bình thường của nhân loại’ – nơi vẻ đẹp hồn nhiên một đi không trở lại tỏa sáng. Trở về buổi bình minh ấy, *Nữ thần Mặt Trời và Mặt Trăng* khiến người đọc ngỡ ngàng...”],
+  [*Giữ Thân bài 1 – đổi tóm tắt*], [Tóm tắt 4–5 câu đúng cốt truyện thần thoại được cho trong đề (không chép nguyên văn dài).], [Với *Thần Mưa*: Thần hình rồng hút nước phun mưa → tính hay quên → Trời mở thi Cá chép hóa rồng → lí giải mưa thuận/gió hòa & tinh thần vượt Vũ Môn.],
+  [*Giữ Thân bài 2–4 – đổi luận điểm*], [Thay “tài hoa – khí phách – thiên lương” bằng bộ ba thần thoại: *quyền năng kì vĩ + nét đời thường + chi tiết kì ảo cắt nghĩa* → luôn gắn với chủ đề *suy nguyên / sáng tạo*.], [Phân tích Thần Biển: “đội lốt rùa khổng lồ – hít thở tạo thủy triều – cựa mình tạo sóng thần” → vừa phóng đại vừa nhân hóa, cắt nghĩa thủy triều & bão biển.],
+  [*Giữ Kết bài – đổi liên hệ*], [Liên hệ tới 1 trong 4 văn bản SGK (Thần Trụ Trời, Thần Sét, Thần Gió, Tê-dê) để lấy điểm Sáng tạo.], [“Nếu Thần Trụ Trời đắp cột chống trời bằng sức mạnh cơ bắp khổng lồ, thì Thần Biển lại kiến tạo thế giới bằng nhịp thở đều đặn – hai hình dung khác nhau nhưng cùng chung khát vọng lí giải vũ trụ.”],
+)
+
+#callout(title: "LƯU Ý VÀNG: TÍCH HỢP TIẾNG VIỆT VÀO BÀI VĂN NGHỊ LUẬN", tone: "gold", icon: "★")[
+  Giám khảo trừ 0,25đ nếu bài văn mắc lỗi dùng sai từ Hán Việt dù phân tích hay. Khi viết về “Chữ người tử tù” hay thần thoại, bắt buộc dùng đúng: *biệt nhỡn liên tài* (không viết “biệt nhãn”), *thiên lương* (không viết “thiên lương” sai dấu), *phiếm chỉ* (không viết “phiễn chỉ”), *suy nguyên* (không viết “suy nghuyên”). Mỗi đoạn văn nên có ít nhất một từ Hán Việt trang trọng (*hạ giới, thiên đình, thủy phủ, khoảnh, nhất sinh*) để tạo sắc thái cổ kính phù hợp thể loại.
+]
+
+= 5.6. Checklist Tự Đánh Giá Bài Văn 4,0 Điểm Trước Khi Nộp
+
+Trước khi chuyển sang Phần VI (luyện đề), hãy tự chấm nhanh bài nháp Câu 11 bằng thang 0,25đ sau:
+
+#study-table(
+  (0.7fr, 2.8fr, 1.0fr, 1.5fr),
+  ("Mục", "Tiêu chí tự kiểm", "Điểm", "Đã đạt?"),
+  [*1*], [Mở bài có đủ: tên tác phẩm + thể loại/xuất xứ + luận đề (chủ đề & nghệ thuật)?], [0,25], [☐],
+  [*2*], [Tóm tắt 4–5 câu, không kể lể, giữ đúng sự kiện then chốt?], [0,25], [☐],
+  [*3*], [Luận điểm Chủ đề: nêu đúng chủ đề 2 tầng (cắt nghĩa + khát vọng) + 2–3 dẫn chứng?], [0,75], [☐],
+  [*4*], [Luận điểm Nghệ thuật: 4 phương diện (không gian – thời gian, cốt truyện/chi tiết kì ảo, nhân vật, ngôi kể/ngôn ngữ) gắn với chủ đề?], [1,00], [☐],
+  [*5*], [Đoạn Đánh giá mở rộng: có đối sánh với 01 văn bản SGK + bài học nhận thức cá nhân?], [0,50], [☐],
+  [*6*], [Kết bài khẳng định giá trị + sức sống “một đi không trở lại”?], [0,25], [☐],
+  [*7*], [Chính tả, ngữ pháp, dùng từ Hán Việt, liên kết đoạn không lỗi?], [0,25], [☐],
+  [*8*], [Sáng tạo: có nhận định lí luận, giọng văn riêng, hình ảnh gợi cảm?], [0,50], [☐],
+)
