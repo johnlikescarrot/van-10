@@ -2,15 +2,15 @@
 
 #part-banner(
   "PHẦN I",
-  "Giải Phẫu Ma Trận & Bản Đặc Tả Đề Kiểm Tra Giữa Kì I",
-  "Phân tích định lượng cấu trúc 11 câu hỏi • Giải mã 22 chỉ báo đánh giá • Chiến thuật làm chủ 90 phút phòng thi"
+  "Ma trận & Bản đặc tả đề kiểm tra giữa kì I",
+  "Cấu trúc 11 câu hỏi • 22 chỉ báo đánh giá • Gợi ý phân bổ 90 phút làm bài"
 )
 
 = 1.1. Tổng quan Mục tiêu & Tinh thần Đổi mới của Đề Kiểm tra Giữa kì I (2026 – 2027)
 
 Theo văn bản chính thức *Ma trận, Bản đặc tả đề kiểm tra Giữa kì I lớp 10 năm học 2026 – 2027 (thời gian 90 phút)*, đề kiểm tra được thiết kế nghiêm ngặt theo định hướng đánh giá năng lực của Chương trình Giáo dục phổ thông 2018 (Công văn 3175/BGDĐT-GDTrH về đổi mới dạy học và kiểm tra, đánh giá môn Ngữ văn) và bám sát trục kĩ năng trọng tâm nửa đầu Học kì I của bộ sách *Kết nối tri thức với cuộc sống* (*Bài 1: Sức hấp dẫn của truyện kể*).
 
-Điểm cốt lõi quyết định phương pháp ôn tập nằm ở quy tắc #strong[“100% ngữ liệu ngoài sách giáo khoa”]:
+Điểm cần nắm trước tiên là quy tắc #strong[ngữ liệu ngoài sách giáo khoa] (theo Công văn 3175/BGDĐT-GDTrH ngày 21/7/2022, đề kiểm tra không dùng lại văn bản trong SGK làm ngữ liệu):
 - *Về năng lực Đọc hiểu (60% tổng điểm):* Học sinh không học thuộc lòng văn bản có sẵn trong SGK mà phải vận dụng thành thạo hệ thống tri thức thể loại #strong[truyện thần thoại] (không gian, thời gian, cốt truyện, sự kiện, nhân vật, chi tiết kì ảo, ngôi kể, lời trần thuật, đề tài, chủ đề, bối cảnh lịch sử – văn hoá) để giải mã một văn bản thần thoại hoàn toàn mới ngoài SGK.
 - *Về năng lực Viết (40% tổng điểm):* Học sinh viết một #strong[bài văn nghị luận phân tích, đánh giá một tác phẩm truyện thần thoại (ngoài SGK)] trên hai trục trọng tâm: *chủ đề* và *những nét đặc sắc về hình thức nghệ thuật*, đồng thời thể hiện quan điểm cá nhân, năng lực liên hệ và sự sáng tạo trong diễn đạt.
 - *Về phẩm chất:* Hình thành thái độ sống tích cực, lành mạnh, giàu lòng biết ơn tiền nhân, trân trọng thiên nhiên – văn hoá dân tộc và nuôi dưỡng đời sống tâm hồn phong phú.
@@ -52,7 +52,7 @@ Bảng dưới đây tái hiện chính xác Ma trận gốc và thực hiện p
 
 #formula-box(title: "GIẢI MÃ KÍ HIỆU 1* TRONG MA TRẬN & CƠ CẤU ĐIỂM CHUẨN")[
   Trong Ma trận chuẩn của Bộ GD&ĐT, kí hiệu *1\** ở hàng *Viết* cho biết cả ba mức độ *Biết – Hiểu – Vận dụng* không tách thành ba câu rời mà #strong[tích hợp trong duy nhất 01 bài văn nghị luận (Câu 11 — 4,0 điểm)]. Đối chiếu chéo dòng *Tỉ lệ điểm từng loại câu hỏi*, ta xác lập chính xác biểu điểm từng câu như sau:
-  - *Câu 1 → Câu 6 (TNKQ Nhận biết):* 6 câu × 0,5 điểm = *3,0 điểm (30%)* — vùng điểm “ăn chắc 100%” không được phép sai.
+  - *Câu 1 → Câu 6 (TNKQ Nhận biết):* 6 câu × 0,5 điểm = *3,0 điểm (30%)* — phần điểm nền tảng, cần làm cẩn thận để không mất điểm đáng tiếc.
   - *Câu 7 → Câu 8 (TNKQ Thông hiểu):* 2 câu × 0,5 điểm = *1,0 điểm (10%)* — phân loại khả năng suy luận ý nghĩa chi tiết, nhân vật, chủ đề.
   - *Câu 9 (Tự luận Đọc hiểu – Thông hiểu):* 1 câu × 1,0 điểm = *1,0 điểm (10%)* — trả lời ngắn 4–6 dòng, chia 2–4 ý chấm từng 0,25đ.
   - *Câu 10 (Tự luận Đọc hiểu – Vận dụng):* 1 câu × 1,0 điểm = *1,0 điểm (10%)* — rút bài học/thông điệp/đánh giá cá nhân trong 5–8 dòng.
@@ -67,7 +67,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   columns: (1fr, 1fr),
   column-gutter: 10pt,
   block(fill: c-bg-neutral, stroke: 0.8pt + c-indigo, radius: 5pt, inset: 10pt, width: 100%)[
-    #text(weight: "bold", fill: c-indigo, size: 9.5pt)[PHƯƠNG ÁN A: MỘT NGỮ LIỆU TÍCH HỢP (~70% ĐỀ THI)]
+    #text(weight: "bold", fill: c-indigo, size: 9.5pt)[PHƯƠNG ÁN A: MỘT NGỮ LIỆU TÍCH HỢP]
     #v(3pt)
     #set text(size: 9pt)
     - *Phần I (Đọc hiểu – 6,0đ):* Cho một văn bản thần thoại ngoài SGK (ví dụ: *Nữ thần Mặt Trời và Mặt Trăng*, *Thần Mưa*, *Nữ thần Lúa*, *Prô-mê-tê và loài người*...) kèm 10 câu hỏi (Câu 1–10).
@@ -75,7 +75,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
     - *Ưu thế cho học sinh:* Tiết kiệm thời gian đọc đề; kết quả trả lời Câu 1–10 trở thành chất liệu lập dàn ý trực tiếp cho bài văn Câu 11!
   ],
   block(fill: c-bg-neutral, stroke: 0.8pt + c-purple, radius: 5pt, inset: 10pt, width: 100%)[
-    #text(weight: "bold", fill: c-purple, size: 9.5pt)[PHƯƠNG ÁN B: HAI NGỮ LIỆU ĐỘC LẬP (~30% ĐỀ THI)]
+    #text(weight: "bold", fill: c-purple, size: 9.5pt)[PHƯƠNG ÁN B: HAI NGỮ LIỆU ĐỘC LẬP]
     #v(3pt)
     #set text(size: 9pt)
     - *Phần I (Đọc hiểu – 6,0đ):* Cho văn bản thần thoại ngoài SGK thứ nhất kèm 10 câu hỏi (Câu 1–10).
@@ -84,7 +84,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   ]
 )
 
-*Lưu ý quan trọng:* Bộ 06 Đề thi chuẩn Ma trận tại #strong[Phần VI] của đề cương này đã bao quát trọn vẹn #strong[cả hai phương án A và B] để học sinh làm chủ tuyệt đối mọi kịch bản ra đề!
+*Lưu ý:* Trong 6 đề luyện tập ở Phần VI, Đề 01, 02, 03, 06 theo Phương án A; Đề 04, 05 theo Phương án B. Ma trận không quy định trường phải chọn phương án nào, nên cần luyện cả hai.
 
 = 1.4. Ánh xạ 22 Chỉ báo Bản Đặc tả sang Dạng Câu hỏi Thực chiến
 
@@ -105,8 +105,8 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   [Cốt truyện thần thoại luôn *đơn giản, đơn tuyến*, xoay quanh kì tích sáng tạo của thần.],
 
   [#badge-biet],
-  [*CB3.* Nhận biết đề tài, các chi tiết tiêu biểu, đặc trưng của truyện thần thoại (kèm ngôi kể, PTBĐ, từ Hán Việt, tu từ).],
-  [• Văn bản thuộc nhóm thần thoại nào (*suy nguyên / sáng tạo*)?\ • Xác định ngôi kể / phương thức biểu đạt chính / từ Hán Việt / phép tu từ.],
+  [*CB3.* Nhận biết đề tài, các chi tiết tiêu biểu, đặc trưng của truyện thần thoại. *(Ngôi kể, phương thức biểu đạt, từ Hán Việt, biện pháp tu từ không phải chỉ báo riêng — xem mục 1.6.)*],
+  [• Văn bản thuộc nhóm thần thoại nào (*suy nguyên / sáng tạo*)?\ • Đề tài, chi tiết tiêu biểu của văn bản là gì? (Có thể lồng ghép hỏi ngôi kể, từ Hán Việt, tu từ như kĩ năng bổ trợ.)],
   [Ngôi thứ ba, PTBĐ chính *tự sự*; phân biệt rõ *suy nguyên* (nguồn gốc) và *sáng tạo* (văn hoá).],
 
   [#badge-biet],
@@ -153,7 +153,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   [• Chiều sâu phân tích – đánh giá tổng hợp, đối sánh mở rộng & bài học nhận thức: *1,50đ*\ • Sáng tạo trong lập luận, giọng điệu, lí luận văn học: *0,50đ*]
 )
 
-= 1.5. Sơ đồ Chiến thuật Phân bổ 90 Phút Vàng trong Phòng thi
+= 1.5. Gợi ý phân bổ thời gian làm bài trong 90 phút
 
 #block(
   width: 100%,
@@ -164,7 +164,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   breakable: false,
 )[
   #align(center)[
-    #text(weight: "bold", size: 9.6pt, fill: c-navy)[ĐỒNG HỒ CHIẾN THUẬT 90 PHÚT — KHÔNG BAO GIỜ CHÁY GIỜ HOẶC BỎ TRỐNG KẾT BÀI]
+    #text(weight: "bold", size: 9.6pt, fill: c-navy)[GỢI Ý PHÂN BỔ 90 PHÚT (điều chỉnh theo tốc độ đọc – viết của bạn)]
   ]
   #v(7pt)
   #grid(
@@ -192,3 +192,19 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
     ]
   )
 ]
+
+
+= 1.6. Phạm vi ôn tập: ma trận nêu những gì, và những gì là bổ trợ
+
+Bảng đặc tả chỉ gồm 13 chỉ báo Đọc hiểu và 9 chỉ báo Viết như trên. Một số nội dung trong đề cương này (từ Hán Việt, phương thức biểu đạt, biện pháp tu từ, mạch lạc – liên kết) không có chỉ báo riêng. Bảng dưới đây phân biệt rõ để bạn ưu tiên đúng.
+
+#study-table(
+  (1.6fr, 2.3fr, 2.1fr),
+  ("Nội dung", "Vị trí trong ma trận / đặc tả", "Cách ôn gợi ý"),
+  [*Tri thức truyện thần thoại*: đề tài, không gian, thời gian, cốt truyện, nhân vật, chi tiết, chủ đề, bối cảnh, người kể chuyện], [Trực tiếp là 13 chỉ báo Đọc hiểu (CB1–CB13)], [*Trọng tâm.* Luyện qua Phần II, IV và các đề Phần VI],
+  [*Viết bài văn nghị luận phân tích, đánh giá tác phẩm truyện*], [Trực tiếp là 9 chỉ báo Viết; tương ứng phần Viết, SGK *Ngữ văn 10* Tập 1, tr. 29–34], [*Trọng tâm.* Học quy trình viết ở Phần V, không học thuộc bài mẫu],
+  [*Từ Hán Việt* (SGK tr. 28 — Thực hành tiếng Việt, Bài 1)], [Không có chỉ báo riêng; có thể xuất hiện lồng ghép khi nhận biết từ ngữ, sắc thái nghĩa trong văn bản], [Ôn ở mức nhận diện và hiểu nghĩa theo ngữ cảnh (Phần III)],
+  [*Phương thức biểu đạt, biện pháp tu từ, mạch lạc – liên kết*], [Không có chỉ báo riêng; là tri thức nền của chương trình THCS và Bài 1], [Ôn ngắn gọn để hỗ trợ đọc hiểu và viết đoạn/bài mạch lạc (Phần III)],
+)
+
+Một lưu ý về điểm số: ma trận và đặc tả gốc cho biết số câu, tỉ lệ phần trăm theo mức độ nhận thức (Biết 40% – Hiểu 30% – Vận dụng 30%) và hình thức câu hỏi. Các mức điểm từng câu (0,5 điểm mỗi câu TNKQ; 1,0 điểm mỗi câu tự luận ngắn) là phép quy đổi suy ra từ tỉ lệ đó; biểu điểm chi tiết trong bài văn (từng 0,25 điểm ở Phần V) là thang chấm tham khảo xây dựng từ yêu cầu của SGK, không phải văn bản chính thức của nhà trường. Khi có hướng dẫn chấm của trường, hãy ưu tiên hướng dẫn đó.

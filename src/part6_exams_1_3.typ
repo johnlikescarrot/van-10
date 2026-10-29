@@ -2,9 +2,11 @@
 
 #part-banner(
   "PHẦN VI",
-  "Bộ 06 Đề Kiểm Tra Giữa Kì I Chuẩn 100% Ma Trận & Đáp Án Toàn Diện",
-  "66 câu hỏi chuẩn cấu trúc 90 phút • Giải thích loại trừ từng phương án nhiễu • Thang chấm 0,25đ & 06 Bài văn mẫu hoàn chỉnh"
+  "Sáu Đề Luyện Tập Theo Cấu Trúc Ma Trận",
+  "Mỗi đề 11 câu / 90 phút • Đáp án, giải thích phương án nhiễu, hướng dẫn chấm và bài văn tham khảo"
 )
+
+*Cách dùng bộ đề này:* (1) Làm mỗi đề trong 90 phút như thi thật, không xem đáp án giữa chừng. (2) Sau khi nộp bài, đối chiếu đáp án, tính điểm theo hướng dẫn chấm và ghi lỗi sai vào nhật kí (Phụ lục D). (3) Yêu cầu trong đề là bài văn *khoảng 600 – 800 chữ*; các bài văn tham khảo dài hơn (khoảng 900 – 960 chữ) để minh họa đầy đủ cách triển khai — khi đi thi, hãy viết gọn trong giới hạn đề cho. (4) Bài tham khảo được viết ở mức khá – giỏi với văn phong trau chuốt; mục tiêu thực tế của bạn là viết *đúng, rõ, đủ luận điểm và có dẫn chứng*, không phải bắt chước từng câu chữ. (5) Vị trí đáp án trắc nghiệm đã được phân bố đều giữa A, B, C, D — đừng đoán dựa vào vị trí, hãy loại trừ theo nội dung.
 
 // ============================================================================
 // ĐỀ MINH HỌA SỐ 01: NỮ THẦN MẶT TRỜI VÀ MẶT TRĂNG
@@ -15,7 +17,7 @@
 
 #passage-box(
   title: "NỮ THẦN MẶT TRỜI VÀ MẶT TRĂNG",
-  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003"
+  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam"
 )[
   Hai chị em Mặt Trời và Mặt Trăng hình như là con gái của Ngọc Hoàng. Nhiệm vụ của hai cô hằng ngày phải đi xem xét dân sự một vòng, luân phiên nhau. Cô chị Mặt Trời được ngồi kiệu có bốn người khiêng đi. Trong số những người khiêng kiệu đó có hai bọn: một bọn già và một bọn trẻ thay đổi nhau. Bản tính bọn trẻ hay la cà dọc đường cho nên những khi đến lượt bọn họ khiêng kiệu cô Mặt Trời thường về chậm, ngày ở dưới hạ giới hóa dài ra. Trái lại đến lượt các cụ già khiêng kiệu thì lo làm tròn phận sự, mà không nghĩ gì đến những điều khác, nên nữ thần đi được nhanh chóng, ngày ngắn lại.
 
@@ -27,14 +29,14 @@
 *Lựa chọn 01 đáp án đúng nhất cho mỗi câu hỏi từ Câu 1 đến Câu 8 (mỗi câu 0,5 điểm):*
 
 *Câu 1* #badge-biet. Văn bản *Nữ thần Mặt Trời và Mặt Trăng* thuộc tiểu loại thần thoại nào?\
-A. Thần thoại sáng tạo văn hoá. #h(2.2em) B. Thần thoại suy nguyên.\
+A. Thần thoại suy nguyên. #h(2.2em) B. Thần thoại sáng tạo văn hoá.\
 C. Truyện truyền kì lịch sử. #h(3.0em) D. Sử thi anh hùng trận mạc.
 
 *Câu 2* #badge-biet. Không gian nghệ thuật được thể hiện trong văn bản trên bao gồm những cõi nào?\
 A. Không gian cung đình phong kiến và làng quê Việt Nam thời trung đại.\
-B. Không gian vũ trụ bao gồm cõi Trời (nơi ở của Ngọc Hoàng, hai nữ thần) và cõi Hạ giới (mặt đất, nhân gian).\
+B. Không gian chiến trường khốc liệt giữa các bộ tộc cổ đại.\
 C. Không gian Thủy phủ dưới đáy đại dương và đỉnh núi Ô-lim-pơ.\
-D. Không gian chiến trường khốc liệt giữa các bộ tộc cổ đại.
+D. Không gian vũ trụ bao gồm cõi Trời (nơi ở của Ngọc Hoàng, hai nữ thần) và cõi Hạ giới (mặt đất, nhân gian).
 
 *Câu 3* #badge-biet. Theo văn bản, Ngọc Hoàng đã giao cho hai chị em Mặt Trời và Mặt Trăng công việc gì?\
 A. Hút nước sông biển phun mưa tưới mát ruộng đồng cho dân cày cấy.\
@@ -49,8 +51,8 @@ C. Hiện tượng ánh sáng Mặt Trăng trở nên dịu mát và có quầng
 D. Hiện tượng cầu vồng bảy sắc xuất hiện sau cơn mưa rào.
 
 *Câu 5* #badge-biet. Chi tiết người dưới hạ giới *“đánh chiêng trống, gõ vào cối giã gạo”* mỗi khi có nhật thực, nguyệt thực phản ánh bối cảnh lịch sử – văn hoá nào của người Việt cổ?\
-A. Sinh hoạt văn hoá thương nghiệp buôn bán đường biển sầm uất.\
-B. Đời sống văn minh nông nghiệp lúa nước gắn với công cụ cối giã gạo và tín ngưỡng cầu mùa màng bình an.\
+A. Đời sống văn minh nông nghiệp lúa nước gắn với công cụ cối giã gạo và tín ngưỡng cầu mùa màng bình an.\
+B. Sinh hoạt văn hoá thương nghiệp buôn bán đường biển sầm uất.\
 C. Tập tục thi cử khoa bảng tuyển chọn hiền tài giúp nước.\
 D. Nghệ thuật biểu diễn sân khấu cung đình chuyên nghiệp.
 
@@ -66,9 +68,9 @@ D. Chứng minh người cổ đại đã có kiến thức vật lí thiên vă
 
 *Câu 8* #badge-hieu. Dòng nào khái quát chính xác nhất chủ đề của văn bản *Nữ thần Mặt Trời và Mặt Trăng*?\
 A. Kể về bi kịch hôn nhân không hạnh phúc của hai cô con gái Ngọc Hoàng.\
-B. Thể hiện nhận thức hồn nhiên của người Việt cổ nhằm cắt nghĩa các hiện tượng thiên văn (ngày – đêm, chu kì trăng, nhật – nguyệt thực) và khát vọng thiên nhiên điều hòa để mùa màng tươi tốt.\
+B. Khuyên răn người già và người trẻ phải biết phân chia công việc khiêng kiệu công bằng.\
 C. Ca ngợi sức mạnh cơ bắp phi thường của con người chiến thắng các loài mãnh thú.\
-D. Khuyên răn người già và người trẻ phải biết phân chia công việc khiêng kiệu công bằng.
+D. Thể hiện nhận thức hồn nhiên của người Việt cổ nhằm cắt nghĩa các hiện tượng thiên văn (ngày – đêm, chu kì trăng, nhật – nguyệt thực) và khát vọng thiên nhiên điều hòa để mùa màng tươi tốt.
 
 *Trả lời các câu hỏi Tự luận sau:*
 
@@ -85,14 +87,14 @@ D. Khuyên răn người già và người trẻ phải biết phân chia công 
   #study-table(
     (0.6fr, 0.6fr, 1.3fr, 4.5fr),
     ("Câu", "Đ/A", "Chỉ báo", "Giải thích căn cứ & Loại trừ phương án nhiễu"),
-    [*1*], [*B*], [CB3 – Biết], [Truyện cắt nghĩa nguồn gốc các hiện tượng thiên văn tự nhiên → *Thần thoại suy nguyên* (loại A vì không kể kì tích chế tác văn hoá; loại C, D sai thể loại).],
-    [*2*], [*B*], [CB1 – Biết], [Không gian trải rộng hai cõi: cõi Trời (Ngọc Hoàng, hành trình kiệu nữ thần) và Hạ giới (mặt đất, nhân gian).],
+    [*1*], [*A*], [CB3 – Biết], [Truyện cắt nghĩa nguồn gốc các hiện tượng thiên văn tự nhiên → *Thần thoại suy nguyên* (loại A vì không kể kì tích chế tác văn hoá; loại C, D sai thể loại).],
+    [*2*], [*D*], [CB1 – Biết], [Không gian trải rộng hai cõi: cõi Trời (Ngọc Hoàng, hành trình kiệu nữ thần) và Hạ giới (mặt đất, nhân gian).],
     [*3*], [*C*], [CB2 – Biết], [Câu 2 đoạn 1 nêu nguyên văn: *“Nhiệm vụ của hai cô hằng ngày phải đi xem xét dân sự một vòng, luân phiên nhau”*.],
     [*4*], [*C*], [CB3 – Biết], [Tro trát mặt làm giảm độ chói nóng (ánh trăng dịu mát) và để lại vết mờ/bụi tro (quầng trăng).],
-    [*5*], [*B*], [CB4 – Biết], [*Cối giã gạo* và nỗi lo *“có hại cho mùa màng”* là dấu ấn điển hình của cư dân nông nghiệp trồng lúa nước Việt Nam.],
+    [*5*], [*A*], [CB4 – Biết], [*Cối giã gạo* và nỗi lo *“có hại cho mùa màng”* là dấu ấn điển hình của cư dân nông nghiệp trồng lúa nước Việt Nam.],
     [*6*], [*B*], [CB3 – Biết], [Người kể giấu mình gọi tên nhân vật (*ngôi thứ ba*); kể chuỗi sự việc giải thích tự nhiên (*tự sự*).],
     [*7*], [*B*], [CB6 – Hiểu], [Thủ pháp nhân hóa gắn tính nết con người (nóng nảy, la cà, điềm đạm) cho các thiên thể khiến thế giới vũ trụ trở nên gần gũi, dễ hiểu.],
-    [*8*], [*B*], [CB7 – Hiểu], [Bao quát trọn vẹn hai mặt chủ đề: *nhận thức cắt nghĩa hiện tượng thiên văn* + *ước vọng mùa màng bình yên* (loại A, C, D vì thu hẹp hoặc lệch trọng tâm).]
+    [*8*], [*D*], [CB7 – Hiểu], [Bao quát trọn vẹn hai mặt chủ đề: *nhận thức cắt nghĩa hiện tượng thiên văn* + *ước vọng mùa màng bình yên* (loại A, C, D vì thu hẹp hoặc lệch trọng tâm).]
   )
 
   *2. Hướng dẫn chấm Câu 9 (Thông hiểu — 1,0 điểm):*
@@ -114,8 +116,8 @@ D. Khuyên răn người già và người trẻ phải biết phân chia công 
   - *Đánh giá tổng hợp & Mở rộng (0,50đ):* Đối sánh với thần Mặt Trời Hê-li-ôx cưỡi cỗ xe lửa tráng lệ trong thần thoại Hy Lạp để thấy vẻ đẹp mộc mạc, đậm hồn quê Việt (*chiếc kiệu khiêng, nắm tro bếp, tiếng cối giã gạo*).
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 01 (~920 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
-  Bàn về sức quyến rũ vĩnh hằng của thần thoại cổ đại, C. Mác từng nhận định đầy say mê rằng đó là *“thời thơ ấu bình thường của nhân loại”* — nơi vẻ đẹp hồn nhiên, trong trẻo *“một đi không trở lại”* mãi mãi tỏa sáng qua hàng ngàn năm lịch sử. Trở về buổi bình minh hồng hoang của dân tộc qua công trình *Lược khảo về thần thoại Việt Nam* của học giả Nguyễn Đổng Chi, người đọc không khỏi ngỡ ngàng trước vẻ đẹp vừa kì ảo vừa mộc mạc của truyện *Nữ thần Mặt Trời và Mặt Trăng*. Bằng trí tưởng tượng bay bổng kết hợp lối kể chuyện duyên dáng, tác phẩm không chỉ thể hiện chủ đề nhận thức, cắt nghĩa thế giới thiên văn đầy thú vị của người Việt cổ mà còn kết tinh những nét đặc sắc tiêu biểu về hình thức nghệ thuật của thể loại thần thoại suy nguyên.
+#essay-box(title: "BÀI VĂN THAM KHẢO ĐỀ SỐ 01 (khoảng 920 chữ — đọc để học cách triển khai, không học thuộc)")[
+  Thần thoại Hy Lạp từng được C. Mác ví như *“tuổi thơ”* của nhân loại — một giai đoạn hồn nhiên của tư duy, khi con người cắt nghĩa thế giới bằng tưởng tượng trước khi khoa học hình thành. Trở về buổi bình minh hồng hoang của dân tộc qua công trình *Lược khảo về thần thoại Việt Nam* của học giả Nguyễn Đổng Chi, người đọc không khỏi ngỡ ngàng trước vẻ đẹp vừa kì ảo vừa mộc mạc của truyện *Nữ thần Mặt Trời và Mặt Trăng*. Bằng trí tưởng tượng bay bổng kết hợp lối kể chuyện duyên dáng, tác phẩm không chỉ thể hiện chủ đề nhận thức, cắt nghĩa thế giới thiên văn đầy thú vị của người Việt cổ mà còn kết tinh những nét đặc sắc tiêu biểu về hình thức nghệ thuật của thể loại thần thoại suy nguyên.
 
   Thuộc nhóm thần thoại suy nguyên kể về nguồn gốc các hiện tượng tự nhiên, *Nữ thần Mặt Trời và Mặt Trăng* xoay quanh hai cô con gái của Ngọc Hoàng được giao sứ mệnh hằng ngày luân phiên ngồi kiệu đi xem xét hạ giới. Tác phẩm lần lượt giải thích vì sao ngày có khi dài khi ngắn qua bước chân của hai tốp người khiêng kiệu trẻ và già; lí giải vì sao ánh trăng dịu mát, có chu kì tròn – khuyết và quầng mờ qua sự việc cô Mặt Trăng nóng nảy bị mẹ trát tro lên mặt; đồng thời cắt nghĩa hiện tượng nhật thực, nguyệt thực cùng tập tục đánh chiêng trống, gõ cối giã gạo của dân gian qua câu chuyện người chồng Gấu đến thăm hai nữ thần.
 
@@ -137,7 +139,7 @@ D. Khuyên răn người già và người trẻ phải biết phân chia công 
 
 #passage-box(
   title: "THẦN MƯA",
-  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003"
+  source: "Theo bản kể trong các tuyển tập thần thoại Việt Nam"
 )[
   Thần Mưa là vị thần hình rồng, thường bay xuống hạ giới hút nước biển, nước sông vào bụng rồi bay lên trời cao phun nước ra làm mưa cho thế gian có nước uống và cày cấy, cây cỏ trên mặt đất được tốt tươi. Thần Mưa thường theo lệnh Trời đi phân phát nước ở các nơi. Thần Mưa có tính hay quên, có vùng cả năm không đến, sinh ra hạn hán ở hạ giới, có vùng lại đến luôn, làm thành lụt lội. Do đó mà có lần người ở hạ giới phải lên kiện Trời vì Thần Mưa vắng mặt lâu ngày.
 
@@ -169,13 +171,13 @@ C. Tính hay quên. #h(5.8em) D. Tính tham lam thích tích trữ châu báu.
 
 *Câu 4* #badge-biet. Thể lệ cuộc sát hạch tuyển chọn các loài thủy tộc hóa rồng ở cửa Vũ Môn được Trời quy định như thế nào?\
 A. Thi bơi đường dài ngoài biển Đông trong vòng bảy ngày bảy đêm.\
-B. Thi ba kì, mỗi kì vượt qua một đợt sóng; con vật nào đủ sức đủ tài vượt qua cả ba đợt sóng mới đỗ và được hóa rồng.\
+B. Thi đắp núi cao ở hai bờ Bắc – Nam trong vòng ba ngày.\
 C. Thi đối đáp thơ ca trước mặt vua Thủy Tề và viên Ngự sử.\
-D. Thi đắp núi cao ở hai bờ Bắc – Nam trong vòng ba ngày.
+D. Thi ba kì, mỗi kì vượt qua một đợt sóng; con vật nào đủ sức đủ tài vượt qua cả ba đợt sóng mới đỗ và được hóa rồng.
 
 *Câu 5* #badge-biet. Chi tiết cuộc thi hóa rồng gồm *“ba kì”*, có *“chiếu Trời”*, *“viên Ngự sử ra sát hạch”*, chấm điểm lấy đỗ phản ánh dấu ấn văn hoá – xã hội nào được khúc xạ vào văn bản?\
-A. Tín ngưỡng thờ cúng tổ tiên trong gia đình. #h(1.3em) B. Chế độ thi cử Tam trường tuyển chọn nhân tài thời xưa.\
-C. Nghề đúc đồng và rèn sắt cổ truyền. #h(2.7em) D. Phong tục cưới hỏi truyền thống của người Việt.
+A. Tín ngưỡng thờ cúng tổ tiên trong gia đình. #h(1.3em) B. Phong tục cưới hỏi truyền thống của người Việt.\
+C. Nghề đúc đồng và rèn sắt cổ truyền. #h(2.7em) D. Chế độ thi cử Tam trường tuyển chọn nhân tài thời xưa.
 
 *Câu 6* #badge-biet. Trong câu văn: *“Khi #strong[chiếu] Trời ban xuống dưới #strong[Thủy phủ], vua #strong[Thủy Tề] loan báo cho các giống dưới nước ganh đua nhau mà dự thi”*, từ nào *KHÔNG* phải là từ Hán Việt?\
 A. Thủy phủ. #h(3.5em) B. Thủy Tề. #h(3.5em) C. Ganh đua. #h(3.5em) D. Dự thi (trong đó *dự* là yếu tố Hán Việt).
@@ -187,9 +189,9 @@ C. Vua Thủy Tề nổi loạn chống lại Trời → Thần Mưa dẹp loạ
 D. Người dân hạ giới tự đào sông dẫn nước biển → Trời cảm động biến cá chép thành rồng.
 
 *Câu 8* #badge-hieu. Hình tượng con tôm vượt qua hai đợt sóng nhưng đến đợt thứ ba đuối sức ngã lộn cổ và hình tượng cá chép vượt liền ba đợt sóng hóa rồng tạo nên sự đối lập nhằm làm nổi bật ý nghĩa gì?\
-A. May mắn ngẫu nhiên là yếu tố duy nhất quyết định sự thành bại của muôn loài.\
+A. Sự khác biệt giữa nỗ lực nửa vời và bản lĩnh kiên cường, nội lực bền bỉ đi đến tận cùng thử thách để vươn tới tầm vóc lớn lao.\
 B. Chỉ những loài có kích thước khổng lồ ngay từ đầu mới có thể chiến thắng thiên nhiên.\
-C. Sự khác biệt giữa nỗ lực nửa vời và bản lĩnh kiên cường, nội lực bền bỉ đi đến tận cùng thử thách để vươn tới tầm vóc lớn lao.\
+C. May mắn ngẫu nhiên là yếu tố duy nhất quyết định sự thành bại của muôn loài.\
 D. Sự bất công của viên Ngự sử khi chấm thi ở cửa Vũ Môn.
 
 *Trả lời các câu hỏi Tự luận sau:*
@@ -210,11 +212,11 @@ D. Sự bất công của viên Ngự sử khi chấm thi ở cửa Vũ Môn.
     [*1*], [*A*], [CB3 – Biết], [Hội tụ đủ dấu hiệu thể loại thần thoại: nhân vật thần hình rồng siêu nhiên, không gian ba cõi, chức năng cắt nghĩa hiện tượng mưa và đặc điểm thủy tộc.],
     [*2*], [*B*], [CB1 – Biết], [Văn bản nhắc rõ: *trời cao* (nơi Trời ngự và thần bay lên phun mưa), *hạ giới / mặt đất / cửa Vũ Môn* và *Thủy phủ* (nơi Thủy Tề cai quản).],
     [*3*], [*C*], [CB2 – Biết], [Đoạn 1 ghi rõ: *“Thần Mưa có tính hay quên, có vùng cả năm không đến, sinh ra hạn hán... có vùng lại đến luôn, làm thành lụt lội”*.],
-    [*4*], [*B*], [CB2 – Biết], [Đoạn 3 nêu rõ: *“Hạch có ba kì, mỗi kì vượt qua một đợt sóng, con vật nào đủ sức đủ tài, vượt được cả ba đợt, thì mới lấy đỗ mà cho hóa rồng”*.],
-    [*5*], [*B*], [CB4 – Biết], [Hệ thống từ ngữ *chiếu Trời, Ngự sử, sát hạch ba kì, chấm điểm, lấy đỗ* phản chiếu sinh động dấu ấn khoa cử truyền thống khi câu chuyện được lưu truyền qua các thời đại.],
+    [*4*], [*D*], [CB2 – Biết], [Đoạn 3 nêu rõ: *“Hạch có ba kì, mỗi kì vượt qua một đợt sóng, con vật nào đủ sức đủ tài, vượt được cả ba đợt, thì mới lấy đỗ mà cho hóa rồng”*.],
+    [*5*], [*D*], [CB4 – Biết], [Hệ thống từ ngữ *chiếu Trời, Ngự sử, sát hạch ba kì, chấm điểm, lấy đỗ* phản chiếu sinh động dấu ấn khoa cử truyền thống khi câu chuyện được lưu truyền qua các thời đại.],
     [*6*], [*C*], [CB3 – Biết], [*“Ganh đua”* là từ ghép thuần Việt; trong khi *Thủy phủ, Thủy Tề, dự* đều là từ/yếu tố gốc Hán Việt.],
     [*7*], [*B*], [CB5 – Hiểu], [Bám sát trình tự nhân – quả của toàn bộ 3 đoạn văn bản mà không thêm bớt sai lệch.],
-    [*8*], [*C*], [CB6 – Hiểu], [Tôm đi được 2/3 chặng rồi đuối sức bỏ cuộc giữa chừng, còn cá chép dồn trọn nội lực vượt liền ba đợt sóng → tôn vinh bản lĩnh bền bỉ đi tới đích cuối cùng.]
+    [*8*], [*A*], [CB6 – Hiểu], [Tôm đi được 2/3 chặng rồi đuối sức bỏ cuộc giữa chừng, còn cá chép dồn trọn nội lực vượt liền ba đợt sóng → tôn vinh bản lĩnh bền bỉ đi tới đích cuối cùng.]
   )
 
   *2. Hướng dẫn chấm Câu 9 (Thông hiểu — 1,0 điểm):*
@@ -229,14 +231,14 @@ D. Sự bất công của viên Ngự sử khi chấm thi ở cửa Vũ Môn.
 
   *4. Hướng dẫn chấm Chi tiết Câu 11 (Viết bài văn nghị luận — 4,0 điểm):*
   - *Cấu trúc 3 phần (0,25đ); Chính tả, ngữ pháp (0,25đ); Sáng tạo diễn đạt & lí luận (0,50đ).*
-  - *Giới thiệu & Tóm tắt (0,75đ):* Giới thiệu *Thần Mưa* (thần thoại suy nguyên Việt Nam, Nguyễn Đổng Chi sưu tầm); tóm tắt hai chặng cốt truyện (công việc làm mưa của Thần Mưa và cuộc thi vượt Vũ Môn hóa rồng).
+  - *Giới thiệu & Tóm tắt (0,75đ):* Giới thiệu *Thần Mưa* (thần thoại suy nguyên Việt Nam); tóm tắt hai chặng cốt truyện (công việc làm mưa của Thần Mưa và cuộc thi vượt Vũ Môn hóa rồng).
   - *Phân tích, đánh giá Chủ đề (0,75đ):* (1) Cắt nghĩa nguồn gốc hiện tượng mưa, nạn hạn hán – lũ lụt và đặc điểm sinh học của cá rô, tôm, cá chép; (2) Gửi gắm khát vọng sống còn về nguồn nước tưới tiêu của cư dân lúa nước (*“nhất nước, nhì phân...”*) và triết lí nhân sinh sâu sắc tôn vinh sự khổ luyện, vượt khó thành tài.
   - *Phân tích, đánh giá Hình thức Nghệ thuật (1,00đ):* Không gian đa tầng ba cõi (Trời – Hạ giới [Vũ Môn] – Thủy phủ) đan cài địa danh thực tạo sức thuyết phục; kết cấu chuỗi hai sự kiện liên hoàn theo quan hệ nhân – quả chặt chẽ; thủ pháp phóng đại – kì ảo kết hợp nhân hóa hóm hỉnh; nghệ thuật tương phản tăng tiến trong cảnh thi ba đợt sóng (tất cả bị loại → cá rô 1 đợt → tôm 2 đợt → cá chép 3 đợt); đan xen câu ca dao dân gian tạo âm hưởng truyền thống ngân vang.
   - *Đánh giá mở rộng (0,50đ):* Đối sánh Thần Mưa với *Thần Sét, Thần Gió* (SGK) để thấy hệ thống thần tự nhiên Việt Nam thống nhất, bình dị mà giàu giá trị văn hoá.
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 02 (~940 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
-  Với cư dân văn minh nông nghiệp lúa nước Việt Nam từ ngàn xưa, nước và những cơn mưa trời luôn giữ vị trí sinh tử hàng đầu: *“Trông trời, trông đất, trông mây / Trông mưa, trông nắng, trông ngày, trông đêm”*. Chính từ mối gắn bó máu thịt với đồng ruộng và bầu trời ấy, trí tưởng tượng hồn nhiên của tổ tiên ta đã dệt nên thiên thần thoại đặc sắc *Thần Mưa* (trích trong *Lược khảo về thần thoại Việt Nam* của học giả Nguyễn Đổng Chi). Tác phẩm là viên ngọc quý kết tinh trọn vẹn vẻ đẹp của thể loại thần thoại suy nguyên Việt Nam, vừa cuốn hút người đọc bởi chiều sâu chủ đề nhận thức – nhân sinh phong phú, vừa tỏa sáng nhờ những nét đặc sắc độc đáo về hình thức nghệ thuật tự sự dân gian.
+#essay-box(title: "BÀI VĂN THAM KHẢO ĐỀ SỐ 02 (khoảng 940 chữ — đọc để học cách triển khai, không học thuộc)")[
+  Với cư dân văn minh nông nghiệp lúa nước Việt Nam từ ngàn xưa, nước và những cơn mưa trời luôn giữ vị trí sinh tử hàng đầu: *“Trông trời, trông đất, trông mây / Trông mưa, trông nắng, trông ngày, trông đêm”*. Chính từ mối gắn bó máu thịt với đồng ruộng và bầu trời ấy, trí tưởng tượng hồn nhiên của tổ tiên ta đã dệt nên thiên thần thoại đặc sắc *Thần Mưa*. Tác phẩm là viên ngọc quý kết tinh trọn vẹn vẻ đẹp của thể loại thần thoại suy nguyên Việt Nam, vừa cuốn hút người đọc bởi chiều sâu chủ đề nhận thức – nhân sinh phong phú, vừa tỏa sáng nhờ những nét đặc sắc độc đáo về hình thức nghệ thuật tự sự dân gian.
 
   *Thần Mưa* mở ra bằng hình tượng vị thần mang lốt rồng vĩ đại chuyên vâng lệnh Trời bay xuống sông biển hút nước rồi bay lên trời cao phun mưa nuôi sống thế gian. Do Thần Mưa có tật hay quên khiến hạ giới nơi hạn hán, nơi lụt lội, lại thêm công việc phân phối nước khắp mặt đất quá nặng nề, Trời đã mở cuộc sát hạch ba kì vượt sóng tại cửa Vũ Môn để tuyển chọn các loài thủy tộc tài giỏi hóa rồng phụ giúp. Giữa hàng loạt giống loài thất bại như cá rô chỉ qua một đợt sóng hay con tôm đuối sức ngã cong lưng ở đợt thứ ba, cá chép đã xuất sắc vượt liền ba đợt sóng dữ để hóa rồng oai nghi phun nước làm mưa cho trần thế.
 
@@ -258,7 +260,7 @@ D. Sự bất công của viên Ngự sử khi chấm thi ở cửa Vũ Môn.
 
 #passage-box(
   title: "NỮ THẦN LÚA",
-  source: "Theo Kho tàng truyện thần thoại Việt Nam, NXB Giáo dục, Hà Nội, 2008"
+  source: "Theo bản kể trong các tuyển tập thần thoại Việt Nam"
 )[
   Nữ thần Lúa là con gái Ngọc Hoàng. Sau những trận lụt lội ghê gớm xảy ra, sinh linh cây cỏ đều bị diệt hết, Trời bèn cho những người còn sống sót sinh con đẻ cái trên mặt đất, sai Nữ thần Lúa xuống trần gian, nuôi sống loài người. Nữ thần là một cô gái xinh đẹp, dáng người ẻo lả, và có tính hay hờn dỗi.
 
@@ -271,13 +273,13 @@ D. Sự bất công của viên Ngự sử khi chấm thi ở cửa Vũ Môn.
 
 *Câu 1* #badge-biet. Thời điểm Nữ thần Lúa được Ngọc Hoàng sai xuống trần gian nuôi sống loài người gắn với hoàn cảnh nào?\
 A. Khi loài người vừa chiến thắng các loài ác thú nơi rừng thẳm.\
-B. Sau những trận lụt lội ghê gớm tiêu diệt hết sinh linh cây cỏ, những người sống sót bắt đầu sinh sôi trở lại trên mặt đất.\
+B. Khi mặt đất bị mười mặt trời thiêu đốt khô cạn suốt mười năm.\
 C. Vào dịp đầu xuân khi nhà Trời mở hội thi chọn thần cai quản bốn mùa.\
-D. Khi mặt đất bị mười mặt trời thiêu đốt khô cạn suốt mười năm.
+D. Sau những trận lụt lội ghê gớm tiêu diệt hết sinh linh cây cỏ, những người sống sót bắt đầu sinh sôi trở lại trên mặt đất.
 
 *Câu 2* #badge-biet. Ngoại hình và tính cách của Nữ thần Lúa được văn bản giới thiệu trực tiếp qua những chi tiết nào?\
-A. Thân hình khổng lồ, sức khỏe vô địch, tính tình nóng nảy dữ tợn.\
-B. Xinh đẹp, dáng người ẻo lả và có tính hay hờn dỗi.\
+A. Xinh đẹp, dáng người ẻo lả và có tính hay hờn dỗi.\
+B. Thân hình khổng lồ, sức khỏe vô địch, tính tình nóng nảy dữ tợn.\
 C. Là một bà già mặt mũi hung dữ, luôn mang theo bầu nước bên mình.\
 D. Không có đầu, tay cầm chiếc quạt màu nhiệm điều khiển gió bão.
 
@@ -294,12 +296,12 @@ C. Vì thấy sân đường bẩn thỉu đầy rác rưởi, lại bị cô g�
 D. Vì Thần Mưa và Thần Gió tranh giành quyền cai quản cánh đồng với nàng.
 
 *Câu 5* #badge-biet. Đoạn kết văn bản phản ánh phong tục tín ngưỡng truyền thống nào của cư dân nông nghiệp Việt Nam?\
-A. Lễ hội đua thuyền cầu ngư vùng ven biển. #h(1.8em) B. Lễ cúng hồn Lúa / lễ cúng cơm mới sau mùa gặt.\
-C. Tục dựng cây nêu ngày Tết Nguyên đán. #h(2.1em) D. Lễ cúng Mười hai Bà Mụ khi trẻ đầy tháng.
+A. Lễ hội đua thuyền cầu ngư vùng ven biển. #h(1.8em) B. Lễ cúng Mười hai Bà Mụ khi trẻ đầy tháng.\
+C. Tục dựng cây nêu ngày Tết Nguyên đán. #h(2.1em) D. Lễ cúng hồn Lúa / lễ cúng cơm mới sau mùa gặt.
 
 *Câu 6* #badge-biet. Từ Hán Việt #strong[“sinh linh”] trong câu *“Sau những trận lụt lội ghê gớm xảy ra, sinh linh cây cỏ đều bị diệt hết”* có nghĩa là gì?\
-A. Các vị thần linh bất tử sống trên Thiên đình. #h(1.3em) B. Muôn loài chúng sinh có sự sống (con người và loài vật).\
-C. Những ngôi đền thờ cổ kính linh thiêng. #h(2.3em) D. Các hiện tượng sấm chớp trên bầu trời.
+A. Các vị thần linh bất tử sống trên Thiên đình. #h(1.3em) B. Những ngôi đền thờ cổ kính linh thiêng.\
+C. Muôn loài chúng sinh có sự sống (con người và loài vật). #h(2.3em) D. Các hiện tượng sấm chớp trên bầu trời.
 
 *Câu 7* #badge-hieu. Việc tác giả dân gian khắc họa Nữ thần Lúa có *“dáng người ẻo lả, tính hay hờn dỗi”* bắt nguồn từ cơ sở quan sát thực tế nào trong nghề trồng lúa?\
 A. Cây lúa vốn thân mềm mảnh mai, uốn cong trước gió và rất nhạy cảm với thời tiết, đất đai, đòi hỏi người nông dân phải chăm bẵm nâng niu kĩ lưỡng.\
@@ -328,12 +330,12 @@ D. Chứng minh lúa ngày xưa ngon hơn lúa ngày nay.
   #study-table(
     (0.6fr, 0.6fr, 1.3fr, 4.5fr),
     ("Câu", "Đ/A", "Chỉ báo", "Giải thích căn cứ & Loại trừ phương án nhiễu"),
-    [*1*], [*B*], [CB1 – Biết], [Câu 2 đoạn 1 ghi rõ bối cảnh mô-típ *sau nạn đại hồng thủy* (*“Sau những trận lụt lội ghê gớm xảy ra...”*).],
-    [*2*], [*B*], [CB2 – Biết], [Cuối đoạn 1 nêu nguyên văn: *“Nữ thần là một cô gái xinh đẹp, dáng người ẻo lả, và có tính hay hờn dỗi”*.],
+    [*1*], [*D*], [CB1 – Biết], [Câu 2 đoạn 1 ghi rõ bối cảnh mô-típ *sau nạn đại hồng thủy* (*“Sau những trận lụt lội ghê gớm xảy ra...”*).],
+    [*2*], [*A*], [CB2 – Biết], [Cuối đoạn 1 nêu nguyên văn: *“Nữ thần là một cô gái xinh đẹp, dáng người ẻo lả, và có tính hay hờn dỗi”*.],
     [*3*], [*B*], [CB3 – Biết], [Đoạn 2 miêu tả phép màu: lúa chín tự về nhà không cần gặt phơi, ngắt bông bỏ nồi hóa thành cơm.],
     [*4*], [*C*], [CB2 – Biết], [Đoạn 3 nêu rõ hai lí do kết hợp: sân đường rác rưởi bẩn thỉu + bị cô gái phang cán chổi vào đầu mắng mỏ.],
-    [*5*], [*B*], [CB4 – Biết], [Đoạn kết giải thích trực tiếp nguồn gốc lễ *cúng hồn Lúa / cúng cơm mới* của cư dân trồng lúa.],
-    [*6*], [*B*], [CB3 – Biết], [*Sinh linh* (Hán Việt) chỉ muôn loài sinh vật có linh tính, sự sống trên mặt đất.],
+    [*5*], [*D*], [CB4 – Biết], [Đoạn kết giải thích trực tiếp nguồn gốc lễ *cúng hồn Lúa / cúng cơm mới* của cư dân trồng lúa.],
+    [*6*], [*C*], [CB3 – Biết], [*Sinh linh* (Hán Việt) chỉ muôn loài sinh vật có linh tính, sự sống trên mặt đất.],
     [*7*], [*A*], [CB6 – Hiểu], [Thân lúa mảnh mai uốn rũ (*ẻo lả*) và cực kì nhạy cảm, hễ thiếu chăm sóc là *“cỏ lép”* (*hay hờn dỗi*) → sự nhân hóa tuyệt diệu từ kinh nghiệm nhà nông!],
     [*8*], [*B*], [CB7 – Hiểu], [Khái quát đúng hai lớp ý nghĩa suy nguyên (nguồn gốc cây lúa, quy trình làm hạt gạo vất vả, lễ cơm mới) và đạo lí biết ơn thiên nhiên.]
   )
@@ -356,7 +358,7 @@ D. Chứng minh lúa ngày xưa ngon hơn lúa ngày nay.
   - *Đánh giá mở rộng (0,50đ):* Liên hệ tín ngưỡng thờ Mẹ Lúa ở Đông Nam Á và ca dao Việt Nam (*“Dẻo thơm một hạt đắng cay muôn phần”*).
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 03 (~910 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
+#essay-box(title: "BÀI VĂN THAM KHẢO ĐỀ SỐ 03 (khoảng 910 chữ — đọc để học cách triển khai, không học thuộc)")[
   Từ hàng ngàn năm dựng nước bên châu thổ những dòng sông lớn, cây lúa không chỉ là nguồn lương thực nuôi sống thể xác mà còn là linh hồn văn hoá của người Việt. Trong tâm thức thiêng liêng thuở hồng hoang, cha ông ta tin rằng mỗi nhành lúa trĩu bông ngoài đồng đều mang bóng dáng và hơi thở của một vị nữ thần hiền hậu. Truyện *Nữ thần Lúa* (trích *Kho tàng truyện thần thoại Việt Nam*) chính là kết tinh tuyệt đẹp của niềm tin *“vạn vật hữu linh”* ấy. Tác phẩm chinh phục người đọc qua bao thế hệ nhờ sự hòa quyện nhuần nhị giữa chủ đề suy nguyên giàu tính nhân bản và những nét đặc sắc tinh tế về hình thức nghệ thuật tự sự dân gian.
 
   Câu chuyện mở ra trong bối cảnh buổi sơ khai sau những trận lụt lội ghê gớm hủy diệt muôn loài, Ngọc Hoàng thương xót những người sống sót nên sai con gái là Nữ thần Lúa xuống trần gian nuôi sống nhân loại. Ban đầu, nhờ phép màu của nữ thần, lúa chín tự bò về tận nhà, ngắt bông bỏ vào nồi liền hóa thành cơm trắng thơm lành. Thế nhưng, chỉ vì một cô gái lười nhác để sân nhà ngập rác bẩn lại cáu gắt cầm cán chổi phang vào đầu bông lúa đang kéo về, Nữ thần Lúa giận dỗi biến đi, bắt con người từ đó phải tự tay gặt hái, phơi giã cực nhọc và hằng năm phải làm lễ cúng hồn Lúa (cúng cơm mới) để tạ lỗi, cầu mùa.

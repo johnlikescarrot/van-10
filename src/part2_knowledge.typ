@@ -3,7 +3,7 @@
 #part-banner(
   "PHẦN II",
   "Hệ Thống Hóa Tri Thức Ngữ Văn & Thể Loại Thần Thoại",
-  "Sơ đồ hóa Dual-Coding • Khẩu quyết 5K–1C • Phân biệt 5 thể loại tự sự • Giải phẫu 4 văn bản SGK & 12 thần thoại ngoài SGK"
+  "Tri thức ngữ văn Bài 1 • Phân biệt các thể loại tự sự • Văn bản SGK và 12 truyện ngoài SGK"
 )
 
 = 2.1. Hệ thống Tri thức Nền tảng về Truyện kể (SGK Kết nối tri thức — Bài 1)
@@ -83,7 +83,7 @@
 
 #trap-box(title: "BẪY PHÒNG THI SỐ 1: NHẦM LẪN ĐỀ TÀI VỚI CHỦ ĐỀ & NGÔI KỂ VỚI NGƯỜI KỂ CHUYỆN")[
   - *Bẫy 1 (Đề tài ≠ Chủ đề):* Với truyện *Thần Mưa*, #strong[đề tài] là *hiện tượng mưa và sự tích cá chép hóa rồng*; còn #strong[chủ đề] là *nhận thức hồn nhiên của người Việt cổ nhằm lí giải nguồn gốc hiện tượng mưa, hạn hán, lũ lụt và gửi gắm khát vọng mưa thuận gió hòa, đề cao ý chí vượt khó vươn lên*. Đừng bao giờ chép đề tài vào câu hỏi chủ đề!
-  - *Bẫy 2 (Ngôi kể ≠ Người kể chuyện):* Khi đề hỏi #strong[“Xác định ngôi kể”] → trả lời *Ngôi thứ ba*. Khi đề hỏi #strong[“Ai là người kể chuyện trong truyện thần thoại trên?”] → trả lời *Người kể chuyện giấu mình (tác giả dân gian / người trực tiếp diễn xướng kể lại câu chuyện cho cộng đồng)*, tuyệt đối KHÔNG chọn tên vị thần trong truyện!
+  - *Bẫy 2 (Ngôi kể ≠ Người kể chuyện):* Khi đề hỏi #strong[“Xác định ngôi kể”] → trả lời *Ngôi thứ ba*. Khi đề hỏi #strong[“Ai là người kể chuyện trong truyện thần thoại trên?”] → trả lời *Người kể chuyện giấu mình (tác giả dân gian / người trực tiếp diễn xướng kể lại câu chuyện cho cộng đồng)*, không chọn tên vị thần trong truyện.
 ]
 
 = 2.2. Chuyên sâu Thể loại Thần thoại — Trái tim của Đề thi Giữa kì I
@@ -118,13 +118,13 @@
     #set text(size: 8.8pt)
     - *Nội dung:* Kể về #strong[cuộc chinh phục thiên nhiên và kì tích sáng tạo văn hoá] của các vị thần, bán thần, anh hùng văn hoá (tìm ra lửa, chế tác cung tên, thuần dưỡng giống cây, trị thủy, diệt ác thú...).\
     - *Câu hỏi trung tâm:* Con người làm thế nào để làm chủ thiên nhiên và xây dựng đời sống văn minh?\
-    - *Tác phẩm tiêu biểu:* *Prô-mê-tê lấy lửa trao cho loài người, Nữ Oa vá trời, Hê-ra-clét đi tìm táo vàng, Tê-dê, Hậu Nghệ bắn mặt trời, Sơn Tinh – Thủy Tinh (lớp cổ thần thoại)...*
+    - *Tác phẩm tiêu biểu:* *Prô-mê-tê lấy lửa trao cho loài người, Nữ Oa vá trời, Hê-ra-clét đi tìm táo vàng, Tê-dê, Hậu Nghệ bắn mặt trời...* (Lưu ý: *Sơn Tinh – Thủy Tinh* thuộc *truyền thuyết*, không xếp vào thần thoại sáng tạo.)
   ]
 )
 
 *Lưu ý tinh tế:* Giữa hai nhóm có sự giao thoa hữu cơ (ví dụ: *Prô-mê-tê và loài người* vừa mang yếu tố *suy nguyên* khi lí giải sự hình thành muôn vật và hình dáng con người, vừa mang đậm tính *sáng tạo văn hoá* khi thần lấy ngọn lửa văn minh trao cho nhân loại!).
 
-== C. Sơ đồ & Khẩu quyết Vàng “5K – 1C” Giải mã 5 Đặc trưng Thần thoại
+== C. Cách nhớ “5K – 1C” cho năm đặc trưng của thần thoại
 
 #mnemonic-box(title: "KHẨU QUYẾT 5K – 1C (NHỚ TRỌN ĐẶC TRƯNG THẦN THOẠI TRONG 30 GIÂY)")[
   #align(center)[
@@ -190,9 +190,9 @@ Trong câu hỏi số 1 của đề thi (xác định thể loại hoặc đặc
   *(Thần thoại giải thích khởi nguyên • Sử thi ca ngợi anh hùng bộ tộc • Truyền thuyết gắn mốc lịch sử • Cổ tích thưởng người hiền đời thường • Truyền kì văn viết mượn kì ảo nói chuyện đời).*
 ]
 
-= 2.4. Hệ thống hóa 04 Văn bản SGK Kết nối tri thức Bài 1 (Chuẩn đối sánh & Mở rộng)
+= 2.4. Các văn bản Bài 1 trong SGK Kết nối tri thức (dùng để đối sánh)
 
-Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc 4 văn bản Bài 1 giúp học sinh: *(1) thành thạo thao tác giải mã thể loại mẫu; (2) sở hữu kho dẫn chứng đối sánh cực kì đắt giá để ăn trọn 0,5 điểm Sáng tạo trong bài văn Câu 11!*
+Ngữ liệu thi lấy ngoài SGK, nhưng cần nắm chắc các văn bản đã học ở Bài 1 (SGK *Ngữ văn 10* Tập 1, tr. 9–38) vì hai lí do: (1) đó là mẫu để luyện thao tác đọc truyện thần thoại; (2) có thể dùng làm dẫn chứng đối sánh trong bài viết. Bài 1 gồm 3 văn bản đọc chính (VB1 là chùm ba truyện *Thần Trụ Trời – Thần Sét – Thần Gió*; VB2 *Tản Viên từ Phán sự lục*; VB3 *Chữ người tử tù*) và văn bản thực hành đọc *Tê-dê*.
 
 #study-table(
   (1.4fr, 1.1fr, 2.5fr, 2.0fr),
@@ -219,9 +219,9 @@ Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc 4 văn
   [• Ca ngợi trí tuệ, lòng dũng cảm, khát vọng trừ hại cho cộng đồng của người anh hùng cổ đại Hy Lạp.\ • *Dùng để đối sánh:* Vẻ đẹp con người sánh ngang thần linh trong thần thoại phương Tây.]
 )
 
-= 2.5. Bản đồ Giải phẫu 12 Văn bản Thần thoại Ngoài SGK Trọng tâm Nhất
+= 2.5. Mười hai truyện thần thoại ngoài SGK dùng để luyện tập
 
-Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bảng tổng hợp chuyên sâu dưới đây giải phẫu sẵn #strong[12 kiệt tác thần thoại ngoài SGK có tần suất xuất hiện cao nhất trong các đề thi Giữa kì I trên toàn quốc]:
+Vì đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bảng dưới đây tóm tắt 12 truyện ngoài SGK được chọn theo ba tiêu chí: nằm trong các tuyển tập thần thoại phổ biến, thể hiện rõ đặc trưng thể loại và đủ độ dài để đặt câu hỏi đọc hiểu. Đây là danh sách luyện tập, không phải giới hạn phạm vi ra đề. Truyện dân gian thường có nhiều dị bản; khi làm bài, mọi nhận định phải bám vào văn bản in trên đề thi.
 
 #study-table(
   (1.35fr, 0.95fr, 2.5fr, 2.2fr),
@@ -262,7 +262,7 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
   [Bà già hung dữ giữ ngọn lửa mầu nhiệm đặt ống nứa không cũng nấu ra cơm cá ngon lành. Ông lão đi rừng lấy được tàn than đỏ về nuôi nhà sung túc, nhưng con dâu dội nước chữa cháy làm tắt mất bảo vật.],
   [• Lí giải: Sức mạnh hai mặt của lửa (nuôi sống và thiêu hủy) cùng tập tục *giữ lửa bếp không bao giờ tắt* của người xưa.\ • Bài học bình tĩnh, cẩn trọng giữ gìn những giá trị quý báu.],
 
-  [*8. Hai thần Đực Cái (Tứ Tượng – Nữ Oa)*\ *(Thần thoại Việt Nam)*],
+  [*8. Hai thần Đực Cái (Tứ Tượng – Nữ Oa)*\ *(Thần thoại Việt Nam; chi tiết có thể khác nhau theo bản kể)*],
   [Suy nguyên (địa hình)],
   [Hai vị thần khổng lồ thi tài đắp núi trong 3 ngày để kết hôn: Tứ Tượng đứt quang gánh rơi thành 9 đồi lớn; núi Nữ Oa (Nam Giới – Hà Tĩnh) cao nhìn thấu 4 chân trời nên thắng cuộc, bắt Tứ Tượng đắp thêm nhiều dãy núi Bắc – Nam.],
   [• Lí giải: Địa hình đồi núi trùng điệp dải đất Việt Nam và dấu chân khổng lồ trên đá.\ • Phản ánh dấu ấn *chế độ mẫu hệ* cổ sơ (nữ thần tài trí vượt trội nam thần).],
@@ -290,6 +290,6 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
 
 = 2.6. Đối sánh Đông – Tây: Thần thoại Việt Nam vs. Thần thoại Hy Lạp / Trung Hoa
 
-Đưa nhận xét đối sánh liên văn hoá vào đoạn đánh giá cuối Thân bài là #strong[“tuyệt chiêu lấy điểm 9+”]:
+Đoạn đánh giá ở cuối thân bài có thể thêm một nhận xét đối sánh liên văn hóa ngắn, ví dụ:
 - #strong[Điểm tương đồng phổ quát:] Đều nảy sinh từ tư duy *vạn vật hữu linh* buổi bình minh nhân loại; đều đặt nhân vật thần linh khổng lồ trong không gian vũ trụ và thời gian cổ sơ phiếm chỉ; đều sử dụng thủ pháp phóng đại kì ảo để cắt nghĩa tự nhiên và gửi gắm khát vọng chinh phục thế giới.
 - #strong[Bản sắc riêng độc đáo của Thần thoại Việt Nam:] Mang đậm dấu ấn #strong[nền văn minh nông nghiệp lúa nước nhiệt đới gió mùa] — các vị thần gần gũi, mộc mạc, bình dị như người nông dân Việt (biết cày cục đắp đất, nóng nảy sợ tiếng gà, hay quên gây hạn lụt, hờn dỗi khi sân bẩn...), ít có những cuộc chiến tranh quyền lực đẫm máu trên đỉnh Ô-lim-pơ như thần thoại Hy Lạp hay quy mô triều chính đồ sộ như thần thoại Trung Hoa, mà thấm đẫm *khát vọng mưa thuận gió hòa, mùa màng tươi tốt và lối sống hòa hợp, ân nghĩa với tự nhiên*.

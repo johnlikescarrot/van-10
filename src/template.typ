@@ -302,7 +302,7 @@
         #set text(font: font-sans, size: 7.8pt, fill: c-muted)
         #grid(
           columns: (1fr, auto),
-          [Bám sát 100% Ma trận & Bản đặc tả Kiểm tra Giữa kì I (90 phút • 11 câu • Thang điểm 10)],
+          [Đề cương ôn tập theo Ma trận & Bản đặc tả Kiểm tra Giữa kì I (90 phút • 11 câu • Thang điểm 10)],
           text(weight: "bold", fill: c-navy)[Trang #counter(page).display("1 / 1", both: true)]
         )
       ]
@@ -375,7 +375,7 @@
 
         #v(14mm)
         #text(font: font-sans, size: 12pt, weight: "semibold", fill: rgb("#93C5FD"), tracking: 1pt)[
-          TÀI LIỆU ÔN TẬP CHUYÊN SÂU & TỐI ƯU GHI NHỚ NHẬN THỨC
+          TÀI LIỆU ÔN TẬP THEO MA TRẬN & BẢN ĐẶC TẢ ĐỀ KIỂM TRA
         ]
         #v(5mm)
         #text(font: font-sans, size: 25pt, weight: "bold", fill: white)[
@@ -386,7 +386,7 @@
         #line(length: 75mm, stroke: 2.5pt + rgb("#F59E0B"))
         #v(5mm)
         #text(font: font-serif, size: 12pt, style: "italic", fill: rgb("#E2E8F0"))[
-          Phân tích chuyên sâu Ma trận & Bản đặc tả năm học 2026 – 2027:\
+          Dựa trên Ma trận & Bản đặc tả đề kiểm tra năm học 2026 – 2027:\
           Đọc hiểu Truyện Thần thoại ngoài SGK & Nghị luận phân tích, đánh giá tác phẩm truyện
         ]
 
@@ -431,7 +431,7 @@
               #align(center)[
                 #text(size: 15pt, weight: "bold", fill: c-jade)[106 CÂU]\
                 #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & 6 ĐỀ]\
-                #text(size: 7.4pt, fill: c-slate)[100% có đáp án,\ giải nhiễu & văn mẫu]
+                #text(size: 7.4pt, fill: c-slate)[Có đáp án,\ giải thích & bài tham khảo]
               ]
             ]
           )
@@ -444,20 +444,20 @@
           column-gutter: 12pt,
           row-gutter: 8pt,
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[01. HỆ THỐNG HÓA SIÊU TRÍ NHỚ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[Sơ đồ hóa Dual-Coding, Khẩu quyết 5K–1C, Ma trận phân biệt 5 thể loại tự sự & 12 thần thoại ngoài SGK.]
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[01. KIẾN THỨC THỂ LOẠI]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Tri thức truyện thần thoại theo SGK Bài 1, bảng phân biệt thể loại và 12 truyện ngoài SGK thường gặp.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[02. PHỦ KÍN 100% BẢN ĐẶC TẢ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[13/13 chỉ báo Đọc hiểu, chuyên đề Từ Hán Việt & Tu từ, Công thức 4 bước trả lời Tự luận đạt điểm tối đa.]
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[02. ĐỐI CHIẾU 22 CHỈ BÁO]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Đối chiếu 13 chỉ báo Đọc hiểu và 9 chỉ báo Viết với dạng câu hỏi, kèm kĩ năng bổ trợ tiếng Việt.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[03. DÀN Ý VẠN NĂNG & VĂN MẪU 4,0Đ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[Mô hình Ngôi Đền 5 Tầng phân tích chủ đề & nghệ thuật thần thoại kèm 06 bài văn mẫu hoàn chỉnh.]
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[03. KĨ NĂNG VIẾT THEO SGK]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Quy trình viết theo SGK (trang 29–34): tìm ý, lập dàn ý, viết, chỉnh sửa; 6 bài văn tham khảo.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. TRỌN BỘ CÂU HỎI & ĐÁP ÁN CHI TIẾT]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[40 câu luyện theo chỉ báo + 06 đề thi chuẩn 90 phút (66 câu), giải thích từng phương án nhiễu & thang điểm 0,25.]
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. LUYỆN TẬP & ĐỀ THI THỬ]\
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Ngân hàng 40 câu theo chỉ báo + 6 đề theo cấu trúc ma trận (66 câu), có đáp án và hướng dẫn chấm.]
           ],
         )
 
@@ -466,7 +466,7 @@
         #v(4mm)
         #grid(
           columns: (1fr, auto),
-          text(size: 8.5pt, fill: rgb("#CBD5E1"))[Biên soạn chuyên sâu theo định hướng đánh giá năng lực của Bộ GD&ĐT],
+          text(size: 8.5pt, fill: rgb("#CBD5E1"))[Tài liệu tham khảo phục vụ ôn tập — không thay thế sách giáo khoa],
           text(size: 9pt, weight: "bold", fill: rgb("#FCD34D"))[NĂM HỌC 2026 – 2027]
         )
       ]
@@ -482,18 +482,18 @@
     inset: 12pt,
     below: 12pt,
   )[
-    #text(size: 10pt, weight: "bold", fill: c-navy)[CẨM NANG SỬ DỤNG ĐỀ CƯƠNG THEO KHOA HỌC NHẬN THỨC (COGNITIVE RETENTION)]
+    #text(size: 10pt, weight: "bold", fill: c-navy)[CÁCH SỬ DỤNG ĐỀ CƯƠNG]
     #v(4pt)
     #set text(size: 9pt)
-    Đề cương này được thiết kế theo 4 nguyên lí khoa học ghi nhớ hiện đại nhằm giúp học sinh lớp 10 *hiểu bản chất – nhớ dài lâu – phản xạ tức thì trong 90 phút phòng thi*:
+    Tài liệu được sắp xếp theo trình tự ôn tập gợi ý; bạn cũng có thể học từng phần riêng lẻ tùy nhu cầu. Bốn lưu ý khi sử dụng:
     #grid(
       columns: (1fr, 1fr),
       column-gutter: 12pt,
       row-gutter: 5pt,
-      [*1. Mã hóa kép (Dual Coding):* Kết hợp bảng ma trận đối chiếu và sơ đồ cấu trúc để não bộ lưu trữ đồng thời kênh ngôn ngữ và kênh không gian.],
-      [*2. Khẩu quyết âm vần (Chunking & Mnemonics):* Mọi cụm kiến thức phức tạp đều được nén thành công thức ngắn gọn (*5K–1C*, *GỌI–TRÍCH–GIẢI–CHỐT*).],
-      [*3. Phòng vệ lỗi sai (Error Inoculation):* Hệ thống hộp *Cảnh báo bẫy phòng thi* chỉ rõ các phương án nhiễu hay đánh lừa học sinh nhất.],
-      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 40 câu theo chỉ báo + 06 đề thi thực chiến (66 câu) + 24 thẻ Flashcards kèm lộ trình ôn 7 ngày.]
+      [*1. Đọc ma trận trước (Phần I):* Biết rõ đề thi gồm những gì, phần nào có trong đặc tả, phần nào là kĩ năng bổ trợ, để không học lệch trọng tâm.],
+      [*2. Học kiến thức gắn với ví dụ (Phần II–III):* Mỗi khái niệm thể loại nên được kiểm chứng ngay trên một truyện cụ thể, thay vì học thuộc định nghĩa.],
+      [*3. Tự làm trước khi xem đáp án (Phần IV, VI):* Đáp án đặt sau câu hỏi là để đối chiếu; hãy ghi lại lỗi sai của mình vào nhật kí ở Phụ lục D.],
+      [*4. Bài văn tham khảo không phải văn mẫu để học thuộc:* Đọc để học cách triển khai luận điểm và dùng dẫn chứng, rồi tự viết lại bằng lời của mình.]
     )
   ]
 
