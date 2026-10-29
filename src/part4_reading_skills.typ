@@ -60,12 +60,12 @@ Giám khảo chấm Câu 9 theo thang điểm thành phần `0,25đ + 0,50đ + 0
 = 4.3. Công thức Vàng Trả lời Câu 10 (Tự luận Vận dụng — 1,0 điểm)
 
 #formula-box(title: "CÔNG THỨC ĐOẠN VĂN 4 NHỊP CHO CÂU 10 VẬN DỤNG (VIẾT 6 – 8 DÒNG, ĂN TRỌN 1,0 ĐIỂM)", breakable-box: true)[
-  - #strong[Nhịp 1 — Nêu trực diện Thông điệp / Quan điểm (Câu 1 — 0,25đ):]
+  - #strong[Nhịp 1 — Nêu trực diện Thông điệp / Quan điểm (Câu 1, 0,25đ):]
     - *Nếu đề hỏi thông điệp/bài học:* “Từ câu chuyện thần thoại [...], thông điệp sâu sắc nhất đối với em là: *chúng ta cần biết... [nêu thông điệp dưới dạng câu khẳng định giàu tính hành động]*.”
     - *Nếu đề hỏi đồng tình hay không đồng tình / niềm tin ấy nay còn giá trị không:* Nêu rõ quan điểm #strong[“Vừa nhìn nhận giới hạn khoa học, vừa trân trọng giá trị văn hoá – nhân văn”] (Ví dụ: *Xét về khoa học tự nhiên, cách giải thích của người xưa mang tính hồn nhiên, chưa chuẩn xác; nhưng xét về giá trị tinh thần và văn hoá, niềm tin ấy vẫn vẹn nguyên ý nghĩa quý báu*).
-  - #strong[Nhịp 2 — Lí giải từ Văn bản (Câu 2–3 — 0,25đ):] Chỉ ra chi tiết trong truyện gợi lên bài học ấy (do bối cảnh người xưa chưa có máy móc khoa học nhưng luôn khao khát sống hài hòa, có trách nhiệm với muôn loài).
-  - #strong[Nhịp 3 — Lí giải từ Thực tiễn Đời sống hôm nay (Câu 4–5 — 0,25đ):] Mở rộng ý nghĩa đối với xã hội hiện đại (biến đổi khí hậu, bảo vệ môi trường sinh thái, ý chí vượt thử thách Vũ Môn, lòng biết ơn nguồn cội...).
-  - #strong[Nhịp 4 — Đánh thức Hành động Bản thân (Câu 6 — 0,25đ):] Chốt lại nhận thức và hành động thiết thực của người trẻ hôm nay.
+  - #strong[Nhịp 2 — Lí giải từ Văn bản (Câu 2–3, 0,25đ):] Chỉ ra chi tiết trong truyện gợi lên bài học ấy (do bối cảnh người xưa chưa có máy móc khoa học nhưng luôn khao khát sống hài hòa, có trách nhiệm với muôn loài).
+  - #strong[Nhịp 3 — Lí giải từ Thực tiễn Đời sống hôm nay (Câu 4–5, 0,25đ):] Mở rộng ý nghĩa đối với xã hội hiện đại (biến đổi khí hậu, bảo vệ môi trường sinh thái, ý chí vượt thử thách Vũ Môn, lòng biết ơn nguồn cội...).
+  - #strong[Nhịp 4 — Đánh thức Hành động Bản thân (Câu 6, 0,25đ):] Chốt lại nhận thức và hành động thiết thực của người trẻ hôm nay.
 ]
 
 = 4.4. Ngân hàng 40 Câu Hỏi Thực Chiến Phủ Kín 13 Chỉ Báo Bản Đặc Tả
@@ -194,7 +194,7 @@ D. Xây dựng đê điều ngăn dòng nước lũ tràn về hạ giới.
 
 *Câu 20.* Câu văn nào dưới đây mắc lỗi dùng sai từ Hán Việt?\
 A. *Thần thoại thể hiện khát vọng chinh phục tự nhiên lớn lao của con người thời cổ đại.*\
-B. *Trí tưởng tượng bay bổng là một yếu điểm làm nên sức hấp dẫn đặc biệt của thần thoại.*\
+B. *Trí tưởng tượng bay bổng là một ưu điểm làm nên sức hấp dẫn đặc biệt của thần thoại.*\
 C. *Tính hay quên là một yếu điểm khiến Thần Mưa có lúc gây ra hạn hán, lũ lụt cho hạ giới.*\
 D. *Hình tượng Prô-mê-tê kết tinh vẻ đẹp trí tuệ và lòng nhân ái bao la.*
 
@@ -306,7 +306,7 @@ D. Khuyên răn con người từ bỏ cuộc sống trần thế để đi tìm
     [*17*], [*B*], [Mọi văn bản truyện thần thoại đều lấy *tự sự* làm phương thức biểu đạt chính và hầu hết trần thuật ở *ngôi thứ ba*.],
     [*18*], [*B*], [*Thủy phủ, Thủy Tề, Ngự sử, sát hạch* đều là từ Hán Việt gợi không khí trang nghiêm của thiết chế thiên đình – thủy cung.],
     [*19*], [*B*], [*Sát* = xem xét kĩ; *hạch* = tra xét thực chất → *sát hạch* là kiểm tra, thi tuyển gắt gao để chọn tài năng.],
-    [*20*], [*C*], [Câu C dùng sai từ *“yếu điểm”* (*yếu điểm* = điểm trọng yếu, quan trọng nhất; ở câu B dùng *yếu điểm* cho sức hấp dẫn là đúng nghĩa gốc, còn ở câu C chỉ tật hay quên phải sửa thành #strong[điểm yếu / nhược điểm]!).],
+    [*20*], [*C*], [*Yếu điểm* là “điểm quan trọng, then chốt”, không phải “chỗ còn hạn chế”. Câu C định nói về tật hay quên của Thần Mưa — một nhược điểm — nên phải viết #strong[điểm yếu / nhược điểm / khuyết điểm]. Ba câu còn lại dùng từ đúng nghĩa và đúng ngữ cảnh.],
     [*21*], [*C*], [Phóng đại tầm vóc khổng lồ (*cao hơn năm lần đỉnh núi cao nhất*) kết hợp phép so sánh hơn.],
     [*22*], [*B*], [Lí lẽ của thằn lằn hợp tình hợp lí, tránh lãng phí của Trời, được Ngọc Hoàng tán thành → đề cao trí tuệ, sự tiết kiệm và vị thế của kẻ nhỏ bé.],
     [*23*], [*B*], [Dáng đứng thẳng tách con người khỏi thú vật để ngẩng cao đầu, đồng thời giải phóng đôi tay cho hoạt động chế tác lao động.],
@@ -331,11 +331,11 @@ D. Khuyên răn con người từ bỏ cuộc sống trần thế để đi tìm
 
   - #strong[Câu 33 (1,0đ — Tác dụng ngôi kể thứ ba & lời kể dân gian):] Ngôi kể thứ ba với người kể chuyện giấu mình giúp bao quát linh hoạt không gian rừng sâu lẫn mái nhà ông lão, tạo cái nhìn khách quan và niềm tin hồn nhiên vào chuyện thần linh *(0,50đ)*. Lời kể dân gian mộc mạc, giản dị (*“mừng quýnh”, “ăn một bụng no nê”, “tiếc thay”*) vừa dẫn dắt sự kiện mạch lạc, vừa kín đáo bộc lộ niềm tiếc nuối của cộng đồng khi con người đánh mất bảo vật thiêng *(0,50đ)*.
 
-  - #strong[Câu 34 (1,0đ — Vẻ đẹp nhân vật Hê-ra-clét):] Hình tượng Hê-ra-clét tỏa sáng vẻ đẹp hài hòa toàn bích của người anh hùng thần thoại Hy Lạp trên ba phương diện: *(1) Sức mạnh thể chất và ý chí phi thường* khi ghé đôi vai trần gánh cả vòm trời nặng trĩu *(0,50đ)*; *(2) Trí tuệ sắc sảo, ứng biến thông minh* khi đọc vị thấu mưu lừa của thần Át-lát và dùng kế “xin kê đệm vai” để giành lại chùm táo vàng; *(3) Phong thái hiệp nghĩa, điềm đĩnh, lịch duyệt* ngay trước các vị thần khổng lồ *(0,50đ)*.
+  - #strong[Câu 34 (1,0đ — Vẻ đẹp nhân vật Hê-ra-clét):] Hình tượng Hê-ra-clét hiện lên với vẻ đẹp cân bằng của người anh hùng thần thoại Hy Lạp trên ba phương diện: *(1) Sức mạnh thể chất và ý chí phi thường* khi ghé đôi vai trần gánh cả vòm trời nặng trĩu *(0,50đ)*; *(2) Trí tuệ sắc sảo, ứng biến thông minh* khi đọc vị thấu mưu lừa của thần Át-lát và dùng kế “xin kê đệm vai” để giành lại chùm táo vàng; *(3) Phong thái hiệp nghĩa, điềm đĩnh, lịch duyệt* ngay trước các vị thần khổng lồ *(0,50đ)*.
 
   - #strong[Câu 35 (1,0đ — Bài học ứng xử từ hành động người con dâu):] Hành động *“lật đật mang cả vò nước xối vào khắp mọi nơi”* gợi cho em bài học sâu sắc về #strong[sự bình tĩnh, suy xét thấu đáo khi xử lí khủng hoảng] *(0,25đ)*. Trong truyện, vì hoảng loạn thiếu cân nhắc, người con dâu tuy cứu được vách nhà nhưng lại dập tắt luôn cả tàn than thiêng nuôi sống gia đình *(0,25đ)*. Trong cuộc sống hiện đại, khi đối mặt với biến cố bất ngờ, sự nóng vội mù quáng rất dễ khiến ta tự tay phá hủy những giá trị cốt lõi tích lũy bấy lâu *(0,25đ)*. Vì vậy, mỗi người cần rèn luyện bản lĩnh điềm tĩnh, phân tích đúng mức độ rủi ro để giải quyết vấn đề vừa kịp thời vừa khôn ngoan *(0,25đ)*.
 
-  - #strong[Câu 36 (1,0đ — Nhận thức về nghị lực và trí tuệ từ Hê-ra-clét):] Đoạn trích giúp em nhận thức sâu sắc rằng trên hành trình chinh phục những đỉnh cao lớn, #strong[nghị lực kiên cường và trí tuệ nhạy bén là đôi cánh không thể tách rời] *(0,25đ)*. Nếu không có đôi vai rắn chắc và ý chí sắt đá gánh đỡ bầu trời, Hê-ra-clét đã gục ngã trước thử thách; nhưng nếu chỉ có sức mạnh cơ bắp mà thiếu trí thông minh tỉnh táo, chàng đã bị Át-lát giam cầm dưới sức nặng vòm trời vĩnh viễn *(0,50đ)*. Từ đó, người trẻ hôm nay không chỉ cần bền bỉ khổ luyện vượt khó mà còn phải không ngừng trau dồi tư duy phản biện, sự linh hoạt để làm chủ vận mệnh mình *(0,25đ)*.
+  - #strong[Câu 36 (1,0đ — Nhận thức về nghị lực và trí tuệ từ Hê-ra-clét):] Đoạn trích giúp em nhận thức sâu sắc rằng trên hành trình chinh phục những đỉnh cao lớn, #strong[nghị lực kiên cường và trí tuệ nhạy bén phải đi cùng nhau] *(0,25đ)*. Nếu không có đôi vai rắn chắc và ý chí sắt đá gánh đỡ bầu trời, Hê-ra-clét đã gục ngã trước thử thách; nhưng nếu chỉ có sức mạnh cơ bắp mà thiếu trí thông minh tỉnh táo, chàng đã bị Át-lát giam cầm dưới sức nặng vòm trời vĩnh viễn *(0,50đ)*. Từ đó, người trẻ hôm nay không chỉ cần bền bỉ khổ luyện vượt khó mà còn phải không ngừng trau dồi tư duy phản biện, sự linh hoạt để làm chủ vận mệnh mình *(0,25đ)*.
 
   - #strong[Câu 37 (1,0đ — Vận dụng bối cảnh lịch sử – văn hoá giải mã “tí than đỏ”):] Đặt trong bối cảnh thời nguyên thủy khi con người chưa phát minh ra diêm hay bật lửa, việc cọ xát đá/gỗ tạo lửa vô cùng gian nan nên người xưa phải hứng lửa từ các đám cháy rừng do sét đánh và nâng niu ủ trấu giữ “mồi than đỏ” truyền từ ngày này qua tháng khác *(0,50đ)*. Ngọn lửa giúp nấu chín thức ăn, xua thú dữ, sưởi ấm đêm rừng lạnh giá. Bởi thế, đánh mất “tí than đỏ” đồng nghĩa với việc rơi lại vào bóng tối, đói lạnh — nên dân gian đã thần thánh hóa mồi lửa ấy thành “bảo vật của thần” để nhắc nhở con cháu ý thức giữ lửa thiêng trong mỗi nếp nhà *(0,50đ)*.
 
@@ -343,5 +343,5 @@ D. Khuyên răn con người từ bỏ cuộc sống trần thế để đi tìm
 
   - #strong[Câu 39 (1,0đ — Đối sánh hình tượng ngọn lửa Việt Nam – Hy Lạp):] Dù ra đời ở hai nền văn hoá Đông – Tây xa cách, hình tượng ngọn lửa trong *Thần Lửa* và *Prô-mê-tê và loài người* gặp gỡ nhau ở tư tưởng lớn: đều xem #strong[ngọn lửa là tặng phẩm thiêng liêng mang tính bước ngoặt tách con người khỏi cảnh tăm tối, đói lạnh mông muội để bước sang đời sống ấm no, văn minh] *(0,50đ)*. Tuy nhiên, nếu thần thoại Hy Lạp nhấn mạnh tầm vóc anh hùng khai sáng tri thức – nghề nghiệp của Prô-mê-tê, thì thần thoại Việt Nam lại gắn ngọn lửa với bữa cơm gia đình bình dị và bài học giữ gìn nếp bếp ấm cúng của cư dân nông nghiệp *(0,50đ)*.
 
-  - #strong[Câu 40 (1,0đ — Giá trị của thần thoại trong kỉ nguyên AI hiện đại):] Ngay trong kỉ nguyên trí tuệ nhân tạo và khoa học vũ trụ tối tân, việc đọc và lưu truyền truyện thần thoại vẫn vô cùng cần thiết đối với thế hệ trẻ *(0,25đ)*. Khoa học giải thích cho ta cấu tạo vật lí của sấm sét, mưa gió hay mặt trăng, nhưng thần thoại lại lưu giữ #strong[ký ức cội nguồn văn hoá, vẻ đẹp trong trẻo “một đi không trở lại” của trí tưởng tượng nhân loại và thái độ kính ngưỡng, hòa hợp với thiên nhiên] *(0,50đ)*. Đọc thần thoại giúp người trẻ hôm nay không trở thành những cỗ máy khô khan mà biết nuôi dưỡng tâm hồn lãng mạn, trí sáng tạo bay bổng và lòng biết ơn sâu sắc đối với tổ tiên *(0,25đ)*.
+  - #strong[Câu 40 (1,0đ — Giá trị của thần thoại trong kỉ nguyên AI hiện đại):] Ngay trong kỉ nguyên trí tuệ nhân tạo và khoa học vũ trụ tối tân, việc đọc và lưu truyền truyện thần thoại vẫn vô cùng cần thiết đối với thế hệ trẻ *(0,25đ)*. Khoa học giải thích cho ta cấu tạo vật lí của sấm sét, mưa gió hay mặt trăng, nhưng thần thoại lại lưu giữ #strong[ký ức cội nguồn văn hoá, vẻ đẹp trong trẻo “một đi không trở lại” của trí tưởng tượng nhân loại và thái độ kính ngưỡng, hòa hợp với thiên nhiên] *(0,50đ)*. Đọc thần thoại giúp người trẻ giữ được đời sống tâm hồn bên cạnh đời sống công nghệ: một chút lãng mạn, một chút tưởng tượng, và lòng biết ơn tổ tiên *(0,25đ)*.
 ]

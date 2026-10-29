@@ -37,8 +37,8 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
   ("Thẻ", "Câu hỏi Kích hoạt Trí nhớ (Che cột phải)", "Đáp án Chuẩn xác Cốt lõi (Từ khóa ăn điểm)"),
   [*01*], [Cấu trúc đề thi Giữa kì 1 Ngữ văn 10 (2026–2027) gồm mấy phần, mấy câu, thời gian bao lâu?], [#strong[90 phút — 11 câu — 10,0đ:] Phần Đọc hiểu #strong[6,0đ] (8 TNKQ × 0,5đ + 2 TL × 1,0đ, thần thoại ngoài SGK) + Phần Viết #strong[4,0đ] (01 bài văn nghị luận phân tích, đánh giá truyện thần thoại ngoài SGK).],
   [*02*], [Tỉ lệ 3 mức độ tư duy trong toàn đề thi là bao nhiêu phần trăm?], [#strong[Nhận biết 40%] (3,0đ TN + 1,0đ Viết) — #strong[Thông hiểu 30%] (1,0đ TN + 1,0đ TL + 1,0đ Viết) — #strong[Vận dụng 30%] (1,0đ TL + 2,0đ Viết).],
-  [*03*], [Kể tên 4 văn bản thần thoại ĐÃ HỌC trong SGK *Kết nối tri thức* (sẽ KHÔNG ra làm ngữ liệu chính)?], [*(1) Thần Trụ Trời*, *(2) Thần Sét*, *(3) Thần Gió* (Việt Nam) và *(4) Tê-dê* (Hy Lạp — Thực hành đọc). Chỉ dùng 4 truyện này để #strong[liên hệ mở rộng]!],
-  [*04*], [Giải mã khẩu quyết #strong[“5K – 1C”] nhận diện thể loại Thần thoại?], [#strong[K1] Khởi nguyên (suy nguyên & sáng tạo) — #strong[K2] Không gian vũ trụ nhiều cõi — #strong[K3] Thời gian cổ sơ phiếm chỉ — #strong[K4] Nhân vật Khổng lồ/Thần linh — #strong[K5] Kì ảo phóng đại — #strong[1C] Cốt truyện đơn tuyến.],
+  [*03*], [Kể tên các văn bản ĐÃ HỌC trong Bài 1 — SGK *Kết nối tri thức* (sẽ KHÔNG ra làm ngữ liệu chính)?], [*Thần Trụ Trời, Thần Sét, Thần Gió* (chùm *Truyện về các vị thần sáng tạo thế giới*) · *Tản Viên từ Phán sự lục* (Nguyễn Dữ) · *Chữ người tử tù* (Nguyễn Tuân) · Thực hành đọc *Tê-dê*. Lưu ý: chỉ ba truyện đầu là #strong[thần thoại]; *Tản Viên từ Phán sự lục* và *Chữ người tử tù* là truyện truyền kì/hiện đại — dùng làm dẫn chứng so sánh, không dùng để suy ra đặc trưng thể loại thần thoại.],
+  [*04*], [Giải mã khẩu quyết #strong[“5K – 1C”] nhận diện thể loại Thần thoại?], [#strong[K1] Khoảng thời gian cổ sơ, phiếm chỉ — #strong[K2] Không gian vũ trụ nhiều cõi — #strong[K3] Kết cấu cốt truyện đơn tuyến — #strong[K4] Khổng lồ nhân vật thần linh siêu nhiên — #strong[K5] Kì ảo, cường điệu, phóng đại — #strong[1C] Chức năng cắt nghĩa tự nhiên & khát vọng nhân sinh. (Câu ghi nhớ: *“Khoảng thời phiếm — Không gian đa — Kết cấu đơn — Khổng lồ thần — Kì ảo đại ⟹ Cắt nghĩa đời”*.)],
   [*05*], [Phân biệt *Thần thoại suy nguyên* và *Thần thoại sáng tạo*?], [#strong[Suy nguyên:] cắt nghĩa nguồn gốc vũ trụ, muôn loài, hiện tượng tự nhiên (*Thần Mưa, Nữ thần Mặt Trời...*). #strong[Sáng tạo:] ngợi ca anh hùng văn hoá chinh phục thiên nhiên, truyền nghề (*Prô-mê-tê, Thần Lúa, Sơn Tinh...*).],
   [*06*], [Điểm khác biệt cốt lõi nhất giữa #strong[Thần thoại] và #strong[Truyền thuyết] là gì?], [Thần thoại diễn ra ở #strong[thời gian cổ sơ phiếm chỉ] gắn với các vị thần kiến tạo vũ trụ; Truyền thuyết gắn với #strong[thời đại lịch sử xác định] (Hùng Vương, An Dương Vương...) và nhân vật/sự kiện lịch sử được kì ảo hóa.],
   [*07*], [Điểm khác biệt cốt lõi giữa #strong[Thần thoại] và #strong[Truyện cổ tích] là gì?], [Thần thoại giải thích tự nhiên (*“Vì sao có...?”*); Cổ tích giải quyết xung đột đạo đức – xã hội đời thường (*thiện – ác, giàu – nghèo*) theo ước mơ công lí *“ở hiền gặp lành”*.],
@@ -108,3 +108,41 @@ Trước khi đặt bút nộp bài lúc hết 90 phút, hãy dành đúng #stro
   [*7*], [Số tờ giấy thi & Phách], [Ghi đầy đủ Họ tên, Số báo danh, Lớp, Phòng thi và #strong[tổng số tờ giấy thi] nộp cho giám thị.],
   [*8*], [Tâm thế tự tin], [Hít sâu, giữ bài làm sạch sẽ, trình bày thoáng rõ từng phần `I. ĐỌC HIỂU` và `II. VIẾT`.]
 )
+
+= 7.5. Nguồn Tài liệu Tham khảo & Lời Kết
+
+Các văn bản ngữ liệu trong đề cương được trích từ những nguồn sau:
+
+#study-table(
+  (2.6fr, 2.4fr, 2.0fr),
+  ("Văn bản", "Nguồn trích", "Dùng ở"),
+  [*Nữ thần Mặt Trời và Mặt Trăng*, *Thần Mưa*, *Mười hai Bà Mụ*],
+  [Nguyễn Đổng Chi, *Lược khảo về thần thoại Việt Nam*, NXB Khoa học Xã hội, Hà Nội, 2003 (in lần đầu 1956)],
+  [Đề 01, 02, 04; mục 2.5],
+  [*Nữ thần Lúa*],
+  [*Kho tàng truyện thần thoại Việt Nam* (tuyển tập dân gian)],
+  [Đề 03],
+  [*Cuộc tu bổ lại các giống vật*],
+  [Truyện thần thoại Việt Nam, bản kể phổ biến trong các tuyển tập dân gian],
+  [Đề 04; mục 2.5],
+  [*Sự tích Ông Đùng, bà Đùng*],
+  [Truyện cổ dân tộc Mường, *Kho tàng thần thoại các dân tộc Việt Nam*],
+  [Đề 05],
+  [*Nữ Oa vá trời*],
+  [Thần thoại Trung Quốc, bản dịch của Thái Hoàng và Bùi Văn Nguyên],
+  [Đề 05; mục 2.5],
+  [*Prô-mê-tê và loài người*],
+  [Nguyễn Văn Khoả, *Thần thoại Hy Lạp*, tập I, NXB Khoa học Xã hội, Hà Nội, 1990],
+  [Đề 06; mục 2.5],
+  [*Thần Trụ Trời*, *Thần Sét*, *Thần Gió*, *Tản Viên từ Phán sự lục*, *Chữ người tử tù*, *Tê-dê*],
+  [SGK Ngữ văn 10, tập 1, *Kết nối tri thức với cuộc sống*, NXB Giáo dục Việt Nam],
+  [Mục 2.4; phần đối sánh ở các đề]
+)
+
+#callout(tone: "primary", title: "LỜI KẾT", breakable-box: false)[
+  Đề cương này không thay thế việc đọc văn bản. Nó chỉ xếp lại những gì em đã học thành một trật tự dùng được trong phòng thi: biết đề hỏi gì, biết trả lời theo khung nào, biết chỗ nào dễ mất điểm.
+
+  Ba việc nên làm trong hai tuần cuối: đọc lại ba truyện thần thoại trong SGK để nhớ đúng chi tiết, làm trọn một đề bấm giờ mỗi lần ôn, và ghi ra giấy những lỗi mình lặp lại. Điểm giữa kì I phần lớn nằm ở sự chắc chắn, không nằm ở câu văn hoa mĩ.
+
+  Chúc em làm bài bình tĩnh và đúng sức mình.
+]

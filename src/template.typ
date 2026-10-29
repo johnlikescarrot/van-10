@@ -32,8 +32,11 @@
 #let c-border     = rgb("#D0D5DD")
 #let c-ink        = rgb("#182230")
 
-#let font-sans  = ("Be Vietnam Pro", "DejaVu Sans")
-#let font-serif = ("Lora", "DejaVu Serif")
+// Guide Symbols = bản rút gọn từ Noto Sans Symbols 2, chỉ giữ đúng các kí hiệu
+// mũi tên / hình khối / dấu kiểm dùng trong tài liệu (Be Vietnam Pro và Lora
+// không có những mã này). Nhờ vậy không còn kí tự nào phải rơi về DejaVu.
+#let font-sans  = ("Be Vietnam Pro", "Guide Symbols", "DejaVu Sans")
+#let font-serif = ("Lora", "Guide Symbols", "DejaVu Serif")
 
 // Nhãn cấp độ nhận thức (Badges)
 #let badge(label, bg: c-blue-soft, fg: c-indigo, bdr: c-blue-bdr) = box(
@@ -312,6 +315,10 @@
   set text(font: font-sans, lang: "vi", size: 9.8pt, fill: c-ink)
   set par(leading: 0.62em, spacing: 0.78em, justify: true)
   set heading(offset: 1)
+  // Mốc danh sách lồng nhau: mặc định của Typst dùng kí tự ‣ (U+2023) mà
+  // Be Vietnam Pro không có, nên khai báo tường minh bằng bộ kí tự nằm trong
+  // Guide Symbols để toàn bộ mốc danh sách cùng một bộ font.
+  set list(marker: ([•], [▸], [–]))
   show raw: set text(font: font-sans, size: 9.1pt, weight: "semibold", fill: c-indigo)
 
   show outline.entry.where(level: 1): it => {

@@ -3,7 +3,7 @@
 #part-banner(
   "PHẦN II",
   "Hệ Thống Hóa Tri Thức Ngữ Văn & Thể Loại Thần Thoại",
-  "Sơ đồ hóa Dual-Coding • Khẩu quyết 5K–1C • Phân biệt 5 thể loại tự sự • Giải phẫu 4 văn bản SGK & 12 thần thoại ngoài SGK"
+  "Sơ đồ hóa Dual-Coding • Khẩu quyết 5K–1C • Phân biệt 5 thể loại tự sự • Giải phẫu 6 văn bản SGK & 12 thần thoại ngoài SGK"
 )
 
 = 2.1. Hệ thống Tri thức Nền tảng về Truyện kể (SGK Kết nối tri thức — Bài 1)
@@ -95,7 +95,7 @@
 *2. Ba nền tảng tư duy sản sinh ra thần thoại (vũ khí lí luận ăn điểm Sáng tạo bài Viết):*
 - #strong[Tư duy “Vạn vật hữu linh” (Animism):] Khi khoa học chưa phát triển, đứng trước thiên nhiên hùng vĩ và bí ẩn, người nguyên thủy tin rằng mọi sự vật, hiện tượng (bầu trời, mặt đất, sấm sét, gió mưa, mặt trời, mặt trăng, cây lúa, ngọn lửa...) đều có linh hồn sống động và do một vị thần cai quản. Họ *nhân cách hóa tự nhiên* bằng trí tưởng tượng kì vĩ.
 - #strong[Tính nguyên hợp (Syncretism):] Thần thoại không chỉ là nghệ thuật ngôn từ mà là một chỉnh thể nguyên hợp chứa đựng đồng thời *khoa học sơ khai* (lí giải tự nhiên), *triết học mộc mạc* (vũ trụ quan), *tôn giáo – tín ngưỡng* (tục thờ thần, nghi lễ cầu mùa) và *lịch sử – văn hoá tộc người*.
-- #strong[Vẻ đẹp “một đi không trở lại” (Nhận định kinh điển của C. Mác):] C. Mác gọi thần thoại Hy Lạp và thần thoại cổ đại nói chung là *“thời thơ ấu bình thường của nhân loại”* — nơi vẻ đẹp hồn nhiên, ngây thơ, trong trẻo và bay bổng tuyệt vời của trí tưởng tượng cổ sơ tỏa sáng rực rỡ, mang sức quyến rũ vĩnh hằng mà các thời đại văn minh về sau không thể nào tái tạo y nguyên được nữa.
+- #strong[Vẻ đẹp “một đi không trở lại” (Nhận định kinh điển của C. Mác):] C. Mác gọi thần thoại Hy Lạp và thần thoại cổ đại nói chung là *“thời thơ ấu bình thường của nhân loại”*, nơi vẻ đẹp hồn nhiên, ngây thơ, trong trẻo và bay bổng tuyệt vời của trí tưởng tượng cổ sơ tỏa sáng rực rỡ, mang sức quyến rũ vĩnh hằng mà các thời đại văn minh về sau không thể nào tái tạo y nguyên được nữa.
 
 == B. Phân loại Thần thoại (Theo Chủ đề & Đề tài)
 
@@ -190,9 +190,11 @@ Trong câu hỏi số 1 của đề thi (xác định thể loại hoặc đặc
   *(Thần thoại giải thích khởi nguyên • Sử thi ca ngợi anh hùng bộ tộc • Truyền thuyết gắn mốc lịch sử • Cổ tích thưởng người hiền đời thường • Truyền kì văn viết mượn kì ảo nói chuyện đời).*
 ]
 
-= 2.4. Hệ thống hóa 04 Văn bản SGK Kết nối tri thức Bài 1 (Chuẩn đối sánh & Mở rộng)
+= 2.4. Hệ thống hóa 06 Văn bản SGK Kết nối tri thức Bài 1 (Chuẩn đối sánh & Mở rộng)
 
-Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc 4 văn bản Bài 1 giúp học sinh: *(1) thành thạo thao tác giải mã thể loại mẫu; (2) sở hữu kho dẫn chứng đối sánh cực kì đắt giá để ăn trọn 0,5 điểm Sáng tạo trong bài văn Câu 11!*
+Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc các văn bản Bài 1 giúp học sinh: *(1) thành thạo thao tác giải mã thể loại mẫu; (2) sở hữu kho dẫn chứng đối sánh cực kì đắt giá để ăn trọn 0,5 điểm Sáng tạo trong bài văn Câu 11!*
+
+Một lưu ý dễ nhầm: Bài 1 gồm sáu văn bản nhưng #strong[chỉ ba truyện đầu là thần thoại] (mục 1 dưới đây, gồm *Thần Trụ Trời*, *Thần Sét*, *Thần Gió*). *Tản Viên từ Phán sự lục* là truyện truyền kì trung đại, *Chữ người tử tù* là truyện ngắn hiện đại. Hai văn bản này được đưa vào bài để làm rõ sự vận động của truyện kể và để luyện kĩ năng đọc truyện nói chung, nên khi dẫn chứng cho bài văn về thần thoại phải dùng chúng ở vị trí #strong[so sánh, đối chiếu], không dùng để suy ra đặc trưng thể loại thần thoại. Tương tự, *Tê-dê* là thần thoại nhưng thuộc nhóm thần thoại anh hùng của Hy Lạp, nằm ở phần Thực hành đọc.
 
 #study-table(
   (1.4fr, 1.1fr, 2.5fr, 2.0fr),
@@ -210,7 +212,7 @@ Mặc dù ngữ liệu thi là văn bản ngoài SGK, việc nắm chắc 4 văn
 
   [*3. Chữ người tử tù*\ *(Nguyễn Tuân — Vang bóng một thời)*],
   [Truyện ngắn hiện đại.\ Ngôi thứ ba (điểm nhìn linh hoạt).],
-  [Tình huống éo le chốn đề lao: Huấn Cao (tử tù tài hoa viết chữ đẹp, khí phách hiên ngang, thiên lương trong sáng) và Quản ngục – Thơ lại (tấm lòng *biệt nhỡn liên tài*). Đỉnh cao là *cảnh cho chữ* ban đêm trong buồng tối bẩn thỉu — sự đảo lộn ngôi vị kì diệu và lời khuyên *“thiên lương”*.],
+  [Tình huống éo le chốn đề lao: Huấn Cao (tử tù tài hoa viết chữ đẹp, khí phách hiên ngang, thiên lương trong sáng) và Quản ngục – Thơ lại (tấm lòng *biệt nhỡn liên tài*). Đỉnh cao là *cảnh cho chữ* ban đêm trong buồng tối bẩn thỉu, sự đảo lộn ngôi vị kì diệu và lời khuyên *“thiên lương”*.],
   [• Tôn vinh sự chiến thắng của cái Đẹp, cái Thiện trước cái xấu, cái ác; cái Đẹp bất tử gắn liền với nhân cách thiên lương.\ • *Mẫu mực kĩ năng Viết:* Cách phân tích tình huống truyện, thủ pháp đối lập, ngôn ngữ giàu từ Hán Việt cổ kính.],
 
   [*4. Tê-dê (Thésée)*\ *(Thực hành đọc — Thần thoại Hy Lạp)*],
@@ -292,4 +294,4 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
 
 Đưa nhận xét đối sánh liên văn hoá vào đoạn đánh giá cuối Thân bài là #strong[“tuyệt chiêu lấy điểm 9+”]:
 - #strong[Điểm tương đồng phổ quát:] Đều nảy sinh từ tư duy *vạn vật hữu linh* buổi bình minh nhân loại; đều đặt nhân vật thần linh khổng lồ trong không gian vũ trụ và thời gian cổ sơ phiếm chỉ; đều sử dụng thủ pháp phóng đại kì ảo để cắt nghĩa tự nhiên và gửi gắm khát vọng chinh phục thế giới.
-- #strong[Bản sắc riêng độc đáo của Thần thoại Việt Nam:] Mang đậm dấu ấn #strong[nền văn minh nông nghiệp lúa nước nhiệt đới gió mùa] — các vị thần gần gũi, mộc mạc, bình dị như người nông dân Việt (biết cày cục đắp đất, nóng nảy sợ tiếng gà, hay quên gây hạn lụt, hờn dỗi khi sân bẩn...), ít có những cuộc chiến tranh quyền lực đẫm máu trên đỉnh Ô-lim-pơ như thần thoại Hy Lạp hay quy mô triều chính đồ sộ như thần thoại Trung Hoa, mà thấm đẫm *khát vọng mưa thuận gió hòa, mùa màng tươi tốt và lối sống hòa hợp, ân nghĩa với tự nhiên*.
+- #strong[Bản sắc riêng độc đáo của Thần thoại Việt Nam:] Mang đậm dấu ấn #strong[nền văn minh nông nghiệp lúa nước nhiệt đới gió mùa]: các vị thần gần gũi, mộc mạc, bình dị như người nông dân Việt (biết cày cục đắp đất, nóng nảy sợ tiếng gà, hay quên gây hạn lụt, hờn dỗi khi sân bẩn...), ít có những cuộc chiến tranh quyền lực đẫm máu trên đỉnh Ô-lim-pơ như thần thoại Hy Lạp hay quy mô triều chính đồ sộ như thần thoại Trung Hoa, mà thấm đẫm *khát vọng mưa thuận gió hòa, mùa màng tươi tốt và lối sống hòa hợp, ân nghĩa với tự nhiên*.

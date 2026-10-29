@@ -8,7 +8,11 @@
 
 = 1.1. Tổng quan Mục tiêu & Tinh thần Đổi mới của Đề Kiểm tra Giữa kì I (2026 – 2027)
 
-Theo văn bản chính thức *Ma trận, Bản đặc tả đề kiểm tra Giữa kì I lớp 10 năm học 2026 – 2027 (thời gian 90 phút)*, đề kiểm tra được thiết kế nghiêm ngặt theo định hướng đánh giá năng lực của Chương trình Giáo dục phổ thông 2018 (Công văn 3175/BGDĐT-GDTrH về đổi mới dạy học và kiểm tra, đánh giá môn Ngữ văn) và bám sát trục kĩ năng trọng tâm nửa đầu Học kì I của bộ sách *Kết nối tri thức với cuộc sống* (*Bài 1: Sức hấp dẫn của truyện kể*).
+Theo văn bản chính thức *Ma trận, Bản đặc tả đề kiểm tra Giữa kì I lớp 10 năm học 2026 – 2027 (thời gian 90 phút)*, đề kiểm tra được thiết kế theo định hướng đánh giá năng lực của Chương trình Giáo dục phổ thông 2018 và bám sát trục kĩ năng trọng tâm nửa đầu Học kì I của bộ sách *Kết nối tri thức với cuộc sống* (*Bài 1: Sức hấp dẫn của truyện kể*).
+
+Cần phân biệt rõ hai tầng căn cứ để không suy diễn sai khi ôn tập:
+- *Tầng pháp quy:* Thông tư 22/2021/TT-BGDĐT quy định đánh giá học sinh THPT; Công văn 3175/BGDĐT-GDTrH (21/7/2022) hướng dẫn đổi mới dạy học và kiểm tra, đánh giá môn Ngữ văn, trong đó khuyến khích dùng ngữ liệu ngoài sách giáo khoa và hạn chế dùng lại văn bản đã học.
+- *Tầng kĩ thuật của đề:* đề kiểm tra cụ thể ở trường được xây dựng theo ma trận và bản đặc tả riêng. Các văn bản hướng dẫn của Bộ không ấn định tỉ lệ 60/40, cũng không bắt buộc phải có trắc nghiệm; đó là lựa chọn hình thức của cơ sở giáo dục. Vì vậy tỉ lệ *6,0 điểm Đọc hiểu – 4,0 điểm Viết* cùng cấu trúc *8 câu trắc nghiệm + 2 câu tự luận + 1 bài văn* dưới đây là phương án mà đề của trường đang áp dụng. Học sinh vẫn nên luyện đúng cấu trúc này, nhưng hiểu đúng bản chất để không ngạc nhiên nếu gặp đề tự luận hoàn toàn.
 
 Điểm cốt lõi quyết định phương pháp ôn tập nằm ở quy tắc #strong[“100% ngữ liệu ngoài sách giáo khoa”]:
 - *Về năng lực Đọc hiểu (60% tổng điểm):* Học sinh không học thuộc lòng văn bản có sẵn trong SGK mà phải vận dụng thành thạo hệ thống tri thức thể loại #strong[truyện thần thoại] (không gian, thời gian, cốt truyện, sự kiện, nhân vật, chi tiết kì ảo, ngôi kể, lời trần thuật, đề tài, chủ đề, bối cảnh lịch sử – văn hoá) để giải mã một văn bản thần thoại hoàn toàn mới ngoài SGK.
@@ -51,7 +55,7 @@ Bảng dưới đây tái hiện chính xác Ma trận gốc và thực hiện p
 )
 
 #formula-box(title: "GIẢI MÃ KÍ HIỆU 1* TRONG MA TRẬN & CƠ CẤU ĐIỂM CHUẨN")[
-  Trong Ma trận chuẩn của Bộ GD&ĐT, kí hiệu *1\** ở hàng *Viết* cho biết cả ba mức độ *Biết – Hiểu – Vận dụng* không tách thành ba câu rời mà #strong[tích hợp trong duy nhất 01 bài văn nghị luận (Câu 11 — 4,0 điểm)]. Đối chiếu chéo dòng *Tỉ lệ điểm từng loại câu hỏi*, ta xác lập chính xác biểu điểm từng câu như sau:
+  Trong ma trận của đề, kí hiệu *1\** ở hàng *Viết* cho biết cả ba mức độ *Biết – Hiểu – Vận dụng* không tách thành ba câu rời mà #strong[tích hợp trong duy nhất 01 bài văn nghị luận (Câu 11, 4,0 điểm)]. Đối chiếu chéo dòng *Tỉ lệ điểm từng loại câu hỏi*, ta xác lập chính xác biểu điểm từng câu như sau:
   - *Câu 1 → Câu 6 (TNKQ Nhận biết):* 6 câu × 0,5 điểm = *3,0 điểm (30%)* — vùng điểm “ăn chắc 100%” không được phép sai.
   - *Câu 7 → Câu 8 (TNKQ Thông hiểu):* 2 câu × 0,5 điểm = *1,0 điểm (10%)* — phân loại khả năng suy luận ý nghĩa chi tiết, nhân vật, chủ đề.
   - *Câu 9 (Tự luận Đọc hiểu – Thông hiểu):* 1 câu × 1,0 điểm = *1,0 điểm (10%)* — trả lời ngắn 4–6 dòng, chia 2–4 ý chấm từng 0,25đ.
