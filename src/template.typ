@@ -302,7 +302,7 @@
         #set text(font: font-sans, size: 7.8pt, fill: c-muted)
         #grid(
           columns: (1fr, auto),
-          [Bám sát 100% Ma trận & Bản đặc tả Kiểm tra Giữa kì I (90 phút • 11 câu • Thang điểm 10)],
+          [Ôn tập theo ma trận được cung cấp (90 phút • 11 câu • Thang điểm 10)],
           text(weight: "bold", fill: c-navy)[Trang #counter(page).display("1 / 1", both: true)]
         )
       ]
@@ -448,7 +448,7 @@
             #text(size: 8pt, fill: rgb("#E2E8F0"))[Sơ đồ hóa Dual-Coding, Khẩu quyết 5K–1C, Ma trận phân biệt 5 thể loại tự sự & 12 thần thoại ngoài SGK.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
-            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[02. PHỦ KÍN 100% BẢN ĐẶC TẢ]\
+            #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[02. THEO BẢN ĐẶC TẢ]\
             #text(size: 8pt, fill: rgb("#E2E8F0"))[13/13 chỉ báo Đọc hiểu, chuyên đề Từ Hán Việt & Tu từ, Công thức 4 bước trả lời Tự luận đạt điểm tối đa.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[

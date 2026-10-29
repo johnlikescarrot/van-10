@@ -2,7 +2,7 @@
 
 #part-banner(
   "PHẦN VI",
-  "Bộ 06 Đề Kiểm Tra Giữa Kì I Chuẩn 100% Ma Trận & Đáp Án Toàn Diện",
+  "Bộ 06 Đề Luyện Tập & Đáp Án Tham Khảo",
   "66 câu hỏi chuẩn cấu trúc 90 phút • Giải thích loại trừ từng phương án nhiễu • Thang chấm 0,25đ & 06 Bài văn mẫu hoàn chỉnh"
 )
 
@@ -117,7 +117,7 @@ D. Khuyên răn người già và người trẻ phải biết phân chia công 
 #essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 01 (~920 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
   Bàn về sức quyến rũ vĩnh hằng của thần thoại cổ đại, C. Mác từng nhận định đầy say mê rằng đó là *“thời thơ ấu bình thường của nhân loại”* — nơi vẻ đẹp hồn nhiên, trong trẻo *“một đi không trở lại”* mãi mãi tỏa sáng qua hàng ngàn năm lịch sử. Trở về buổi bình minh hồng hoang của dân tộc qua công trình *Lược khảo về thần thoại Việt Nam* của học giả Nguyễn Đổng Chi, người đọc không khỏi ngỡ ngàng trước vẻ đẹp vừa kì ảo vừa mộc mạc của truyện *Nữ thần Mặt Trời và Mặt Trăng*. Bằng trí tưởng tượng bay bổng kết hợp lối kể chuyện duyên dáng, tác phẩm không chỉ thể hiện chủ đề nhận thức, cắt nghĩa thế giới thiên văn đầy thú vị của người Việt cổ mà còn kết tinh những nét đặc sắc tiêu biểu về hình thức nghệ thuật của thể loại thần thoại suy nguyên.
 
-  Thuộc nhóm thần thoại suy nguyên kể về nguồn gốc các hiện tượng tự nhiên, *Nữ thần Mặt Trời và Mặt Trăng* xoay quanh hai cô con gái của Ngọc Hoàng được giao sứ mệnh hằng ngày luân phiên ngồi kiệu đi xem xét hạ giới. Tác phẩm lần lượt giải thích vì sao ngày có khi dài khi ngắn qua bước chân của hai tốp người khiêng kiệu trẻ và già; lí giải vì sao ánh trăng dịu mát, có chu kì tròn – khuyết và quầng mờ qua sự việc cô Mặt Trăng nóng nảy bị mẹ trát tro lên mặt; đồng thời cắt nghĩa hiện tượng nhật thực, nguyệt thực cùng tập tục đánh chiêng trống, gõ cối giã gạo của dân gian qua câu chuyện người chồng Gấu đến thăm hai nữ thần.
+  Thuộc nhóm thần thoại suy nguyên kể về nguồn gốc các hiện tượng tự nhiên, *Nữ thần Mặt Trời và Mặt Trăng* xoay quanh hai cô con gái của Ngọc Hoàng được giao nhiệm vụ luân phiên xem xét hạ giới; cô chị Mặt Trời ngồi kiệu. Tác phẩm lần lượt giải thích vì sao ngày có khi dài khi ngắn qua bước chân của hai tốp người khiêng kiệu trẻ và già; lí giải vì sao ánh trăng dịu mát, có chu kì tròn – khuyết và quầng mờ qua sự việc cô Mặt Trăng nóng nảy bị mẹ trát tro lên mặt; đồng thời cắt nghĩa hiện tượng nhật thực, nguyệt thực cùng tập tục đánh chiêng trống, gõ cối giã gạo của dân gian qua câu chuyện người chồng Gấu đến thăm hai nữ thần.
 
   Trước hết, giá trị cốt lõi làm nên sức sống của tác phẩm nằm ở chủ đề giàu tính nhận thức và thấm đẫm tinh thần nhân văn của cư dân nông nghiệp cổ đại. Sống giữa thiên nhiên bao la khi khoa học thiên văn chưa ra đời, tổ tiên ta luôn trăn trở trước nhịp vận hành huyền bí của bầu trời: vì sao có ngày nắng chói và đêm trăng thanh, vì sao ngày mùa hạ dài lê thê còn ngày mùa đông vụt tắt nhanh chóng, vì sao vầng trăng tròn rồi lại khuyết, và vì sao đôi lúc Mặt Trời, Mặt Trăng bỗng dưng bị bóng tối nuốt chửng? Từ tư duy *“vạn vật hữu linh”*, tác giả dân gian đã hóa giải mọi câu hỏi ấy thành một câu chuyện gia đình nhà Trời hết sức hợp lí theo lô-gích hồn nhiên cổ sơ. Sâu sắc hơn, ẩn sau khát vọng giải thích tự nhiên ấy là ước mơ tha thiết của cư dân lúa nước về một vũ trụ điều hòa, êm dịu. Chi tiết nhân dân khổ sở vì sức nóng gay gắt rồi yêu mến cô Mặt Trăng dịu hiền, hay hành động gõ cối giã gạo xua Gấu vì sợ *“có hại cho mùa màng”* đã cho thấy mọi suy tư của người Việt xưa đều hướng về sự bình yên của ruộng đồng và cuộc sống ấm no nơi trần thế. Đồng thời, truyện còn kín đáo gửi gắm bài học nhân sinh về ý thức làm tròn bổn phận và biết tiết chế cái tôi nóng nảy vì lợi ích cộng đồng.
 
@@ -301,8 +301,8 @@ C. Tục dựng cây nêu ngày Tết Nguyên đán. #h(2.1em) D. Lễ cúng Mư
 A. Các vị thần linh bất tử sống trên Thiên đình. #h(1.3em) B. Muôn loài chúng sinh có sự sống (con người và loài vật).\
 C. Những ngôi đền thờ cổ kính linh thiêng. #h(2.3em) D. Các hiện tượng sấm chớp trên bầu trời.
 
-*Câu 7* #badge-hieu. Việc tác giả dân gian khắc họa Nữ thần Lúa có *“dáng người ẻo lả, tính hay hờn dỗi”* bắt nguồn từ cơ sở quan sát thực tế nào trong nghề trồng lúa?\
-A. Cây lúa vốn thân mềm mảnh mai, uốn cong trước gió và rất nhạy cảm với thời tiết, đất đai, đòi hỏi người nông dân phải chăm bẵm nâng niu kĩ lưỡng.\
+*Câu 7* #badge-hieu. Hình ảnh Nữ thần Lúa có *“dáng người ẻo lả, tính hay hờn dỗi”* đem lại tác dụng nào cho câu chuyện?\
+A. Nhân hóa cây lúa, khiến hình tượng nữ thần trở nên gần gũi và có tính cách như con người.\
 B. Cây lúa có thân gỗ cứng cáp mọc trên những đỉnh núi đá cheo leo.\
 C. Người xưa muốn phê phán thói đỏng đảnh của phụ nữ chốn cung đình.\
 D. Tác giả dân gian ngẫu nhiên bịa đặt không dựa trên đặc điểm thực tế nào.
@@ -334,7 +334,7 @@ D. Chứng minh lúa ngày xưa ngon hơn lúa ngày nay.
     [*4*], [*C*], [CB2 – Biết], [Đoạn 3 nêu rõ hai lí do kết hợp: sân đường rác rưởi bẩn thỉu + bị cô gái phang cán chổi vào đầu mắng mỏ.],
     [*5*], [*B*], [CB4 – Biết], [Đoạn kết giải thích trực tiếp nguồn gốc lễ *cúng hồn Lúa / cúng cơm mới* của cư dân trồng lúa.],
     [*6*], [*B*], [CB3 – Biết], [*Sinh linh* (Hán Việt) chỉ muôn loài sinh vật có linh tính, sự sống trên mặt đất.],
-    [*7*], [*A*], [CB6 – Hiểu], [Thân lúa mảnh mai uốn rũ (*ẻo lả*) và cực kì nhạy cảm, hễ thiếu chăm sóc là *“cỏ lép”* (*hay hờn dỗi*) → sự nhân hóa tuyệt diệu từ kinh nghiệm nhà nông!],
+    [*7*], [*A*], [CB6 – Hiểu], [Nữ thần mang dáng vẻ và tính cách con người: đây là hình thức nhân hóa, giúp câu chuyện gần gũi.],
     [*8*], [*B*], [CB7 – Hiểu], [Khái quát đúng hai lớp ý nghĩa suy nguyên (nguồn gốc cây lúa, quy trình làm hạt gạo vất vả, lễ cơm mới) và đạo lí biết ơn thiên nhiên.]
   )
 
