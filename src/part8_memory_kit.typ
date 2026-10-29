@@ -2,109 +2,151 @@
 
 #part-banner(
   "PHẦN VII",
-  "Hệ Thống Ghi Nhớ Siêu Tốc & Lộ Trình Nước Rút 7 Ngày",
-  "Ứng dụng khoa học nhận thức hiện đại (Active Recall — Truy xuất chủ động, Spaced Repetition — Lặp lại ngắt quãng & Dual Coding — Mã hóa kép) giúp khắc sâu 100% kiến thức vào trí nhớ dài hạn trước giờ G."
+  "Kế hoạch ôn tập 7 ngày, 30 thẻ tự kiểm tra và tờ tóm tắt trước giờ thi",
+  "Lộ trình phân bổ 7 buổi ôn luyện, câu hỏi tự kiểm tra toàn diện kiến thức và bảng rà soát 5 phút cuối giờ"
 )
 
-= 7.1. Lộ Trình Ôn Tập Nước Rút 7 Ngày Đạt Điểm 9+ (Spaced Repetition Sprint)
+= 7.1. Kế hoạch ôn tập 07 ngày trước kì kiểm tra Giữa kì I
 
-Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm trước kì thi (*cramming*) khiến não bộ rơi vào ảo giác ghi nhớ và quên tới 65% khi gặp áp lực phòng thi. Hãy áp dụng lịch trình #strong[Lặp lại ngắt quãng 7 ngày] dưới đây (mỗi ngày 60 – 90 phút):
+Thay vì học dồn vào đêm cuối trước ngày thi, học sinh có thể chia đều khối lượng kiến thức thành 07 buổi ôn tập (mỗi buổi từ 60 đến 90 phút) theo trình tự từ nắm chuẩn cấu trúc đề, củng cố tri thức đến bấm giờ giải đề thực tế:
 
 #study-table(
-  (0.95fr, 1.9fr, 2.5fr, 1.45fr),
-  ("Ngày", "Trọng tâm Ôn luyện", "Hoạt động Truy xuất Chủ động (Active Recall)", "Ôn lặp lại (Review)"),
-  [*Ngày 1*\ *(60 phút)*], [Nắm vững Ma trận 2026–2027 & Tri thức Thần thoại (Phần I & II)], [Tự vẽ lại sơ đồ tư duy #strong[“5K – 1C”] ra giấy trắng không nhìn tài liệu; lập bảng phân biệt *Thần thoại suy nguyên* và *Thần thoại sáng tạo* kèm 3 ví dụ ngoài SGK.], [Kiểm tra chéo Flashcard số 01 → 10.],
-  [*Ngày 2*\ *(75 phút)*], [Làm chủ Tiếng Việt: Từ Hán Việt, BPTT & Liên kết (Phần III)], [Thuộc lòng khẩu quyết 4 lỗi dùng từ Hán Việt #strong[“ÂM NHẦM – NGHĨA LỆCH – CẢNH SAI – THỪA LẶP”]; thực hành giải thích 24 từ Hán Việt cốt lõi.], [Nhẩm lại công thức #strong[5K – 1C] (5 phút đầu buổi).],
-  [*Ngày 3*\ *(75 phút)*], [Kĩ thuật Phá nhiễu Đọc hiểu & Ngân hàng 40 câu Đặc tả (Phần IV)], [Tự làm 28 câu TNKQ + viết tay 4 câu TL (Câu 31, 33, 37, 39) theo công thức #strong[“GỌI – TRÍCH – GIẢI – CHỐT”] rồi đối chiếu đáp án.], [Ôn lại các cặp từ Hán Việt dễ nhầm (10 phút).],
-  [*Ngày 4*\ *(90 phút)*], [Phương pháp Viết Bài văn Nghị luận 4,0 điểm (Phần V)], [Học thuộc sơ đồ #strong[“Ngôi Đền 5 Tầng”], quy tắc #strong[P–E–E–V], chọn 02 mẫu Mở bài tâm đắc và 04 nhận định lí luận văn học để viết nháp thuộc lòng.], [Rà lại các câu TNKQ làm sai ở Ngày 3.],
-  [*Ngày 5*\ *(90 phút)*], [Thi thử bấm giờ thực chiến: #strong[Đề số 01 & Đề số 04] (Phần VI)], [Bấm đồng hồ đúng #strong[90 phút] làm trọn vẹn Đề 01 (Phương án A); buổi tối đọc phân tích Đề 04 (Phương án B — 2 ngữ liệu độc lập) và tự chấm theo Rubric 0,25đ.], [Ôn Flashcard số 11 → 22.],
-  [*Ngày 6*\ *(90 phút)*], [Thi thử bấm giờ thực chiến: #strong[Đề số 05 hoặc Đề số 06] (Phần VI)], [Chọn làm trọn vẹn Đề 06 (*Prô-mê-tê và loài người* — thần thoại nước ngoài) trong 90 phút; đọc kĩ 6 bài văn mẫu để tích lũy từ vựng bình giá giàu chất văn.], [Ôn lại toàn bộ lỗi sai từ Ngày 1 → Ngày 5.],
-  [*Ngày 7*\ *(45 phút)*], [Tổng rà soát nhẹ nhàng & Chuẩn bị tâm lí thi (Phần VII)], [Tự khảo toàn bộ #strong[24 Flashcards Truy xuất chủ động], đọc kĩ #strong[Trang Tóm Lược Toàn Năng] và #strong[Checklist 5 Phút Vàng]; nghỉ ngơi sớm trước 22h00.], [Tổng ôn vòng cuối toàn bộ từ khóa cốt lõi.]
+  (0.75fr, 1.35fr, 1.95fr, 1.25fr),
+  ("Buổi ôn", "Trọng tâm kiến thức", "Hoạt động tự học cụ thể", "Mục tiêu cần đạt"),
+  [*Ngày 1*], [Ma trận đề & Lí thuyết truyện kể _(Phần I, Mục 2.1)_],
+  [Đọc kĩ bảng quy đổi điểm 11 câu, 22 chỉ báo và 8 khái niệm tự sự; tự phân biệt trên giấy nháp 3 cặp khái niệm *Đề tài/Chủ đề*, *Câu chuyện/Cốt truyện*, *Ngôi kể/Người kể*.],
+  [Nắm rõ cấu trúc 10,0 điểm và nhịp giờ `12 – 18 – 55 – 5`.],
+  [*Ngày 2*], [Thể loại thần thoại & 15 văn bản ngoài SGK _(Mục 2.2 – 2.6)_],
+  [Ghi nhớ 6 đặc trưng, 10 mô-típ thần thoại và bảng phân biệt 5 thể loại tự sự kì ảo; đọc lướt hồ sơ 15 văn bản ngoài SGK để tích lũy vốn cốt truyện.],
+  [Nhận diện ngay tiểu loại và chủ đề khi gặp ngữ liệu mới.],
+  [*Ngày 3*], [Tiếng Việt Bài 1–2–3 & Kĩ năng Đọc hiểu _(Phần III & IV)_],
+  [Ôn bảng 12 cặp từ Hán Việt dễ nhầm, lỗi dùng từ – trật tự từ (Bài 2), lỗi mạch lạc – liên kết (Bài 3); tự làm 35 câu trắc nghiệm và 6 câu tự luận đầu ở Mục 4.4.],
+  [Đạt tối thiểu 32/35 câu trắc nghiệm đúng; viết thạo khung Câu 9, 10.],
+  [*Ngày 4*], [Chuyên đề Viết nghị luận truyện _(Phần V & Phần còn lại Mục 4.4)_],
+  [Đọc phân tích bài *Quà Giáng sinh* (SGK tr. 29–32), nắm hai lộ trình sắp xếp luận điểm Thân bài, đọc bài tham khảo *Chữ người tử tù* và hoàn thành Câu 42–50 ở Mục 4.4.],
+  [Thuộc vững dàn ý khung 4 đoạn Thân bài cho Câu 11 (4,0 điểm).],
+  [*Ngày 5*], [Bấm giờ giải Đề 01 & Đề 04 _(Phương án 1 & Phương án 2)_],
+  [Đặt đồng hồ đúng 90 phút tự làm trọn vẹn Đề 01 (một ngữ liệu chung), sau đó đối chiếu biểu điểm 0,25 và luyện lập dàn ý chi tiết cho Đề 04 (hai ngữ liệu độc lập).],
+  [Làm quen áp lực viết tay liên tục và xử lí cả hai phương án đề.],
+  [*Ngày 6*], [Bấm giờ giải Đề 05 hoặc Đề 06 _(Thần thoại nước ngoài)_],
+  [Chọn làm trọn vẹn 90 phút Đề 05 (*Nữ Oa vá trời*) hoặc Đề 06 (*Prô-mê-tê và loài người*); đọc kĩ các đề còn lại (Đề 02, Đề 03) để rút kinh nghiệm cách trích dẫn chứng.],
+  [Kiểm soát bài văn Câu 11 đạt khoảng 650–800 chữ trong 50 phút viết.],
+  [*Ngày 7*], [Tự kiểm tra 30 thẻ câu hỏi & Đọc tờ tóm tắt _(Mục 7.2 – 7.4)_],
+  [Che cột phải của bảng 30 thẻ câu hỏi để tự trả lời miệng; đọc lại tờ tóm tắt 1 trang và bảng rà soát 8 hạng mục cuối giờ; chuẩn bị bút viết và nghỉ ngơi sớm.],
+  [Tâm thế bình tĩnh, chủ động và nhớ chắc kiến thức cốt lõi.]
 )
 
-= 7.2. Bộ 24 Thẻ Truy Xuất Chủ Động (Active Recall Flashcards)
+= 7.2. Bộ 30 thẻ câu hỏi tự kiểm tra kiến thức cốt lõi
 
-#callout(
-  title: "HƯỚNG DẪN SỬ DỤNG THẺ FLASHCARD HIỆU QUẢ GẤP 3 LẦN ĐỌC THỤ ĐỘNG",
-  tone: "gold",
-  icon: "★"
-)[
-  Dùng một tờ giấy hoặc bàn tay #strong[che kín cột “Đáp án Chuẩn xác Cốt lõi” bên phải]. Đọc câu hỏi ở cột trái, tự trả lời thành tiếng hoặc gạch nhanh ra nháp, sau đó mới mở cột phải để đối chiếu. Đánh dấu ★ vào những thẻ chưa nhớ chính xác để ôn lại vào sáng hôm sau!
+*Cách sử dụng:* Dùng một tờ giấy che cột *Câu trả lời chuẩn xác* bên phải, đọc câu hỏi ở cột trái và tự nhẩm câu trả lời trước khi mở ra kiểm tra lại.
+
+#study-table(
+  (0.42fr, 1.98fr, 2.8fr),
+  ("Thẻ", "Câu hỏi tự kiểm tra", "Câu trả lời chuẩn xác cần nắm vững"),
+  [01], [Cơ cấu điểm và số câu của đề Giữa kì I?], [*90 phút – 11 câu – 10,0 điểm*: Đọc hiểu *6,0đ* (8 TN × 0,5đ + 2 TL × 1,0đ); Viết *4,0đ* (01 bài văn nghị luận).],
+  [02], [Tỉ lệ 3 mức độ tư duy trong ma trận?], [*Nhận biết 40% (4,0đ) • Thông hiểu 30% (3,0đ) • Vận dụng 30% (3,0đ)*.],
+  [03], [Kí hiệu `1*` ở hàng Viết có nghĩa là gì?], [Chỉ có *01 bài văn duy nhất (4,0đ)* nhưng chấm theo 3 tầng: *Nhận biết 1,0đ + Thông hiểu 1,0đ + Vận dụng 2,0đ*.],
+  [04], [Nhịp phân bổ 90 phút làm bài hợp lí nhất?], [`12 – 18 – 55 – 5`: *12p* làm 8 câu TN + *18p* viết Câu 9, 10 + *55p* làm Câu 11 (5p dàn ý + 50p viết) + *5p* rà soát.],
+  [05], [Phân biệt *Câu chuyện* và *Truyện kể*?], [*Câu chuyện* là chuỗi sự kiện khách quan theo trật tự trước – sau; *Truyện kể* là cách tổ chức nghệ thuật qua cốt truyện, ngôi kể, điểm nhìn, lời văn.],
+  [06], [Phân biệt *Đề tài* và *Chủ đề*?], [*Đề tài* là mảng hiện thực được viết tới (trả lời: *viết về cái gì?*); *Chủ đề* là tư tưởng cốt lõi gửi gắm qua văn bản (trả lời: *muốn nói điều gì sâu sắc?*).],
+  [07], [Thế nào là tư duy *vạn vật hữu linh*?], [Niềm tin hồn nhiên của người nguyên thủy rằng mọi vật thể, hiện tượng tự nhiên quanh mình đều có linh hồn, ý thức như con người.],
+  [08], [*Tính nguyên hợp* của thần thoại là gì?], [Sự hòa quyện chưa tách rời giữa sáng tạo nghệ thuật với tín ngưỡng, nhận thức tự nhiên tiền khoa học và triết lí dân gian.],
+  [09], [Hai tiểu loại thần thoại theo SGK tr. 10?], [*Thần thoại suy nguyên* (nguồn gốc vũ trụ, muôn loài) và *Thần thoại sáng tạo* (chinh phục tự nhiên, sáng tạo văn hóa).],
+  [10], [Sáu đặc trưng cốt lõi của thần thoại?], [(1) Không gian vũ trụ nhiều cõi; (2) Thời gian cổ sơ phiếm chỉ; (3) Cốt truyện đơn giản; (4) Nhân vật thần kì vĩ mà hồn nhiên; (5) Chi tiết kì ảo, phóng đại, nhân hóa; (6) Cắt nghĩa thế giới & gửi khát vọng.],
+  [11], [Dấu hiệu nhận biết *ngôi kể thứ ba*?], [Người kể chuyện giấu mình (không xưng *"tôi"*), gọi nhân vật bằng tên gọi của chúng và thường trần thuật từ *điểm nhìn toàn tri*.],
+  [12], [Khác biệt giữa *Thần thoại* và *Truyền thuyết*?], [*Thần thoại* đặt ở thuở khai thiên lập địa với nhân vật các thần tạo thế; *Truyền thuyết* gắn với thời đại, nhân vật và sự kiện lịch sử dựng nước – giữ nước.],
+  [13], [Khác biệt cái kì ảo *Thần thoại* và *Truyền kì*?], [Ở *thần thoại*, cái kì ảo là nhận thức hồn nhiên người xưa tin có thật; ở *truyện truyền kì*, cái kì ảo là thủ pháp hư cấu có ý thức của nhà văn trung đại.],
+  [14], [Bốn văn bản đọc trong Bài 1 SGK KNTT?], [3 văn bản chính: *Truyện về các vị thần sáng tạo thế giới*, *Tản Viên từ Phán sự lục*, *Chữ người tử tù*; 1 Thực hành đọc: *Tê-dê*.],
+  [15], [Phương thức biểu đạt của truyện thần thoại?], [Hỏi *phương thức chính*: chọn *Tự sự*. Hỏi *các phương thức kết hợp*: chọn *Tự sự, miêu tả, biểu cảm*.],
+  [16], [Tác dụng của kí hiệu `[...]` trong ngữ liệu?], [Đánh dấu phần văn bản gốc đã được lược bớt khi trích dẫn vào đề thi để tập trung vào mạch sự kiện chính.],
+  [17], [Phân biệt *Yếu điểm* và *Điểm yếu*?], [*Yếu điểm* = điểm trọng yếu, quan trọng nhất (`yếu`: cốt lõi); *Điểm yếu* = nhược điểm, mặt còn hạn chế.],
+  [18], [Viết đúng 4 từ Hán Việt dễ sai chính tả?], [*Xán lạn* (không viết *sáng lạn*); *Bàng quan* (thờ ơ, không viết *bàng quang*); *Bàng bạc* (lan tỏa); *Suy nguyên*.],
+  [19], [Ba nhóm lỗi dùng từ ở Bài 2 SGK tr. 58?], [(1) *Lỗi lặp từ* (lặp từ hoặc thừa từ đồng nghĩa); (2) *Lỗi dùng từ không đúng nghĩa*; (3) *Lỗi dùng từ sai phong cách ngôn ngữ*.],
+  [20], [Khi nào việc đảo vị trí từ KHÔNG phải là lỗi?], [Khi đó là *biện pháp tu từ đảo ngữ có chủ đích nghệ thuật* nhằm nhấn mạnh hình ảnh, cảm xúc (như *"Xanh xanh bãi mía bờ dâu"*).],
+  [21], [Phân biệt *Mạch lạc* và *Liên kết* (Bài 3)?], [*Mạch lạc* là sự thống nhất chủ đề và trình tự hợp lí ở tầng nội dung; *Liên kết* là các phép lặp, thế, nối, đồng nghĩa/trái nghĩa ở tầng hình thức.],
+  [22], [Lặp lại từ ngữ ở mọi câu có chắc chắn mạch lạc?], [*Không*. Nếu lặp từ bề mặt nhưng các câu tản mạn sang nhiều đề tài khác nhau thì đoạn văn vẫn mắc *lỗi thiếu mạch lạc*.],
+  [23], [Bốn bước trả lời Câu 9 tự luận (1,0 điểm)?], [(1) Mở câu bằng từ khóa đề hỏi; (2) Trích dẫn ngắn trong ngoặc kép; (3) Nêu tác dụng nghệ thuật; (4) Nêu ý nghĩa nội dung/chủ đề.],
+  [24], [Yêu cầu hình thức bắt buộc khi viết Câu 10?], [Viết thành *01 đoạn văn liền mạch* (7–9 dòng), lùi đầu dòng một lần duy nhất, *không xuống dòng tách ý, không gạch đầu dòng*.],
+  [25], [Năm yêu cầu kiểu bài Viết SGK trang 29?], [Giới thiệu tác phẩm; nêu rõ chủ đề; phân tích nghệ thuật gắn với chủ đề; lập luận có lí lẽ & dẫn chứng; khẳng định giá trị ở Kết bài.],
+  [26], [Hai lộ trình sắp xếp Thân bài hợp chuẩn SGK?], [*Lộ trình 1:* Đi từ Chủ đề sang Hình thức nghệ thuật (hợp thần thoại); *Lộ trình 2:* Đi từ Hình thức nghệ thuật đến Chủ đề (như bài *Quà Giáng sinh* SGK).],
+  [27], [Bốn nhịp viết đoạn Thân bài tránh kể lể suông?], [*Nêu câu chủ đề luận điểm; trích dẫn chứng ngắn chọn lọc; phân tích thủ pháp nghệ thuật và tầng nghĩa; chốt đóng góp vào chủ đề*.],
+  [28], [Hai cấp độ chỉnh sửa bài viết (SGK tr. 34)?], [*Cấp độ 1:* Rà soát nội dung và bố cục vĩ mô (đủ ý, cân đối chủ đề – nghệ thuật); *Cấp độ 2:* Rà soát chính tả, dùng từ, liên kết câu.],
+  [29], [Lưu ý sống còn khi gặp đề Phương án 2?], [Đọc thật kĩ yêu cầu Câu 11 để phân tích đúng *Ngữ liệu B in ở Phần Viết*, tuyệt đối không viết nhầm sang Ngữ liệu A của Phần Đọc hiểu.],
+  [30], [Lưu ý khi gặp dị bản thần thoại trên đề thi?], [Luôn *bám sát 100% chi tiết in trực tiếp trên tờ đề thi*, không lấy chi tiết của dị bản khác từng đọc ở nhà áp đặt vào bài làm.]
+)
+
+#pagebreak(weak: true)
+
+= 7.3. Tờ tóm tắt trọng tâm đọc nhanh 15 phút trước giờ thi
+
+#callout(title: "Tổng hợp kiến thức và phương pháp làm bài 90 phút trên 01 trang", tone: "primary", breakable-box: false)[
+  *1. NHẬN DIỆN NHANH ĐẶC TRƯNG THẦN THOẠI (06 ĐIỂM TỰA CỐT LÕI):*
+  - *Không gian:* Vũ trụ nguyên sơ đang tạo lập, nhiều cõi liên thông (*Thiên đình – Hạ giới – Thủy phủ*), không định giới hành chính.
+  - *Thời gian:* Cổ sơ, phiếm chỉ (*"thuở ấy"*, *"thuở hồng hoang"*, *"khi trời đất mới phân chia"*), mang tính ước lệ vĩnh hằng.
+  - *Tiểu loại:* *Thần thoại suy nguyên* (giải thích nguồn gốc vũ trụ, muôn loài) và *Thần thoại sáng tạo* (chinh phục tự nhiên, sáng tạo văn hóa).
+  - *Cốt truyện & Nhân vật:* Cốt truyện đơn giản, đơn tuyến xoay quanh *vị thần / người khổng lồ* vừa có quyền năng siêu nhiên kì vĩ, vừa có nét tính tình hồn nhiên đời thường (*nóng nảy, hay quên, hờn dỗi, giàu lòng thương người*).
+  - *Nghệ thuật đặc trưng:* Trí tưởng tượng kì ảo dựa trên tư duy *vạn vật hữu linh*; thủ pháp *phóng đại* và *nhân hóa*; *ngôi kể thứ ba* với điểm nhìn toàn tri của cộng đồng.
+  - *Chức năng kép:* Cắt nghĩa hiện tượng tự nhiên – phong tục xã hội, đồng thời tôn vinh lao động và khát vọng làm chủ thế giới.
+
+  #v(3pt)
+  *2. XỬ LÍ GỌN PHẦN ĐỌC HIỂU 6,0 ĐIỂM TRONG 30 PHÚT ĐẦU (PHÚT 01 – 30):*
+  - *Câu 1 – 8 Trắc nghiệm (4,0đ – 12 phút):* Đọc cước chú cuối văn bản trước; khoanh tròn từ *KHÔNG* nếu là câu phủ định; phân biệt rõ *phương thức biểu đạt chính* (*Tự sự*) và *các phương thức kết hợp* (*Tự sự, miêu tả, biểu cảm*); loại trừ các phương án mang đặc trưng lịch sử của truyền thuyết hoặc suy diễn ngoài văn bản.
+  - *Câu 9 Tự luận Thông hiểu (1,0đ – 8 phút, viết 6–8 dòng):* Mở câu bằng từ khóa câu hỏi; trích nguyên văn 1–2 cụm từ trong dấu ngoặc kép (*"..."*); giải thích rõ *hai mặt*: hiệu quả nghệ thuật (kì ảo, sinh động, hấp dẫn) và ý nghĩa nội dung (cắt nghĩa tự nhiên, gửi gắm ước vọng nhân sinh).
+  - *Câu 10 Tự luận Vận dụng (1,0đ – 10 phút, viết 01 đoạn văn 7–9 dòng):* Lùi đầu dòng một lần duy nhất, không gạch đầu dòng; triển khai đủ 4 ý: *(1) Nêu trực tiếp thông điệp / quan điểm đồng tình; (2) Lí giải nguyên nhân xác đáng; (3) Mở rộng góc nhìn thời hiện đại; (4) Bài học nhận thức và hành động của bản thân*.
+
+  #v(3pt)
+  *3. DÀN Ý CHUẨN CHO BÀI VĂN NGHỊ LUẬN CÂU 11 – 4,0 ĐIỂM (PHÚT 31 – 85):*
+  - *Mở bài (1 đoạn, 5–7 dòng):* Dẫn dắt từ buổi bình minh nhận thức hoặc niềm tin *vạn vật hữu linh*; giới thiệu chính xác *nhan đề truyện*, *thể loại / xuất xứ* (theo cước chú) và hai trọng tâm phân tích: *giá trị chủ đề* và *đặc sắc nghệ thuật*.
+  - *Thân bài (tách rõ 4 đoạn văn luận điểm – khoảng 500–650 chữ):*
+    + *Đoạn 1 (Khái quát & tóm tắt):* Xác định tiểu loại thần thoại; tóm tắt cốt truyện cô đọng trong 4–5 câu.
+    + *Đoạn 2 (Phân tích chủ đề):* Làm rõ tầng nghĩa giải thích tự nhiên/tập tục và tầng nghĩa nhân sinh (ca ngợi lao động, đoàn kết, lòng nhân ái, khát vọng chinh phục thiên nhiên).
+    + *Đoạn 3 (Phân tích hình thức nghệ thuật gắn với chủ đề):* Phân tích không gian – thời gian cổ sơ, nghệ thuật xây dựng nhân vật thần (phóng đại + nhân hóa), chi tiết kì ảo đắt giá nhất, ngôi kể thứ ba và lời kể dân gian.
+    + *Đoạn 4 (Đánh giá & đối sánh mở rộng):* Khẳng định sự thống nhất nội dung – hình thức; liên hệ đối sánh ngắn gọn 2–3 câu với *Thần Trụ Trời, Thần Sét, Thần Gió* hoặc *Tê-dê* (SGK *Ngữ văn 10*).
+  - *Kết bài (1 đoạn, 5–7 dòng):* Khẳng định sức sống vượt thời gian của tác phẩm và suy ngẫm chân thực của người đọc hôm nay.
+
+  #v(3pt)
+  *4. KIỂM SOÁT TIẾNG VIỆT TRÁNH MẤT ĐIỂM DIỄN ĐẠT:*
+  - Viết đúng chính tả: *xán lạn, suy nguyên, nguyên hợp, hồng hoang, kì ảo, bàng bạc, bàng quan*; không dùng nhầm *yếu điểm* thay cho *điểm yếu*, không dùng *khán giả* thay cho *độc giả*, không ghép sai quan hệ từ *"Mặc dù... nên..."*.
 ]
 
+#pagebreak(weak: true)
+
+= 7.4. Bảng rà soát 05 phút cuối giờ và phiếu theo dõi luyện đề
+
+=== A. Tám hạng mục kiểm tra bắt buộc từ phút 86 đến phút 90
+
 #study-table(
-  (0.55fr, 2.35fr, 3.8fr),
-  ("Thẻ", "Câu hỏi Kích hoạt Trí nhớ (Che cột phải)", "Đáp án Chuẩn xác Cốt lõi (Từ khóa ăn điểm)"),
-  [*01*], [Cấu trúc đề thi Giữa kì 1 Ngữ văn 10 (2026–2027) gồm mấy phần, mấy câu, thời gian bao lâu?], [#strong[90 phút — 11 câu — 10,0đ:] Phần Đọc hiểu #strong[6,0đ] (8 TNKQ × 0,5đ + 2 TL × 1,0đ, thần thoại ngoài SGK) + Phần Viết #strong[4,0đ] (01 bài văn nghị luận phân tích, đánh giá truyện thần thoại ngoài SGK).],
-  [*02*], [Tỉ lệ 3 mức độ tư duy trong toàn đề thi là bao nhiêu phần trăm?], [#strong[Nhận biết 40%] (3,0đ TN + 1,0đ Viết) — #strong[Thông hiểu 30%] (1,0đ TN + 1,0đ TL + 1,0đ Viết) — #strong[Vận dụng 30%] (1,0đ TL + 2,0đ Viết).],
-  [*03*], [Kể tên 4 văn bản thần thoại ĐÃ HỌC trong SGK *Kết nối tri thức* (sẽ KHÔNG ra làm ngữ liệu chính)?], [*(1) Thần Trụ Trời*, *(2) Thần Sét*, *(3) Thần Gió* (Việt Nam) và *(4) Tê-dê* (Hy Lạp — Thực hành đọc). Chỉ dùng 4 truyện này để #strong[liên hệ mở rộng]!],
-  [*04*], [Giải mã khẩu quyết #strong[“5K – 1C”] nhận diện thể loại Thần thoại?], [#strong[K1] Khởi nguyên (suy nguyên & sáng tạo) — #strong[K2] Không gian vũ trụ nhiều cõi — #strong[K3] Thời gian cổ sơ phiếm chỉ — #strong[K4] Nhân vật Khổng lồ/Thần linh — #strong[K5] Kì ảo phóng đại — #strong[1C] Cốt truyện đơn tuyến.],
-  [*05*], [Phân biệt *Thần thoại suy nguyên* và *Thần thoại sáng tạo*?], [#strong[Suy nguyên:] cắt nghĩa nguồn gốc vũ trụ, muôn loài, hiện tượng tự nhiên (*Thần Mưa, Nữ thần Mặt Trời...*). #strong[Sáng tạo:] ngợi ca anh hùng văn hoá chinh phục thiên nhiên, truyền nghề (*Prô-mê-tê, Thần Lúa, Sơn Tinh...*).],
-  [*06*], [Điểm khác biệt cốt lõi nhất giữa #strong[Thần thoại] và #strong[Truyền thuyết] là gì?], [Thần thoại diễn ra ở #strong[thời gian cổ sơ phiếm chỉ] gắn với các vị thần kiến tạo vũ trụ; Truyền thuyết gắn với #strong[thời đại lịch sử xác định] (Hùng Vương, An Dương Vương...) và nhân vật/sự kiện lịch sử được kì ảo hóa.],
-  [*07*], [Điểm khác biệt cốt lõi giữa #strong[Thần thoại] và #strong[Truyện cổ tích] là gì?], [Thần thoại giải thích tự nhiên (*“Vì sao có...?”*); Cổ tích giải quyết xung đột đạo đức – xã hội đời thường (*thiện – ác, giàu – nghèo*) theo ước mơ công lí *“ở hiền gặp lành”*.],
-  [*08*], [Phân biệt #strong[Câu chuyện (Story)] và #strong[Cốt truyện (Plot)]?], [#strong[Câu chuyện:] chuỗi sự việc theo trật tự thời gian tự nhiên trước – sau. #strong[Cốt truyện:] chuỗi sự kiện được tổ chức nghệ thuật theo quan hệ nhân quả/xung đột nhằm bộc lộ chủ đề.],
-  [*09*], [Cách nhận diện nhanh #strong[Ngôi kể thứ ba] và tác dụng của nó trong thần thoại?], [Người kể giấu mình (không xưng *“tôi”*), gọi tên các nhân vật (*Ngọc Hoàng, Nữ Oa, Prô-mê-tê...*). Tác dụng: bao quát toàn tri mọi cõi vũ trụ, giữ vẻ khách quan thiêng liêng.],
-  [*10*], [Thế nào là #strong[Lời nửa trực tiếp] trong văn bản tự sự?], [Lời của người kể chuyện nhưng tái hiện ý thức, giọng điệu trăn trở nội tâm của nhân vật (không tách gạch đầu dòng, thường là chuỗi câu hỏi/cảm thán như nỗi lo của Prô-mê-tê).],
-  [*11*], [3 sắc thái biểu cảm đặc trưng của lớp #strong[Từ Hán Việt] là gì?], [*(1) Trang trọng, tôn kính, thiêng liêng*; *(2) Khái quát, trừu tượng, khoa học*; *(3) Tao nhã, tế nhị, tránh thô tục hoặc ghê sợ*.],
-  [*12*], [Giải mã khẩu quyết 4 lỗi dùng từ Hán Việt #strong[“ÂM NHẦM – NGHĨA LỆCH – CẢNH SAI – THỪA LẶP”]?], [*(1) Nhầm âm gần giống* (yếu điểm ≠ điểm yếu); *(2) Hiểu sai nghĩa yếu tố cấu tạo* (cứu cánh = mục đích cuối cùng); *(3) Sai ngữ cảnh giao tiếp*; *(4) Lặp nghĩa thừa từ* (tối ưu nhất, đề cử bầu...).],
-  [*13*], [Phân biệt chính xác #strong[“Yếu điểm”] và #strong[“Điểm yếu”]?], [#strong[Yếu điểm] (*yếu* = trọng yếu) là #strong[điểm quan trọng nhất, cốt tử]. #strong[Điểm yếu] mới là #strong[nhược điểm, mặt hạn chế thiếu sót].],
-  [*14*], [Giải nghĩa từ Hán Việt #strong[“Suy nguyên”] và #strong[“Hồng hoang”]?], [#strong[Suy nguyên:] truy tìm, cắt nghĩa cội nguồn khởi đầu của vạn vật. #strong[Hồng hoang:] buổi sơ khai rộng lớn, hỗn mang khi trời đất mới mở.],
-  [*15*], [Nêu công thức 3 tầng ăn trọn 1,0đ khi #strong[phân tích tác dụng Biện pháp tu từ]?], [#strong[Tầng 1 (Gọi tên + Chỉ từ ngữ)] → #strong[Tầng 2 (Tác dụng gợi hình, gợi cảm, nhịp điệu)] → #strong[Tầng 3 (Nhấn mạnh chủ đề tư tưởng, thái độ ngợi ca của tác giả dân gian)].],
-  [*16*], [Phân biệt #strong[Mạch lạc] và #strong[Liên kết] trong văn bản?], [#strong[Mạch lạc] là sự thống nhất chủ đề và logic ý bên trong (*phần hồn*). #strong[Liên kết] là mạng lưới từ ngữ nối, lặp, thế, đồng nghĩa kết dính bề mặt câu đoạn (*phần xác*).],
-  [*17*], [Nêu công thức #strong[“GỌI – TRÍCH – GIẢI – CHỐT”] trả lời Câu 9 (Tự luận Thông hiểu 1,0đ)?], [#strong[GỌI] thẳng luận điểm ở câu đầu → #strong[TRÍCH] bằng chứng ngắn từ văn bản → #strong[GIẢI] mã ý nghĩa nội dung & nghệ thuật → #strong[CHỐT] tư tưởng chủ đề.],
-  [*18*], [Nêu cấu trúc #strong[Đoạn văn 4 Nhịp] trả lời Câu 10 (Tự luận Vận dụng 1,0đ)?], [#strong[Nhịp 1:] Nêu trực diện bài học/quan điểm → #strong[Nhịp 2:] Lí giải *vì sao – như thế nào* → #strong[Nhịp 3:] Phản đề/Mở rộng chiều sâu → #strong[Nhịp 4:] Hành động thực tiễn bản thân.],
-  [*19*], [5 căn cứ cốt lõi để xác định #strong[Chủ đề] của một truyện thần thoại ngoài SGK?], [*(1) Nhan đề*; *(2) Sự kiện xung đột chính*; *(3) Hình tượng nhân vật thần*; *(4) Chi tiết kì ảo kết thúc (“Vì thế ngày nay...”)*; *(5) Thái độ người kể chuyện*.],
-  [*20*], [Cấu trúc #strong[“Ngôi Đền 5 Tầng”] của phần Thân bài Nghị luận truyện thần thoại (Câu 11)?], [#strong[LĐ 1:] Khái quát xuất xứ & Tóm tắt cốt truyện (5–7 dòng) → #strong[LĐ 2:] Phân tích Chủ đề (2 tầng nghĩa) → #strong[LĐ 3:] Phân tích Nghệ thuật (5 phương diện) → #strong[LĐ 4:] Đánh giá tổng hợp & Đối sánh mở rộng.],
-  [*21*], [5 phương diện #strong[Hình thức nghệ thuật] bắt buộc phải quét khi phân tích truyện thần thoại?], [*(1) Không gian – thời gian thần thoại*; *(2) Tình huống & cốt truyện đơn tuyến*; *(3) Thủ pháp khắc họa nhân vật thần*; *(4) Chi tiết kì ảo, phóng đại, nhân hóa*; *(5) Ngôi kể & ngôn ngữ trần thuật*.],
-  [*22*], [Quy tắc #strong[P – E – E – V] giúp viết đoạn văn phân tích không bao giờ sa vào kể lể cốt truyện?], [#strong[P (Point):] Câu chủ đề nêu nhận xét → #strong[E (Evidence):] Trích dẫn chi tiết đắt giá → #strong[E (Explanation):] Bình giảng từ ngữ, nghệ thuật → #strong[V (Value):] Khái quát giá trị tư tưởng.],
-  [*23*], [Làm thế nào để giành trọn #strong[0,50 điểm Sáng tạo] ở Câu 11 theo Hướng dẫn chấm?], [Mở bài giàu chất văn (dẫn lí luận văn học) + có ít nhất #strong[01 đoạn đối sánh liên văn bản] với các thần thoại trong SGK (*Thần Trụ Trời, Thần Sét, Thần Gió, Tê-dê*) + câu văn giàu hình ảnh, cảm xúc cá nhân.],
-  [*24*], [Phân bổ 90 phút trong phòng thi theo chuẩn Vàng như thế nào để không bao giờ thiếu giờ?], [#strong[15 phút] cho 8 câu TNKQ → #strong[20 phút] cho 2 câu TL Đọc hiểu (Câu 9, 10) → #strong[50 phút] cho Bài văn Nghị luận Câu 11 (5p lập dàn ý + 45p viết) → #strong[5 phút] rà soát cuối giờ.]
+  (0.45fr, 1.45fr, 3.3fr),
+  ("STT", "Hạng mục rà soát", "Tiêu chuẩn kiểm tra trên giấy làm bài trước khi nộp"),
+  [1], [*Đủ 8 câu Trắc nghiệm*],
+  [Kiểm tra đã ghi rõ ràng một chữ cái in hoa (*A, B, C* hoặc *D*) cho tất cả các câu từ Câu 1 đến Câu 8; không bỏ trống câu nào, không gạch xóa nhập nhằng hai phương án.],
+  [2], [*Trích dẫn ở Câu 9*],
+  [Đảm bảo câu trả lời Câu 9 có ít nhất 01 cụm từ trích trực tiếp từ ngữ liệu đặt trong dấu ngoặc kép và đã nêu đủ cả *ý nghĩa nội dung* lẫn *tác dụng nghệ thuật*.],
+  [3], [*Hình thức đoạn Câu 10*],
+  [Đoạn văn Câu 10 viết liền một khối hoàn chỉnh (7–9 dòng), không xuống dòng giữa chừng, không gạch đầu dòng và có câu liên hệ bản thân ở cuối đoạn.],
+  [4], [*Đúng ngữ liệu Câu 11*],
+  [Đối chiếu lại tên tác phẩm và xuất xứ ở Mở bài Câu 11 xem đã khớp 100% với yêu cầu đề chưa (đặc biệt lưu ý nếu đề ra theo Phương án 2 có ngữ liệu riêng).],
+  [5], [*Cân đối Chủ đề – Nghệ thuật*],
+  [Kiểm tra Thân bài Câu 11 đã tách rõ đoạn phân tích chủ đề, đoạn phân tích nghệ thuật và đoạn đánh giá tổng hợp chưa; nếu lỡ thiếu câu chốt nghệ thuật thì bổ sung ngay 1–2 câu.],
+  [6], [*Chính tả & Dùng từ*],
+  [Đọc lướt soát dấu hỏi/ngã và các từ Hán Việt hay nhầm (*xán lạn, kì vĩ, điểm yếu, bàng quan*); kiểm tra không để sót từ viết tắt hay khẩu ngữ trong bài nghị luận.],
+  [7], [*Bố cục & Trình bày*],
+  [Ghi tách bạch các đề mục *I. PHẦN ĐỌC HIỂU* và *II. PHẦN VIẾT*; chữ viết rõ nét, sạch sẽ, dễ đọc cho giám khảo.],
+  [8], [*Thông tin phách giấy thi*],
+  [Điền đầy đủ Họ và tên, Ngày sinh, Lớp, Số báo danh, Phòng thi và ghi chính xác *tổng số tờ giấy thi* nộp lên bàn giám thị.]
 )
 
-#pagebreak()
+=== B. Phiếu tự theo dõi kết quả luyện giải 06 đề minh họa tại nhà
 
-= 7.3. Trang Tóm Lược Toàn Năng Trước Giờ Thi (One-Page Master Cheat Sheet)
-
-#callout(
-  title: "BẢN ĐỒ TÁC CHIẾN 1 TRANG — ĐỌC LƯỚT 15 PHÚT TRƯỚC KHI VÀO PHÒNG THI",
-  tone: "primary",
-  icon: "◆"
-)[
-  *1. NHẬN DIỆN THẦN THOẠI TRONG 10 GIÂY (*Công thức 5K – 1C*):*
-  - #strong[Không gian:] Vũ trụ nguyên sơ đang tạo lập, 3 cõi liên thông (*Thiên đình – Mặt đất – Thủy phủ*), không xác định địa danh hành chính hiện đại.
-  - #strong[Thời gian:] Cổ sơ phiếm chỉ (*“Thuở ấy”, “Lúc trời đất mới phân khai”, “Từ thuở hồng hoang”*), mang tính vĩnh hằng.
-  - #strong[Cốt truyện & Nhân vật:] Cốt truyện #strong[đơn tuyến], xoay quanh #strong[vị Thần / người Khổng lồ] thực hiện kì tích kiến tạo thế giới hoặc truyền dạy văn hoá.
-  - #strong[Nghệ thuật đặc trưng:] Trí tưởng tượng #strong[kì ảo lãng mạn], thủ pháp #strong[phóng đại (cường điệu)] tầm vóc thần linh và #strong[nhân hóa (hữu linh hóa)] tự nhiên; ngôi kể thứ ba toàn tri.
-
-  *2. CÔNG THỨC ĂN TRỌN 2,0 ĐIỂM TỰ LUẬN ĐỌC HIỂU (CÂU 9 & CÂU 10):*
-  - #strong[Câu 9 (Thông hiểu — 1,0đ, viết 6 – 8 dòng):] Mở đầu bằng từ khóa câu hỏi → Trích dẫn ngắn 1 – 2 cụm từ trong ngữ liệu đặt trong ngoặc kép `“...”` → Giải mã 2 chiều (*Tác dụng nghệ thuật sinh động/kì ảo* + *Ý nghĩa nội dung/chủ đề suy nguyên & nhân văn*).
-  - #strong[Câu 10 (Vận dụng — 1,0đ, viết 6 – 8 dòng, hình thức 01 đoạn văn liền mạch):] *(1) Câu mở đoạn* nêu trực diện thông điệp/đồng tình → *(2) Lí giải* vì sao thông điệp đúng đắn, sâu sắc → *(3) Mở rộng/Phản đề* ngắn gọn → *(4) Liên hệ hành động thực tế* của tuổi trẻ hôm nay. *(Tuyệt đối không xuống dòng gạch đầu dòng nếu đề yêu cầu viết đoạn văn!)*
-
-  *3. DÀN Ý BẤT BẠI CHO BÀI VĂN NGHỊ LUẬN 4,0 ĐIỂM (CÂU 11 — KHOẢNG 700 – 900 CHỮ):*
-  - #strong[Mở bài (1 đoạn):] Dẫn dắt sức hấp dẫn thần thoại / nhận định văn học → Giới thiệu #strong[tên tác phẩm + thể loại thần thoại (quốc gia/sưu tầm) + nêu khái quát giá trị chủ đề & đặc sắc nghệ thuật].
-  - #strong[Thân bài (4 đoạn rõ ràng):]
-    1. *Đoạn 1 — Khái quát & Tóm tắt:* Nhóm thần thoại (*suy nguyên / sáng tạo*) + tóm tắt tinh gọn cốt truyện trong 5 – 7 dòng.
-    2. *Đoạn 2 — Phân tích Chủ đề:* Tầng nghĩa *giải thích tự nhiên/nguồn gốc* + Tầng nghĩa *nhân sinh/khát vọng chinh phục thiên nhiên, ca ngợi lao động & lòng nhân ái*.
-    3. *Đoạn 3 — Phân tích Hình thức nghệ thuật (gắn chặt với chủ đề):* Không gian – thời gian cổ sơ → Cốt truyện & tình huống → Nghệ thuật xây dựng nhân vật thần (phóng đại, đối lập, vừa kì vĩ vừa đời thường) → Chi tiết kì ảo đắt giá → Ngôi kể thứ ba & ngôn ngữ.
-    4. *Đoạn 4 — Đánh giá & Đối sánh mở rộng:* Khẳng định sự hòa quyện nội dung – hình thức + #strong[Liên hệ so sánh 3 – 4 câu] với *Thần Trụ Trời, Thần Sét, Thần Gió* hoặc *Tê-dê* (SGK KNTT) để lấy điểm Sáng tạo tối đa.
-  - #strong[Kết bài (1 đoạn):] Khẳng định sức sống vượt thời gian của tác phẩm + Bài học nhận thức, lối sống đẹp cho bản thân trong kỉ nguyên hiện đại.
-]
-
-#v(0.3em)
-
-= 7.4. Checklist “5 Phút Vàng Cuối Giờ” Chống Mất Điểm Oan
-
-Trước khi đặt bút nộp bài lúc hết 90 phút, hãy dành đúng #strong[05 phút cuối cùng] rà soát lần lượt 8 hạng mục kiểm định sau đây:
+Học sinh có thể in hoặc kẻ lại bảng dưới đây để ghi nhận tiến độ thời gian và điểm tự chấm qua từng đề luyện tập:
 
 #study-table(
-  (0.6fr, 2.2fr, 4.0fr),
-  ("STT", "Hạng mục Kiểm tra", "Tiêu chuẩn An toàn Tuyệt đối Trước Khi Nộp Bài"),
-  [*1*], [Đủ 8 câu Trắc nghiệm (4,0đ)], [Đã ghi rõ ràng phương án chọn (`A`, `B`, `C` hoặc `D`) cho tất cả Câu 1 → Câu 8; không bỏ trống, không tô/viết đè hai đáp án nhập nhằng ở bất kì câu nào.],
-  [*2*], [Câu 9 có Trích dẫn (1,0đ)], [Câu trả lời Câu 9 đã có ít nhất #strong[01 chi tiết / từ ngữ trích nguyên văn trong ngoặc kép] từ ngữ liệu và đã nêu đủ cả *ý nghĩa nội dung* lẫn *tác dụng nghệ thuật*.],
-  [*3*], [Hình thức Câu 10 (1,0đ)], [Nếu đề yêu cầu *“viết đoạn văn”*: kiểm tra xem có vô tình xuống dòng hay gạch đầu dòng không; đã có câu liên hệ nhận thức/hành động của bản thân chưa.],
-  [*4*], [Mở bài Câu 11 đủ 3 thông tin], [Kiểm tra đoạn Mở bài đã gọi tên chính xác: #strong[(1) Tên truyện thần thoại + (2) Thể loại thần thoại / xuất xứ + (3) Vấn đề nghị luận (chủ đề & đặc sắc nghệ thuật)].],
-  [*5*], [Cân đối Chủ đề & Nghệ thuật], [Thân bài Câu 11 không bị lệch sang kể chuyện xuôi; đã có đoạn văn riêng phân tích sâu #strong[hình thức nghệ thuật] và đoạn #strong[đối sánh liên hệ mở rộng].],
-  [*6*], [Kiểm tra Từ Hán Việt & Chính tả], [Rà nhanh các lỗi hay viết sai trong phòng thi: *xán lạn* (không viết *sáng lạn*), *suy nguyên*, *hồng hoang*, *kì ảo*, *khắc nghiệt*, *bàng bạc*, không dùng sai *yếu điểm*.],
-  [*7*], [Số tờ giấy thi & Phách], [Ghi đầy đủ Họ tên, Số báo danh, Lớp, Phòng thi và #strong[tổng số tờ giấy thi] nộp cho giám thị.],
-  [*8*], [Tâm thế tự tin], [Hít sâu, giữ bài làm sạch sẽ, trình bày thoáng rõ từng phần `I. ĐỌC HIỂU` và `II. VIẾT`.]
+  (1.45fr, 0.72fr, 0.78fr, 0.78fr, 0.72fr, 1.55fr),
+  ("Đề luyện tập", "TN (4,0đ)", "C.9–10 (2,0đ)", "C.11 (4,0đ)", "Tổng điểm", "Lỗi cần khắc phục ở đề kế tiếp"),
+  [*Đề 01:* Nữ thần Mặt Trời & Mặt Trăng], [.... / 4,0], [.... / 2,0], [.... / 4,0], [.... / 10], [...................................................],
+  [*Đề 02:* Thần Mưa], [.... / 4,0], [.... / 2,0], [.... / 4,0], [.... / 10], [...................................................],
+  [*Đề 03:* Nữ thần Lúa], [.... / 4,0], [.... / 2,0], [.... / 4,0], [.... / 10], [...................................................],
+  [*Đề 04:* Tu bổ giống vật & 12 Bà Mụ], [.... / 4,0], [.... / 2,0], [.... / 4,0], [.... / 10], [...................................................],
+  [*Đề 05:* Ông Đùng bà Đùng & Nữ Oa], [.... / 4,0], [.... / 2,0], [.... / 4,0], [.... / 10], [...................................................],
+  [*Đề 06:* Prô-mê-tê và loài người], [.... / 4,0], [.... / 2,0], [.... / 4,0], [.... / 10], [...................................................]
 )

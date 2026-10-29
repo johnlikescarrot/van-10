@@ -2,346 +2,337 @@
 
 #part-banner(
   "PHẦN IV",
-  "Phương Pháp Giải Nhanh Đọc Hiểu & Ngân Hàng 40 Câu Theo Chỉ Báo",
-  "Kĩ thuật phá bẫy TNKQ • Công thức 4 bước ăn trọn điểm Câu 9 & Câu 10 • 40 câu hỏi thực chiến kèm đáp án 100%"
+  "Kĩ năng làm bài Đọc hiểu và ngân hàng 50 câu hỏi theo 13 chỉ báo",
+  "Phương pháp loại trừ phương án nhiễu trắc nghiệm, cách viết Câu 9 – Câu 10 và 50 câu luyện tập có đáp án chi tiết"
 )
 
-= 4.1. Chiến thuật Phá Nhiễu 8 Câu Trắc nghiệm Khách quan (Câu 1 – 8: 4,0 điểm)
+= 4.1. Phương pháp xử lí 8 câu trắc nghiệm khách quan (Câu 1–8: 4,0 điểm)
 
-Trong 8 câu TNKQ (6 câu Nhận biết + 2 câu Thông hiểu), người ra đề luôn cài #strong[4 kiểu phương án nhiễu (distractors)]. Nắm vững quy tắc loại trừ dưới đây giúp học sinh đạt tuyệt đối #strong[4,0/4,0 điểm trong chưa đầy 8 phút]:
+Tám câu trắc nghiệm mở đầu đề kiểm tra (gồm 6 câu Nhận biết từ Câu 1 đến Câu 6 và 2 câu Thông hiểu ở Câu 7, Câu 8) chiếm trọn *4,0 điểm*. Muốn giữ vững số điểm nền tảng này trong 12 phút đầu giờ, học sinh cần nhận diện bốn kiểu phương án nhiễu mà người ra đề thường cài đặt:
 
 #study-table(
-  (1.5fr, 2.7fr, 2.8fr),
-  ("Kiểu bẫy nhiễu", "Cơ chế đánh lừa của đề thi", "Quy tắc nhận diện & Loại trừ tức thì"),
-
-  [*1. Bẫy Tráo Khái niệm Thể loại*],
-  [Đưa đặc trưng của *truyền thuyết, cổ tích, sử thi* gắn vào thần thoại (VD: *“Thời gian xác định rõ theo triều đại”, “Nhân vật là người anh hùng lịch sử”, “Phản ánh đấu tranh giai cấp”*).],
-  [Gạch bỏ ngay mọi phương án có từ *lịch sử chính xác, đấu tranh giai cấp, ở hiền gặp lành, thế sự đời tư*. Thần thoại chỉ gắn với *vũ trụ cổ sơ, thần linh, suy nguyên/sáng tạo*.],
-
-  [*2. Bẫy Thu hẹp Cục bộ*],
-  [Khi hỏi *nội dung chính / chủ đề toàn văn bản*, phương án nhiễu chỉ nêu đúng một chi tiết phụ ở 1 đoạn nhỏ.],
-  [Đối chiếu với *nhan đề + đoạn mở đầu + đoạn kết*. Đáp án đúng phải bao quát toàn bộ hành trạng vị thần và hiện tượng được giải thích.],
-
-  [*3. Bẫy Khái quát Quá rộng / Suy diễn*],
-  [Đưa ra nhận định triết lí hiện đại hoàn toàn không có căn cứ chữ nghĩa trong văn bản.],
-  [Áp dụng nguyên tắc *“Bằng chứng tại chỗ”*: mọi phương án đúng ở Câu 1–6 đều phải chỉ ra được dòng/câu tương ứng trong văn bản.],
-
-  [*4. Bẫy Đảo Từ khóa Câu hỏi*],
-  [Hỏi *“Phương thức biểu đạt chính”* nhưng học sinh khoanh *Miêu tả*; hỏi *“Đâu KHÔNG phải là...”* nhưng học sinh đọc vội khoanh phương án đúng đầu tiên.],
-  [Luôn khoanh tròn các từ khóa phủ định/giới hạn trên đề: #strong[CHÍNH, CHỦ YẾU, KHÔNG PHẢI, NGOẠI TRỪ] trước khi nhìn xuống A, B, C, D.]
+  (1.25fr, 1.95fr, 2.0fr),
+  ("Kiểu phương án nhiễu", "Cơ chế gây nhầm lẫn", "Cách kiểm tra và loại trừ nhanh"),
+  [*1. Đánh tráo khái niệm thể loại*],
+  [Đưa đặc trưng của *truyền thuyết* (gắn với nhân vật, triều đại lịch sử có thật) hoặc *cổ tích* (thưởng thiện phạt ác ở làng quê) vào câu hỏi về đặc trưng *thần thoại*.],
+  [Gạch ngay mọi phương án chứa cụm từ *"phản ánh sự kiện lịch sử xác thực"*, *"xung đột giai cấp phong kiến"* khi văn bản đang nói về các vị thần thuở sơ khai.],
+  [*2. Đúng nhưng thiếu (bẫy một vế)*],
+  [Ở câu Thông hiểu hỏi về chủ đề hoặc tác dụng chi tiết kì ảo, hai phương án A và B mỗi phương án chỉ nêu một mặt (chỉ nêu giải thích tự nhiên hoặc chỉ nêu nghệ thuật), còn phương án C tổng hợp đủ cả hai.],
+  [Luôn đọc hết cả 4 phương án A, B, C, D trước khi khoanh; ưu tiên phương án bao quát được cả *tầng giải thích tự nhiên* lẫn *tầng khát vọng nhân văn / hiệu quả thẩm mĩ*.],
+  [*3. Suy diễn vượt ngoài văn bản*],
+  [Phương án dùng lời lẽ rất kêu nhưng gán cho nhân vật động cơ không hề có trong đoạn trích (ví dụ nói vị thần làm mưa để *"thu phục chư hầu"*).],
+  [Đối chiếu từng từ khóa của phương án với câu chữ trong ngữ liệu; phương án nào không có căn cứ văn bản thì loại ngay.],
+  [*4. Đảo ngược câu hỏi phủ định*],
+  [Câu dẫn in hoa từ *KHÔNG* (*"Chi tiết nào sau đây KHÔNG xuất hiện..."*, *"Nhận định nào KHÔNG đúng..."*), học sinh đọc vội nhìn thấy phương án A đúng là khoanh nhầm ngay.],
+  [Dùng bút khoanh tròn chữ *KHÔNG* trên tờ đề trước khi nhìn xuống 4 lựa chọn A, B, C, D.]
 )
 
-= 4.2. Công thức Vàng Trả lời Câu 9 (Tự luận Thông hiểu — 1,0 điểm)
+= 4.2. Phương pháp trả lời Câu 9 tự luận Thông hiểu (1,0 điểm)
 
-Giám khảo chấm Câu 9 theo thang điểm thành phần `0,25đ + 0,50đ + 0,25đ` (hoặc `0,50đ + 0,50đ`). Tuyệt đối không viết cụt lủn 1 dòng! Hãy áp dụng #strong[Công thức 4 Bước “GỌI – TRÍCH – GIẢI – CHỐT”]:
+Câu 9 thuộc mức độ *Thông hiểu* (`ĐH-H1` đến `ĐH-H5`), thường hỏi về ý nghĩa một chi tiết kì ảo, vai trò của nhân vật thần, cách người xưa cắt nghĩa hiện tượng hoặc tác dụng của yếu tố kì ảo. Nhiều học sinh chỉ được 0,5/1,0 điểm vì trả lời cụt lủn một câu duy nhất mà quên trích dẫn văn bản và quên nêu khía cạnh nghệ thuật.
 
-#formula-box(title: "CÔNG THỨC 4 BƯỚC “GỌI – TRÍCH – GIẢI – CHỐT” CHO 5 DẠNG CÂU HỎI SỐ 9 (1,0 ĐIỂM)", breakable-box: true)[
-  - #strong[Dạng 9.1 — Lí giải ý nghĩa / tác dụng của chi tiết kì ảo tiêu biểu (Tần suất ra thi ~45%):]
-    - *Bước 1 (GỌI – 0,25đ):* Khẳng định đây là chi tiết tưởng tượng kì ảo đặc sắc, giàu giá trị tạo hình của truyện thần thoại [...].
-    - *Bước 2 (TRÍCH):* Nhắc ngắn gọn nội dung chi tiết trong ngoặc kép.
-    - *Bước 3 (GIẢI KÉP – 0,50đ):* *(Về nội dung – nhận thức)*: Giúp người cổ đại cắt nghĩa hồn nhiên hiện tượng [...] và gửi gắm ước mơ/khát vọng [...]; *(Về nghệ thuật)*: Tô đậm quyền năng phi thường của vị thần, tăng sức hấp dẫn li kì cho câu chuyện.
-    - *Bước 4 (CHỐT – 0,25đ):* Cho thấy trí tưởng tượng bay bổng và lối tư duy *vạn vật hữu linh* của người xưa.
-
-  - #strong[Dạng 9.2 — Phân tích đặc điểm, vị trí, vai trò của nhân vật thần thoại (~25%):]
-    - Chỉ rõ #strong[2 bình diện]: *(1) Bình diện thần linh kì vĩ* (ngoại hình khổng lồ/đặc dị, quyền năng siêu nhiên thực hiện sứ mệnh kiến tạo/cai quản tự nhiên) + *(2) Bình diện đời thường gần gũi* (mang nét tính cách hồn nhiên như con người: nóng nảy, hay quên, hờn dỗi, giàu lòng thương...) → *Vai trò*: Là trung tâm kết nối cốt truyện và là phương tiện để dân gian gửi gắm vũ trụ quan, nhân sinh quan.
-
-  - #strong[Dạng 9.3 — Xác định chủ đề và phân tích căn cứ xác định chủ đề (~15%):]
-    - *Ý 1 (0,50đ — Nêu chủ đề):* Qua câu chuyện về [...], văn bản thể hiện cách nhận thức hồn nhiên của người xưa nhằm lí giải [...], đồng thời gửi gắm khát vọng [...].
-    - *Ý 2 (0,50đ — Chỉ rõ 3 căn cứ):* Chủ đề được xác lập dựa trên: *(a) Nhan đề văn bản [...]; (b) Hình tượng nhân vật trung tâm và chuỗi sự kiện kì ảo [...]; (c) Đoạn kết giải thích dấu tích/hiện tượng lưu truyền đến ngày nay [...]*.
-
-  - #strong[Dạng 9.4 — Lí giải tác dụng ngôi kể / người kể chuyện / lời người kể chuyện & lời nhân vật (~10%):]
-    - *Ngôi kể thứ ba (người kể giấu mình, điểm nhìn toàn tri):* Giúp bao quát linh hoạt không gian rộng lớn từ Thiên đình xuống Hạ giới, tạo giọng điệu khách quan, cổ kính, tăng độ tin cậy thiêng liêng cho câu chuyện sáng thế.
-    - *Lời người kể chuyện kết hợp lời nhân vật:* Lời kể mộc mạc dẫn dắt mạch sự kiện nhanh gọn; lời thoại trực tiếp làm nổi bật tính cách, uy quyền hoặc sự hóm hỉnh, đời thường của nhân vật.
-
-  - #strong[Dạng 9.5 — Tóm tắt cốt truyện (~5%):]
-    - Viết gói gọn trong #strong[4–6 câu văn xuôi] theo trục nhân – quả (*Bối cảnh ban đầu → Biến cố/nhiệm vụ của thần → Hành động kì tích → Kết quả giải thích hiện tượng*), giữ nguyên ngôi thứ ba, không chép lời thoại trực tiếp, không xen bình luận cá nhân.
+#formula-box(title: "Quy trình 4 bước viết câu trả lời Câu 9 (độ dài chuẩn 6–8 dòng)")[
+  - *Bước 1 – Mở câu bằng từ khóa của đề (0,25đ):* Nhắc lại đúng vấn đề câu hỏi đặt ra để định hướng câu trả lời ngay từ dòng đầu tiên.
+  - *Bước 2 – Dẫn chứng trực tiếp từ ngữ liệu (0,25đ):* Trích nguyên văn 1–2 cụm từ hoặc chi tiết tiêu biểu đặt trong dấu ngoặc kép (*"..."*).
+  - *Bước 3 – Chỉ ra hiệu quả nghệ thuật (0,25đ):* Nêu tác dụng tạo màu sắc kì ảo, phóng đại tầm vóc vị thần, nhân hóa tự nhiên và tăng sức hấp dẫn cho mạch kể.
+  - *Bước 4 – Khái quát ý nghĩa nội dung / chủ đề (0,25đ):* Nêu cách người cổ đại giải thích nguồn gốc hiện tượng tự nhiên và gửi gắm niềm tin, ước vọng lao động cải tạo thế giới.
 ]
 
-= 4.3. Công thức Vàng Trả lời Câu 10 (Tự luận Vận dụng — 1,0 điểm)
+= 4.3. Phương pháp viết đoạn văn Câu 10 tự luận Vận dụng (1,0 điểm)
 
-#formula-box(title: "CÔNG THỨC ĐOẠN VĂN 4 NHỊP CHO CÂU 10 VẬN DỤNG (VIẾT 6 – 8 DÒNG, ĂN TRỌN 1,0 ĐIỂM)", breakable-box: true)[
-  - #strong[Nhịp 1 — Nêu trực diện Thông điệp / Quan điểm (Câu 1 — 0,25đ):]
-    - *Nếu đề hỏi thông điệp/bài học:* “Từ câu chuyện thần thoại [...], thông điệp sâu sắc nhất đối với em là: *chúng ta cần biết... [nêu thông điệp dưới dạng câu khẳng định giàu tính hành động]*.”
-    - *Nếu đề hỏi đồng tình hay không đồng tình / niềm tin ấy nay còn giá trị không:* Nêu rõ quan điểm #strong[“Vừa nhìn nhận giới hạn khoa học, vừa trân trọng giá trị văn hoá – nhân văn”] (Ví dụ: *Xét về khoa học tự nhiên, cách giải thích của người xưa mang tính hồn nhiên, chưa chuẩn xác; nhưng xét về giá trị tinh thần và văn hoá, niềm tin ấy vẫn vẹn nguyên ý nghĩa quý báu*).
-  - #strong[Nhịp 2 — Lí giải từ Văn bản (Câu 2–3 — 0,25đ):] Chỉ ra chi tiết trong truyện gợi lên bài học ấy (do bối cảnh người xưa chưa có máy móc khoa học nhưng luôn khao khát sống hài hòa, có trách nhiệm với muôn loài).
-  - #strong[Nhịp 3 — Lí giải từ Thực tiễn Đời sống hôm nay (Câu 4–5 — 0,25đ):] Mở rộng ý nghĩa đối với xã hội hiện đại (biến đổi khí hậu, bảo vệ môi trường sinh thái, ý chí vượt thử thách Vũ Môn, lòng biết ơn nguồn cội...).
-  - #strong[Nhịp 4 — Đánh thức Hành động Bản thân (Câu 6 — 0,25đ):] Chốt lại nhận thức và hành động thiết thực của người trẻ hôm nay.
+Câu 10 thuộc mức độ *Vận dụng* (`ĐH-VD1` đến `ĐH-VD4`), yêu cầu học sinh rút ra thông điệp, bày tỏ sự đồng tình / không đồng tình hoặc đánh giá giá trị thẩm mĩ của một hình tượng. Khi đề ghi rõ *"Trả lời trong khoảng 5–7 dòng"* hoặc *"Viết một đoạn văn ngắn (khoảng 7–10 dòng)"*, hãy triển khai thành *01 đoạn văn hoàn chỉnh, lùi đầu dòng một lần duy nhất, tuyệt đối không gạch đầu dòng*:
+
+#formula-box(title: "Cấu trúc 4 ý cho đoạn văn Câu 10 đạt trọn 1,0 điểm")[
+  + *Câu mở đoạn (1–2 câu – 0,25đ):* Nêu trực tiếp thông điệp rút ra hoặc khẳng định rõ thái độ (*Tôi hoàn toàn đồng tình / Tôi đồng tình ở khía cạnh... nhưng cần bổ sung...*). Không giữ thái độ lấp lửng trung lập vô hướng.
+  + *Các câu lí giải (3–4 câu – 0,50đ):* Giải thích vì sao thông điệp hoặc quan điểm ấy xác đáng trên hai bình diện: đặt trong hoàn cảnh nhận thức của người xưa trong văn bản và đặt trong đời sống xã hội hiện nay.
+  + *Câu mở rộng / lật chiều vấn đề (1–2 câu):* Bổ sung góc nhìn biện chứng (chẳng hạn ngày nay con người đã có khoa học hiện đại nên không còn sợ hãi thần quyền mù quáng, nhưng thái độ sống hài hòa với thiên nhiên vẫn giữ nguyên giá trị).
+  + *Câu chốt liên hệ bản thân (1–2 câu – 0,25đ):* Nêu bài học nhận thức và hành động cụ thể, thiết thực của người trẻ hôm nay.
 ]
 
-= 4.4. Ngân hàng 40 Câu Hỏi Thực Chiến Phủ Kín 13 Chỉ Báo Bản Đặc Tả
+= 4.4. Ngân hàng 50 câu hỏi luyện tập phủ kín 13 chỉ báo và Tiếng Việt
 
-== Phần A. 28 Câu Trắc nghiệm Khách quan Phân theo Nhóm Chỉ báo
+=== A. Phần trắc nghiệm khách quan (Câu 1 – Câu 35)
 
-=== Nhóm I: Chỉ báo 1 — Không gian & Thời gian trong Truyện Thần thoại (Câu 1 – 6)
+==== Nhóm 1: Nhận biết không gian, thời gian, cốt truyện, nhân vật (`ĐH-B1`)
 
-*Đọc đoạn trích ngữ liệu nhanh:* *“Thuở xưa, trước buổi khai thiên lập địa, trước khi có thế gian và các vị thần, lúc đó chỉ có Kha-ốt (Chaos). Đó là một vực thẳm đen ngòm, vô cùng vô tận, trống rỗng, mơ hồ, phiêu bạt trong khoảng không gian bao la. Từ Kha-ốt đã ra đời Gai-a — Đất Mẹ của muôn loài có bộ ngực mênh mông, rồi Gai-a kết hôn với thần Bầu Trời U-ra-nôx...”* *(Thần thoại Hy Lạp)*.
+*Câu 1.* Đặc điểm tiêu biểu nhất của không gian nghệ thuật trong truyện thần thoại là gì?\
+A. Không gian làng quê Việt Nam quen thuộc gắn với lũy tre, bến nước, sân đình.\
+B. Không gian vũ trụ nguyên sơ đang trong quá trình tạo lập, thường phân chia nhiều cõi liên thông.\
+C. Không gian chiến trường lịch sử gắn với các địa danh hành chính xác thực qua từng triều đại.\
+D. Không gian sinh hoạt đời tư khép kín trong gia đình phụ quyền thời phong kiến.
 
-*Câu 1.* Chi tiết *“Thuở xưa, trước buổi khai thiên lập địa, trước khi có thế gian và các vị thần”* thể hiện đặc điểm nào của thời gian thần thoại?\
-A. Thời gian lịch sử xác thực gắn với niên đại các triều đại cổ đại.\
-B. Thời gian phiếm chỉ, cổ sơ, mang tính ước lệ gắn với buổi khởi nguyên vũ trụ.\
-C. Thời gian sinh hoạt đời thường tuần hoàn theo bốn mùa xuân, hạ, thu, đông.\
-D. Thời gian tâm lí hiện tại gắn với dòng hồi ức chủ quan của người kể chuyện.
+*Câu 2.* Thời gian nghệ thuật trong truyện thần thoại mang tính chất đặc trưng nào sau đây?\
+A. Thời gian biên niên sử được ghi chép chính xác theo từng năm, tháng, triều đại.\
+B. Thời gian tâm lí đồng hiện đan xen giữa hiện tại, quá khứ và tương lai của nhân vật.\
+C. Thời gian cổ sơ, phiếm chỉ, mang tính ước lệ vĩnh hằng của buổi đầu khai thiên lập địa.\
+D. Thời gian sinh hoạt thường nhật diễn ra gói gọn trong một ngày đêm xác định.
 
-*Câu 2.* Không gian *“vực thẳm đen ngòm, vô cùng vô tận... Đất Mẹ Gai-a... Bầu Trời U-ra-nôx”* mang đặc trưng gì của thể loại thần thoại?\
-A. Không gian làng quê nông thôn bình dị, hẹp và khép kín.\
-B. Không gian chiến trường sử thi hào hùng giữa các thành bang.\
-C. Không gian vũ trụ nguyên sơ, mênh mông, đang trong quá trình tạo lập.\
-D. Không gian tâm tưởng hư ảo dùng để phê phán thực tại phong kiến.
+*Câu 3.* Đọc câu văn mở đầu: *"Thuở ấy, vũ trụ còn là một khối hỗn độn tối tăm mù mịt, chưa có trời mà cũng chẳng có đất"*. Cụm từ *"Thuở ấy"* giúp người đọc nhận diện yếu tố nào?\
+A. Không gian ba cõi tách biệt rõ ràng. #h(1.4em) B. Thời gian cổ sơ, không xác định niên đại cụ thể.\
+C. Điểm nhìn trần thuật ngôi thứ nhất. #h(1.4em) D. Lời đối thoại trực tiếp của nhân vật thần linh.
 
-*Câu 3.* Trong các câu văn mở đầu sau, câu nào *KHÔNG* mang dấu ấn thời gian đặc trưng của truyện thần thoại?\
-A. *Thuở ấy chưa có vũ trụ, chưa có muôn vật và loài người.*\
-B. *Lúc sơ khởi, Ngọc Hoàng trước khi sáng tạo ra con người đã nặn ra vạn vật.*\
-C. *Năm Quang Thái đời nhà Trần, người ở Hóa Châu tên là Từ Thức, vì có phụ ấm được bổ làm tri huyện Tiên Du.*\
-D. *Thuở ấy thế gian chỉ mới có các vị thần, mặt đất mênh mông song vẫn còn hết sức vắng vẻ.*
+*Câu 4.* Kiểu nhân vật giữ vị trí trung tâm trong hầu hết các tác phẩm thần thoại là:\
+A. Những người nông dân nghèo khổ, mồ côi nhưng hiền lành và gặp được phép màu giúp đỡ.\
+B. Các vị thần hoặc những con người mang tầm vóc thần linh có quyền năng sáng tạo thế giới và văn hóa.\
+C. Các vị vua hiền, tướng giỏi có công đánh giặc ngoại xâm được chính sử ghi nhận công trạng.\
+D. Tầng lớp nho sĩ có khí phách cương trực dám đấu tranh chống lại quan lại tham nhũng.
 
-*Câu 4.* Vì sao không gian trong truyện thần thoại thường bao gồm nhiều cõi (Thiên đình, Hạ giới, Thủy phủ)?\
-A. Vì người nguyên thủy muốn chứng minh trình độ địa lí học chính xác của mình.\
-B. Vì tư duy thần thoại hướng tới bao quát và cắt nghĩa toàn bộ chỉnh thể vũ trụ rộng lớn.\
-C. Vì tác giả muốn phản ánh sự phân hóa giàu nghèo gay gắt trong xã hội có giai cấp.\
-D. Vì chịu ảnh hưởng trực tiếp từ tiểu thuyết chương hồi trung đại phương Đông.
+*Câu 5.* Nhận xét nào phản ánh đúng đặc điểm cốt truyện của thể loại thần thoại?\
+A. Cốt truyện đa tuyến phức tạp, đan cài nhiều mối quan hệ tâm lí chồng chéo.\
+B. Cốt truyện đơn giản, đơn tuyến, tập trung xoay quanh công việc kiến tạo thế giới hoặc truyền dạy văn hóa của các thần.\
+C. Cốt truyện kết thúc bi kịch không lối thoát nhằm tố cáo xã hội thực dân nửa phong kiến.\
+D. Cốt truyện lắp ghép theo mô hình gặp gỡ – tai biến – đoàn tụ quen thuộc của truyện thơ Nôm.
 
-*Câu 5.* Từ ngữ chỉ thời gian nào thường đóng vai trò tín hiệu nhận diện truyện thần thoại ngay ở câu mở đầu?\
-A. *Ngày tháng năm sinh cụ thể của nhân vật.* #h(1.5em) B. *Thuở ấy, hồi xưa, lúc trời đất mới phân khai.*\
-C. *Vào niên hiệu Hồng Đức thứ mười sáu.* #h(1.5em) D. *Hôm qua, giữa phố phường tấp nập.*
+*Câu 6.* Trong đoạn văn: *"Thần bước một bước có thể qua từ đỉnh núi cao này sang đỉnh núi cao khác, đầu thần đội vòm mây, chân thần đạp sóng biển"*, nhân vật thần hiện lên nổi bật qua phương diện nào?\
+A. Diễn biến nội tâm giằng xé phức tạp. #h(1.4em) B. Tầm vóc ngoại hình và hành động kì vĩ, phi thường.\
+C. Ngôn ngữ đối thoại sắc sảo, triết lí. #h(1.4em) D. Số phận bất hạnh chịu nhiều oan khuất.
 
-*Câu 6.* Trong truyện *Thần Sét*, chi tiết *“Thần thường ngủ về mùa đông, vào khoảng tháng Hai tháng Ba mới lại dậy làm việc”* kết hợp thời gian thần thoại với yếu tố nào?\
-A. Lịch biểu làm việc của quan lại triều đình phong kiến.\
-B. Quy luật chu kì thời tiết thực tế của tự nhiên (mùa xuân mưa rào bắt đầu có sấm sét ở Việt Nam).\
-C. Niên biểu các cuộc chiến tranh giữa các bộ lạc nguyên thủy.\
-D. Thời gian lễ hội đền đài tưởng niệm anh hùng lịch sử.
+==== Nhóm 2: Nhận biết ngôi kể, người kể chuyện, điểm nhìn, lời văn (`ĐH-B2`, `ĐH-B3`)
 
-=== Nhóm II: Chỉ báo 2 — Cốt truyện, Sự kiện & Nhân vật Thần thoại (Câu 7 – 13)
+*Câu 7.* Dấu hiệu hình thức xác thực nhất để khẳng định một truyện thần thoại được kể theo *ngôi thứ ba* là:\
+A. Người kể chuyện trực tiếp xưng *"tôi"* và tham gia vào các biến cố trên thiên đình.\
+B. Người kể chuyện giấu mình, không xưng danh và gọi tên các nhân vật bằng tên gọi của chúng (*Thần, Ngọc Hoàng, Nữ Oa...*).\
+C. Văn bản hoàn toàn không sử dụng lời đối thoại của bất kì nhân vật nào.\
+D. Toàn bộ câu chuyện được ghi chép lại dưới hình thức nhật kí cá nhân của vị thần.
 
-*Đọc đoạn trích:* *“Hồi xưa có một vị thần đội lốt một con rùa. Thân hình của thần rất to lớn, to lớn không thể nào ước lượng được. Thần nằm yên lặng một nơi ở ngoài biển Đông rất xa xôi, không ăn uống, không làm lụng, không ngủ. Thần chỉ có mỗi một công việc là hô hấp để sống. Mỗi lần hít vào thì nước biển tuôn vào bụng, mỗi lần thở ra thì khối lượng nước đó lại ụa ra hết... Cứ mỗi lần hô hấp như thế thì biển có hiện tượng thủy triều dâng lên rút xuống... Đôi khi mỏi mệt phải cựa quậy, mỗi lần thần vùng vẫy là có gió to bão lớn nước dâng tràn ngập mọi nơi, người trên mặt đất vẫn gọi là sóng thần.”* *(Thần Biển — Nguyễn Đổng Chi)*.
+*Câu 8.* Điểm nhìn trần thuật chủ đạo của người kể chuyện dân gian trong truyện thần thoại thường là:\
+A. Điểm nhìn hạn tri chỉ biết những gì một nhân vật phụ nhìn thấy.\
+B. Điểm nhìn toàn tri của cộng đồng, bao quát mọi cõi không gian và biết rõ lai lịch, hành động của các thần.\
+C. Điểm nhìn độc thoại nội tâm của nhân vật phản diện.\
+D. Điểm nhìn phóng sự ghi chép người thật việc thật tại hiện trường.
 
-*Câu 7.* Nhân vật trung tâm của đoạn trích *Thần Biển* mang đặc điểm ngoại hình như thế nào?\
-A. Dáng người thanh mảnh như một nho sĩ chốn thư phòng.\
-B. Đội lốt một con rùa khổng lồ, thân hình to lớn không thể ước lượng được.\
-C. Đầu người mình rắn, tay cầm đá ngũ sắc rực rỡ.\
-D. Hình rồng có phép thu nhỏ bằng con cá chép vượt thác.
+*Câu 9.* Trong đoạn trích: *"Ngọc Hoàng ngẫm nghĩ một lát rồi phán bảo các thần: – Nay vạn vật dưới hạ giới còn nhiều thiếu sót, các ngươi hãy đem nguyên liệu xuống núi bù đắp cho chúng"*, bộ phận in sau dấu gạch ngang là:\
+A. Lời người kể chuyện miêu tả bối cảnh thiên đình. #h(1em) B. Lời độc thoại nội tâm không phát ra thành tiếng.\
+C. Lời nói trực tiếp của nhân vật Ngọc Hoàng. #h(1.8em) D. Lời bình luận trữ tình ngoại đề của người sưu tầm.
 
-*Câu 8.* Sự kiện trung tâm làm nên cốt truyện của văn bản *Thần Biển* là gì?\
-A. Cuộc chiến khốc liệt giữa thần Biển và thần Núi để giành người đẹp.\
-B. Hoạt động hít thở đều đặn và những lần cựa mình vùng vẫy của vị thần rùa khổng lồ ngoài biển Đông.\
-C. Việc Ngọc Hoàng mở khoa thi chọn các loài thủy tộc hóa thành rồng biển.\
-D. Hành trình người ngư dân cưỡi rùa thần đi tìm vùng đất hứa ngoài khơi xa.
+*Câu 10.* Trong cùng đoạn trích ở Câu 9, cụm từ *"Ngọc Hoàng ngẫm nghĩ một lát rồi phán bảo các thần"* giữ vai trò là:\
+A. Lời người kể chuyện dẫn dắt hành động và giới thiệu lời thoại của nhân vật.\
+B. Lời đối thoại của quần thần đáp lại mệnh lệnh Ngọc Hoàng.\
+C. Cước chú xuất xứ văn bản của nhà nghiên cứu văn học dân gian.\
+D. Lời gián tiếp của các loài vật dưới hạ giới.
 
-*Câu 9.* Nhận xét nào phản ánh đúng nhất đặc điểm cốt truyện của văn bản *Thần Biển*?\
-A. Cốt truyện đa tuyến, đan xen nhiều mạch tâm lí phức tạp và bất ngờ đảo ngược.\
-B. Cốt truyện đơn giản, đơn tuyến, tập trung khắc họa trực tiếp chức năng của vị thần để giải thích hiện tượng tự nhiên.\
-C. Cốt truyện kịch tính theo mô-típ nhân vật bất hạnh trải qua nhiều lần hóa thân để tìm hạnh phúc.\
-D. Cốt truyện lịch sử biên niên ghi chép theo trình tự các đời vua cai trị vùng biển.
+*Câu 11.* Nếu một văn bản mở đầu bằng câu: *"Tôi vốn là vị thần giữ lửa trên đỉnh núi cao, suốt ngàn năm canh giữ đống than hồng cho muôn loài"*, thì văn bản ấy sử dụng ngôi kể nào?\
+A. Ngôi thứ ba toàn tri. #h(1.6em) B. Ngôi thứ hai. #h(1.6em) C. Ngôi thứ nhất. #h(1.6em) D. Luân phiên ba ngôi kể.
 
-*Câu 10.* Chức năng cốt lõi của kiểu nhân vật trong truyện thần thoại là gì?\
-A. Phơi bày bi kịch tha hóa nhân phẩm của con người trước đồng tiền.\
-B. Cắt nghĩa, lí giải các hiện tượng tự nhiên và đời sống xã hội; thể hiện niềm tin và khát vọng của người cổ đại.\
-C. Minh họa cho các giáo lí răn dạy đạo đức phong kiến tam cương ngũ thường.\
-D. Ca ngợi chiến công chống giặc ngoại xâm bảo vệ biên cương quốc gia.
+==== Nhóm 3: Đề tài, tiểu loại, quy ước văn bản và Tiếng Việt Bài 1–2–3 (`ĐH-B4` & Tiếng Việt)
 
-*Câu 11.* Trong truyện *Rắn già rắn lột, người già người chui tuột vào săng*, vì sao vị Thiên thần sứ giả lại tuyên bố ngược lệnh của Ngọc Hoàng?\
-A. Vì Thiên thần cố tình nhận hối lộ châu báu của loài rắn.\
-B. Vì Thiên thần hoảng sợ trước bầy rắn hàng vạn con vây quanh đe dọa tính mạng.\
-C. Vì Thiên thần ghét bỏ loài người dưới hạ giới.\
-D. Vì Thiên thần nghe nhầm lời dặn của Nam Tào và Bắc Đẩu.
+*Câu 12.* Tiêu chí căn bản để SGK *Ngữ văn 10 Kết nối tri thức* chia thần thoại thành hai nhóm *thần thoại suy nguyên* và *thần thoại sáng tạo* là:\
+A. Độ dài ngắn của văn bản (dưới hay trên một nghìn chữ).\
+B. Quốc gia sản sinh ra tác phẩm (phương Đông hay phương Tây).\
+C. Đề tài và đối tượng phản ánh chính (nguồn gốc vũ trụ, muôn loài hay cuộc chinh phục tự nhiên, sáng tạo văn hóa).\
+D. Hình thức lưu truyền (truyền miệng dân gian hay khắc trên bia đá).
 
-*Câu 12.* Việc các vị thần trong thần thoại Việt Nam cũng có lúc *“vội vàng”* (Ngọc Hoàng), *“nóng nảy”* (Thần Sét), *“hay quên”* (Thần Mưa), *“sợ hãi”* (Thiên thần gặp rắn) cho thấy nét độc đáo gì trong nghệ thuật xây dựng nhân vật?\
-A. Người xưa coi thường và muốn hạ bệ uy quyền của thần linh.\
-B. Các vị thần vừa mang quyền năng siêu nhiên, vừa được nhân hóa hồn nhiên với những nét tính cách gần gũi như con người đời thường.\
-C. Thần thoại Việt Nam thực chất là truyện cười châm biếm thói hư tật xấu.\
-D. Tác giả dân gian thiếu trí tưởng tượng nên không tạo được hình tượng thần hoàn mĩ.
+*Câu 13.* Truyện thần thoại kể về việc thần Bàn Cổ vung búa tách trời đất, khi ngã xuống mắt trái hóa Mặt Trời, mắt phải hóa Mặt Trăng, máu hóa sông biển thuộc tiểu loại nào?\
+A. Thần thoại suy nguyên. #h(1.4em) B. Truyền thuyết giữ nước. #h(1.4em) C. Truyện cổ tích sinh hoạt. #h(1.4em) D. Truyện truyền kì trung đại.
 
-*Câu 13.* Trong đoạn trích *Đi san mặt đất* (thần thoại dân tộc Lô Lô), chủ thể trực tiếp đúc lưỡi cày, tìm trâu, tìm cóc để san phẳng mặt đất là ai?\
-A. Một vị thần độc tôn trên bầu trời làm thay toàn bộ cho loài người.\
-B. Cộng đồng con người cổ sơ đoàn kết, chung sức cải tạo thiên nhiên.\
-C. Các loài ác thú dưới sự chỉ huy của Hỏa thần.\
-D. Mười hai vị tiên nữ dệt mây nơi cung trăng.
+*Câu 14.* Phương thức biểu đạt *chính* của các văn bản truyện thần thoại là:\
+A. Biểu cảm. #h(2.2em) B. Nghị luận. #h(2.2em) C. Tự sự. #h(2.2em) D. Thuyết minh.
 
-=== Nhóm III: Chỉ báo 3 & 4 — Đề tài, Chi tiết kì ảo, Bối cảnh Văn hoá & Tiếng Việt (Câu 14 – 21)
+*Câu 15.* Kí hiệu dấu chấm lửng đặt trong ngoặc vuông `[...]` xuất hiện ở giữa ngữ liệu Đọc hiểu có công dụng gì?\
+A. Đánh dấu lời nhân vật ngập ngừng vì xúc động mạnh.\
+B. Cho biết một phần văn bản gốc đã được lược bớt khi trích dẫn vào đề kiểm tra.\
+C. Báo hiệu câu văn còn bỏ ngỏ để người đọc tự viết tiếp cái kết mới.\
+D. Tạo nhịp điệu hài hước, châm biếm cho lời người kể chuyện.
 
-*Câu 14.* Văn bản *Thần Biển* thuộc tiểu loại thần thoại nào xét theo chủ đề?\
-A. Thần thoại suy nguyên (lí giải nguồn gốc các hiện tượng tự nhiên của biển cả).\
-B. Thần thoại sáng tạo văn hoá (kể về việc chế tạo thuyền buồm và lưới đánh cá).\
-C. Sử thi anh hùng trận mạc.\
-D. Truyện ngụ ngôn triết lí đạo đức.
+*Câu 16.* Trong các từ ghép Hán Việt sau, từ nào có yếu tố *thiên* mang nghĩa là *"nghìn"* (không mang nghĩa là *"trời"*)?\
+A. Thiên đình. #h(2em) B. Thiên niên kỉ. #h(2em) C. Thiên hạ. #h(2em) D. Thiên mệnh.
 
-*Câu 15.* Truyện *Hai thần Đực Cái (Tứ Tượng – Nữ Oa)* trong thần thoại Việt cổ — với chi tiết Nữ Oa đắp núi Nam Giới cao nhìn thấu bốn chân trời, tài trí cao cường hơn hẳn nam thần Tứ Tượng — phản ánh bối cảnh lịch sử – xã hội nào?\
-A. Chế độ phụ quyền phong kiến trọng nam khinh nữ khắc nghiệt.\
-B. Dấu ấn của chế độ mẫu hệ thời nguyên thủy khi người phụ nữ giữ vai trò trung tâm trong cộng đồng.\
-C. Xã hội thương nghiệp đô thị phát triển rực rỡ.\
-D. Thời kì chiến tranh phân tranh giữa các tập đoàn phong kiến.
+*Câu 17.* Từ Hán Việt *"nguyên hợp"* trong nhận định *"Thần thoại mang tính nguyên hợp rõ nét"* được hiểu đúng nhất là:\
+A. Chỉ có một nhân vật duy nhất xuất hiện từ đầu đến cuối câu chuyện.\
+B. Sự gắn kết, hòa quyện chưa tách rời giữa văn học nghệ thuật với tín ngưỡng, nhận thức tự nhiên và triết lí sơ khai.\
+C. Văn bản được biên dịch nguyên vẹn từ tiếng nước ngoài sang tiếng Việt.\
+D. Tác phẩm chỉ lưu truyền trong phạm vi một gia đình duy nhất.
 
-*Câu 16.* Trong truyện *Thần Lửa*, chi tiết ông lão giữ gìn tàn than đỏ trong bếp không bao giờ dám để tắt phản ánh tập tục văn hoá nào của cư dân cổ xưa?\
-A. Tục đốt pháo hoa mừng năm mới nơi kinh thành.\
-B. Tập tục giữ lửa thiêng trong bếp gia đình của cư dân nguyên thủy và nông nghiệp cổ truyền khi việc tạo ra lửa còn vô cùng khó khăn.\
-C. Nghề luyện kim đúc đồng quy mô công nghiệp.\
-D. Tín ngưỡng thờ thần Biển của ngư dân vùng duyên hải.
+*Câu 18.* Câu văn nào sau đây dùng *đúng* nghĩa của từ Hán Việt?\
+A. Tác phẩm mở ra một tương lai *sáng lạn* cho con người thời cổ.\
+B. Thần Prô-mê-tê không thể đứng nhìn một cách *bàng quang* trước cảnh con người chịu giá rét.\
+C. Tính nóng vội là *điểm yếu* khiến Thần Sét đôi khi đánh nhầm cả người vô tội.\
+D. Câu chuyện thu hút rất nhiều *khán giả* say mê đọc đi đọc lại nhiều lần.
 
-*Câu 17.* Phương thức biểu đạt chính và ngôi kể của hầu hết các văn bản truyện thần thoại là:\
-A. Biểu cảm — Ngôi thứ nhất. #h(2em) B. Tự sự — Ngôi thứ ba.\
-C. Nghị luận — Ngôi thứ ba. #h(2.3em) D. Thuyết minh — Ngôi thứ hai.
+*Câu 19.* *(Tiếng Việt Bài 2)* Câu văn: *"Trong kho tàng dân gian cổ xưa, nhân dân đã sáng tạo ra nhiều truyện thần thoại kể về các vị thần từ thuở xa xưa"* mắc lỗi dùng từ nào?\
+A. Lỗi dùng từ sai phong cách hành chính công vụ.\
+B. Lỗi lặp từ và thừa từ ngữ đồng nghĩa (*cổ xưa – thuở xa xưa*, *truyện thần thoại – các vị thần*).\
+C. Lỗi dùng sai thuật ngữ khoa học tự nhiên.\
+D. Lỗi thiếu cả chủ ngữ lẫn vị ngữ.
 
-*Câu 18.* Trong câu: *“Khi chiếu Trời ban xuống dưới #strong[Thủy phủ], vua #strong[Thủy Tề] loan báo cho các giống dưới nước ganh đua mà dự thi. Trời cắt một viên #strong[Ngự sử] ra #strong[sát hạch]”* (*Thần Mưa*), các từ in đậm đều thuộc lớp từ nào?\
-A. Từ thuần Việt mô phỏng âm thanh tự nhiên.\
-B. Từ Hán Việt tạo sắc thái trang trọng, uy nghiêm cho không gian triều đình thần linh.\
-C. Thuật ngữ khoa học hiện đại chuyên ngành hải dương học.\
-D. Từ địa phương vùng đồng bằng Bắc Bộ.
+*Câu 20.* *(Tiếng Việt Bài 2)* Câu văn nào dưới đây mắc *lỗi về trật tự từ* khiến người đọc hiểu lầm nghĩa?\
+A. Nhờ ngọn lửa thiêng của Prô-mê-tê, con người đã thoát khỏi cảnh ăn tươi nuốt sống.\
+B. Hê-ra-clét đã đánh bại gã khổng lồ Ăng-tê hung bạo bằng trí thông minh của mình.\
+C. Hê-ra-clét đã đánh bại gã khổng lồ Ăng-tê bằng trí thông minh hung bạo của mình.\
+D. Bằng trí thông minh sắc sảo, Hê-ra-clét đã đánh bại gã khổng lồ Ăng-tê hung bạo.
 
-*Câu 19.* Từ #strong[“sát hạch”] trong câu văn ở Câu 18 được hiểu đúng nhất là:\
-A. Trừng phạt nặng nề kẻ phạm tội trên thiên đình.\
-B. Kiểm tra, thi tuyển xem xét tài năng một cách chặt chẽ để chọn lấy kẻ xứng đáng.\
-C. Ban phát thức ăn và nước uống cho muôn loài dưới biển.\
-D. Xây dựng đê điều ngăn dòng nước lũ tràn về hạ giới.
+*Câu 21.* *(Tiếng Việt Bài 2)* Trong câu thơ *"Lom khom dưới núi, tiều vài chú / Lác đác bên sông, chợ mấy nhà"* (Bà Huyện Thanh Quan), việc đặt *"Lom khom"*, *"Lác đác"* lên đầu câu là:\
+A. Lỗi sắp xếp sai trật tự thành phần câu cần phải sửa lại.\
+B. Biện pháp tu từ đảo ngữ có chủ đích nhằm nhấn mạnh dáng vẻ nhỏ bé, thưa thớt, vắng vẻ của cảnh vật.\
+C. Lỗi lặp cấu trúc ngữ pháp do hạn chế vốn từ.\
+D. Phép thế đại từ liên kết hai đoạn văn nghị luận.
 
-*Câu 20.* Câu văn nào dưới đây mắc lỗi dùng sai từ Hán Việt?\
-A. *Thần thoại thể hiện khát vọng chinh phục tự nhiên lớn lao của con người thời cổ đại.*\
-B. *Trí tưởng tượng bay bổng là một yếu điểm làm nên sức hấp dẫn đặc biệt của thần thoại.*\
-C. *Tính hay quên là một yếu điểm khiến Thần Mưa có lúc gây ra hạn hán, lũ lụt cho hạ giới.*\
-D. *Hình tượng Prô-mê-tê kết tinh vẻ đẹp trí tuệ và lòng nhân ái bao la.*
+*Câu 22.* *(Tiếng Việt Bài 3)* Cho hai câu văn: *"Mặc dù Nữ thần Lúa hết lòng chăm chút cho ruộng đồng thêm trĩu hạt nên cuộc sống của dân làng ngày càng ấm no"*. Đoạn trên mắc lỗi gì về liên kết câu?\
+A. Dùng cặp quan hệ từ *Mặc dù... nên...* không phù hợp với quan hệ nhân quả giữa hai vế câu.\
+B. Thiếu chủ ngữ ở cả hai vế câu ghép.\
+C. Viết sai chính tả tên riêng của nhân vật thần thoại.\
+D. Dùng từ Hán Việt sai phong cách ngôn ngữ sinh hoạt.
 
-*Câu 21.* Trong câu văn: *“Ông Đùng, bà Đùng đứng cao lắm, có dễ đứng cao hơn năm lần đỉnh núi cao nhất”* (*Sự tích Ông Đùng, bà Đùng*), tác giả dân gian đã sử dụng biện pháp tu từ nổi bật nào?\
-A. Ẩn dụ chuyển đổi cảm giác. #h(1.8em) B. Hoán dụ lấy bộ phận chỉ toàn thể.\
-C. Nói quá (phóng đại) kết hợp so sánh. #h(1.2em) D. Chơi chữ đồng âm.
+*Câu 23.* *(Tiếng Việt Bài 3)* Phát biểu nào phân biệt đúng nhất hai khái niệm *mạch lạc* và *liên kết* trong văn bản?\
+A. Mạch lạc chỉ áp dụng cho thơ lục bát, còn liên kết chỉ áp dụng cho truyện thần thoại.\
+B. Mạch lạc là sự thống nhất chủ đề và trình tự hợp lí về mặt nội dung; liên kết là hệ thống phương tiện từ ngữ, ngữ pháp kết nối các câu, đoạn về mặt hình thức.\
+C. Cứ lặp lại cùng một danh từ ở mọi câu trong đoạn thì đoạn văn đó chắc chắn có tính mạch lạc.\
+D. Văn bản đã có phép nối đầu câu thì không cần các câu phải hướng về cùng một chủ đề.
 
-=== Nhóm IV: Chỉ báo 5, 6, 7, 8, 9 — Thông hiểu Cốt truyện, Nhân vật, Chủ đề & Chi tiết (Câu 22 – 28)
+==== Nhóm 4: Thông hiểu cốt truyện, nhân vật, chủ đề, chi tiết, yếu tố kì ảo (`ĐH-H1` đến `ĐH-H5`)
 
-*Câu 22.* Trong *Truyện chế tạo ra lúa và bông* (Nguyễn Đổng Chi), việc Ngọc Hoàng mở hội nghị lấy ý kiến muôn vật và cuối cùng nghe theo lí lẽ hợp lí của thằn lằn (thay vì voi to xác) thể hiện quan niệm gì của dân gian?\
-A. Kẻ có sức mạnh cơ bắp luôn áp đặt được ý muốn lên kẻ yếu.\
-B. Sự đề cao trí tuệ, lẽ phải hợp lí, tiết kiệm vì lợi ích chung và sự tôn trọng cả những sinh linh nhỏ bé.\
-C. Loài voi không bao giờ được phép ăn lúa trên cánh đồng.\
-D. Ngọc Hoàng thiên vị loài bò sát hơn loài thú ăn cỏ.
+*Câu 24.* (`ĐH-H1`) Khi tóm tắt cốt truyện của một văn bản thần thoại để đưa vào đoạn đầu Thân bài nghị luận, thao tác nào sau đây là phù hợp nhất?\
+A. Chép lại nguyên văn toàn bộ lời đối thoại của tất cả nhân vật trong truyện.\
+B. Lược bỏ chi tiết phụ, giữ lại nhân vật chính và chuỗi sự việc hạt nhân theo trình tự hợp lí bằng lời văn ngắn gọn (khoảng 4–6 câu).\
+C. Thay đổi kết thúc của câu chuyện theo hướng hiện đại hóa cho hấp dẫn hơn.\
+D. Chỉ ghi tên tác phẩm mà bỏ qua toàn bộ hành động kiến tạo của vị thần.
 
-*Câu 23.* Ý nghĩa sâu xa của chi tiết con người được Prô-mê-tê tái tạo *“đứng thẳng lên, đi bằng hai chân để đôi tay được thảnh thơi làm nhiều việc khác”* là gì?\
-A. Giúp con người chạy nhanh hơn loài ngựa và loài báo trên thảo nguyên.\
-B. Khẳng định tư thế làm chủ đầy phẩm giá hướng lên bầu trời và giải phóng đôi bàn tay cho lao động sáng tạo văn minh.\
-C. Giúp con người không bị ướt chân khi lội qua những con sông lớn.\
-D. Làm cho các loài thú dữ sợ hãi không dám đến gần nơi con người sinh sống.
+*Câu 25.* (`ĐH-H2`) Việc tác giả dân gian khắc họa Thần Sét vừa có uy lực dữ dội (*"lưỡi búa đá bổ xuống đâu là sấm sét nổ vang trời"*), vừa có lúc ngủ gật hoặc luống cuống sợ tiếng gà trống gáy thể hiện nét đặc sắc nào trong nghệ thuật xây dựng nhân vật thần thoại?\
+A. Hạ thấp uy tín của thần linh để đề cao tầng lớp quý tộc phong kiến.\
+B. Kết hợp hài hòa giữa tầm vóc siêu nhiên kì vĩ với những nét tính cách hồn nhiên, gần gũi của con người lao động.\
+C. Chứng tỏ người cổ đại không còn tin vào sự tồn tại của bất kì hiện tượng tự nhiên nào.\
+D. Biến nhân vật thần thoại thành nhân vật phản diện độc ác cần bị tiêu diệt.
 
-*Câu 24.* Trong đoạn trích *Hê-ra-clét đi tìm táo vàng*, việc người anh hùng Hê-ra-clét giương cung bắn đại bàng, chặt xiềng xích giải cứu Prô-mê-tê rồi mới nhận được lời chỉ dẫn đi tìm thần Át-lát gửi gắm tư tưởng gì?\
-A. Chiến thắng chỉ thuộc về kẻ biết dùng mưu mẹo lừa gạt các vị thần.\
-B. Lòng hiệp nghĩa, sự tri ân và tinh thần trượng phu cứu giúp người gặp nạn chính là chìa khóa mở lối vượt qua thử thách hiểm nghèo.\
-C. Con người hoàn toàn bất lực trước số phận do các vị thần sắp đặt.\
-D. Sức mạnh cơ bắp có thể giải quyết mọi vấn đề mà không cần trí tuệ.
+*Câu 26.* (`ĐH-H2`) Hình tượng các vị thần sáng tạo văn hóa như *Prô-mê-tê*, *Ông Đùng bà Đùng*, *Nữ thần Lúa* đóng vai trò gì trong tác phẩm thần thoại?\
+A. Là hiện thân nghệ thuật cho trí tuệ, sức mạnh lao động và khát vọng cải tạo tự nhiên của cộng đồng người cổ đại.\
+B. Chỉ giữ vai trò làm nền trang trí cho cảnh sắc thiên nhiên hoang sơ.\
+C. Đại diện cho những thế lực bóng tối chuyên gieo rắc tai ương vô cớ cho con người.\
+D. Ghi chép tiểu sử chính xác của các vị hoàng đế đầu tiên trong lịch sử trung đại.
 
-*Câu 25.* Điểm chung nổi bật nhất giữa hình tượng *Nữ Oa* (thần thoại Trung Quốc) và *Prô-mê-tê* (thần thoại Hy Lạp) là gì?\
-A. Đều là những vị thần gieo rắc tai họa bão lũ để trừng phạt nhân gian.\
-B. Đều là những đấng sáng tạo giàu tình yêu thương loài người, sẵn sàng hi sinh, vượt muôn gian khổ để bảo vệ sự sống và đem lại văn minh cho con người.\
-C. Đều bị Ngọc Hoàng đày xuống hạ giới hóa thành các loài thảo mộc.\
-D. Đều đại diện cho khát vọng bành trướng lãnh thổ bằng chiến tranh.
+*Câu 27.* (`ĐH-H3`) Nhận định nào khái quát đầy đủ nhất *hai tầng chủ đề* thường gặp trong các truyện thần thoại suy nguyên Việt Nam?\
+A. Phê phán thói trọng nam khinh nữ và kêu gọi quyền tự do hôn nhân.\
+B. Cắt nghĩa nguồn gốc các hiện tượng tự nhiên bằng trí tưởng tượng dân gian, đồng thời gửi gắm ước vọng sống hài hòa và làm chủ thiên nhiên của người xưa.\
+C. Ca ngợi tinh thần chiến đấu chống giặc ngoại xâm bảo vệ biên cương Tổ quốc.\
+D. Phản ánh bi kịch tha hóa nhân cách của người trí thức nghèo trước đồng tiền.
 
-*Câu 26.* Căn cứ quan trọng nhất để khẳng định *Cóc kiện Trời* mang dấu ấn chuyển tiếp từ thần thoại sang truyện cổ tích loài vật là gì?\
-A. Truyện không còn nhắc đến nhân vật Ngọc Hoàng hay Thiên đình.\
-B. Nhân vật trung tâm chuyển từ vị thần sáng thế sang con vật nhỏ bé (Cóc) dùng mưu trí và sức mạnh đoàn kết thắng cả đội quân nhà Trời để đòi mưa cho muôn loài.\
-C. Truyện được viết bằng thể thơ lục bát truyền thống.\
-D. Truyện lấy bối cảnh đô thị hiện đại thay cho không gian thiên đình – hạ giới.
+*Câu 28.* (`ĐH-H3`) Qua câu chuyện các loài vật dưới hạ giới do Cóc dẫn đầu kéo lên Thiên đình đòi mưa trong truyện *Thần Mưa*, người xưa gửi gắm chủ đề phụ giàu ý nghĩa nhân sinh nào?\
+A. Khuyên con người nên cam chịu mọi tai ương hạn hán mà không cần tìm cách khắc phục.\
+B. Đề cao trí thông minh, lòng quả cảm và sức mạnh đoàn kết của những sinh linh nhỏ bé khi đấu tranh giành quyền sống chính đáng.\
+C. Giải thích nguồn gốc lễ hội đua thuyền trên sông vào mùa thu.\
+D. Chứng minh loài cóc có kích thước cơ thể lớn hơn rồng trên thiên đình.
 
-*Câu 27.* Dòng nào nêu đúng nhất tác dụng của lời người kể chuyện ngôi thứ ba trong văn bản *Thần Biển*?\
-A. Bộc lộ trực tiếp nỗi cô đơn riêng tư của cá nhân nhà văn trước biển cả.\
-B. Dẫn dắt người đọc chiêm ngưỡng bức tranh kì vĩ ngoài khơi xa một cách khách quan, tự nhiên, làm nổi bật mối liên hệ nhân – quả giữa nhịp thở của thần và hiện tượng thủy triều, sóng thần.\
-C. Tạo ra cuộc tranh biện gay gắt giữa nhiều nhân vật có quan điểm trái chiều.\
-D. Xóa bỏ hoàn toàn yếu tố kì ảo để biến văn bản thành báo cáo hải dương học.
+*Câu 29.* (`ĐH-H4`) Chi tiết *"những chỗ Thần Trụ Trời đào đất, đào đá đắp cột nay thành biển rộng; cột đá thần phá đi ném vung khắp nơi nay thành núi cao, đảo xa"* mang ý nghĩa gì?\
+A. Phản ánh trình độ đo đạc bản đồ địa chất chính xác bằng máy móc hiện đại.\
+B. Cắt nghĩa một cách hình tượng sự hình thành địa hình núi non, biển cả đa dạng và tôn vinh công cuộc khai thiên lập địa kì vĩ.\
+C. Tố cáo hành vi hủy hoại cảnh quan thiên nhiên của các vị thần.\
+D. Cho thấy công việc chống trời của vị thần hoàn toàn thất bại.
 
-*Câu 28.* Chủ đề bao quát của nhóm truyện thần thoại Việt Nam kể về các vị thần tự nhiên (*Thần Trụ Trời, Thần Sét, Thần Gió, Thần Mưa, Thần Biển*) là gì?\
-A. Phản ánh khát vọng nhận thức, cắt nghĩa thế giới tự nhiên bằng trí tưởng tượng hồn nhiên và ước mơ chinh phục thiên nhiên, cầu mong cuộc sống ấm no, bình yên của người Việt cổ.\
-B. Ghi chép biên niên lịch sử các cuộc kháng chiến chống ngoại xâm thời dựng nước.\
-C. Lên án những hủ tục lạc hậu trói buộc quyền tự do yêu đương của người phụ nữ.\
-D. Khuyên răn con người từ bỏ cuộc sống trần thế để đi tìm cõi tiên thoát tục.
+*Câu 30.* (`ĐH-H4`) Trong truyện *Nữ thần Lúa*, chi tiết Nữ thần giận dỗi khi bị cô gái lười lấy chổi đập và tuyên bố từ nay con người phải tự cầm liềm ra đồng cắt từng bông lúa gửi gắm bài học gì?\
+A. Khuyên con người từ bỏ hẳn nghề trồng lúa nước để chuyển sang săn bắt.\
+B. Răn dạy con người biết trân quý hạt ngọc thực và khẳng định thành quả ấm no chỉ đến từ bàn tay lao động cần cù.\
+C. Giải thích nguyên nhân sinh ra hiện tượng thủy triều lên xuống hằng ngày.\
+D. Cho thấy các vị thần luôn thiên vị những người lười biếng.
 
-== Phần B. 12 Câu Tự luận Đọc hiểu Thực chiến (Thông hiểu & Vận dụng: Câu 29 – 40)
+*Câu 31.* (`ĐH-H4`) Việc kết hợp *lời người kể chuyện khách quan* với *một vài lời thoại ngắn gọn, dứt khoát của vị thần* trong truyện thần thoại đem lại hiệu quả nghệ thuật nào?\
+A. Vừa giữ được nhịp kể khái quát, trang trọng của truyền thuyết cổ sơ, vừa làm nổi bật cá tính và quyền năng của nhân vật ở thời điểm quyết định.\
+B. Làm cho câu chuyện mất đi yếu tố kì ảo và biến thành văn bản hành chính.\
+C. Khiến người đọc không thể xác định được ai là nhân vật trung tâm.\
+D. Biến tác phẩm tự sự thành một bài thơ trữ tình thuần túy.
 
-*Đọc hai đoạn trích ngữ liệu dưới đây để thực hiện các câu hỏi từ Câu 29 đến Câu 40:*
+*Câu 32.* (`ĐH-H5`) Khác biệt căn bản nhất về bản chất của *yếu tố kì ảo trong thần thoại* so với *yếu tố kì ảo trong truyện truyền kì trung đại* (như *Tản Viên từ Phán sự lục*) là gì?\
+A. Trong thần thoại, cái kì ảo chính là thế giới quan hồn nhiên mà người nguyên thủy tin là có thật để giải thích tự nhiên; còn trong truyện truyền kì, cái kì ảo là thủ pháp nghệ thuật có ý thức của nhà văn để phản ánh hiện thực xã hội.\
+B. Truyện thần thoại không có nhân vật thần linh, còn truyện truyền kì chỉ viết về các vị thần mở trời dựng đất.\
+C. Yếu tố kì ảo trong thần thoại làm giảm sức hấp dẫn của câu chuyện.\
+D. Yếu tố kì ảo trong truyện truyền kì ra đời trước thần thoại hàng vạn năm.
+
+*Câu 33.* (`ĐH-H5`) Trong truyện *Nữ Oa vá trời*, chi tiết Nữ Oa chọn đá ngũ sắc chất cao như núi, đốt lửa luyện suốt chín ngày chín đêm để vá lại vòm trời rách nát có tác dụng nghệ thuật và tư tưởng nổi bật nào?\
+A. Chỉ nhằm giới thiệu kĩ thuật nung gốm sứ xuất khẩu thời phong kiến.\
+B. Tạo nên bức tranh kì ảo tráng lệ, qua đó tôn vinh nghị lực phi thường và tình thương bao la bảo vệ sự sống con người trước thảm họa thiên nhiên.\
+C. Khuyên con người không nên chống chọi khi lũ lụt xảy ra.\
+D. Giải thích vì sao ban đêm không có ánh sáng Mặt Trời.
+
+*Câu 34.* (`ĐH-H4`) Biện pháp tu từ nào giữ vai trò chủ đạo trong câu văn: *"Khi Bàn Cổ trút hơi thở cuối cùng, hơi thở của thần hóa thành gió và mây, tiếng nói hóa thành sấm rền, mắt trái hóa thành Mặt Trời đỏ rực, mắt phải hóa thành Mặt Trăng dịu hiền"*?\
+A. Nói giảm nói tránh và chơi chữ đồng âm. #h(1.2em) B. Liệt kê kết hợp phóng đại kì ảo.\
+C. Ẩn dụ chuyển đổi cảm giác và câu hỏi tu từ. #h(1em) D. Đảo ngữ và chêm xen khẩu ngữ.
+
+*Câu 35.* (`ĐH-H3`) Điểm gặp gỡ sâu sắc nhất về mặt tư tưởng giữa truyện *Thần Trụ Trời* (Việt Nam), *Bàn Cổ mở trời dựng đất* (Trung Hoa) và *Prô-mê-tê và loài người* (Hy Lạp) là:\
+A. Đều giải thích tục thờ cúng tổ tiên trong gia đình hiện đại.\
+B. Đều thể hiện khát vọng nhận thức nguồn gốc thế giới và ngợi ca sức mạnh sáng tạo vĩ đại hướng về sự sống con người.\
+C. Đều sử dụng ngôi kể thứ nhất của nhân vật người anh hùng chiến trận.\
+D. Đều phê phán gay gắt chế độ hôn nhân đa thê thời cổ đại.
+
+=== B. Mười lăm câu hỏi tự luận ngắn trên 03 ngữ liệu ngoài SGK (Câu 36 – Câu 50)
+
+==== Ngữ liệu luyện tập 1 (Câu 36 – Câu 40)
 
 #passage-box(
-  title: "Ngữ liệu Luyện tập A: THẦN LỬA (Trích)",
-  source: "Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, 2003"
+  title: "THẦN LỬA",
+  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học xã hội, 2003"
 )[
-  Thần Lửa là một bà già mặt mũi rất hung dữ. Người ta thường gọi là bà Hỏa. Thần chuyên giữ một thứ lửa rất mầu nhiệm có thể đặt nồi không mà nấu ra đủ những thức ăn rất ngon lành. Nhưng thứ lửa ấy không phải là để cho hạ giới dùng.
+  Thuở trời đất mới phân chia, muôn người dưới hạ giới còn phải sống trong cảnh giá rét tối tăm. Đêm xuống, sương muối phủ trắng rừng sâu, thú dữ gầm rú rình rập quanh hang đá, còn thức ăn kiếm được đều phải ăn tươi nuốt sống.
 
-  Người ta kể chuyện ngày xưa có một ông lão đi vào trong rừng sâu bỗng bắt gặp một bếp lửa của bà Thần lúc đó đang đi đâu vắng. Ông ta mừng quýnh bèn chặt một ống nứa không đặt lên bếp lửa. Chỉ trong một chốc, ống nứa tự nhiên thấy đầy cơm chín lại có cả cá thịt nữa. Ông bèn đổ ra lá ăn một bụng no nê rồi ngủ luôn tại đó. Chẳng dè trong khi ông lão ngủ say thì bà Thần bất chợt trở về. Thấy có người lạ khám phá ngọn lửa mầu nhiệm của mình, bà Thần bèn rút bầu nước mang theo người ra tưới tắt bếp lửa rồi đi mất. Chừng ông lão tỉnh dậy thấy tắt mất bếp biết là thần Lửa không muốn cho mình hưởng, nhưng ông cụ cũng cố bươi đống tro tàn ra xem thì may thay hãy còn một tí than đỏ. Ông lão mừng rỡ vội bỏ vào khố bọc lại mang về nhà nhen nhóm nó lên.
-
-  Từ đó ngày nào cơm thịt cũng ê hề, gia đình ông lão sống rất sung túc. Và cũng từ đó, ông lão luôn luôn gìn giữ ngọn lửa không bao giờ dám để tắt. Nhưng một hôm lúc ông cụ đi vắng, người dâu của ông vừa đi ra suối múc nước về bỗng thấy lửa bén vào vách mà nhà vắng không có ai cả, bà ta lật đật mang cả vò nước xối vào khắp cả mọi nơi. Đến chừng ông lão trở về thì tiếc thay lửa đã tắt ngấm không còn một chút than đỏ nào nữa. Từ đó cha con mất hết thứ bảo vật của thần.
+  Bấy giờ trong bộ máy thần linh của Ngọc Hoàng có vị Thần Lửa. Thần là một ông già mặt mũi đỏ gay, râu tóc đỏ rực như chùm hoa vông, tính tình nóng nảy nhưng lòng dạ ngay thẳng, thương người. Thấy loài người co ro run rẩy dưới trần gian, Thần Lửa xin phép Ngọc Hoàng mang mồi lửa hồng xuống giúp dân lành. Tuy nhiên, nếu để ngọn lửa cháy tràn lan mãi trên mặt đất thì rừng cây, cỏ lá sẽ hóa tro bụi hết. Vì thế, Thần Lửa bèn thu mình ẩn vào trong ruột những hòn đá cuội trắng và những thân tre già khô kiệt trên sườn núi. Thần dặn con người rằng hễ lúc nào cần sưởi ấm, nấu chín đồ ăn hay thắp đuốc xua hổ báo, hãy kiên nhẫn lấy hai mảnh đá đập mạnh vào nhau hoặc lấy thanh tre khô cọ xát thật lâu, Thần sẽ lập tức phóng ra tia lửa đỏ rực để giúp sức. Từ đó, con người thoát cảnh tối tăm lạnh lẽo và biết giữ bếp lửa hồng truyền từ đời này sang đời khác.
 ]
+
+- *Câu 36 (`ĐH-H1` – Thông hiểu):* Hãy tóm tắt các sự việc chính của văn bản *Thần Lửa* trong khoảng 4–5 câu văn.
+- *Câu 37 (`ĐH-H2` – Thông hiểu):* Nhận xét nét đặc sắc trong cách tác giả dân gian xây dựng ngoại hình và tính cách nhân vật Thần Lửa.
+- *Câu 38 (`ĐH-H4` – Thông hiểu):* Chi tiết Thần Lửa *"thu mình ẩn vào trong ruột những hòn đá cuội trắng và những thân tre già khô kiệt"* để con người cọ xát mới hiện ra có ý nghĩa gì?
+- *Câu 39 (`ĐH-VD1` – Vận dụng):* Từ lời dặn của Thần Lửa về việc phải *"kiên nhẫn"* đập đá, cọ tre mới có được ngọn lửa, anh/chị rút ra bài học gì có ý nghĩa nhất cho bản thân? (Viết đoạn văn khoảng 7–9 dòng).
+- *Câu 40 (`ĐH-VD4` – Vận dụng):* Viết đoạn văn ngắn (khoảng 7–9 dòng) đánh giá vẻ đẹp thẩm mĩ của hình ảnh *"bếp lửa hồng truyền từ đời này sang đời khác"* ở câu kết văn bản.
+
+==== Ngữ liệu luyện tập 2 (Câu 41 – Câu 45)
 
 #passage-box(
-  title: "Ngữ liệu Luyện tập B: HÊ-RA-CLÉT ĐI TÌM TÁO VÀNG (Lược trích đoạn đấu trí với thần Át-lát)",
-  source: "Nguyễn Văn Khoả, Thần thoại Hy Lạp, tập II, NXB Đại học và Trung học chuyên nghiệp, 1986"
+  title: "HÊ-RA-CLÉT ĐI TÌM TÁO VÀNG (Lược trích)",
+  source: "Theo Nguyễn Văn Khỏa, Thần thoại Hy Lạp, NXB Văn học, Hà Nội, 2014"
 )[
-  [...] Đền ơn người anh hùng đã giải phóng cho mình khỏi xiềng xích và mỏ diều hâu trên đỉnh Cô-ca-dơ, thần Prô-mê-tê khuyên Hê-ra-clét không nên tự tay hái táo vàng mà hãy nhờ thần Át-lát — vị thần khổng lồ đang giơ đôi vai sừng sững chống đỡ vòm trời. Tìm đến nơi, Hê-ra-clét ngỏ lời ghé vai gánh đỡ bầu trời để Át-lát đi hái táo. Sức nặng ghê gớm của cả vòm trời đè trĩu lên vai khiến gân cốt người anh hùng căng ra, mồ hôi vã như tắm, nhưng chàng vẫn đứng vững nhờ ý chí sắt đá và sự tiếp sức của nữ thần Trí tuệ A-tê-na. Khi Át-lát mang ba quả táo vàng trở về, thấy thoát được gánh nặng ngàn năm, vị thần toan lừa Hê-ra-clét gánh vòm trời mãi mãi thay mình bằng cách ngỏ ý tự mang táo về Mi-xen giúp chàng. Nhanh trí nhận thấu mưu mẹo ấy, Hê-ra-clét giả vờ vui vẻ bằng lòng ngay, chỉ xin Át-lát đỡ hộ bầu trời một lát để chàng kiếm tấm đệm kê lên vai cho đỡ đau. Át-lát tưởng thật, đặt ba quả táo vàng xuống cỏ rồi ghé vai gánh lại bầu trời. Ngay lập tức, Hê-ra-clét cúi nhặt chùm táo vàng, lễ phép cảm tạ vị thần khổng lồ rồi ung dung lên đường trở về hoàn thành chiến công thứ mười một.
+  Để thực hiện kì công thứ mười một, người anh hùng Hê-ra-clét phải đi tìm ba quả táo vàng do đàn rồng trăm đầu canh giữ ở tận cùng thế giới. Trên đường vượt qua dãy núi Cô-ca-dơ hiểm trở, thấy vị thần ân nhân Prô-mê-tê bị xiềng chặt vào vách đá cho đại bàng ngày ngày mổ lá gan vì tội trao lửa cho loài người, Hê-ra-clét liền giương cung bắn hạ con ác điểu, đập tan xiềng xích giải thoát cho Prô-mê-tê.
+
+  Đi qua miền sa mạc Li-bi cháy bỏng, Hê-ra-clét chạm trán gã khổng lồ Ăng-tê hung hãn, con trai của Đất Mẹ Gai-a. Lạ thay, mỗi lần bị Hê-ra-clét quật ngã chạm lưng xuống đất, Ăng-tê lại được Đất Mẹ truyền thêm sinh lực, bật dậy mạnh gấp đôi trước. Phát hiện ra bí mật ấy, Hê-ra-clét dùng đôi tay rắn chắc nhấc bổng Ăng-tê rời hẳn khỏi mặt đất cho đến khi gã kiệt sức. Tới khu vườn tiên, nghe lời khuyên của Prô-mê-tê, Hê-ra-clét tự nguyện ghé đôi vai vạm vỡ gánh đỡ cả bầu trời nặng trĩu thay cho thần khổng lồ Át-lát để Át-lát vào hái táo vàng, rồi lại khéo léo dùng mưu trao trả bầu trời về vai Át-lát và mang ba quả táo vàng trở về trọn vẹn.
 ]
 
-- *Câu 29 (CB5 – Thông hiểu):* Tóm tắt ngắn gọn cốt truyện của đoạn trích *Thần Lửa* (khoảng 4–5 câu).
-- *Câu 30 (CB6 – Thông hiểu):* Vì sao tác giả dân gian lại hình dung Thần Lửa (bà Hỏa) vừa có *“mặt mũi rất hung dữ”*, vừa sở hữu *“thứ lửa mầu nhiệm đặt nồi không mà nấu ra đủ thức ăn ngon lành”*?
-- *Câu 31 (CB9 – Thông hiểu):* Phân tích ý nghĩa của chi tiết kì ảo *“chặt một ống nứa không đặt lên bếp lửa, chỉ trong một chốc ống nứa tự nhiên đầy cơm chín lại có cả cá thịt”* trong văn bản *Thần Lửa*.
-- *Câu 32 (CB7 – Thông hiểu):* Xác định chủ đề của đoạn trích *Thần Lửa* và chỉ ra các căn cứ giúp anh/chị xác định chủ đề đó.
-- *Câu 33 (CB8 – Thông hiểu):* Lí giải tác dụng của việc lựa chọn ngôi kể thứ ba và giọng kể dân gian mộc mạc trong đoạn trích *Thần Lửa*.
-- *Câu 34 (CB6 & CB9 – Thông hiểu):* Qua màn đấu sức và đấu trí với thần Át-lát trong *Ngữ liệu B*, vẻ đẹp của người anh hùng Hê-ra-clét hiện lên trên những phương diện nào?
-- *Câu 35 (CB10 – Vận dụng):* Từ hành động người con dâu *“lật đật mang cả vò nước xối vào khắp mọi nơi”* làm tắt mất ngọn lửa quý trong *Thần Lửa*, anh/chị rút ra bài học ứng xử gì khi đối diện với tình huống khẩn cấp trong cuộc sống?
-- *Câu 36 (CB11 – Vận dụng):* Hành trình Hê-ra-clét vừa kiên cường gánh vòm trời vừa nhanh trí hóa giải mưu mẹo của Át-lát tác động như thế nào đến nhận thức của anh/chị về mối quan hệ giữa *nghị lực* và *trí tuệ* trên đường đời?
-- *Câu 37 (CB12 – Vận dụng):* Vận dụng hiểu biết về bối cảnh đời sống của người Việt cổ thời nguyên thủy để lí giải vì sao việc đánh mất “tí than đỏ” lại được xem là mất đi “bảo vật của thần”.
-- *Câu 38 (CB13 – Vận dụng):* Có ý kiến cho rằng: *“Ước mơ đặt nồi không lên bếp cũng có sẵn cơm chín cá thịt trong Thần Lửa là biểu hiện của tâm lí ỷ lại, lười lao động”*. Anh/chị có đồng tình với ý kiến đó không? Vì sao?
-- *Câu 39 (CB12 – Vận dụng):* So sánh hình ảnh *“ngọn lửa”* trong *Thần Lửa* (thần thoại Việt Nam) và *Prô-mê-tê và loài người* (thần thoại Hy Lạp) để thấy nét tương đồng trong khát vọng nhân loại.
-- *Câu 40 (CB13 – Vận dụng):* Theo anh/chị, trong kỉ nguyên trí tuệ nhân tạo và khoa học hiện đại hôm nay, việc đọc và lưu truyền những truyện thần thoại cổ sơ có còn cần thiết đối với thế hệ trẻ không? Hãy lí giải trong 6–8 dòng.
+- *Câu 41 (`ĐH-H3` – Thông hiểu):* Nêu chủ đề chính của đoạn trích *Hê-ra-clét đi tìm táo vàng*.
+- *Câu 42 (`ĐH-H2` – Thông hiểu):* Qua ba hành động liên tiếp (giải cứu Prô-mê-tê, nâng bổng Ăng-tê, gánh bầu trời và đấu trí với Át-lát), nhân vật Hê-ra-clét hội tụ những phẩm chất nổi bật nào?
+- *Câu 43 (`ĐH-H5` – Thông hiểu):* Phân tích tác dụng của yếu tố kì ảo trong chi tiết gã khổng lồ Ăng-tê cứ chạm lưng xuống mặt đất lại được Đất Mẹ truyền thêm sức mạnh.
+- *Câu 44 (`ĐH-VD2` – Vận dụng):* Hình ảnh mặt đất tiếp thêm sinh lực cho Ăng-tê gợi cho anh/chị suy nghĩ gì về nguồn điểm tựa tinh thần của mỗi con người trong cuộc sống hôm nay? (Viết đoạn văn khoảng 7–9 dòng).
+- *Câu 45 (`ĐH-VD3` – Vận dụng):* Có ý kiến cho rằng: *"Trong cuộc sống, trí tuệ tỉnh táo luôn quan trọng hơn sức mạnh cơ bắp thuần túy"*. Từ chiến thắng của Hê-ra-clét trong đoạn trích, anh/chị hãy viết đoạn văn (7–9 dòng) trình bày quan điểm của mình.
 
-== Đáp án & Hướng dẫn Giải Chi tiết Trọn vẹn 40 Câu Ngân hàng
+==== Ngữ liệu luyện tập 3 (Câu 46 – Câu 50)
 
-#answer-box(title: "BẢNG ĐÁP ÁN & GIẢI THÍCH PHÁ NHIỄU 28 CÂU TRẮC NGHIỆM (CÂU 1 – 28)")[
-  #study-table(
-    (0.75fr, 0.65fr, 5.6fr),
-    ("Câu", "Đ/A", "Giải thích căn cứ chuẩn xác & Loại trừ phương án nhiễu"),
-    [*1*], [*B*], [Cụm *“Thuở xưa, trước buổi khai thiên lập địa”* là mốc thời gian phiếm chỉ, ước lệ buổi khởi nguyên vũ trụ (loại A vì không có niên đại; loại C, D vì không phải sinh hoạt hay hồi ức cá nhân).],
-    [*2*], [*C*], [Kha-ốt, Đất Mẹ Gai-a, Bầu Trời U-ra-nôx là không gian vũ trụ nguyên sơ mênh mông đang phân tách, tạo lập.],
-    [*3*], [*C*], [Câu C trích từ *Chuyện Từ Thức lấy vợ tiên* (truyền kì) ghi rõ niên hiệu *Quang Thái đời nhà Trần*, địa danh *Hóa Châu, Tiên Du* → thời gian lịch sử xác định, không phải thời gian thần thoại.],
-    [*4*], [*B*], [Không gian đa cõi giúp tư duy nguyên thủy bao quát và giải thích mối liên hệ vận hành của toàn bộ vũ trụ.],
-    [*5*], [*B*], [Các cụm *thuở ấy, lúc sơ khởi, khi trời đất mới phân khai* là công thức thời gian cổ sơ đặc trưng của thần thoại.],
-    [*6*], [*B*], [Ở miền Bắc Việt Nam, mùa đông ít mưa dông nên hiếm có sét; sang tháng Hai, tháng Ba âm lịch (mùa xuân mưa rào) sấm sét xuất hiện nhiều → người xưa quan sát tự nhiên thực tế rồi thần thoại hóa thành lịch “ngủ đông” của Thần Sét.],
-    [*7*], [*B*], [Nguyên văn nêu rõ: *“vị thần đội lốt một con rùa. Thân hình của thần rất to lớn, to lớn không thể nào ước lượng được”*.],
-    [*8*], [*B*], [Toàn bộ mạch kể xoay quanh việc thần rùa hít vào – thở ra (tạo thủy triều) và cựa mình vùng vẫy (tạo sóng thần, bão biển).],
-    [*9*], [*B*], [Cốt truyện *Thần Biển* đơn giản, đơn tuyến, chỉ tập trung vào một vị thần và hai trạng thái hoạt động để cắt nghĩa tự nhiên.],
-    [*10*], [*B*], [Chuẩn *Tri thức ngữ văn* SGK KNTT tr. 10: Chức năng nhân vật thần thoại là cắt nghĩa tự nhiên – xã hội và gửi gắm niềm tin, khát vọng tinh thần lâu dài của nhân loại.],
-    [*11*], [*B*], [Thiên thần kinh hoảng khi bị hàng ngàn hàng vạn con rắn liều lĩnh vây quanh dọa quấn chết nên đành tuyên bố ngược lại.],
-    [*12*], [*B*], [Người Việt cổ nhân hóa thần linh bằng lăng kính hồn nhiên, mộc mạc, khiến thế giới các thần vừa kì vĩ vừa gần gũi như đời sống con người.],
-    [*13*], [*B*], [Trong *Đi san mặt đất*, chính cộng đồng loài người cổ sơ đồng lòng góp sức tìm trâu, cóc, đúc cày san phẳng mặt đất.],
-    [*14*], [*A*], [Truyện giải thích nguồn gốc hiện tượng thủy triều và sóng thần → thuộc *thần thoại suy nguyên*.],
-    [*15*], [*B*], [Hình tượng Nữ Oa vượt trội Tứ Tượng bảo lưu đậm nét dấu ấn *chế độ mẫu hệ* thời nguyên thủy.],
-    [*16*], [*B*], [Thời nguyên thủy con người chưa dễ tự tạo ra lửa mà phải lấy lửa tự nhiên (cháy rừng, sét đánh) và ủ than hồng giữ lửa suốt ngày đêm trong bếp.],
-    [*17*], [*B*], [Mọi văn bản truyện thần thoại đều lấy *tự sự* làm phương thức biểu đạt chính và hầu hết trần thuật ở *ngôi thứ ba*.],
-    [*18*], [*B*], [*Thủy phủ, Thủy Tề, Ngự sử, sát hạch* đều là từ Hán Việt gợi không khí trang nghiêm của thiết chế thiên đình – thủy cung.],
-    [*19*], [*B*], [*Sát* = xem xét kĩ; *hạch* = tra xét thực chất → *sát hạch* là kiểm tra, thi tuyển gắt gao để chọn tài năng.],
-    [*20*], [*C*], [Câu C dùng sai từ *“yếu điểm”* (*yếu điểm* = điểm trọng yếu, quan trọng nhất; ở câu B dùng *yếu điểm* cho sức hấp dẫn là đúng nghĩa gốc, còn ở câu C chỉ tật hay quên phải sửa thành #strong[điểm yếu / nhược điểm]!).],
-    [*21*], [*C*], [Phóng đại tầm vóc khổng lồ (*cao hơn năm lần đỉnh núi cao nhất*) kết hợp phép so sánh hơn.],
-    [*22*], [*B*], [Lí lẽ của thằn lằn hợp tình hợp lí, tránh lãng phí của Trời, được Ngọc Hoàng tán thành → đề cao trí tuệ, sự tiết kiệm và vị thế của kẻ nhỏ bé.],
-    [*23*], [*B*], [Dáng đứng thẳng tách con người khỏi thú vật để ngẩng cao đầu, đồng thời giải phóng đôi tay cho hoạt động chế tác lao động.],
-    [*24*], [*B*], [Chính nghĩa cử giải cứu Prô-mê-tê trước đó đã mang lại cho Hê-ra-clét bí quyết sống còn để vượt qua thử thách táo vàng.],
-    [*25*], [*B*], [Cả Nữ Oa và Prô-mê-tê đều kết tinh tình thương bao la với con người và tinh thần kiến tạo văn minh nhân loại.],
-    [*26*], [*B*], [*Cóc kiện Trời* vừa giải thích tiếng cóc nghiến răng báo mưa (dấu vết suy nguyên), vừa chuyển trung tâm sang mưu trí và sức mạnh đoàn kết của kẻ nhỏ yếu thắng cường quyền (đặc trưng cổ tích loài vật).],
-    [*27*], [*B*], [Ngôi thứ ba toàn tri giúp người kể bao quát đại dương mênh mông, kết nối tự nhiên hành trạng của thần với hiện tượng thủy triều – sóng thần.],
-    [*28*], [*A*], [Bao quát trọn vẹn hai trục chủ đề của chùm thần thoại tự nhiên Việt Nam: *nhận thức cắt nghĩa vũ trụ* và *khát vọng sống bình yên, hòa hợp với thiên nhiên*.]
-  )
+#passage-box(
+  title: "BÀN CỔ MỞ TRỜI DỰNG ĐẤT",
+  source: "Theo Viên Kha, Thần thoại Trung Quốc, NXB Văn hóa Thông tin, 2006"
+)[
+  Thuở xa xưa lắm, khi chưa có trời đất, vũ trụ mênh mông chỉ là một khối khí hỗn độn tròn trịa giống hệt một quả trứng khổng lồ tối tăm. Trong quả trứng ấy, vị thần đầu tiên là Bàn Cổ đã say ngủ suốt một vạn tám nghìn năm. Một hôm tỉnh giấc, thấy chung quanh ngột ngạt đen đặc, Bàn Cổ bèn vung chiếc búa lớn bổ mạnh một nhát làm quả trứng vỡ đôi. Những khí thanh nhẹ liền bay bổng lên cao hóa thành Trời xanh; những chất nặng đục lắng chìm xuống dưới kết lại thành Đất dày.
+
+  Sợ Trời và Đất lại khép dính vào nhau như cũ, Bàn Cổ đứng thẳng người, đầu đội Trời, chân đạp Đất. Mỗi ngày Trời cao thêm một trượng, Đất dày thêm một trượng thì thân hình Bàn Cổ cũng vươn cao thêm một trượng. Cứ như thế ròng rã thêm một vạn tám nghìn năm nữa, đến khi vòm trời đã cao vời vợi và mặt đất đã vững chãi muôn đời, Bàn Cổ kiệt sức ngã xuống. Khi thần trút hơi thở cuối cùng, hơi thở hóa thành gió mây, tiếng vang hóa thành sấm động, mắt trái thành Mặt Trời rực lửa, mắt phải thành Mặt Trăng thanh khiết, máu chảy thành sông ngòi biển cả, gân mạch thành đường sá, thịt xương hóa thành đồng ruộng phì nhiêu và những dãy núi đá điệp trùng.
 ]
 
-#answer-box(title: "HƯỚNG DẪN CHẤM & ĐOẠN TRẢ LỜI MẪU 12 CÂU TỰ LUẬN (CÂU 29 – 40)")[
-  - #strong[Câu 29 (1,0đ — Tóm tắt cốt truyện _Thần Lửa_):] Thần Lửa (bà Hỏa) là vị nữ thần hung dữ nắm giữ ngọn lửa mầu nhiệm có thể nấu nồi không thành cơm thịt ngon lành *(0,25đ)*. Một ông lão đi rừng tình cờ phát hiện bếp lửa của thần, sau khi thần tưới nước tắt bếp bỏ đi, ông cố bới tro lấy được một mẩu than đỏ đem về nhen lên *(0,25đ)*. Nhờ giữ lửa không tắt, gia đình ông lão ngày nào cũng có thức ăn sung túc *(0,25đ)*. Thế nhưng một hôm ông đi vắng, lửa bén vào vách nhà, người con dâu hoảng hốt dội nước dập tắt ngấm cả bếp khiến gia đình vĩnh viễn mất đi bảo vật của thần *(0,25đ)*.
+- *Câu 46 (`ĐH-H4` – Thông hiểu):* Phân tích ý nghĩa của hình ảnh so sánh *"vũ trụ mênh mông chỉ là một khối khí hỗn độn tròn trịa giống hệt một quả trứng khổng lồ"* ở đầu văn bản.
+- *Câu 47 (`ĐH-H5` – Thông hiểu):* Mô-típ kì ảo về sự hóa thân toàn bộ cơ thể Bàn Cổ thành vạn vật ở cuối truyện thể hiện quan niệm gì của người cổ đại về vũ trụ và con người?
+- *Câu 48 (`ĐH-H2` – Thông hiểu):* Điểm tương đồng và khác biệt nổi bật giữa nhân vật Bàn Cổ trong đoạn trích trên với nhân vật Thần Trụ Trời (SGK *Ngữ văn 10*) là gì?
+- *Câu 49 (`ĐH-VD1` – Vận dụng):* Từ sự hi sinh bền bỉ suốt *"một vạn tám nghìn năm"* của Bàn Cổ để giữ cho trời đất không khép lại, anh/chị rút ra thông điệp gì về giá trị của sự kiên trì và cống hiến? (Viết đoạn văn 7–9 dòng).
+- *Câu 50 (`ĐH-VD2` – Vận dụng):* Viết đoạn văn ngắn (khoảng 7–9 dòng) trình bày suy nghĩ của anh/chị về cách văn bản *Bàn Cổ mở trời dựng đất* bồi đắp tình yêu và ý thức bảo vệ thiên nhiên cho con người hiện đại.
 
-  - #strong[Câu 30 (1,0đ — Lí giải tính hai mặt của hình tượng Thần Lửa):] Cách khắc họa Thần Lửa vừa *“mặt mũi rất hung dữ”* vừa sở hữu *“ngọn lửa mầu nhiệm nấu ra thức ăn ngon lành”* bắt nguồn từ sự quan sát tinh tế của người xưa về #strong[bản chất hai mặt của lửa trong tự nhiên và đời sống] *(0,50đ)*: một mặt, hỏa hoạn, cháy rừng có sức hủy diệt dữ dội, đáng sợ như cơn thịnh nộ của bà Hỏa; mặt khác, khi được kiểm soát trong bếp ấm, lửa lại là nguồn sống kì diệu giúp nấu chín thức ăn, sưởi ấm và nuôi dưỡng con người *(0,50đ)*.
+=== C. Đáp án giải thích phương án nhiễu (Câu 1–35) và hướng dẫn chấm tự luận (Câu 36–50)
 
-  - #strong[Câu 31 (1,0đ — Ý nghĩa chi tiết kì ảo ống nứa không hóa đầy cơm cá thịt):] Đây là chi tiết kì ảo giàu sức gợi của thần thoại *Thần Lửa* *(0,25đ)*. Về nội dung, chi tiết tôn vinh sức mạnh cải biến kì diệu của ngọn lửa đối với đời sống ẩm thực con người, đồng thời gửi gắm ước mơ cháy bỏng của cư dân nông nghiệp nghèo khó xưa về một cuộc sống no đủ, sung túc giữa thiên nhiên khắc nghiệt *(0,50đ)*. Về nghệ thuật, chi tiết tạo nên vẻ đẹp lung linh, lôi cuốn đặc trưng cho cốt truyện thần thoại *(0,25đ)*.
+#answer-box(title: "Bảng đáp án nhanh và giải thích trọng tâm 35 câu trắc nghiệm")[
+  *Bảng khóa đáp án (Câu 1 – Câu 35):*\
+  *1.B* • *2.C* • *3.B* • *4.B* • *5.B* • *6.B* • *7.B* • *8.B* • *9.C* • *10.A* • *11.C* • *12.C* • *13.A* • *14.C* • *15.B* • *16.B* • *17.B* • *18.C* • *19.B* • *20.C* • *21.B* • *22.A* • *23.B* • *24.B* • *25.B* • *26.A* • *27.B* • *28.B* • *29.B* • *30.B* • *31.A* • *32.A* • *33.B* • *34.B* • *35.B*.
 
-  - #strong[Câu 32 (1,0đ — Chủ đề & Căn cứ xác định chủ đề _Thần Lửa_):]
-    - *Chủ đề (0,50đ):* Văn bản thể hiện nhận thức của người Việt cổ về sức mạnh thiêng liêng hai mặt của lửa, lí giải tập tục giữ lửa bếp và gửi gắm ước mơ về cuộc sống ấm no cùng lời nhắc nhở trân trọng, giữ gìn cẩn trọng những giá trị quý giá.
-    - *Căn cứ xác định (0,50đ):* Dựa vào nhan đề *Thần Lửa*; hình tượng bà Hỏa hung dữ nhưng giữ lửa thiêng; sự kiện ông lão ủ than hồng hưởng ấm no đối lập với sự kiện người con dâu dội nước làm mất bảo vật ở kết truyện.
+  *Giải thích các câu dễ nhầm lẫn:*
+  - *Câu 12 (C) & 13 (A):* Phân loại thần thoại dựa vào nội dung phản ánh; truyện kể nguồn gốc vũ trụ, nhật nguyệt, núi sông thuộc *thần thoại suy nguyên*.
+  - *Câu 16 (B):* *Thiên niên kỉ* = một nghìn năm (`thiên`: nghìn); ba từ còn lại `thiên` đều có nghĩa là *trời*.
+  - *Câu 18 (C):* Phương án A sai chính tả (*xán lạn* mới đúng); phương án B nhầm *bàng quang* (bóng đái) với *bàng quan* (thờ ơ); phương án D nhầm *khán giả* (người xem) với *độc giả* (người đọc).
+  - *Câu 20 (C):* Đặt *"hung bạo"* ngay sau *"trí thông minh"* làm tính từ này bổ nghĩa nhầm cho *"trí thông minh"* của Hê-ra-clét thay vì bổ nghĩa cho *"gã khổng lồ Ăng-tê"*.
+  - *Câu 22 (A):* Hai mệnh đề có quan hệ nguyên nhân – kết quả nên phải dùng *"Vì... nên..."*; dùng *"Mặc dù... nên..."* là lỗi dùng sai phương tiện liên kết (Bài 3 SGK trang 86).
+  - *Câu 32 (A):* Cái kì ảo của thần thoại là *nhận thức hồn nhiên tiền khoa học* của cộng đồng nguyên thủy, còn cái kì ảo của truyền kì là *thủ pháp hư cấu nghệ thuật* của nhà văn trung đại.
+]
 
-  - #strong[Câu 33 (1,0đ — Tác dụng ngôi kể thứ ba & lời kể dân gian):] Ngôi kể thứ ba với người kể chuyện giấu mình giúp bao quát linh hoạt không gian rừng sâu lẫn mái nhà ông lão, tạo cái nhìn khách quan và niềm tin hồn nhiên vào chuyện thần linh *(0,50đ)*. Lời kể dân gian mộc mạc, giản dị (*“mừng quýnh”, “ăn một bụng no nê”, “tiếc thay”*) vừa dẫn dắt sự kiện mạch lạc, vừa kín đáo bộc lộ niềm tiếc nuối của cộng đồng khi con người đánh mất bảo vật thiêng *(0,50đ)*.
-
-  - #strong[Câu 34 (1,0đ — Vẻ đẹp nhân vật Hê-ra-clét):] Hình tượng Hê-ra-clét tỏa sáng vẻ đẹp hài hòa toàn bích của người anh hùng thần thoại Hy Lạp trên ba phương diện: *(1) Sức mạnh thể chất và ý chí phi thường* khi ghé đôi vai trần gánh cả vòm trời nặng trĩu *(0,50đ)*; *(2) Trí tuệ sắc sảo, ứng biến thông minh* khi đọc vị thấu mưu lừa của thần Át-lát và dùng kế “xin kê đệm vai” để giành lại chùm táo vàng; *(3) Phong thái hiệp nghĩa, điềm đĩnh, lịch duyệt* ngay trước các vị thần khổng lồ *(0,50đ)*.
-
-  - #strong[Câu 35 (1,0đ — Bài học ứng xử từ hành động người con dâu):] Hành động *“lật đật mang cả vò nước xối vào khắp mọi nơi”* gợi cho em bài học sâu sắc về #strong[sự bình tĩnh, suy xét thấu đáo khi xử lí khủng hoảng] *(0,25đ)*. Trong truyện, vì hoảng loạn thiếu cân nhắc, người con dâu tuy cứu được vách nhà nhưng lại dập tắt luôn cả tàn than thiêng nuôi sống gia đình *(0,25đ)*. Trong cuộc sống hiện đại, khi đối mặt với biến cố bất ngờ, sự nóng vội mù quáng rất dễ khiến ta tự tay phá hủy những giá trị cốt lõi tích lũy bấy lâu *(0,25đ)*. Vì vậy, mỗi người cần rèn luyện bản lĩnh điềm tĩnh, phân tích đúng mức độ rủi ro để giải quyết vấn đề vừa kịp thời vừa khôn ngoan *(0,25đ)*.
-
-  - #strong[Câu 36 (1,0đ — Nhận thức về nghị lực và trí tuệ từ Hê-ra-clét):] Đoạn trích giúp em nhận thức sâu sắc rằng trên hành trình chinh phục những đỉnh cao lớn, #strong[nghị lực kiên cường và trí tuệ nhạy bén là đôi cánh không thể tách rời] *(0,25đ)*. Nếu không có đôi vai rắn chắc và ý chí sắt đá gánh đỡ bầu trời, Hê-ra-clét đã gục ngã trước thử thách; nhưng nếu chỉ có sức mạnh cơ bắp mà thiếu trí thông minh tỉnh táo, chàng đã bị Át-lát giam cầm dưới sức nặng vòm trời vĩnh viễn *(0,50đ)*. Từ đó, người trẻ hôm nay không chỉ cần bền bỉ khổ luyện vượt khó mà còn phải không ngừng trau dồi tư duy phản biện, sự linh hoạt để làm chủ vận mệnh mình *(0,25đ)*.
-
-  - #strong[Câu 37 (1,0đ — Vận dụng bối cảnh lịch sử – văn hoá giải mã “tí than đỏ”):] Đặt trong bối cảnh thời nguyên thủy khi con người chưa phát minh ra diêm hay bật lửa, việc cọ xát đá/gỗ tạo lửa vô cùng gian nan nên người xưa phải hứng lửa từ các đám cháy rừng do sét đánh và nâng niu ủ trấu giữ “mồi than đỏ” truyền từ ngày này qua tháng khác *(0,50đ)*. Ngọn lửa giúp nấu chín thức ăn, xua thú dữ, sưởi ấm đêm rừng lạnh giá. Bởi thế, đánh mất “tí than đỏ” đồng nghĩa với việc rơi lại vào bóng tối, đói lạnh — nên dân gian đã thần thánh hóa mồi lửa ấy thành “bảo vật của thần” để nhắc nhở con cháu ý thức giữ lửa thiêng trong mỗi nếp nhà *(0,50đ)*.
-
-  - #strong[Câu 38 (1,0đ — Phản biện quan điểm về ước mơ trong _Thần Lửa_):] Em #strong[không đồng tình] với ý kiến quy kết ước mơ ấy là biểu hiện của sự ỷ lại, lười lao động *(0,25đ)*. Bởi lẽ, đặt trong hoàn cảnh người nguyên thủy phải vật lộn sinh tồn thiếu thốn, thường xuyên đối mặt cái đói trước thiên nhiên hoang dã, hình ảnh *“ống nứa không hóa đầy cơm cá thịt”* thực chất là #strong[giấc mơ nhân văn hồn nhiên về một cuộc sống ấm no, đủ đầy] và là sự tôn vinh kì tích của việc phát hiện ra lửa nấu chín thức ăn *(0,50đ)*. Hơn nữa, kết thúc truyện khi bảo vật mất đi cũng chính là lời khẳng định thực tế của dân gian: con người phải tự mình đổ mồ hôi lao động mới tạo dựng được ấm no bền vững *(0,25đ)*.
-
-  - #strong[Câu 39 (1,0đ — Đối sánh hình tượng ngọn lửa Việt Nam – Hy Lạp):] Dù ra đời ở hai nền văn hoá Đông – Tây xa cách, hình tượng ngọn lửa trong *Thần Lửa* và *Prô-mê-tê và loài người* gặp gỡ nhau ở tư tưởng lớn: đều xem #strong[ngọn lửa là tặng phẩm thiêng liêng mang tính bước ngoặt tách con người khỏi cảnh tăm tối, đói lạnh mông muội để bước sang đời sống ấm no, văn minh] *(0,50đ)*. Tuy nhiên, nếu thần thoại Hy Lạp nhấn mạnh tầm vóc anh hùng khai sáng tri thức – nghề nghiệp của Prô-mê-tê, thì thần thoại Việt Nam lại gắn ngọn lửa với bữa cơm gia đình bình dị và bài học giữ gìn nếp bếp ấm cúng của cư dân nông nghiệp *(0,50đ)*.
-
-  - #strong[Câu 40 (1,0đ — Giá trị của thần thoại trong kỉ nguyên AI hiện đại):] Ngay trong kỉ nguyên trí tuệ nhân tạo và khoa học vũ trụ tối tân, việc đọc và lưu truyền truyện thần thoại vẫn vô cùng cần thiết đối với thế hệ trẻ *(0,25đ)*. Khoa học giải thích cho ta cấu tạo vật lí của sấm sét, mưa gió hay mặt trăng, nhưng thần thoại lại lưu giữ #strong[ký ức cội nguồn văn hoá, vẻ đẹp trong trẻo “một đi không trở lại” của trí tưởng tượng nhân loại và thái độ kính ngưỡng, hòa hợp với thiên nhiên] *(0,50đ)*. Đọc thần thoại giúp người trẻ hôm nay không trở thành những cỗ máy khô khan mà biết nuôi dưỡng tâm hồn lãng mạn, trí sáng tạo bay bổng và lòng biết ơn sâu sắc đối với tổ tiên *(0,25đ)*.
+#answer-box(title: "Hướng dẫn chấm và câu trả lời mẫu cho 15 câu tự luận (Câu 36 – Câu 50)")[
+  - *Câu 36 (1,0đ):* Thuở sơ khai, loài người sống khổ sở trong giá lạnh, bóng tối và phải ăn tươi nuốt sống (0,25đ). Thương xót dân lành, Thần Lửa xin Ngọc Hoàng mang lửa xuống trần gian giúp con người (0,25đ). Để tránh hỏa hoạn thiêu rụi rừng cây, Thần ẩn mình vào đá cuội trắng và tre khô, chỉ phóng ra lửa khi con người kiên trì đập đá hoặc cọ tre (0,25đ). Nhờ đó, con người thoát khỏi tăm tối giá rét và giữ được bếp lửa truyền qua nhiều thế hệ (0,25đ).
+  - *Câu 37 (1,0đ):* Tác giả dân gian xây dựng nhân vật Thần Lửa qua sự tương ứng trực quan sinh động với hiện tượng tự nhiên: diện mạo *"mặt mũi đỏ gay, râu tóc đỏ rực như chùm hoa vông"* và nét tính cách *"nóng nảy"* mô phỏng chính màu sắc, sức nóng của ngọn lửa (0,5đ). Đồng thời, vị thần mang phẩm chất *"ngay thẳng, thương người"*, biết lo xa không để lửa thiêu rụi mặt đất, thể hiện cái nhìn trìu mến và lòng biết ơn của người xưa đối với ngọn lửa văn minh (0,5đ).
+  - *Câu 38 (1,0đ):* Chi tiết Thần Lửa ẩn mình trong *"đá cuội trắng"* và *"thân tre già khô kiệt"* trước hết tạo màu sắc kì ảo hấp dẫn để cắt nghĩa hai phương pháp lấy lửa cổ xưa nhất của người nguyên thủy là *ghè đá lửa* và *khoan cọ tre gỗ* (0,5đ). Sâu sắc hơn, chi tiết khẳng định nguồn năng lượng quý giá luôn tiềm ẩn ngay trong tự nhiên, nhưng chỉ bừng sáng phục vụ con người khi có sự lao động kiên trì và trí khôn tìm tòi (0,5đ).
+  - *Câu 39 – Đoạn văn mẫu `ĐH-VD1` (1,0đ):* Lời dặn của Thần Lửa rằng con người phải kiên nhẫn đập đá hoặc cọ xát thanh tre khô thật lâu mới gọi được tia lửa hồng đã gợi ra bài học thấm thía về giá trị của lòng kiên trì trong lao động và học tập. Trong buổi bình minh lịch sử, không có phép màu nào tự dưng ban sẵn sự ấm no nếu thiếu đôi bàn tay bền bỉ của con người. Đặt vào đời sống hôm nay, tri thức, kĩ năng nghề nghiệp hay bất kì thành tựu bền vững nào cũng giống như tia lửa ẩn sâu trong đá cứng, đòi hỏi người học phải miệt mài tích lũy qua từng giờ rèn luyện chứ không thể nóng vội đốt cháy giai đoạn. Những ai dễ nản lòng bỏ cuộc ngay sau vài lần thử đầu tiên sẽ chẳng bao giờ chạm tới ngọn lửa thành công. Nhận thức được điều đó, bản thân em tự nhắc mình phải rèn thói quen tập trung bền bỉ trước những bài học khó, coi mỗi giọt mồ hôi nỗ lực hôm nay là bước chuẩn bị thiết thực để thắp sáng tương lai của chính mình.
+  - *Câu 40 – Đoạn văn mẫu `ĐH-VD4` (1,0đ):* Khép lại truyện *Thần Lửa*, hình ảnh *"bếp lửa hồng truyền từ đời này sang đời khác"* để lại dư âm thẩm mĩ ấm áp và giàu sức gợi. Nếu ở đầu truyện, ngọn lửa xuất hiện như quyền năng kì ảo của một vị thần trên Thiên đình, thì đến câu kết, ngọn lửa ấy đã đi vào giữa đời sống nhân gian, hóa thành bếp lửa sum vầy của mỗi mái nhà. Hình ảnh đối lập trọn vẹn với bức tranh đêm rừng lạnh buốt, thú dữ rình rập ở đoạn mở đầu, đánh dấu bước chuyển vĩ đại của loài người từ trạng thái hoang dã sang đời sống văn hóa định cư. Hơn cả công cụ nấu chín thức ăn hay xua tan sương giá, bếp lửa nối tiếp qua bao thế hệ còn là biểu tượng cho sự trao truyền tri thức, tình thương gia đình và sức sống bất diệt của cộng đồng dân tộc.
+  - *Câu 41 (1,0đ):* Đoạn trích ca ngợi sự kết hợp hài hòa giữa sức mạnh thể chất phi thường, lòng nghĩa hiệp trừ ác cứu người và trí tuệ mưu lược sắc sảo của người anh hùng Hê-ra-clét trên hành trình chinh phục những thử thách khắc nghiệt ở tận cùng thế giới (1,0đ).
+  - *Câu 42 (1,0đ):* Qua ba kì tích nối tiếp, Hê-ra-clét hiện lên với vẻ đẹp toàn diện của người anh hùng cổ đại: tấm lòng nghĩa hiệp, trọng ân nghĩa khi bắn đại bàng giải cứu ân nhân Prô-mê-tê (0,25đ); trí quan sát nhạy bén kết hợp sức lực vô song khi nhấc bổng Ăng-tê khỏi mặt đất (0,5đ); và sự dũng cảm dám gánh vác trọng trách lớn cùng trí khôn ứng biến linh hoạt trước thần Át-lát (0,25đ).
+  - *Câu 43 (1,0đ):* Chi tiết kì ảo Ăng-tê chạm lưng xuống đất liền mạnh gấp đôi làm tăng kịch tính nghẹt thở cho cuộc giao đấu, đẩy người anh hùng vào tình thế không thể thắng bằng sức mạnh thông thường (0,5đ). Về mặt tư tưởng, chi tiết biểu trưng cho niềm tin của người Hy Lạp cổ đại rằng Đất Mẹ là cội nguồn nuôi dưỡng sinh lực vô tận cho những đứa con gắn bó với mảnh đất quê hương (0,5đ).
+  - *Câu 44 – Đoạn văn mẫu `ĐH-VD2` (1,0đ):* Chi tiết thần thoại về gã khổng lồ Ăng-tê luôn được hồi sinh sức mạnh mỗi khi chạm vào Đất Mẹ Gai-a đã đánh thức trong tôi suy nghĩ sâu sắc về điểm tựa cội nguồn của con người giữa cuộc sống hiện đại. Dù Ăng-tê là nhân vật đối đầu với Hê-ra-clét, quy luật sức mạnh của nhân vật vẫn ẩn chứa một chân lí nhân sinh đẹp đẽ: không ai có thể đứng vững nếu tách rời khỏi mảnh đất sinh dưỡng mình. Đối với mỗi chúng ta hôm nay, "Đất Mẹ" chính là vòng tay gia đình, là quê hương bản quán và những giá trị văn hóa truyền thống của dân tộc. Giữa nhịp sống nhiều biến động và áp lực, chính sự gắn kết ấm áp với người thân và cội nguồn giúp con người phục hồi nghị lực sau mỗi lần vấp ngã. Bởi vậy, càng đi xa để học hỏi và trưởng thành, người trẻ càng cần biết trân trọng gia đình và giữ gìn gốc rễ văn hóa làm điểm tựa bền vững cho tâm hồn.
+  - *Câu 45 – Đoạn văn mẫu `ĐH-VD3` (1,0đ):* Trước ý kiến *"Trong cuộc sống, trí tuệ tỉnh táo luôn quan trọng hơn sức mạnh cơ bắp thuần túy"*, tôi bày tỏ sự đồng tình với vai trò dẫn đường của trí tuệ nhưng cho rằng sự kết hợp cả hai yếu tố mới tạo nên thành công trọn vẹn. Nhìn vào hành trình của Hê-ra-clét, nếu chỉ dùng sức quật ngã Ăng-tê xuống cát như thói quen mà không kịp thời quan sát, suy luận ra bí mật tiếp sức của Đất Mẹ, người anh hùng đã sớm kiệt lực thất bại; tương tự, nếu thiếu mưu trí khôn khéo ở vườn táo, chàng đã phải gánh bầu trời mãi mãi thay Át-lát. Trong xã hội tri thức ngày nay, tư duy sáng tạo và sự tỉnh táo càng giữ vai trò quyết định để giải quyết những bài toán phức tạp mà sức vóc đơn thuần không thể làm nổi. Tuy nhiên, trí tuệ sắc bén cũng cần một nền tảng thể chất dẻo dai và ý chí hành động bền bỉ để biến ý tưởng thành hiện thực. Là học sinh lớp 10, tôi ý thức cần rèn luyện song song cả tri thức khoa học lẫn sức khỏe thể chất để vững vàng trước mọi thử thách.
+  - *Câu 46 (1,0đ):* Hình ảnh so sánh vũ trụ thuở hỗn mang với *"một quả trứng khổng lồ"* giúp cụ thể hóa khái niệm trừu tượng về trạng thái chưa phân tách trời đất thành một hình ảnh quen thuộc, dễ hình dung với tư duy người cổ đại (0,5đ). Đồng thời, quả trứng còn mang ý nghĩa biểu tượng sâu sắc về mầm sống tiềm tàng đang ấp ủ bên trong, chuẩn bị nở ra muôn loài và trật tự vũ trụ mới (0,5đ).
+  - *Câu 47 (1,0đ):* Mô-típ hóa thân kì vĩ ở cuối truyện (mắt thành nhật nguyệt, máu thành sông biển, xương thịt thành núi đồng) tạo nên bức tranh vũ trụ tráng lệ và tôn vinh sự hi sinh trọn vẹn của vị thần khai sáng (0,5đ). Qua đó, người xưa thể hiện quan niệm triết học sơ khai về sự thống nhất hữu cơ giữa con người với vạn vật tự nhiên: thiên nhiên quanh ta mang hơi thở, máu thịt thiêng liêng của đấng tổ tiên tạo thế (0,5đ).
+  - *Câu 48 (1,0đ):* *Điểm tương đồng:* Cả Bàn Cổ và Thần Trụ Trời đều là các vị thần khổng lồ thực hiện kì tích phân tách trời đất từ cõi hỗn độn và định hình diện mạo núi sông cho thế gian (0,5đ). *Điểm khác biệt:* Thần Trụ Trời đắp cột đá chống trời rồi phá cột tạo núi biển và bay về trời nhường chỗ cho các thần khác tiếp tục công việc; trong khi Bàn Cổ lấy chính thân mình chống trời suốt vạn năm rồi ngã xuống hóa thân toàn bộ cơ thể thành vũ trụ, mang sắc thái bi tráng đậm nét hơn (0,5đ).
+  - *Câu 49 – Đoạn văn mẫu `ĐH-VD1` (1,0đ):* Hình ảnh thần Bàn Cổ đứng thẳng đầu đội Trời, chân đạp Đất suốt một vạn tám nghìn năm cho tới lúc vòm trời vững chãi mới ngã xuống gửi đến ta thông điệp mạnh mẽ về lòng kiên định và sự cống hiến tận tụy. Khai mở công việc mới bằng một nhát búa dũng mãnh vốn đã khó, nhưng kiên trì giữ gìn thành quả qua tháng năm đằng đẵng càng đòi hỏi bản lĩnh phi thường. Trong thực tế, nhiều dự định tốt đẹp bị bỏ dở không phải vì thiếu hưng phấn lúc bắt đầu mà vì thiếu sức bền trước nhọc nhằn đường dài. Sự hi sinh thầm lặng của các thế hệ đi trước để dựng xây nền tảng hòa bình, tri thức hôm nay chính là minh chứng sống động cho tinh thần ấy. Từ câu chuyện cổ, người trẻ cần học cách sống có trách nhiệm đến cùng với mục tiêu đã chọn và sẵn sàng đóng góp sức mình cho cộng đồng.
+  - *Câu 50 – Đoạn văn mẫu `ĐH-VD2` (1,0đ):* Đọc *Bàn Cổ mở trời dựng đất*, cách người xưa nhìn ngọn núi, dòng sông, làn gió như máu thịt và hơi thở hóa thân của vị thần khai thiên lập địa đã tác động sâu sắc đến thái độ ứng xử của tôi trước thiên nhiên. Trong thế giới quan thần thoại, tự nhiên không phải kho tài nguyên vô tri để khai thác cạn kiệt, mà là cơ thể sống thiêng liêng chung nguồn cội với loài người. Ngày nay, khi biến đổi khí hậu và ô nhiễm môi trường gióng lên hồi chuông cảnh báo toàn cầu, cái nhìn gắn bó máu thịt với đất trời của cổ nhân càng trở nên cấp thiết. Bảo vệ rừng đầu nguồn hay giữ sạch dòng sông chính là bảo vệ không gian sinh tồn của nhân loại; bởi vậy, tôi tự nhắc mình thực hành tiết kiệm năng lượng, giảm rác thải nhựa và trân trọng từng mầm xanh quanh trường lớp.
 ]
