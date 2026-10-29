@@ -1,0 +1,581 @@
+{
+  "passages": [
+    {
+      "title": "A. Hai tốp khiêng kiệu",
+      "source": "S4",
+      "text": "Thuở xưa, Mặt Trời ngồi kiệu đi xem xét trần gian. Tốp già lo tròn phận sự nên đi nhanh, ngày ngắn. Tốp trẻ la cà nên về muộn, ngày dài. Người kể dùng việc khiêng kiệu để cắt nghĩa sự khác nhau về độ dài của ngày."
+    },
+    {
+      "title": "B. Việc phân phối nước",
+      "source": "S5",
+      "text": "Thần Mưa hình rồng, hút nước sông biển rồi phun thành mưa cho người uống và cày cấy. Thần hay quên, nơi không đến thì hạn, nơi đến nhiều thì lụt. Công việc quá nặng, Trời chọn thêm rồng giúp sức qua cuộc thi vượt ba đợt sóng. Cá chép vượt đủ và hoá rồng."
+    },
+    {
+      "title": "C. Hạt lúa và công việc",
+      "source": "S6",
+      "text": "Nữ thần cho lúa tự về nhà và thành cơm. Một cô gái chưa dọn sân, chưa mở kho, thấy lúa tới thì cáu và dùng chổi đập vào bông. Thần giận, không cho lúa tự về nữa. Người phải xuống ruộng gặt, phơi và xay giã. Sau mùa gặt, dân làm lễ cúng hồn Lúa."
+    },
+    {
+      "title": "D. Một phần bị bỏ sót",
+      "source": "S11",
+      "text": "Ê-pi-mê-tê dùng đất, nước nặn các loài, ban cho mỗi loài một cách tự vệ nhưng bỏ sót con người. Prô-mê-tê thấy người trần trụi giữa thú đã có nanh vuốt, cánh hoặc sức mạnh. Thần cho người đứng thẳng để hai tay làm việc, rồi lấy lửa từ cỗ xe thần Mặt Trời trao xuống."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "group": 0,
+      "stem": "Từ nào trong A chỉ thời gian?",
+      "choices": [
+        "Trần gian.",
+        "Mặt Trời.",
+        "Kiệu.",
+        "Thuở xưa."
+      ],
+      "answer": 3,
+      "indicator": "Đ1",
+      "explanation": "“Thuở xưa” chỉ thời gian; các từ khác chỉ nơi, nhân vật hoặc vật dụng."
+    },
+    {
+      "number": 2,
+      "group": 0,
+      "stem": "Không gian được gọi tên trực tiếp ở A là gì?",
+      "choices": [
+        "Thủy phủ.",
+        "Trần gian.",
+        "Một thành phố hiện đại.",
+        "Mê cung."
+      ],
+      "answer": 1,
+      "indicator": "Đ1",
+      "explanation": "Không thêm nơi chốn từ những truyện khác vào đoạn này."
+    },
+    {
+      "number": 3,
+      "group": 0,
+      "stem": "Sự việc nào gắn với ngày ngắn?",
+      "choices": [
+        "Tốp trẻ la cà.",
+        "Thần ngủ quên.",
+        "Tốp già đi nhanh.",
+        "Cá vượt sóng."
+      ],
+      "answer": 2,
+      "indicator": "Đ2",
+      "explanation": "Hai kết quả dài và ngắn tương ứng với hai cách khiêng kiệu khác nhau."
+    },
+    {
+      "number": 4,
+      "group": 0,
+      "stem": "Đề tài gần nhất của đoạn A là gì?",
+      "choices": [
+        "Số phận một tử tù.",
+        "Sự khác nhau về độ dài của ngày.",
+        "Nguồn gốc loài người.",
+        "Nghề đánh cá."
+      ],
+      "answer": 1,
+      "indicator": "Đ3",
+      "explanation": "Đề tài chỉ hiện tượng được kể, chưa cần biến thành một bài học."
+    },
+    {
+      "number": 5,
+      "group": 0,
+      "stem": "Chi tiết nào đưa sinh hoạt con người vào thế giới thần?",
+      "choices": [
+        "Một cái búa và chiếc chổi.",
+        "Kiệu và những người khiêng.",
+        "Một chiếc thuyền và mái chèo.",
+        "Một chiếc cày và đôi trâu."
+      ],
+      "answer": 1,
+      "indicator": "Đ4",
+      "explanation": "Kiệu là vật cụ thể được nêu trong đoạn; các vật còn lại không có."
+    },
+    {
+      "number": 6,
+      "group": 0,
+      "stem": "Cách nói Mặt Trời ngồi kiệu thể hiện điều gì?",
+      "choices": [
+        "Tự nhiên được hình dung như người có hoạt động.",
+        "Kiến thức vật lí chính xác.",
+        "Lời kể của một sử gia về một vua thật.",
+        "Không có tưởng tượng."
+      ],
+      "answer": 0,
+      "indicator": "Đ9",
+      "explanation": "Đây là cách nhân cách hoá thiên thể, không phải mô tả chuyển động bằng khoa học."
+    },
+    {
+      "number": 7,
+      "group": 0,
+      "stem": "Nhận xét nào nên tránh khi đánh giá A?",
+      "choices": [
+        "Mọi người trẻ ngoài đời đều thiếu trách nhiệm.",
+        "Chi tiết tạo giọng hóm hỉnh.",
+        "Việc khiêng kiệu được dùng cắt nghĩa tự nhiên.",
+        "Cách kể gắn vũ trụ với sinh hoạt."
+      ],
+      "answer": 0,
+      "indicator": "Đ13",
+      "explanation": "Không lấy tính cách một nhóm trong truyện làm kết luận phổ quát về tuổi tác."
+    },
+    {
+      "number": 8,
+      "group": 1,
+      "stem": "Đặc điểm nhân vật nào được gọi tên trực tiếp ở B?",
+      "choices": [
+        "Hay quên.",
+        "Hay ghen.",
+        "Sợ gà.",
+        "Thích viết chữ."
+      ],
+      "answer": 0,
+      "indicator": "Đ2",
+      "explanation": "Đọc từ ngữ của đoạn, không điền đặc điểm của thần khác."
+    },
+    {
+      "number": 9,
+      "group": 1,
+      "stem": "Chuỗi nào đúng mạch việc ở B?",
+      "choices": [
+        "Phân phối nước chưa đều → tuyển thêm rồng → cá chép vượt sóng.",
+        "Cá hoá rồng → Trời mới tạo nước → trăng khuyết.",
+        "Tuyển rồng → thần chưa bao giờ làm mưa.",
+        "Cá gặt lúa → thần giận → trời sập."
+      ],
+      "answer": 0,
+      "indicator": "Đ5",
+      "explanation": "Giữ quan hệ vấn đề và giải pháp; không đảo nguyên nhân về sau kết quả."
+    },
+    {
+      "number": 10,
+      "group": 1,
+      "stem": "Vì sao hình tượng thần có nét gần người?",
+      "choices": [
+        "Chỉ vì được viết hoa.",
+        "Vì là nhân vật có thật được ghi năm sinh.",
+        "Vì không có quyền năng.",
+        "Có nhiệm vụ nhưng vẫn mắc tật hay quên."
+      ],
+      "answer": 3,
+      "indicator": "Đ6",
+      "explanation": "Điểm gần người nằm ở tính cách; hình rồng và làm mưa vẫn là quyền năng."
+    },
+    {
+      "number": 11,
+      "group": 1,
+      "stem": "Cụm nào gợi nền sinh hoạt nông nghiệp?",
+      "choices": [
+        "Có một cuộc thi.",
+        "Có một con cá.",
+        "Có ba đợt sóng.",
+        "Cho người uống và cày cấy."
+      ],
+      "answer": 3,
+      "indicator": "Đ4",
+      "explanation": "“Cày cấy” là dấu hiệu trực tiếp; không suy một cuộc thi là thi cử khoa bảng."
+    },
+    {
+      "number": 12,
+      "group": 1,
+      "stem": "Từ “thuỷ” trong “thuỷ tộc” chỉ yếu tố nào?",
+      "choices": [
+        "Lửa.",
+        "Đất.",
+        "Gió.",
+        "Nước."
+      ],
+      "answer": 3,
+      "indicator": "TV",
+      "explanation": "Đây là câu hỗ trợ Tiếng Việt: thuỷ tộc gọi các loài sống dưới nước."
+    },
+    {
+      "number": 13,
+      "group": 1,
+      "stem": "Ý nào bao quát B tốt nhất?",
+      "choices": [
+        "Chỉ ca ngợi dáng đẹp của cá.",
+        "Kể nguyên nhân trăng tròn.",
+        "Cắt nghĩa mưa và nhu cầu có thêm sức giúp phân phối nước.",
+        "Khẳng định không cần nước."
+      ],
+      "answer": 2,
+      "indicator": "Đ7",
+      "explanation": "Chủ đề cần bao quát cả nhiệm vụ làm mưa và cuộc thi, không chỉ một chi tiết."
+    },
+    {
+      "number": 14,
+      "group": 1,
+      "stem": "Chi tiết cá hoá rồng thuộc loại nào?",
+      "choices": [
+        "Ghi chép sinh học đã kiểm chứng.",
+        "So sánh có từ như.",
+        "Tưởng tượng kì ảo.",
+        "Lời nhân vật xưng tôi."
+      ],
+      "answer": 2,
+      "indicator": "Đ9",
+      "explanation": "Sự biến hoá là kì ảo; không phải cứ kì ảo thì là so sánh hoặc nói quá."
+    },
+    {
+      "number": 15,
+      "group": 2,
+      "stem": "Biến cố nào làm thay đổi trạng thái lúa ở C?",
+      "choices": [
+        "Người phơi thóc.",
+        "Trời tuyển cá.",
+        "Người nặn chân.",
+        "Cô gái đập chổi vào bông lúa."
+      ],
+      "answer": 3,
+      "indicator": "Đ2",
+      "explanation": "Đây là việc gây phản ứng của thần và đổi tình thế."
+    },
+    {
+      "number": 16,
+      "group": 2,
+      "stem": "Việc nào chỉ xuất hiện ở trạng thái sau?",
+      "choices": [
+        "Con người phải gặt, phơi và xay giã.",
+        "Lúa tự về nhà.",
+        "Lúa tự thành cơm.",
+        "Cô gái chưa dọn sân trước khi lúa tới."
+      ],
+      "answer": 0,
+      "indicator": "Đ2",
+      "explanation": "Phân biệt hai trạng thái trước và sau cơn giận."
+    },
+    {
+      "number": 17,
+      "group": 2,
+      "stem": "Tập tục nào ở C là dấu vết văn hoá?",
+      "choices": [
+        "Cúng hồn Lúa.",
+        "Đánh trống cứu trăng.",
+        "Thờ thần biển.",
+        "Thi chọn chữ đẹp."
+      ],
+      "answer": 0,
+      "indicator": "Đ4",
+      "explanation": "Chỉ tập tục được nêu trong bản kể mới có thể dùng làm bằng chứng."
+    },
+    {
+      "number": 18,
+      "group": 2,
+      "stem": "Cách nhìn nào thể hiện qua việc lúa có cảm xúc?",
+      "choices": [
+        "Cây lúa là người thật theo sinh học.",
+        "Mọi vật không liên quan con người.",
+        "Tự nhiên được nhân cách hoá.",
+        "Không có niềm tin nào trong truyện."
+      ],
+      "answer": 2,
+      "indicator": "Đ9",
+      "explanation": "Nhân cách hoá giúp kể quan hệ người và nguồn lương thực như một quan hệ ứng xử."
+    },
+    {
+      "number": 19,
+      "group": 2,
+      "stem": "Nếu phân tích chủ đề C, bằng chứng nào phù hợp nhất?",
+      "choices": [
+        "Một câu danh ngôn không rõ nguồn.",
+        "Sự đổi từ tự về nhà sang phải thu hoạch.",
+        "Một việc về trâu không có trong đoạn.",
+        "Một số liệu năng suất tự đặt."
+      ],
+      "answer": 1,
+      "indicator": "Đ7",
+      "explanation": "Chủ đề phải có căn cứ trong đoạn; tránh ghép dị bản và số liệu không nguồn."
+    },
+    {
+      "number": 20,
+      "group": 2,
+      "stem": "Câu trả lời nào là phân tích, không chỉ kể lại?",
+      "choices": [
+        "Cô gái dùng chổi.",
+        "Thần giận.",
+        "Sự thay đổi của lúa giúp truyện lí giải công việc thu hoạch.",
+        "Người xuống ruộng."
+      ],
+      "answer": 2,
+      "indicator": "Đ9",
+      "explanation": "Phân tích nêu chức năng, quan hệ của chi tiết; ba ý còn lại mới thuật việc."
+    },
+    {
+      "number": 21,
+      "group": 2,
+      "stem": "Thông điệp nào có căn cứ trong C?",
+      "choices": [
+        "Phải ngừng lao động.",
+        "Trân trọng nguồn lương thực và công sức.",
+        "Cứ tức giận là luôn đúng.",
+        "Tất cả phụ nữ đều bất cẩn."
+      ],
+      "answer": 1,
+      "indicator": "Đ10",
+      "explanation": "Bài học phải có điểm tựa và không tạo định kiến từ một nhân vật."
+    },
+    {
+      "number": 22,
+      "group": 3,
+      "stem": "Ai làm công việc trước ở D?",
+      "choices": [
+        "Prô-mê-tê.",
+        "Ê-pi-mê-tê.",
+        "Nữ Oa.",
+        "Quải."
+      ],
+      "answer": 1,
+      "indicator": "Đ2",
+      "explanation": "Phân biệt người tạo trước với người sửa sau."
+    },
+    {
+      "number": 23,
+      "group": 3,
+      "stem": "Sự đối lập trung tâm ở D là gì?",
+      "choices": [
+        "Người già với người trẻ khiêng kiệu.",
+        "Cát với tro.",
+        "Thú có cách tự vệ, con người bị bỏ sót.",
+        "Ban ngày với đêm trăng."
+      ],
+      "answer": 2,
+      "indicator": "Đ3",
+      "explanation": "Đối lập nằm trong tình thế được nêu, không mượn cặp đối lập từ đoạn khác."
+    },
+    {
+      "number": 24,
+      "group": 3,
+      "stem": "Việc đứng thẳng gắn với khả năng nào?",
+      "choices": [
+        "Người lập tức biết mọi thứ.",
+        "Người có cánh.",
+        "Người thành rồng.",
+        "Hai tay làm việc."
+      ],
+      "answer": 3,
+      "indicator": "Đ6",
+      "explanation": "Giữ đúng mức văn bản nói; không tự tăng thành mọi tri thức."
+    },
+    {
+      "number": 25,
+      "group": 3,
+      "stem": "D có lời thoại trực tiếp của nhân vật không?",
+      "choices": [
+        "Không có.",
+        "Có, toàn đoạn là lời Prô-mê-tê.",
+        "Có, chữ con người là lời thoại.",
+        "Có, tên thần là dấu ngoặc kép."
+      ],
+      "answer": 0,
+      "indicator": "Đ8",
+      "explanation": "Toàn đoạn là lời thuật; không có cảnh nhân vật tự nói trực tiếp."
+    },
+    {
+      "number": 26,
+      "group": 3,
+      "stem": "Nhận xét nào đúng về ngôi kể D?",
+      "choices": [
+        "Ngôi thứ nhất vì có tên người.",
+        "Ngôi thứ hai vì có hai anh em.",
+        "Không thể kể truyện ở ngôi thứ ba.",
+        "Ngôi thứ ba, người kể gọi tên các nhân vật."
+      ],
+      "answer": 3,
+      "indicator": "Đ8",
+      "explanation": "Số nhân vật không quyết định ngôi kể."
+    },
+    {
+      "number": 27,
+      "group": 3,
+      "stem": "Ngọn lửa giúp mạch truyện mở sang hướng nào?",
+      "choices": [
+        "Nguồn gốc quầng trăng.",
+        "Lễ cúng cơm mới.",
+        "Sáng tạo văn hoá và phương tiện đời sống.",
+        "Địa hình sông Đà."
+      ],
+      "answer": 2,
+      "indicator": "Đ9",
+      "explanation": "Vị trí chi tiết sau việc tạo hình gợi khả năng sống và làm việc, không chuyển sang các đề tài kia."
+    },
+    {
+      "number": 28,
+      "group": 3,
+      "stem": "Khi liên hệ D với sự hỗ trợ trong học nhóm, cần làm gì?",
+      "choices": [
+        "Khẳng định mình chính là vị thần.",
+        "Bắt đầu từ việc phát hiện bỏ sót rồi sửa chữa.",
+        "Thêm một sự kiện không có rồi đặt ngoặc kép.",
+        "Bỏ hẳn văn bản để kể chuyện riêng."
+      ],
+      "answer": 1,
+      "indicator": "Đ11",
+      "explanation": "Liên hệ có căn cứ giữ được mối nối với hành động nhân vật; không cần đồng nhất mình với nhân vật."
+    }
+  ],
+  "short": [
+    {
+      "number": 29,
+      "group": 0,
+      "stem": "Tóm tắt đoạn A trong hai câu.",
+      "indicators": [
+        "Đ5"
+      ],
+      "sample": "Mặt Trời đi kiệu do tốp già và tốp trẻ luân phiên khiêng. Tốp già đi nhanh, tốp trẻ la cà nên bản kể dùng hai hành trình ấy để cắt nghĩa ngày ngắn và ngày dài.",
+      "criteria": [
+        "Nêu nhân vật và hành trình.",
+        "Giữ đúng quan hệ hai tốp với hai kết quả; không bình luận thêm."
+      ]
+    },
+    {
+      "number": 30,
+      "group": 0,
+      "stem": "Lí giải vì sao chi tiết khiêng kiệu có thể làm thiên thể trở nên gần gũi.",
+      "indicators": [
+        "Đ9"
+      ],
+      "sample": "Kiệu và người khiêng thuộc sinh hoạt có thể quan sát. Khi Mặt Trời cũng đi kiệu, hành trình trên bầu trời được hình dung qua hành động quen thuộc. Tính cách của hai tốp còn tạo một nguyên nhân hóm hỉnh cho sự khác nhau về độ dài ngày.",
+      "criteria": [
+        "Chỉ ra cái quen thuộc.",
+        "Giải thích nhân cách hoá và tác dụng cắt nghĩa."
+      ]
+    },
+    {
+      "number": 31,
+      "group": 1,
+      "stem": "Phân tích vai trò của Thần Mưa trong cốt truyện B.",
+      "indicators": [
+        "Đ6"
+      ],
+      "sample": "Thần thực hiện công việc cấp nước nên là trung tâm của mạch giải thích mưa. Tật hay quên dẫn đến tình thế nước phân phối không đều. Công việc quá nặng dẫn tới việc tuyển thêm rồng, vì vậy đặc điểm của thần tham gia trực tiếp vào sự phát triển cốt truyện.",
+      "criteria": [
+        "Quyền năng và nhiệm vụ.",
+        "Hạn chế gắn với diễn biến; tránh chỉ kể tật xấu."
+      ]
+    },
+    {
+      "number": 32,
+      "group": 1,
+      "stem": "Xác định chủ đề B và nêu hai căn cứ.",
+      "indicators": [
+        "Đ7"
+      ],
+      "sample": "Đoạn kể cắt nghĩa mưa, hạn, lụt qua việc phân phối nước và hình dung cách có thêm rồng giúp sức. Căn cứ là hành động hút nước, phun mưa của thần và cuộc thi vượt sóng để hoá rồng. Nhu cầu nước cho cày cấy giúp lí giải vì sao vấn đề được coi trọng.",
+      "criteria": [
+        "Chủ đề bao quát.",
+        "Hai bằng chứng và quan hệ của chúng với chủ đề."
+      ]
+    },
+    {
+      "number": 33,
+      "group": 1,
+      "stem": "Dùng bối cảnh sinh hoạt ở B để giải thích vì sao cần mưa điều hoà.",
+      "indicators": [
+        "Đ12"
+      ],
+      "sample": "Đoạn nhắc nước cho uống và cày cấy, cho thấy đời sống phụ thuộc vào nguồn nước. Thiếu nước dẫn đến hạn, quá nhiều lại gây lụt. Vì vậy, điều người trồng trọt cần không chỉ là có mưa mà là mưa được phân phối phù hợp. Công việc của thần gắn với mối quan tâm ấy.",
+      "criteria": [
+        "Đọc dấu vết nông nghiệp.",
+        "Giải thích nhu cầu nước vừa đủ, không thêm số liệu."
+      ]
+    },
+    {
+      "number": 34,
+      "group": 2,
+      "stem": "Phân biệt đề tài và chủ đề của C.",
+      "indicators": [
+        "Đ3",
+        "Đ7"
+      ],
+      "sample": "Đề tài là cây lúa và công việc thu hoạch, chế biến trong đời sống nông nghiệp. Chủ đề là cách người xưa lí giải sự thay đổi từ nguồn lương thực được trao sẵn sang công sức làm ra gạo, cùng thái độ coi trọng cây lúa thể hiện qua tục cúng sau mùa gặt. Đề tài gọi phạm vi, chủ đề nêu vấn đề và cách nhìn.",
+      "criteria": [
+        "Không chỉ lặp hai định nghĩa.",
+        "Áp dụng được vào chính đoạn C."
+      ]
+    },
+    {
+      "number": 35,
+      "group": 2,
+      "stem": "Tách một nhận xét phân tích và một nhận xét đánh giá từ chi tiết cô gái dùng chổi.",
+      "indicators": [
+        "Đ9",
+        "Đ13"
+      ],
+      "sample": "Phân tích: hành động đập chổi là biến cố khiến thần giận và lúa không còn tự về. Đánh giá: dùng một vật sinh hoạt nhỏ để dẫn đến thay đổi lớn là cách kể dễ nhớ, giúp lời giải thích công việc nông nghiệp có tình huống cụ thể. Không cần khen chung rằng mọi yếu tố đều tuyệt vời.",
+      "criteria": [
+        "Chỉ ra chức năng chi tiết.",
+        "Nhận xét hiệu quả dựa trên chức năng đã nêu."
+      ]
+    },
+    {
+      "number": 36,
+      "group": 2,
+      "stem": "Nêu tác động của C đến cách em ứng xử với bữa ăn. Viết một đoạn 4–5 câu.",
+      "indicators": [
+        "Đ10",
+        "Đ11"
+      ],
+      "sample": "Đoạn kể khiến em nghĩ tới công sức để có một bữa cơm. Khi lúa không còn tự về, con người phải gặt và xay giã. Em sẽ lấy thức ăn vừa sức, không bỏ thừa chỉ vì lấy quá nhiều. Nếu còn đồ ăn dùng được, em sẽ bảo quản đúng cách theo hướng dẫn của gia đình.",
+      "criteria": [
+        "Có chi tiết làm căn cứ.",
+        "Có hành động vừa sức, không chỉ nói biết ơn."
+      ]
+    },
+    {
+      "number": 37,
+      "group": 3,
+      "stem": "Nêu tác dụng của cách kể ngôi thứ ba trong D; không mặc định toàn tri.",
+      "indicators": [
+        "Đ8"
+      ],
+      "sample": "Người kể gọi tên hai anh em, thuật việc tạo loài rồi chuyển sang hành động sửa và trao lửa. Cách kể cho phép nối các khâu của công việc và cho người đọc thấy thiếu sót được giải quyết thế nào. Đoạn chưa cần gọi người kể là toàn tri, vì không có bằng chứng rõ về việc biết mọi nội tâm và mọi nơi.",
+      "criteria": [
+        "Dấu hiệu ngôi kể.",
+        "Tác dụng đúng với phạm vi đoạn; không dùng lời khen khách quan tự động."
+      ]
+    },
+    {
+      "number": 38,
+      "group": 3,
+      "stem": "So sánh D với C về cách dùng hành động đời thường để kể chuyện phi thường.",
+      "indicators": [
+        "Đ9",
+        "Đ13"
+      ],
+      "sample": "C dùng việc về nhà, cáu giận và gặt lúa; D dùng nặn bằng đất nước và sửa hình. Cả hai tạo điểm tựa quen thuộc để hình dung nguồn sống hoặc nguồn gốc. Khác nhau ở vấn đề chính: C hướng vào lúa và công việc thu hoạch, D hướng vào con người và khả năng sống. So sánh cần giữ cả nét chung lẫn nét riêng.",
+      "criteria": [
+        "Hai điểm tựa từ hai đoạn.",
+        "Nét chung và nét riêng; không xếp hạng hơn kém vô căn cứ."
+      ]
+    },
+    {
+      "number": 39,
+      "group": 3,
+      "stem": "Em đánh giá thế nào về hành động Prô-mê-tê sửa thiếu sót thay vì bỏ đi? Viết 4–5 câu.",
+      "indicators": [
+        "Đ13"
+      ],
+      "sample": "Em đánh giá cao việc thần hành động sau khi nhận ra phần con người bị bỏ sót. Sửa dáng và trao lửa cho thấy sự giúp đỡ có kết quả cụ thể. Trong việc chung, phát hiện lỗi chỉ là bước đầu; tìm cách sửa mới giúp giảm hậu quả. Dù vậy, đây là liên hệ từ hành động nhân vật, không phải yêu cầu một người phải tự làm thay mọi việc cho người khác.",
+      "criteria": [
+        "Quan điểm rõ.",
+        "Có bằng chứng và lí lẽ; liên hệ vừa mức."
+      ]
+    },
+    {
+      "number": 40,
+      "group": 0,
+      "stem": "Có nên dùng A thay kiến thức khoa học về độ dài ngày? Trả lời có lí lẽ, đồng thời nêu một giá trị của đoạn.",
+      "indicators": [
+        "Đ12",
+        "Đ13"
+      ],
+      "sample": "Không nên dùng lời kể khiêng kiệu thay cho kiến thức thiên văn. Nó thể hiện cách hình dung bằng trí tưởng tượng chứ không phải kết quả đo đạc, kiểm chứng. Tuy nhiên, đoạn vẫn có giá trị văn hoá vì cho thấy người xưa đưa kinh nghiệm sinh hoạt vào việc tìm hiểu vũ trụ. Phân biệt hai cách đọc giúp vừa học khoa học vừa trân trọng truyện kể.",
+      "criteria": [
+        "Phân biệt khoa học với văn học.",
+        "Ghi nhận giá trị văn hoá, không phủ nhận bằng lời chê đơn giản."
+      ]
+    }
+  ]
+}

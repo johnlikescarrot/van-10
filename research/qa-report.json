@@ -1,0 +1,222 @@
+{
+  "pdf": "DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf",
+  "sha256": "7bab26d8e3df7153109ac4bd4d2176c4055c1938546d59819602cddc2b7d95ab",
+  "pages": 49,
+  "paper": "A4",
+  "bookmarks": 94,
+  "internal_links": 59,
+  "external_source_links": 10,
+  "embedded_fonts": 4,
+  "essays_word_counts_whitespace": [
+    685,
+    685,
+    748,
+    698,
+    678,
+    731
+  ],
+  "exact_rendered_paragraphs_passage_and_essay": 62,
+  "bank_mcq": 28,
+  "bank_written": 12,
+  "summary_page": 47,
+  "checks": "passed: full prose/choice presence, evidence schema separately, A4, bounds, embedded fonts, valid navigation, no blank pages or replacement glyphs",
+  "limits": "Does not establish literary correctness, uniqueness of every interpretation, psychometric difficulty, live URL availability, or official approval.",
+  "page_character_counts": [
+    {
+      "page": 1,
+      "extracted_characters": 394
+    },
+    {
+      "page": 2,
+      "extracted_characters": 7875
+    },
+    {
+      "page": 3,
+      "extracted_characters": 5078
+    },
+    {
+      "page": 4,
+      "extracted_characters": 2533
+    },
+    {
+      "page": 5,
+      "extracted_characters": 2474
+    },
+    {
+      "page": 6,
+      "extracted_characters": 2944
+    },
+    {
+      "page": 7,
+      "extracted_characters": 2904
+    },
+    {
+      "page": 8,
+      "extracted_characters": 1469
+    },
+    {
+      "page": 9,
+      "extracted_characters": 2695
+    },
+    {
+      "page": 10,
+      "extracted_characters": 3426
+    },
+    {
+      "page": 11,
+      "extracted_characters": 2819
+    },
+    {
+      "page": 12,
+      "extracted_characters": 2454
+    },
+    {
+      "page": 13,
+      "extracted_characters": 2205
+    },
+    {
+      "page": 14,
+      "extracted_characters": 2292
+    },
+    {
+      "page": 15,
+      "extracted_characters": 3644
+    },
+    {
+      "page": 16,
+      "extracted_characters": 3561
+    },
+    {
+      "page": 17,
+      "extracted_characters": 3151
+    },
+    {
+      "page": 18,
+      "extracted_characters": 3186
+    },
+    {
+      "page": 19,
+      "extracted_characters": 1861
+    },
+    {
+      "page": 20,
+      "extracted_characters": 1205
+    },
+    {
+      "page": 21,
+      "extracted_characters": 2551
+    },
+    {
+      "page": 22,
+      "extracted_characters": 914
+    },
+    {
+      "page": 23,
+      "extracted_characters": 2454
+    },
+    {
+      "page": 24,
+      "extracted_characters": 665
+    },
+    {
+      "page": 25,
+      "extracted_characters": 2466
+    },
+    {
+      "page": 26,
+      "extracted_characters": 672
+    },
+    {
+      "page": 27,
+      "extracted_characters": 2389
+    },
+    {
+      "page": 28,
+      "extracted_characters": 1583
+    },
+    {
+      "page": 29,
+      "extracted_characters": 2272
+    },
+    {
+      "page": 30,
+      "extracted_characters": 1803
+    },
+    {
+      "page": 31,
+      "extracted_characters": 2450
+    },
+    {
+      "page": 32,
+      "extracted_characters": 901
+    },
+    {
+      "page": 33,
+      "extracted_characters": 3033
+    },
+    {
+      "page": 34,
+      "extracted_characters": 4615
+    },
+    {
+      "page": 35,
+      "extracted_characters": 2986
+    },
+    {
+      "page": 36,
+      "extracted_characters": 3758
+    },
+    {
+      "page": 37,
+      "extracted_characters": 3030
+    },
+    {
+      "page": 38,
+      "extracted_characters": 4161
+    },
+    {
+      "page": 39,
+      "extracted_characters": 2937
+    },
+    {
+      "page": 40,
+      "extracted_characters": 3850
+    },
+    {
+      "page": 41,
+      "extracted_characters": 2968
+    },
+    {
+      "page": 42,
+      "extracted_characters": 3662
+    },
+    {
+      "page": 43,
+      "extracted_characters": 3068
+    },
+    {
+      "page": 44,
+      "extracted_characters": 3991
+    },
+    {
+      "page": 45,
+      "extracted_characters": 2707
+    },
+    {
+      "page": 46,
+      "extracted_characters": 1925
+    },
+    {
+      "page": 47,
+      "extracted_characters": 1837
+    },
+    {
+      "page": 48,
+      "extracted_characters": 2980
+    },
+    {
+      "page": 49,
+      "extracted_characters": 1912
+    }
+  ]
+}

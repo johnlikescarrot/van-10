@@ -1,123 +1,93 @@
 #import "template.typ": *
+#part-banner("PHẦN V", "Viết nghị luận phân tích, đánh giá truyện", "Từ yêu cầu bài học trang 29–34 đến bài viết có luận điểm và bằng chứng [S2].")
 
-#part-banner(
-  "PHẦN V",
-  "Chuyên Đề Viết Nghị Luận Phân Tích, Đánh Giá Truyện Thần Thoại",
-  "Mô hình Ngôi Đền 5 Tầng (4,0 điểm) • Dàn ý vạn năng • 4 kiểu Mở bài • Kĩ thuật P-E-E-V • Kho nhận định lí luận văn học"
-)
+== 5.1. Năm yêu cầu của kiểu bài
 
-= 5.1. Bản chất Kiểu bài & Thang chấm 4,0 điểm Chuẩn Ma trận 2026 – 2027
+1. Giới thiệu ngắn gọn tác phẩm và nhận định khái quát. Với truyện dân gian, ghi nguồn gốc hoặc người sưu tầm, biên soạn nếu đề cho; không gán người sưu tầm thành tác giả sáng tạo dân gian.
+2. Tóm tắt vừa đủ để người đọc nắm mạch chính. Dung lượng tuỳ truyện; không bắt buộc một số câu cố định.
+3. Phân tích chủ đề và các nét nghệ thuật đáng chú ý, giải thích tác dụng bằng chi tiết cụ thể.
+4. Đánh giá bằng lí lẽ và bằng chứng, không chỉ khen “độc đáo”, “sâu sắc”.
+5. Khẳng định giá trị của tác phẩm. Có thể nêu suy nghĩ mở rộng nếu thật sự phục vụ vấn đề.
 
-Theo SGK *Ngữ văn 10 Kết nối tri thức Tập 1* (tr. 29 – 34) và *Bản đặc tả Giữa kì I*, kiểu bài #strong[Nghị luận phân tích, đánh giá một tác phẩm truyện (thần thoại ngoài SGK)] đòi hỏi sự kết hợp nhuần nhuyễn của #strong[hai thao tác tư duy không tách rời]:
-- #strong[Phân tích (Analysis):] Chia tách tác phẩm thành các yếu tố bộ phận (*chủ đề, không gian – thời gian, cốt truyện, chi tiết kì ảo, nhân vật, ngôi kể, lời văn*) để chỉ ra chúng biểu hiện cụ thể như thế nào qua bằng chứng văn bản.
-- #strong[Đánh giá (Evaluation):] Nhận xét, bình giá cái hay, cái đẹp, tác dụng thẩm mĩ, giá trị nhận thức – văn hoá và sức sống của các yếu tố ấy dựa trên chuẩn mực đặc trưng thể loại thần thoại và góc nhìn cá nhân.
+*Phân tích* làm rõ tác phẩm vận hành thế nào; *đánh giá* nêu nhận xét có căn cứ về hiệu quả và ý nghĩa của cách viết. Đánh giá có thể đặt ngay sau một phân tích, không nhất thiết để riêng một đoạn cuối.
 
-#study-table(
-  (1.5fr, 3.8fr, 0.9fr, 0.8fr),
-  ("Tiêu chí chấm", "Yêu cầu cụ thể bài làm phải đạt được", "Điểm chuẩn", "Mức tư duy"),
+== 5.2. Quy trình viết trong 50 phút
 
-  [*a. Đảm bảo cấu trúc bài nghị luận*],
-  [Có đủ 3 phần *Mở bài* (nêu vấn đề), *Thân bài* (triển khai thành nhiều đoạn văn luận điểm rõ ràng), *Kết bài* (khái quát, nâng cao vấn đề). Dung lượng chuẩn 600 – 900 chữ.],
-  align(center)[*0,25đ*], align(center)[Biết],
+*5 phút tìm ý:* đọc lại lệnh đề; viết một câu chủ đề; chọn ba chi tiết; ghi hai nét nghệ thuật gắn với chi tiết; sắp thứ tự đoạn. Nếu đề dùng văn bản mới, đọc đúng bản in kèm, không gọi tên những chi tiết chỉ có ở dị bản khác.
 
-  [*b. Xác định đúng vấn đề & Giới thiệu, tóm tắt*],
-  [Giới thiệu đúng nhan đề, thể loại (thần thoại suy nguyên / sáng tạo), nguồn gốc dân tộc; nêu luận đề đánh giá khái quát; tóm tắt cốt truyện cô đọng (4 – 5 câu).],
-  align(center)[*0,75đ*], align(center)[Biết],
+*40 phút viết:* mở bài trực tiếp; tóm tắt gọn; triển khai các đoạn có luận điểm; kết lại bằng nhận định rút ra từ phân tích. Dành phần lớn dung lượng cho giải thích bằng chứng. Nếu đề yêu cầu khoảng 600–800 chữ, dùng mốc ấy; đây không phải dung lượng do ma trận gốc quy định.
 
-  [*c. Triển khai luận điểm phân tích, đánh giá*],
-  [• *Luận điểm Chủ đề (0,75đ):* Gọi đúng chủ đề (nhận thức cắt nghĩa + khát vọng nhân sinh), phân tích qua các căn cứ xác thực trong văn bản.\ • *Luận điểm Hình thức Nghệ thuật (1,00đ):* Phân tích và chỉ rõ tác dụng của không gian – thời gian thần thoại, cốt truyện đơn tuyến, chi tiết kì ảo phóng đại, nhân vật thần linh (quyền năng + nét đời thường), ngôi kể thứ ba & ngôn ngữ dân gian.\ • *Đánh giá tổng hợp, đối sánh & bài học (0,50đ):* Đánh giá giá trị văn hoá, đối sánh với thần thoại khác (SGK/ngoài SGK), thể hiện quan điểm đồng tình/phản biện và bài học ứng xử.],
-  align(center)[*2,25đ*], align(center)[Hiểu\ &\ Vận dụng],
+*5 phút sửa:* soát tên, chi tiết, ngôi kể, từ dễ nhầm; bỏ câu lặp; kiểm tra mỗi nhận xét nghệ thuật đã có tác dụng cụ thể. Không mở thêm luận điểm ở kết bài.
 
-  [*d. Chính tả, ngữ pháp tiếng Việt*],
-  [Đảm bảo chuẩn chính tả, dùng từ Hán Việt chính xác, đặt câu đúng ngữ pháp, liên kết đoạn chặt chẽ.],
-  align(center)[*0,25đ*], align(center)[Hiểu],
+#note(title: "Dàn ý linh hoạt, không phải khuôn lắp mọi truyện")[
+  *Mở:* tên truyện, nguồn nếu biết, một nhận định bao quát.
 
-  [*e. Sáng tạo*],
-  [Có suy nghĩ sâu sắc, cá tính riêng; vận dụng khéo léo nhận định lí luận văn học về thần thoại; diễn đạt giàu hình ảnh, cảm xúc.],
-  align(center)[*0,50đ*], align(center)[Vận dụng],
-)
+  *Thân:* mạch sự việc ngắn → vấn đề chủ đề → hai hoặc ba chi tiết tạo nên chủ đề → cách kể, nhân vật, ngôn ngữ và tác dụng → nhận xét có căn cứ.
 
-= 5.2. Mô hình “Ngôi Đền 5 Tầng” — Dàn ý Vạn năng Cho Mọi Truyện Thần thoại Ngoài SGK
-
-#block(
-  width: 100%,
-  fill: white,
-  stroke: 1pt + c-indigo,
-  radius: 6pt,
-  inset: 11pt,
-  breakable: false,
-)[
-  #align(center)[
-    #text(weight: "bold", size: 9.8pt, fill: c-navy)[SƠ ĐỒ “NGÔI ĐỀN 5 TẦNG” TRIỂN KHAI BÀI VĂN NGHỊ LUẬN 4,0 ĐIỂM]
-  ]
-  #v(6pt)
-  #grid(
-    columns: (1fr,),
-    row-gutter: 5pt,
-    block(fill: rgb("#14284B"), radius: 4pt, inset: (x: 10pt, y: 6pt), width: 100%)[
-      #text(weight: "bold", size: 8.6pt, fill: rgb("#FCD34D"))[TẦNG 1 — MỞ BÀI (1 đoạn • ~70–100 chữ):] #text(size: 8.4pt, fill: white)[Dẫn dắt từ sức quyến rũ của thần thoại → Giới thiệu tên tác phẩm, xuất xứ/dân tộc, tiểu loại → Nêu nhận định khái quát về *chủ đề* và *đặc sắc nghệ thuật* (Luận đề).]
-    ],
-    block(fill: rgb("#EFF8FF"), stroke: 0.7pt + rgb("#84CAFF"), radius: 4pt, inset: (x: 10pt, y: 6pt), width: 100%)[
-      #text(weight: "bold", size: 8.6pt, fill: rgb("#175CD3"))[TẦNG 2 — KHÁI QUÁT & TÓM TẮT (Đoạn 1 Thân bài • ~90–120 chữ):] #text(size: 8.4pt, fill: c-ink)[Xác định phân loại (*suy nguyên / sáng tạo*), đề tài → Tóm tắt mạch sự kiện chính trong 4–5 câu gọn sắc, giữ đúng những chi tiết sẽ phân tích bên dưới.]
-    ],
-    block(fill: rgb("#FFFAEB"), stroke: 0.7pt + rgb("#FDB022"), radius: 4pt, inset: (x: 10pt, y: 6pt), width: 100%)[
-      #text(weight: "bold", size: 8.6pt, fill: rgb("#B54708"))[TẦNG 3 — PHÂN TÍCH, ĐÁNH GIÁ CHỦ ĐỀ (Đoạn 2–3 Thân bài • ~220–280 chữ):] #text(size: 8.4pt, fill: c-ink)[(1) Truyện cắt nghĩa, lí giải hiện tượng tự nhiên/đặc điểm loài vật/phong tục nào dưới lăng kính *vạn vật hữu linh*? (2) Truyện gửi gắm ước mơ, khát vọng chinh phục thiên nhiên, vẻ đẹp lao động và triết lí nhân sinh gì của người xưa?]
-    ],
-    block(fill: rgb("#F4F3FF"), stroke: 0.7pt + rgb("#9B8AFB"), radius: 4pt, inset: (x: 10pt, y: 6pt), width: 100%)[
-      #text(weight: "bold", size: 8.6pt, fill: c-purple)[TẦNG 4 — PHÂN TÍCH, ĐÁNH GIÁ ĐẶC SẮC NGHỆ THUẬT (Đoạn 4–5 Thân bài • ~250–320 chữ):] #text(size: 8.4pt, fill: c-ink)[Triển khai theo công thức *5K*: (a) *Không gian vũ trụ – Thời gian phiếm chỉ cổ sơ*; (b) *Cốt truyện đơn tuyến & Chi tiết kì ảo phóng đại đắt giá*; (c) *Nghệ thuật khắc họa nhân vật thần linh* (quyền năng kì vĩ + nét tính cách hồn nhiên đời thường); (d) *Ngôi kể thứ ba toàn tri & Ngôn ngữ dân gian mộc mạc*. *Lưu ý: Luôn chỉ rõ nghệ thuật ấy làm nổi bật chủ đề ra sao!*]
-    ],
-    block(fill: rgb("#ECFDF3"), stroke: 0.7pt + rgb("#6CE9A6"), radius: 4pt, inset: (x: 10pt, y: 6pt), width: 100%)[
-      #text(weight: "bold", size: 8.6pt, fill: c-jade)[TẦNG 5 — ĐÁNH GIÁ MỞ RỘNG & KẾT BÀI (2 đoạn cuối • ~150–200 chữ):] #text(size: 8.4pt, fill: c-ink)[• *Đoạn Đánh giá nâng cao:* Đối sánh nhanh với *Thần Trụ Trời / Thần Sét / Prô-mê-tê* để làm rõ nét riêng; bàn luận giá trị của thông điệp giữa thời hiện đại.\ • *Kết bài:* Khẳng định lại vẻ đẹp *“một đi không trở lại”* của tác phẩm và bài học nhận thức, ứng xử sâu sắc cho bản thân.]
-    ]
-  )
+  *Kết:* chốt giá trị đã chứng minh. Có thể liên hệ một câu nếu phù hợp. Không bắt buộc đối sánh, trích danh ngôn hoặc phản biện mọi thông điệp.
 ]
 
-= 5.3. Kĩ thuật Viết Đoạn “P – E – E – V” Chống Kể Lể Cốt Truyện Suông
+Có hai cách tổ chức thân bài đều hợp lí: *từ chủ đề sang nghệ thuật* hoặc *theo từng chi tiết, phân tích đồng thời nội dung và nghệ thuật*. Cách thứ hai thường tránh được việc nhắc lại dẫn chứng. Không cần quét đủ mọi đặc trưng của thể loại nếu một số đặc trưng không nổi bật trong bản kể.
 
-Lỗi nghiêm trọng nhất khiến 80% học sinh lớp 10 chỉ đạt 2,0/4,0 điểm là #strong[biến bài nghị luận thành bài kể lại truyện]. Để mỗi đoạn Thân bài đều chuẩn chất nghị luận văn học, hãy lắp đúng #strong[4 mắt xích P – E – E – V]:
-1. #strong[P (Point — Câu chủ đề nêu Luận điểm):] Đặt ngay đầu đoạn, gọi thẳng tên phương diện chủ đề hoặc thủ pháp nghệ thuật (*“Trước hết, sức hấp dẫn của truyện [Tên truyện] kết tinh ở nghệ thuật xây dựng hình tượng nhân vật thần vừa kì vĩ vừa thấm đẫm hơi thở đời thường...”*).
-2. #strong[E (Evidence — Trích dẫn Bằng chứng chọn lọc):] Đưa 2–3 chi tiết/cụm từ đắt giá nhất trong ngoặc kép (không chép tràng giang đại hải cả đoạn dài).
-3. #strong[E (Explanation — Phân tích Tác dụng):] Giải mã vì sao tác giả dân gian lại hư cấu chi tiết ấy, nó phản ánh quan sát thực tế và tư duy *vạn vật hữu linh* như thế nào.
-4. #strong[V (Valuation — Bình giá, Nâng tầm):] Đánh giá tài năng tưởng tượng hồn nhiên, chất phác mà sâu sắc của người xưa; kết nối ngược về chủ đề trung tâm.
+== 5.3. Đọc bài tham khảo “Quà Giáng sinh”
 
-= 5.4. Bộ Công Cụ Thực Chiến: 4 Khuôn Mở Bài, 3 Khuôn Kết Bài & Kho Lí Luận Văn Học
+Bài học dùng bài phân tích về *Quà Giáng sinh* của O. Henry để minh hoạ cách làm nghị luận [S2]. Trọng tâm là giá trị của quà tặng: tình yêu thương và sự hi sinh thể hiện qua lựa chọn của Gim và Đê-la. Khi dùng bài tham khảo, hãy học thao tác lập luận thay vì chép lời bình.
 
-== A. 4 Khuôn Mở Bài Đẳng Cấp Học Sinh Giỏi (Lắp Rap Linh Hoạt Trong 5 Phút)
+*Câu hỏi 1:* Vấn đề bàn luận là giá trị thực sự của món quà trong truyện. Một món quà có thể tạm mất công dụng vật chất mà vẫn cho thấy tấm lòng người tặng.
 
-- #strong[Khuôn 1 — Đi từ Nhận định của C. Mác về “Tuổi thơ nhân loại” (Sang trọng, giàu lí luận):]
-  *“Bàn về sức quyến rũ vĩnh cửu của thần thoại cổ đại, C. Mác từng viết đầy say mê rằng đó là ‘thời thơ ấu bình thường của nhân loại’ — nơi vẻ đẹp hồn nhiên, trong trẻo ‘một đi không trở lại’ mãi mãi tỏa sáng qua ngàn năm lịch sử. Trở về buổi bình minh hồng hoang ấy qua kho tàng thần thoại [Việt Nam / Hy Lạp / Trung Hoa...], người đọc không khỏi ngỡ ngàng trước truyện kể #strong[[Tên tác phẩm]]. Bằng cốt truyện kì ảo giàu sức gợi và nghệ thuật khắc họa nhân vật đặc sắc, tác phẩm không chỉ cắt nghĩa sinh động [hiện tượng/nguồn gốc...] mà còn gửi gắm những khát vọng nhân sinh sâu sắc của người xưa.”*
+*Câu hỏi 2:* Bài phân tích giúp hiểu mạch truyện, sự hi sinh của hai nhân vật, tình huống trớ trêu khi hai món quà chưa thể dùng ngay, cách tổ chức kết thúc và ý nghĩa của câu chuyện. Không cần coi những từ đánh giá chung như “khách quan” là tác dụng mặc định của ngôi kể.
 
-- #strong[Khuôn 2 — Đi từ Tư duy “Vạn vật hữu linh” (Chuẩn đặc trưng thể loại):]
-  *“Thuở hồng hoang khi ánh sáng khoa học chưa chạm tới những bí ẩn của vũ trụ, con người nguyên thủy đã nhìn thế giới quanh mình bằng đôi mắt ngây thơ và niềm tin thiêng liêng rằng ‘vạn vật đều có linh hồn’. Từ mảnh đất màu mỡ của trí tưởng tượng ấy, biết bao thiên thần thoại kì vĩ đã ra đời, tiêu biểu là văn bản #strong[[Tên tác phẩm]] thuộc kho tàng thần thoại [tên dân tộc]. Tác phẩm chinh phục trái tim bao thế hệ độc giả nhờ sự hòa quyện tuyệt đẹp giữa chủ đề [nêu gọn chủ đề] và những nét đặc sắc độc đáo về hình thức nghệ thuật tự sự dân gian.”*
+*Câu hỏi 3:* Có thể nhận ra mạch: giới thiệu → tóm tắt → phân tích tình huống, hành động, cách kể và đoạn kết → làm rõ, mở rộng chủ đề → khẳng định giá trị. Thứ tự này cho thấy kết luận về ý nghĩa được xây từ các chi tiết, không áp đặt từ trước.
 
-- #strong[Khuôn 3 — Đi từ Nhà văn M. Gorki & Khát vọng Chinh phục Thiên nhiên (Hợp thần thoại sáng tạo):]
-  *“Đại văn hào M. Gorki từng khẳng định: ‘Thần thoại là sự phản ánh thiên nhiên và cuộc đấu tranh với thiên nhiên trong trí tưởng tượng nghệ thuật của người tiền sử’. Đứng trước vũ trụ mênh mông đầy biến động, tổ tiên nhân loại không cúi đầu khuất phục mà đã gửi gắm ước mơ làm chủ thế giới vào những hình tượng thần linh bất tử. #strong[[Tên tác phẩm]] (trích thần thoại [...]) chính là một bản anh hùng ca cổ sơ như thế — một kiệt tác lấp lánh cả ở chiều sâu tư tưởng chủ đề lẫn vẻ đẹp nghệ thuật bay bổng, kì vĩ.”*
+*Chuyển sang thần thoại:* một tình huống trong truyện hiện đại và một kì tích trong thần thoại đều cần phân tích chức năng của chúng trong toàn truyện. Nhưng không gọi mọi thần thoại là truyện có “kết thúc bất ngờ”, cũng không bê nhận xét về O. Henry sang truyện dân gian.
 
-- #strong[Khuôn 4 — Mở bài Trực tiếp Chuẩn mực (An toàn tuyệt đối khi sát giờ):]
-  *“Trong kho tàng truyện kể dân gian [Việt Nam / thế giới], thần thoại giữ vị trí mở đầu như chiếc nôi nuôi dưỡng tâm hồn và trí tưởng tượng của con người thời cổ đại. Một trong những truyện thần thoại tiêu biểu ngoài chương trình sách giáo khoa để lại ấn tượng thẩm mĩ sâu đậm là #strong[[Tên tác phẩm]] ([ghi nguồn trích dẫn]). Tác phẩm đã thể hiện xuất sắc chủ đề [nêu chủ đề] thông qua hệ thống hình thức nghệ thuật đặc trưng của thể loại thần thoại.”*
+== 5.4. Từ chi tiết đến đoạn nghị luận
 
-== B. Kho 08 Nhận Định Lí Luận Văn Học Đắt Giá Đưa Vào Thân Bài & Kết Bài
+Dùng bốn bước: *Nêu nhận xét → dẫn bằng chứng → giải thích → đánh giá*. Đây là cách tự kiểm tra lập luận, không phải bốn câu bắt buộc.
 
-#study-table(
-  (1.5fr, 3.3fr, 2.2fr),
-  ("Tác giả / Học giả", "Nguyên văn / Tinh thần nhận định chọn lọc", "Vị trí vận dụng tối ưu"),
-  [*C. Mác*], [*“Thần thoại là tự nhiên và các hình thái xã hội đã được trí tưởng tượng dân gian chế biến đi một cách vô ý thức bằng nghệ thuật.”*], [Dùng khi phân tích *thủ pháp kì ảo, nhân hóa tự nhiên*.],
-  [*C. Mác*], [*“Chẳng lẽ sự ngây thơ của đứa trẻ lại không làm người lớn vui sướng hay sao?... Thần thoại tỏa ra sức hấp dẫn vĩnh cửu của một giai đoạn một đi không trở lại.”*], [Dùng ở *Mở bài* hoặc *Kết bài* khẳng định sức sống thần thoại.],
-  [*M. Gorki*], [*“Sự tưởng tượng sáng tạo đã tạo nên các thần thoại và sử thi vĩ đại của thời cổ đại.”*], [Dùng khi bình giá *trí tưởng tượng phóng đại* của dân gian.],
-  [*Nguyễn Đổng Chi*], [*“Thần thoại Việt Nam phản ánh tâm hồn bình dị, chất phác và khát vọng gắn bó máu thịt với ruộng đồng, sông núi của cư dân lúa nước.”*], [Dùng khi *đánh giá bản sắc riêng* của thần thoại Việt Nam.],
-  [*Đinh Gia Khánh*], [*“Ở thần thoại, mỗi chi tiết hoang đường đều ẩn chứa một hạt nhân nhận thức thực tế về tự nhiên và lao động.”*], [Dùng khi *giải mã ý nghĩa chi tiết kì ảo* tiêu biểu.],
-  [*SGK Ngữ văn 10 KNTT*], [*“Niềm tin thiêng liêng về một thế giới mà ở đó vạn vật đều có linh hồn là một trong những vẻ đẹp làm nên sức sống lâu bền cho thần thoại.”*], [Dùng làm *câu chốt luận điểm Chủ đề* chuẩn xác 100%.],
-  [*Hê-ghen (Hegel)*], [*“Nhân vật là điểm tụ hội trung tâm mà qua đó tư tưởng của toàn bộ tác phẩm bừng sáng.”*], [Dùng mở đoạn *phân tích hình tượng nhân vật thần linh*.],
-  [*Lê-ô-nốp*], [*“Mỗi tác phẩm phải là một phát minh về hình thức và một khám phá về nội dung.”*], [Dùng ở câu chuyển ý *từ phân tích Chủ đề sang Nghệ thuật*.]
-)
+#study-table((1.4fr, 2.8fr, 2.8fr), ("Thành phần", "Câu hỏi tự đặt", "Ví dụ với Nữ thần Lúa"),
+[Nhận xét], [Tôi muốn chứng minh điều gì?], [Truyện hình dung lúa như một chủ thể có cảm xúc.],
+[Bằng chứng], [Chữ hoặc việc nào trong đề cho thấy điều đó?], [Lúa tự về nhà; thần nổi giận sau hành động của cô gái.],
+[Giải thích], [Vì sao chi tiết này làm rõ nhận xét?], [Quan hệ người – cây lúa được kể thành quan hệ ứng xử.],
+[Đánh giá], [Cách kể ấy có hiệu quả gì?], [Công việc gặt hái được lí giải bằng một tình huống gần đời sống.])
 
-#trap-box(title: "8 LỖI CHẾT NGƯỜI TRONG BÀI VĂN 4,0 ĐIỂM & CÁCH KHẮC PHỤC TỨC THÌ")[
-  1. *Tóm tắt dài quá nửa trang giấy:* Giới hạn đoạn tóm tắt đúng 4–5 câu (~80–100 chữ).
-  2. *Chỉ phân tích nội dung, bỏ quên nghệ thuật:* Đề bài yêu cầu rõ *“(Chủ đề, những nét đặc sắc về hình thức nghệ thuật)”* — phải dành ít nhất 35–40% dung lượng Thân bài cho Nghệ thuật!
-  3. *Phân tích nghệ thuật tách rời chủ đề:* Liệt kê khô khan “không gian rộng, ngôi thứ ba, phép phóng đại” mà không chỉ ra chúng giúp tô đậm chủ đề thế nào.
-  4. *Áp đặt tiêu chuẩn khoa học hiện đại để chê người xưa “mê tín, vô lí”:* Phải đặt tác phẩm vào *bối cảnh nhận thức buổi bình minh nhân loại* để trân trọng vẻ đẹp hồn nhiên của tổ tiên.
-  5. *Nhầm tên tác giả sưu tầm thành tác giả sáng tác:* Nguyễn Đổng Chi, Nguyễn Văn Khoả là *nhà nghiên cứu sưu tầm, biên soạn*; tác giả sáng tạo gốc là *tác giả dân gian / tập thể nhân dân thời cổ đại*!
-  6. *Không có đoạn Đánh giá – Liên hệ cá nhân (mất sạch điểm Vận dụng):* Luôn dành 1 đoạn riêng trước Kết bài để đối sánh và rút bài học cho con người hôm nay.
-  7. *Viết toàn bộ Thân bài dính liền thành 1 khối khổng lồ:* Phải tách Thân bài thành *4–5 đoạn văn rõ ràng*, mỗi đoạn mở đầu bằng câu chủ đề sáng sủa.
-  8. *Trích dẫn sai nguyên văn:* Chỉ đặt trong ngoặc kép những cụm từ trích chính xác từng chữ từ đề thi; phần còn lại diễn đạt linh hoạt bằng lời văn của mình.
-]
+*Đoạn tham khảo:* “Chi tiết lúa tự về nhà khiến cây lương thực hiện lên như một thành viên có thể chủ động tìm đến con người. Khi cô gái dùng chổi đập vào bông lúa, sự nổi giận của nữ thần làm thay đổi quan hệ ấy: con người phải xuống ruộng và chế biến hạt thóc. Cách nhân hoá đã nối một chuyện ứng xử nhỏ với lời giải thích về công việc nông nghiệp. Qua đó, truyện gợi thái độ quý trọng nguồn sống, bởi sự tiện lợi ban đầu không còn được trao sẵn.”
+
+Đoạn trên không chỉ kể lại sự việc. Nó chọn hai chi tiết, giải thích quan hệ nguyên nhân – kết quả và đánh giá hiệu quả của cách kể. Khi luyện, che đoạn mẫu và tự viết lại từ ba từ khoá: *tự về – đập chổi – phải gặt*.
+
+== 5.5. Mở bài và kết bài có trọng tâm
+
+*Mở trực tiếp:* “Truyện Nữ thần Lúa kể về sự thay đổi từ lúa tự về nhà đến việc con người phải gặt và làm ra gạo. Qua hình tượng vị thần vừa ban sự sống vừa biết giận, bản kể lí giải công việc nông nghiệp và gợi sự trân trọng lương thực.”
+
+*Mở từ chi tiết:* “Trong Nữ thần Lúa, một cái chổi làm thay đổi cách con người nhận hạt gạo. Chi tiết ấy mở ra cách người xưa kể về công sức lao động bằng trí tưởng tượng thần thoại.”
+
+*Kết khẳng định giá trị:* “Bằng chi tiết lúa biết đi và biết giận, truyện nối sinh hoạt gia đình với việc cắt nghĩa nghề nông. Giá trị của bản kể nằm ở cách hình dung cụ thể ấy cùng lời nhắc quý trọng nguồn sống.”
+
+*Kết có liên hệ:* “Đọc truyện hôm nay, em chú ý hơn đến công sức phía sau bữa cơm. Sự liên hệ ấy bắt đầu từ chi tiết con người phải tự gặt và chế biến, chứ không cần biến câu chuyện thành một bài giảng chung về mọi vấn đề môi trường.”
+
+Không học thuộc các đoạn này để ghép vào truyện khác. Hãy giữ cách làm: gọi đúng tên → nêu việc cụ thể → hình thành nhận xét.
+
+== 5.6. Thang tự chấm 4,0 điểm (do người biên soạn đề xuất)
+
+#study-table((1.7fr, 4.4fr, 0.9fr), ("Tiêu chí", "Biểu hiện", "Điểm tối đa"),
+[Cấu trúc], [Có mở, thân, kết; các đoạn hợp lí.], [0,25],
+[Xác định vấn đề], [Giới thiệu đúng truyện, phạm vi; tóm tắt đủ để hiểu phân tích.], [0,50],
+[Chủ đề], [Nêu đúng vấn đề chính, phân tích bằng chứng; tránh áp đặt.], [1,00],
+[Nghệ thuật], [Chọn nét nổi bật, có chi tiết và giải thích tác dụng gắn với chủ đề.], [1,00],
+[Đánh giá], [Nhận xét giá trị có lí lẽ; thể hiện quan điểm, bài học phù hợp.], [0,75],
+[Diễn đạt], [Đúng chính tả, ngữ pháp; liên kết rõ, trích dẫn chính xác.], [0,25],
+[Suy nghĩ riêng], [Có cách lí giải cụ thể, thuyết phục; không phụ thuộc văn mẫu.], [0,25])
+
+Tổng 4,0 điểm. Các tiêu chí có thể cùng thể hiện trong một đoạn; không cộng điểm hai lần cho cùng một thành tích. Không bắt buộc một ý kiến cá nhân phải khác đáp án. Cách hiểu khác vẫn có thể được chấp nhận nếu không trái văn bản và có lí lẽ. Đây là thang phản hồi cho bộ đề, không phải cách phân điểm chính thức của ma trận. Giáo viên có thể điều chỉnh.
+
+== 5.7. Bảng sửa những lỗi làm bài thường gặp
+
+#study-table((2fr, 2.5fr, 2.5fr), ("Lỗi", "Vì sao chưa đạt", "Cách sửa"),
+[Kể truyện gần hết bài], [Thiếu giải thích giá trị chi tiết.], [Giữ tóm tắt ngắn; sau bằng chứng phải có “điều này cho thấy…”.],
+[Liệt kê nghệ thuật], [Không chỉ ra hiệu quả.], [Chọn hai nét nổi bật, phân tích sâu bằng một chi tiết mỗi nét.],
+[Gọi người sưu tầm là tác giả dân gian], [Lẫn vai trò tạo tác và ghi chép.], [Ghi “truyện dân gian, theo bản kể…” khi có nguồn.],
+[Trích danh ngôn không nguồn], [Có thể sai câu chữ hoặc sai tác giả.], [Bỏ trích dẫn, tự lập luận bằng văn bản.],
+[Nhầm ngôi thứ ba với toàn tri], [Suy từ ngôi kể ra phạm vi hiểu biết.], [Dẫn một dấu hiệu cho thấy người kể biết điều gì.],
+[Liên hệ dài hơn phân tích], [Rời vấn đề nghị luận.], [Chỉ giữ liên hệ giúp làm rõ một nhận xét.],
+[Văn hoa chung chung], [Nhiều lời khen nhưng ít thông tin.], [Thay “kiệt tác bất tử” bằng tác dụng cụ thể đã chứng minh.],
+[Chép đúng chữ nhưng sai bản], [Dẫn chi tiết không có trong đề.], [Đối chiếu từng cụm trích với ngữ liệu trước khi nộp.])

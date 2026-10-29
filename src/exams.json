@@ -1,0 +1,1100 @@
+[
+  {
+    "number": 1,
+    "title": "Nữ thần Mặt Trời và Mặt Trăng",
+    "source": "S4",
+    "passage": "Thuở xưa, Ngọc Hoàng có hai người con gái là Mặt Trời và Mặt Trăng. Hai nàng được giao lần lượt đi xem xét công việc dưới trần. Mặt Trời ngồi trên kiệu do những người khiêng chia thành tốp già và tốp trẻ. Các cụ già chỉ lo hoàn thành phận sự nên đi nhanh. Tốp trẻ thích la cà, vì vậy thường trở về muộn. Người xưa kể rằng khi tốp trẻ khiêng kiệu thì ngày dài, còn khi các cụ già khiêng thì ngày ngắn.\n\nMặt Trăng vốn nóng nảy, hay sà xuống gần mặt đất, làm người và vật khổ sở. Một chàng trai tên Quải có thân hình lớn và sức khoẻ khác thường quyết tìm cách ngăn nàng. Chàng đợi trên núi cao, chuẩn bị sẵn cát. Khi Mặt Trăng lại gần, Quải ném cát vào mặt nàng. Mặt Trăng hoảng hốt bay xa; cát bám vào mặt khiến ánh sáng không còn gay gắt. Từ đó nàng không sà xuống nữa, tính tình cũng trở nên dịu dàng.\n\nNgười ta còn hình dung lúc nàng quay mặt về trần gian là trăng tròn; lúc quay lưng là những ngày không thấy trăng; khi nghiêng mặt là lúc trăng khuyết. Quầng trăng được kể như bụi cát trên mặt nàng bị gió thổi tung.",
+    "questions": [
+      {
+        "stem": "Mốc thời gian mở đầu bản kể là gì?",
+        "choices": [
+          "Năm đầu triều Trần.",
+          "Thuở xưa.",
+          "Tháng mười năm 2026.",
+          "Ngày sinh của Quải."
+        ],
+        "answer": 1,
+        "evidence": "Thuở xưa",
+        "explanation": "Thời gian không có niên đại cụ thể; ba phương án kia đều thêm mốc không có trong truyện.",
+        "indicator": "Đ1",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Ai được giao đi xem xét công việc dưới trần?",
+        "choices": [
+          "Quải và các cụ già.",
+          "Tốp trẻ và muôn vật.",
+          "Chỉ có Ngọc Hoàng.",
+          "Mặt Trời và Mặt Trăng."
+        ],
+        "answer": 3,
+        "evidence": "Hai nàng được giao",
+        "explanation": "Hai nàng chỉ hai người con gái được giới thiệu trước đó; không phải những người khiêng kiệu.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Tốp trẻ khiêng kiệu có thói quen nào?",
+        "choices": [
+          "Thích la cà.",
+          "Chỉ lo đi thật nhanh.",
+          "Không bao giờ đi xem xét.",
+          "Thường ném cát lên trời."
+        ],
+        "answer": 0,
+        "evidence": "Tốp trẻ thích la cà",
+        "explanation": "Thông tin được nêu trực tiếp. Đi nhanh thuộc về tốp già; ném cát thuộc về Quải.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Quải dùng vật gì để ngăn Mặt Trăng sà xuống?",
+        "choices": [
+          "Tro bếp.",
+          "Nước biển.",
+          "Cát.",
+          "Đá ngũ sắc."
+        ],
+        "answer": 2,
+        "evidence": "Quải ném cát",
+        "explanation": "Bản đề dùng dị bản có Quải và cát; tro thuộc một dị bản khác, không được thay vào.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Cách sinh hoạt nào được dùng để hình dung hành trình Mặt Trời?",
+        "choices": [
+          "Đi bằng tàu thuỷ.",
+          "Đi săn bằng nỏ.",
+          "Đi bằng kiệu có người khiêng.",
+          "Cấy lúa trong ruộng."
+        ],
+        "answer": 2,
+        "evidence": "Mặt Trời ngồi trên kiệu",
+        "explanation": "Kiệu là hình ảnh sinh hoạt cụ thể trong truyện. Không suy rộng thành một triều đại xác định.",
+        "indicator": "Đ4",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Nhân vật nào có thân hình lớn và sức khoẻ khác thường?",
+        "choices": [
+          "Quải.",
+          "Mặt Trăng.",
+          "Một người thuộc tốp già.",
+          "Ngọc Hoàng."
+        ],
+        "answer": 0,
+        "evidence": "Một chàng trai tên Quải có thân hình lớn",
+        "explanation": "Dấu hiệu tầm vóc, sức khoẻ gắn trực tiếp với Quải. Các nhân vật khác có vai trò riêng, không được miêu tả như vậy trong bản kể.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Hình ảnh Mặt Trăng nóng nảy rồi dịu dàng có tác dụng gì?",
+        "choices": [
+          "Khẳng định trăng có cảm xúc theo khoa học.",
+          "Chỉ tả một cô gái đời thường.",
+          "Chứng minh Quải là người khiêng kiệu.",
+          "Gắn tính cách con người với thiên thể để cắt nghĩa ánh trăng."
+        ],
+        "answer": 3,
+        "evidence": "tính tình cũng trở nên dịu dàng",
+        "explanation": "Nét tính cách giúp nhân cách hoá tự nhiên. Các đáp án khác hoặc coi tưởng tượng là khoa học, hoặc trái vai trò nhân vật.",
+        "indicator": "Đ6",
+        "level": "Thông hiểu"
+      },
+      {
+        "stem": "Chủ đề nào sát bản kể nhất?",
+        "choices": [
+          "Lí giải toàn bộ lịch sử các triều đại.",
+          "Hình dung các hiện tượng ngày dài ngắn và hình dạng, ánh sáng của trăng bằng chuyện thần linh.",
+          "Phê phán mọi người trẻ đều lười.",
+          "Kể nguồn gốc của nghề trồng lúa."
+        ],
+        "answer": 1,
+        "evidence": "khi tốp trẻ khiêng kiệu thì ngày dài",
+        "explanation": "Nhận định bao quát các lớp sự tích. Hai tốp khiêng kiệu không đủ căn cứ cho một kết luận đạo đức về mọi lứa tuổi.",
+        "indicator": "Đ7",
+        "level": "Thông hiểu"
+      }
+    ],
+    "short": [
+      {
+        "stem": "Tóm tắt bản kể trong 3–4 câu, giữ các sự việc chính.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Nêu hai nữ thần và nhiệm vụ."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu hai tốp khiêng kiệu gắn ngày dài ngắn."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu Quải ném cát, Mặt Trăng thay đổi."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu cách cắt nghĩa trăng tròn khuyết, quầng; trình bày đúng mạch."
+          }
+        ],
+        "sample": "Ngọc Hoàng giao Mặt Trời và Mặt Trăng đi xem xét trần gian. Tốp trẻ khiêng kiệu Mặt Trời hay la cà nên ngày dài, còn tốp già đi nhanh nên ngày ngắn. Mặt Trăng sà xuống gây hại, bị Quải ném cát và từ đó bay xa, dịu lại. Bản kể còn dùng hướng quay mặt và bụi cát để giải thích hình dạng cùng quầng trăng.",
+        "indicators": [
+          "Đ5"
+        ]
+      },
+      {
+        "stem": "Cách cắt nghĩa ánh trăng trong truyện còn giá trị gì với người đọc hôm nay? Trả lời bằng một đoạn khoảng 5–7 câu.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Nêu giá trị văn hoá, tưởng tượng."
+          },
+          {
+            "points": 0.25,
+            "text": "Dùng chi tiết cát hoặc tính cách để lí giải."
+          },
+          {
+            "points": 0.25,
+            "text": "Phân biệt ý nghĩa văn học với giải thích khoa học."
+          },
+          {
+            "points": 0.25,
+            "text": "Có nhận xét riêng, diễn đạt rõ và đúng hình thức."
+          }
+        ],
+        "sample": "Theo em, cách cắt nghĩa trong truyện vẫn có giá trị văn hoá. Cát trên mặt Mặt Trăng khiến một thiên thể xa xôi trở nên gần gũi và có thể hình dung bằng vật quen thuộc. Sự thay đổi từ nóng nảy sang dịu dàng cũng cho thấy người xưa quan sát thiên nhiên qua kinh nghiệm con người. Tuy vậy, câu chuyện không thay thế kiến thức thiên văn. Em đọc truyện để hiểu trí tưởng tượng và cách nhìn của người đi trước. Khi tìm nguyên nhân của hiện tượng tự nhiên, em vẫn dựa vào kiến thức khoa học.",
+        "indicators": [
+          "Đ11",
+          "Đ13"
+        ]
+      }
+    ],
+    "outline": [
+      "Giới thiệu bản kể và chủ đề cắt nghĩa thiên văn.",
+      "Phân tích hai tốp khiêng kiệu và lối gắn thời gian với sinh hoạt.",
+      "Phân tích Quải, cát và sự thay đổi của Mặt Trăng; không thêm tro hoặc Gấu.",
+      "Đánh giá nhân hoá, chuỗi sự tích và giới hạn của cách giải thích."
+    ],
+    "essay": "Bản kể Nữ thần Mặt Trời và Mặt Trăng hình dung các thiên thể như những con người có nhiệm vụ và tính cách. Từ chuyện khiêng kiệu đến việc chàng Quải ném cát, người xưa tạo ra những lời giải thích có thể nhìn thấy và kể lại. Sức hấp dẫn của truyện nằm ở sự kết hợp giữa nhu cầu tìm hiểu tự nhiên với những hình ảnh gần đời sống.\n\nMạch kể bắt đầu bằng nhiệm vụ hai nữ thần đi xem xét trần gian. Hành trình Mặt Trời dài hay ngắn phụ thuộc vào tốp người khiêng kiệu. Sau đó, truyện chuyển sang Mặt Trăng nóng nảy, thường sà xuống làm muôn vật khổ sở. Quải ngăn nàng bằng cát, khiến nàng bay xa và dịu lại. Hướng quay mặt của nàng cùng bụi cát tiếp tục được dùng để cắt nghĩa hình dạng và quầng trăng.\n\nĐiểm đáng chú ý trước hết là cách biến một hiện tượng thời gian thành chuyện sinh hoạt. Tốp trẻ thích la cà nên về muộn, trong khi các cụ già lo tròn phận sự nên đi nhanh. Từ sự khác nhau ấy, bản kể hình dung ra ngày dài và ngày ngắn. Việc khiêng kiệu vốn thuộc kinh nghiệm sống được đưa vào hành trình của thiên thể. Nhờ đó, điều khó nắm bắt trên bầu trời có một nguyên nhân cụ thể trong thế giới truyện. Chi tiết này cũng tạo giọng kể có phần hóm hỉnh. Tuy nhiên, nó không phải cơ sở để kết luận mọi người trẻ đều thiếu trách nhiệm hoặc mọi người già đều chăm chỉ.\n\nNếu hành trình Mặt Trời được tổ chức theo việc khiêng kiệu, Mặt Trăng lại hiện ra qua tính cách và sự thay đổi. Nàng nóng nảy, sà gần mặt đất và khiến người, vật khổ sở. Khi Quải ném cát, nàng phải bay xa; ánh sáng không còn gay gắt như trước. Cách nhân hoá nối cảm giác về độ nóng, độ sáng với nét tính cách con người. Trạng thái của thiên thể vì thế được kể thành một chuyện có xung đột và kết quả. Hình tượng Quải có sức khoẻ khác thường còn gợi ước muốn chủ động ứng phó với sức mạnh gây hại của tự nhiên.\n\nCát là chi tiết giữ nhiều chức năng trong bản kể. Nó giúp Quải ngăn Mặt Trăng, làm thay đổi ánh sáng và được dùng để giải thích quầng trăng ở đoạn sau. Một vật rất bình thường có thể tham gia vào nhiều hiện tượng nhờ trí tưởng tượng. Cùng với cách hình dung trăng tròn hay khuyết qua hướng quay mặt, chi tiết ấy cho thấy người kể dùng cơ thể và hành động quen thuộc để mô tả điều xa xôi. Các lớp giải thích nối nhau làm truyện có nhiều sự tích nhỏ, không chỉ một hành động duy nhất.\n\nNgười kể giấu mình, thuật việc của thần và người mà không để một nhân vật đứng ra xưng tôi kể lại. Cách kể ấy giúp chuyển từ thiên đình xuống mặt đất rồi trở về hình ảnh trên bầu trời khá tự nhiên. Lời văn chủ yếu nêu sự việc và quan hệ nguyên nhân, kết quả nên người đọc dễ theo dõi. Những câu hướng về điều người ta nhìn thấy ở trăng nối thế giới tưởng tượng với kinh nghiệm quan sát hằng ngày. Chính sự nối kết này làm cho chức năng cắt nghĩa của thần thoại hiện lên rõ.\n\nĐọc bản kể hôm nay, em thấy giá trị của nó ở cách một cộng đồng tìm lời đáp trước những hiện tượng chưa hiểu hết. Hành trình kiệu và bụi cát không phải kiến thức thiên văn, nhưng cho thấy khả năng tạo hình của trí tưởng tượng dân gian. Truyện để lại những hình ảnh cụ thể về nhu cầu tìm hiểu và thích nghi với tự nhiên. Đó là điều khiến câu chuyện vẫn đáng đọc khi con người đã có những cách giải thích khoa học khác.",
+    "extra": null,
+    "notice": ""
+  },
+  {
+    "number": 2,
+    "title": "Thần Mưa",
+    "source": "S5",
+    "passage": "Người xưa kể Thần Mưa có hình rồng, bay xuống sông biển hút nước rồi lên trời phun thành mưa. Nước ấy cho người uống, cày cấy và giúp cây cỏ tốt tươi. Thần nhận việc phân phối nước nhưng lại hay quên. Có vùng thần không đến suốt năm nên khô hạn; nơi khác thần đến luôn, gây lụt lội.\n\nVì công việc khắp mặt đất quá nặng, Trời mở cuộc thi chọn thêm các loài dưới nước hoá rồng để giúp thần. Các con vật phải vượt qua ba đợt sóng. Cá rô mới qua một đợt đã rơi, tôm qua hai đợt rồi kiệt sức. Đến lượt cá chép, gió nổi, mây kéo đến; cá vượt liền ba đợt sóng, lọt cửa Vũ Môn. Vây, đuôi, râu, sừng mọc đủ, cá hoá rồng và có thể phun nước làm mưa.\n\nTừ chuyện ấy, người ta kể về việc cá chép vượt Vũ Môn. Công việc làm mưa không còn chỉ được đặt vào một vị thần mà có thêm những con rồng được tuyển qua thử thách.",
+    "questions": [
+      {
+        "stem": "Thần Mưa có hình dạng nào?",
+        "choices": [
+          "Hình con gấu.",
+          "Đầu người mình chim.",
+          "Hình rồng.",
+          "Người cụt đầu."
+        ],
+        "answer": 2,
+        "evidence": "Thần Mưa có hình rồng",
+        "explanation": "Bản kể nêu trực tiếp hình rồng; những hình dạng còn lại không xuất hiện.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Thần làm mưa bằng cách nào?",
+        "choices": [
+          "Hút nước sông biển rồi lên trời phun ra.",
+          "Ném đá làm vỡ mây.",
+          "Đốt rừng lấy tro.",
+          "Vá trời bằng đá ngũ sắc."
+        ],
+        "answer": 0,
+        "evidence": "hút nước rồi lên trời phun",
+        "explanation": "Chỉ phương án đúng mô tả trọn hành động được kể; không dùng kiến thức từ truyện khác.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Tật nào của thần được nêu trong truyện?",
+        "choices": [
+          "Tham vàng bạc.",
+          "Sợ tiếng gà.",
+          "Thích đi săn.",
+          "Hay quên."
+        ],
+        "answer": 3,
+        "evidence": "lại hay quên",
+        "explanation": "Đây là nét tính cách được người kể gọi tên, không cần đoán thêm động cơ.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Con vật dự thi phải vượt qua bao nhiêu đợt sóng?",
+        "choices": [
+          "Một đợt.",
+          "Ba đợt.",
+          "Hai đợt.",
+          "Mười hai đợt."
+        ],
+        "answer": 1,
+        "evidence": "phải vượt qua ba đợt sóng",
+        "explanation": "Ba là điều kiện cuộc thi. Một và hai chỉ mức cá rô, tôm đạt được.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Những công việc nào trong đoạn đầu cho thấy nhu cầu nước của con người?",
+        "choices": [
+          "Uống nước và cày cấy.",
+          "Luyện chữ và thi cử.",
+          "Săn bắn và luyện kim.",
+          "Đóng kiệu và bắc cầu."
+        ],
+        "answer": 0,
+        "evidence": "cho người uống, cày cấy",
+        "explanation": "Dấu vết nông nghiệp được nêu trực tiếp; không suy ra mọi nghề khác.",
+        "indicator": "Đ4",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Không gian hành động của Thần Mưa nối những nơi nào?",
+        "choices": [
+          "Chỉ một ngôi nhà.",
+          "Chỉ một sân thi.",
+          "Sông biển và trời.",
+          "Chỉ một ruộng lúa."
+        ],
+        "answer": 2,
+        "evidence": "bay xuống sông biển",
+        "explanation": "Hành trình hút và phun nước nối trời với sông biển; không thu hẹp vào một địa điểm.",
+        "indicator": "Đ1",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Vì sao cuộc thi hoá rồng phù hợp với mạch truyện?",
+        "choices": [
+          "Nó xoá mọi thiên tai mãi mãi.",
+          "Nó giải quyết nhu cầu có thêm lực lượng giúp làm mưa.",
+          "Nó chứng minh tôm giỏi hơn cá chép.",
+          "Nó đổi đề tài sang nguồn gốc mặt trăng."
+        ],
+        "answer": 1,
+        "evidence": "để giúp thần",
+        "explanation": "Nguyên nhân mở thi được nêu rõ. Không có lời kể rằng từ đó mọi hạn lụt đều chấm dứt.",
+        "indicator": "Đ9",
+        "level": "Thông hiểu"
+      },
+      {
+        "stem": "Nhận xét nào đúng về nhân vật thần?",
+        "choices": [
+          "Luôn hoàn hảo, không sai sót.",
+          "Chỉ là con vật bình thường.",
+          "Không tác động tới cốt truyện.",
+          "Có quyền năng nhưng vẫn có hạn chế gần con người."
+        ],
+        "answer": 3,
+        "evidence": "Thần nhận việc phân phối nước nhưng lại hay quên",
+        "explanation": "Quyền năng tạo mưa đi cùng tật quên. Sự không hoàn hảo gây vấn đề và dẫn đến cuộc thi.",
+        "indicator": "Đ6",
+        "level": "Thông hiểu"
+      }
+    ],
+    "short": [
+      {
+        "stem": "Phân tích tác dụng của chi tiết Thần Mưa hay quên trong bản kể.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Nêu nét tính cách gần con người."
+          },
+          {
+            "points": 0.25,
+            "text": "Dẫn hậu quả hạn, lụt đúng bản kể."
+          },
+          {
+            "points": 0.25,
+            "text": "Giải thích chức năng cắt nghĩa mưa không đều."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu vai trò dẫn đến việc tuyển rồng giúp sức."
+          }
+        ],
+        "sample": "Tật hay quên khiến vị thần có nét gần con người, dù có quyền năng tạo mưa. Bản kể dùng việc thần bỏ quên nơi này, đến quá nhiều nơi kia để cắt nghĩa hạn hán và lụt lội. Hạn chế ấy khiến việc phân phối nước trở thành vấn đề của cốt truyện. Nó cũng góp phần chuẩn bị cho giải pháp Trời chọn thêm rồng giúp thần làm mưa.",
+        "indicators": [
+          "Đ6",
+          "Đ9"
+        ]
+      },
+      {
+        "stem": "Từ cuộc thi vượt sóng, em rút ra bài học gì? Viết khoảng 5–7 câu; tránh kết luận ai chưa thành công cũng là thiếu cố gắng.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Nêu bài học phù hợp về chuẩn bị, thử thách."
+          },
+          {
+            "points": 0.25,
+            "text": "Liên hệ chi tiết ba đợt sóng."
+          },
+          {
+            "points": 0.25,
+            "text": "Có lí lẽ về giới hạn khi áp dụng vào đời sống."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu hành động cụ thể, diễn đạt rõ."
+          }
+        ],
+        "sample": "Cuộc thi gợi cho em ý thức chuẩn bị trước thử thách. Cá rô và tôm chưa vượt đủ ba đợt sóng, trong khi cá chép hoàn thành điều kiện. Em hiểu rằng một kết quả thường đòi hỏi khả năng phù hợp và sự bền bỉ. Tuy nhiên, không thể từ truyện suy rằng người chưa thành công đều lười biếng. Mỗi người còn có điều kiện và giới hạn khác nhau. Khi học, em sẽ chia mục tiêu thành từng bước, xem lại phần còn yếu và nhờ thầy cô hỗ trợ.",
+        "indicators": [
+          "Đ10",
+          "Đ13"
+        ]
+      }
+    ],
+    "outline": [
+      "Chủ đề cắt nghĩa mưa và mong muốn phân phối nước hợp lí.",
+      "Thần có quyền năng nhưng hay quên: quan hệ nhân vật và cốt truyện.",
+      "Cuộc thi, các mức vượt sóng và sự hoá rồng; đánh giá cách kể.",
+      "Không đồng nhất thần hút nước với mô tả chính xác vòng tuần hoàn nước."
+    ],
+    "essay": "Trong bản kể Thần Mưa, nhu cầu có nước của con người được hình dung qua công việc của một vị thần hình rồng. Thần có thể hút nước từ sông biển rồi phun thành mưa, nhưng lại hay quên và không đủ sức lo khắp nơi. Từ hạn chế ấy, truyện phát triển thêm cuộc thi hoá rồng. Cách nối các sự tích làm rõ cả nhu cầu cắt nghĩa tự nhiên lẫn mong muốn cuộc sống có mưa thuận lợi.\n\nĐoạn đầu kể quyền năng và nhiệm vụ của Thần Mưa. Việc thần quên nơi này, đến quá nhiều nơi khác dẫn tới hạn hán hoặc lụt lội. Để có thêm người giúp việc, Trời tổ chức thi cho các loài dưới nước vượt ba đợt sóng. Cá rô và tôm chưa vượt đủ; cá chép qua được cửa Vũ Môn, mọc thêm các bộ phận và hoá rồng. Kết quả ấy trở lại với công việc làm mưa đã nêu ở đầu truyện.\n\nTrước hết, chủ đề của bản kể được đặt trên nhu cầu rất thiết thân: nước cho người uống, cày cấy và cây cỏ. Tự nhiên không chỉ là cảnh vật để ngắm nhìn mà liên quan trực tiếp đến nguồn sống. Vì vậy, nhiệm vụ phân phối nước trở thành một công việc quan trọng trong thế giới thần linh. Hình tượng thần rồng nối sông biển với bầu trời bằng hành động hút và phun. Người kể đã dùng những hành động cụ thể để tạo ra lời giải thích có thể hình dung về sự xuất hiện của mưa.\n\nNét riêng của vị thần là quyền năng đi cùng sự không hoàn hảo. Thần biết làm mưa nhưng hay quên. Tính cách ấy được thể hiện bằng hậu quả khác nhau ở từng vùng: nơi khô hạn, nơi lụt lội. Nhân hoá vì thế không chỉ làm vị thần gần gũi mà còn đảm nhiệm việc giải thích sự bất thường của thời tiết. Nếu thần luôn làm đúng và đủ mọi việc thì mạch kể phía sau sẽ thiếu nguyên nhân. Chính hạn chế của nhân vật mở ra nhu cầu tìm thêm lực lượng trợ giúp.\n\nCuộc thi hoá rồng tiếp tục giải quyết vấn đề ấy bằng trí tưởng tượng. Ba đợt sóng tạo nên một điều kiện rõ ràng để phân biệt kết quả của các con vật. Cá rô chỉ qua một đợt, tôm qua hai đợt, còn cá chép vượt đủ ba. Sự tăng dần giúp người đọc theo dõi thử thách và chờ đợi kết quả. Chi tiết cá mọc vây, đuôi, râu, sừng rồi hoá rồng biến sự thành công thành một thay đổi hình thể. Kì tích ấy vừa gây chú ý vừa tạo mối nối hợp lí trong thế giới truyện: loài được chọn có khả năng phun mưa như Thần Mưa.\n\nBản kể gồm hai mạch nhưng không rời nhau. Mạch đầu nêu nhiệm vụ và khó khăn, mạch sau tìm cách bổ sung lực lượng. Người kể ngôi thứ ba có thể thuật cả hành động trên trời và sự việc ở sông biển, không bị giới hạn vào một nhân vật chứng kiến. Lời văn chủ yếu nối nguyên nhân với kết quả nên diễn biến khá rõ. Những hình ảnh như rồng hút nước, cá vượt sóng giúp các ý tưởng về tự nhiên không nằm ở lời giải thích trừu tượng.\n\nTừ câu chuyện, người đọc hôm nay có thể nghĩ đến trách nhiệm khi công việc của mình ảnh hưởng đến người khác, cũng như sự cần thiết của việc chia sẻ công việc. Hình tượng vượt sóng còn gợi tinh thần chuẩn bị và bền bỉ. Tuy nhiên, bài học ấy là một liên hệ từ truyện, không phải định luật cho mọi thành công trong đời sống. Giá trị của Thần Mưa nằm ở cách kể về một nhu cầu sống bằng hình tượng có quyền năng lẫn khuyết điểm. Truyện giữ lại dấu vết của trí tưởng tượng dân gian trước những biến động của tự nhiên.",
+    "extra": null,
+    "notice": ""
+  },
+  {
+    "number": 3,
+    "title": "Nữ thần Lúa",
+    "source": "S6",
+    "passage": "Sau một trận lụt lớn, Ngọc Hoàng sai nữ thần Lúa xuống nuôi sống những người còn lại. Nàng làm cho hạt giống nảy mầm, cây lúa kết bông. Khi chín, lúa tự về nhà; người cần ăn chỉ việc cho bông vào nồi là có cơm.\n\nMột hôm, cô gái nhà kia chưa quét sân, chưa mở kho thì lúa đã kéo về. Cô cuống lên, cáu giận và lấy chổi đập vào bông lúa. Nữ thần thấy sân bẩn, lại bị đối xử như vậy nên nổi giận. Từ đó nàng không cho lúa tự về nữa. Con người phải xuống ruộng lấy từng bông, rồi nghĩ ra liềm để gặt nhanh hơn. Muốn có gạo, họ còn phải phơi và xay giã; lúa không tự thành cơm như trước.\n\nCó khi nữ thần còn giận, khiến bông lúa không nảy nở hoặc chỉ có hạt lép. Người trần làm lễ cúng hồn Lúa sau mùa gặt, cũng có nơi gọi là cúng cơm mới. Trong ngày hội, người ta rước bông lúa để bày tỏ sự trân trọng nguồn lương thực.",
+    "questions": [
+      {
+        "stem": "Nữ thần được sai xuống sau sự việc nào?",
+        "choices": [
+          "Một trận lụt lớn.",
+          "Một vụ cháy cung điện.",
+          "Cuộc thi Vũ Môn.",
+          "Trời bị nứt do Cung Công."
+        ],
+        "answer": 0,
+        "evidence": "Sau một trận lụt lớn",
+        "explanation": "Bối cảnh mở đầu được nêu trực tiếp. Các phương án khác lấy từ truyện khác hoặc không có trong đoạn.",
+        "indicator": "Đ1",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Ai được giao nuôi sống người còn lại?",
+        "choices": [
+          "Quải.",
+          "Cá chép.",
+          "Nữ thần Lúa.",
+          "Thần Gió."
+        ],
+        "answer": 2,
+        "evidence": "sai nữ thần Lúa xuống nuôi sống",
+        "explanation": "Nữ thần Lúa là nhân vật nhận nhiệm vụ trung tâm.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Trước khi thần giận, lúa chín thế nào?",
+        "choices": [
+          "Phải chở bằng thuyền.",
+          "Tự về nhà.",
+          "Biến thành cát.",
+          "Không bao giờ kết bông."
+        ],
+        "answer": 1,
+        "evidence": "lúa tự về nhà",
+        "explanation": "Chi tiết được nêu trước biến cố cái chổi, không lấy trạng thái về sau thay vào.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Cô gái đã dùng vật gì đập vào bông lúa?",
+        "choices": [
+          "Liềm.",
+          "Cột đá.",
+          "Chân hương.",
+          "Chổi."
+        ],
+        "answer": 3,
+        "evidence": "lấy chổi đập",
+        "explanation": "Chổi xuất hiện ở biến cố; liềm là công cụ được nghĩ ra về sau.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Phong tục nào được nhắc ở cuối truyện?",
+        "choices": [
+          "Đánh trống cứu trăng.",
+          "Cúng hồn Lúa hoặc cúng cơm mới.",
+          "Thờ cá chép hoá rồng.",
+          "Lễ thi chọn người khiêng kiệu."
+        ],
+        "answer": 1,
+        "evidence": "làm lễ cúng hồn Lúa",
+        "explanation": "Đoạn cuối gọi tên phong tục, phù hợp yêu cầu nhận biết dấu vết văn hoá.",
+        "indicator": "Đ4",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Chi tiết nào là tưởng tượng kì ảo?",
+        "choices": [
+          "Người quét sân.",
+          "Người dùng liềm gặt.",
+          "Người phơi thóc.",
+          "Bông lúa cho vào nồi tự thành cơm."
+        ],
+        "answer": 3,
+        "evidence": "cho bông vào nồi là có cơm",
+        "explanation": "Tự thành cơm không qua chế biến là chi tiết vượt thực tế; các hoạt động khác có trong lao động thường ngày.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Biến cố cô gái đập chổi giữ vai trò gì?",
+        "choices": [
+          "Làm truyện chuyển sang kể về mưa.",
+          "Kết thúc mọi việc trồng lúa.",
+          "Nối trạng thái được ban sẵn với trạng thái phải lao động thu hoạch.",
+          "Chứng minh cô gái là thần."
+        ],
+        "answer": 2,
+        "evidence": "Từ đó nàng không cho lúa tự về nữa",
+        "explanation": "Quan hệ nguyên nhân, kết quả làm rõ lời giải thích công việc gặt và chế biến.",
+        "indicator": "Đ9",
+        "level": "Thông hiểu"
+      },
+      {
+        "stem": "Nhận định nào phù hợp nhất với bản kể?",
+        "choices": [
+          "Truyện gắn nguồn lương thực với niềm tin thiêng và sự trân trọng.",
+          "Truyện đưa ra kĩ thuật canh tác chính xác.",
+          "Truyện kết tội mọi phụ nữ.",
+          "Truyện khẳng định không cần lao động."
+        ],
+        "answer": 0,
+        "evidence": "bày tỏ sự trân trọng nguồn lương thực",
+        "explanation": "Lời giải thích và phong tục ở cuối hướng đến nguồn sống; không được suy rộng từ một nhân vật sang cả giới.",
+        "indicator": "Đ7",
+        "level": "Thông hiểu"
+      }
+    ],
+    "short": [
+      {
+        "stem": "Lí giải ý nghĩa chi tiết lúa không tự về nhà sau khi nữ thần giận.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Nêu sự thay đổi trước và sau."
+          },
+          {
+            "points": 0.25,
+            "text": "Gắn với việc phải gặt, phơi, xay giã."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu cách nhân hoá, quan hệ nguyên nhân – kết quả."
+          },
+          {
+            "points": 0.25,
+            "text": "Giải thích chủ đề nguồn sống và công sức, không chỉ kể lại."
+          }
+        ],
+        "sample": "Ban đầu lúa tự về nhà, nhưng sau hành động của cô gái, con người phải xuống ruộng thu hoạch rồi phơi và xay giã. Sự nổi giận của thần là nguyên nhân được hư cấu để giải thích thay đổi ấy. Nhân hoá biến quan hệ người với cây lúa thành quan hệ ứng xử. Chi tiết vì vậy vừa góp phần lí giải công việc nông nghiệp vừa gợi sự quý trọng hạt gạo và công sức làm ra nó.",
+        "indicators": [
+          "Đ9"
+        ]
+      },
+      {
+        "stem": "Từ bối cảnh đời sống trong truyện, vì sao hạt lúa được coi trọng? Em sẽ ứng xử với lương thực thế nào? Viết khoảng 5–7 câu.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Chỉ ra bối cảnh nông nghiệp và nhu cầu lương thực."
+          },
+          {
+            "points": 0.25,
+            "text": "Gắn chi tiết lúa nuôi người, việc gặt và chế biến."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu thái độ, hành động cụ thể."
+          },
+          {
+            "points": 0.25,
+            "text": "Có lí giải, không biến niềm tin thành kiến thức canh tác."
+          }
+        ],
+        "sample": "Trong đời sống nông nghiệp được kể, lúa là nguồn nuôi sống con người. Khi lúa không tự về, con người phải gặt, phơi rồi xay giã mới có gạo. Vì vậy, hạt cơm gắn với cả nhu cầu sinh tồn và công sức. Niềm tin vào nữ thần cho thấy vị trí quan trọng của cây lúa trong tâm thức cộng đồng. Với em, sự trân trọng có thể bắt đầu bằng việc lấy vừa đủ thức ăn và hạn chế bỏ thừa. Em cũng cần biết ơn người làm ra lương thực thay vì xem bữa ăn là điều tự nhiên có sẵn.",
+        "indicators": [
+          "Đ10",
+          "Đ12"
+        ]
+      }
+    ],
+    "outline": [
+      "Tóm tắt ngắn mạch ban lúa – va chạm – phải thu hoạch.",
+      "Chủ đề nguồn lương thực, công việc nông nghiệp và thái độ quý trọng.",
+      "Nhân hoá, chi tiết kì ảo, biến cố cái chổi và kết thúc giải thích tục lệ.",
+      "Liên hệ tiết kiệm lương thực có căn cứ, không kết tội phụ nữ hoặc người bận việc."
+    ],
+    "essay": "Nữ thần Lúa kể về cây lương thực bằng hình tượng một vị thần biết ban phát và biết giận. Qua sự thay đổi từ lúa tự về nhà đến việc con người phải gặt và làm ra gạo, truyện lí giải công việc nông nghiệp theo trí tưởng tượng dân gian. Câu chuyện đồng thời gợi sự trân trọng nguồn sống bằng những chi tiết gắn với sân nhà, bông lúa và chiếc chổi.\n\nSau trận lụt, nữ thần được giao nuôi sống con người. Lúa do nàng làm phép có thể tự về nhà và tự thành cơm. Khi cô gái chưa dọn sân, chưa mở kho mà lúa đã đến, cô cáu và dùng chổi đập vào bông. Nữ thần nổi giận, không cho lúa tự về nữa. Con người phải thu hoạch, chế biến; lễ cúng hồn Lúa ở cuối truyện nối nguồn lương thực với sinh hoạt tín ngưỡng.\n\nChủ đề của bản kể trước hết hiện ra qua trạng thái ban đầu rất thuận tiện. Hạt giống nảy mầm, lúa kết bông rồi tự tìm về nhà. Người chỉ cần cho bông vào nồi là có cơm. Chuỗi chi tiết kì ảo ấy hình dung một nguồn sống được trao sẵn, không đòi hỏi những công đoạn nhọc nhằn. Nó cho thấy vị trí thiết yếu của lúa: việc đầu tiên nữ thần phải lo sau tai hoạ là nuôi người. Trong thế giới truyện, cây lúa trở thành sự bảo đảm cho đời sống tiếp tục.\n\nBiến cố cái chổi làm thay đổi sự thuận tiện đó. Hành động của cô gái diễn ra trong một không gian nhỏ, khi công việc chuẩn bị chưa hoàn tất. Nữ thần giận vì sân bẩn và cách đối xử với bông lúa, rồi rút lại khả năng lúa tự về. Từ chuyện ứng xử trong một gia đình, người kể mở ra lời giải thích cho công việc chung của con người. Họ phải xuống ruộng, nghĩ ra liềm và làm những bước cần thiết để có gạo. Quan hệ nguyên nhân, kết quả ấy khiến việc lao động có một nguồn gốc có thể kể lại.\n\nNghệ thuật nhân hoá giữ vai trò quan trọng trong cách giải thích. Lúa biết đi; vị thần đại diện cho nguồn lương thực có cảm xúc và phản ứng như con người. Nhờ đó, quan hệ giữa người với cây trồng không còn chỉ là sử dụng một vật vô tri. Nó được hình dung như quan hệ cần sự chăm sóc và tôn trọng. Chiếc chổi vốn là vật dụng để dọn nhà lại trở thành dấu hiệu của sự va chạm. Sự gần gũi của vật dụng làm biến cố dễ nhớ, dù kết quả mà nó gây ra mang quy mô vượt xa một căn nhà.\n\nCốt truyện tổ chức theo hai trạng thái trước và sau cơn giận. Sự đối chiếu giúp người đọc nhận ra điều đã mất: lúa không còn về và thành cơm một cách dễ dàng. Các việc gặt, phơi, xay giã được đặt cạnh khả năng kì ảo trước đó, qua đó làm hiện lên công sức phía sau hạt gạo. Ở đoạn cuối, lễ cúng hồn Lúa và việc rước bông đưa lời giải thích sang bình diện văn hoá. Truyện không chỉ kể cây lúa có vai trò gì mà còn cho thấy cộng đồng dành cho nó niềm tin thiêng liêng.\n\nNgười kể ngôi thứ ba thuật lại cả hành động của cô gái lẫn phản ứng của nữ thần, tạo mạch diễn biến rõ. Lời kể không cần nhiều lời khen vẫn giúp người đọc thấy lương thực đáng quý. Tuy vậy, không nên biến sự việc của một cô gái thành lời kết tội mọi phụ nữ hoặc cho rằng bận việc là đáng trách. Trọng tâm phân tích cần giữ ở quan hệ giữa chi tiết, biến cố và lời giải thích của truyện.\n\nVới em, bản kể có giá trị ở cách nối một sinh hoạt rất nhỏ với vấn đề nguồn sống. Hình ảnh lúa tự về rồi không về nữa khiến công việc nông nghiệp trở nên dễ hình dung. Từ đó, em nghĩ đến việc dùng lương thực vừa đủ và trân trọng người lao động. Liên hệ ấy giúp câu chuyện có ý nghĩa trong đời sống hôm nay mà không thay lời giải thích khoa học về cây lúa bằng niềm tin thần thoại.",
+    "extra": null,
+    "notice": ""
+  },
+  {
+    "number": 4,
+    "title": "Cuộc tu bổ lại các giống vật / Mười hai Bà Mụ",
+    "source": "S7",
+    "passage": "Lúc đầu, Ngọc Hoàng tạo các giống vật nhưng vì thiếu nguyên liệu và vội vàng nên có con còn thiếu bộ phận. Về sau, người sai các thiên thần xuống sửa lại. Những con vật chưa đủ chân, cánh đều tìm đến xin bổ sung.\n\nKhi nguyên liệu gần hết, vịt và chó mới tới. Thiên thần thương chúng, bẻ chân ghế chắp vào chỗ chân còn thiếu và dặn khi ngủ phải co chân ấy lên, kẻo ẩm làm mục. Từ đó, người ta kể chó và vịt có thói quen co một chân khi ngủ.\n\nĐến lượt các loài chim nhỏ, vật liệu cũng không còn. Thiên thần lấy chân hương chắp cho chúng. Trước khi chim đi, thần dặn: “Khi đậu xuống, hãy thử chân cho vững rồi mới hạ mình.” Vì thế, người xưa giải thích rằng chim thường chới với, đặt chân thử trước khi đậu hẳn.",
+    "questions": [
+      {
+        "stem": "Ngọc Hoàng tạo muôn vật trong hoàn cảnh nào?",
+        "choices": [
+          "Năm có niên hiệu xác định.",
+          "Trong một kì thi chữ.",
+          "Sau khi đã có tàu vũ trụ.",
+          "Buổi đầu tạo các giống vật."
+        ],
+        "answer": 3,
+        "evidence": "Lúc đầu",
+        "explanation": "Bối cảnh là buổi tạo vật, không gắn một năm lịch sử cụ thể.",
+        "indicator": "Đ1",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Vì sao một số con vật còn thiếu bộ phận?",
+        "choices": [
+          "Vì chúng chủ động bỏ đi.",
+          "Thiếu nguyên liệu và làm vội.",
+          "Vì Quải ném cát.",
+          "Vì tất cả đều đang ngủ."
+        ],
+        "answer": 1,
+        "evidence": "vì thiếu nguyên liệu và vội vàng",
+        "explanation": "Hai nguyên nhân được nêu cùng nhau, không được giữ một ý rồi thay ý kia.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Chân vịt và chó được bổ sung bằng gì?",
+        "choices": [
+          "Chân hương.",
+          "Đá ngũ sắc.",
+          "Chân ghế.",
+          "Bông lúa."
+        ],
+        "answer": 2,
+        "evidence": "bẻ chân ghế chắp",
+        "explanation": "Chân hương được dùng cho chim nhỏ, không phải vịt và chó.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Vật liệu nào được dùng cho chim nhỏ?",
+        "choices": [
+          "Chân hương.",
+          "Chân ghế.",
+          "Cát.",
+          "Cành liễu."
+        ],
+        "answer": 0,
+        "evidence": "lấy chân hương chắp",
+        "explanation": "Thông tin thuộc đoạn cuối; phân biệt với vật liệu đoạn trước.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Vật dụng nào cho thấy dấu vết sinh hoạt, thờ cúng?",
+        "choices": [
+          "Cỗ xe mặt trời.",
+          "Ghế và chân hương.",
+          "Trống đồng không được nêu.",
+          "Kiếm và giày của Tê-dê."
+        ],
+        "answer": 1,
+        "evidence": "chân hương",
+        "explanation": "Chân ghế gợi sinh hoạt, chân hương gợi thờ cúng. Không cần gán chúng cho một niên đại cụ thể.",
+        "indicator": "Đ4",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Câu “Khi đậu xuống…” là lời của ai?",
+        "choices": [
+          "Thiên thần nói với chim.",
+          "Người kể nói với người đọc.",
+          "Chó nói với vịt.",
+          "Ngọc Hoàng nói với Quải."
+        ],
+        "answer": 0,
+        "evidence": "thần dặn:",
+        "explanation": "Lời dẫn ngay trước ngoặc kép xác định người nói. Đại từ trong thoại không đổi ngôi kể toàn văn.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Chi tiết dùng chân ghế và chân hương có hiệu quả nào?",
+        "choices": [
+          "Cung cấp phương pháp chữa thú có thật.",
+          "Khẳng định chim là đồ gỗ.",
+          "Chỉ tạo cảnh chiến tranh.",
+          "Tạo lời giải thích kì ảo, hóm hỉnh từ vật quen thuộc."
+        ],
+        "answer": 3,
+        "evidence": "kẻo ẩm làm mục",
+        "explanation": "Tính chất vật liệu được đưa vào đặc điểm con vật, tạo logic tưởng tượng chứ không phải y học.",
+        "indicator": "Đ9",
+        "level": "Thông hiểu"
+      },
+      {
+        "stem": "Thiên thần được khắc hoạ chủ yếu qua điều gì?",
+        "choices": [
+          "Một đoạn độc thoại dài.",
+          "Lời tự giới thiệu nghề nghiệp.",
+          "Hành động tìm cách bù đắp bộ phận còn thiếu.",
+          "Cuộc thi viết chữ."
+        ],
+        "answer": 2,
+        "evidence": "Thiên thần thương chúng",
+        "explanation": "Tình cảm thể hiện bằng hành động ứng biến giúp con vật; các hình thức còn lại không có.",
+        "indicator": "Đ6",
+        "level": "Thông hiểu"
+      }
+    ],
+    "short": [
+      {
+        "stem": "Lí giải tác dụng của việc xen lời dặn của thiên thần vào lời kể.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Xác định lời trực tiếp của thần."
+          },
+          {
+            "points": 0.25,
+            "text": "Dẫn lời thử chân hoặc co chân."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu tác dụng làm rõ sự chăm lo, tính cách."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu vai trò chuẩn bị lời giải thích tập tính ở sau."
+          }
+        ],
+        "sample": "Lời dặn đặt vào lời nói trực tiếp khiến thiên thần hiện lên qua cách chăm lo cho các con vật. Việc nhắc chim thử chân vừa hợp tình huống chắp chân tạm, vừa chuẩn bị cho lời giải thích tập tính chới với ở cuối. Nhờ xen lời nhân vật, mạch kể không chỉ thông báo sự việc mà có một cảnh giao tiếp cụ thể, tạo giọng kể gần gũi.",
+        "indicators": [
+          "Đ8"
+        ]
+      },
+      {
+        "stem": "Việc các thần sửa thiếu sót gợi em suy nghĩ gì về trách nhiệm khi mắc lỗi? Viết khoảng 5–7 câu.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Nêu quan điểm về nhận và sửa lỗi."
+          },
+          {
+            "points": 0.25,
+            "text": "Dẫn việc tạo vội và tu bổ."
+          },
+          {
+            "points": 0.25,
+            "text": "Lí giải trách nhiệm bằng hậu quả của lỗi."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu một hành động thực tế, diễn đạt rõ."
+          }
+        ],
+        "sample": "Em nghĩ trách nhiệm khi mắc lỗi phải thể hiện bằng việc sửa chữa. Trong truyện, công việc tạo vật vội vàng để lại những thiếu sót, nên các thần phải tìm cách bổ sung. Người chịu tác động của sai sót cần sự khắc phục chứ không chỉ lời xin lỗi. Khi làm bài nhóm, nếu em ghi sai dữ liệu, em cần báo ngay và sửa phần liên quan. Em cũng phải kiểm tra lại cách làm để hạn chế lặp lỗi. Bài học ấy giúp em nhìn trách nhiệm như một hành động cụ thể.",
+        "indicators": [
+          "Đ10",
+          "Đ11"
+        ]
+      }
+    ],
+    "outline": [
+      "Giới thiệu Mười hai Bà Mụ theo văn bản riêng của phần Viết.",
+      "Phân tích việc nặn người và cách hình dung sự chăm nom trẻ.",
+      "Lối kể nêu nhiều cách truyền lại; không gán một thuyết thành lịch sử.",
+      "Đánh giá hình tượng bàn tay khéo và trách nhiệm chung; không suy diễn người khuyết tật kém giá trị."
+    ],
+    "essay": "Mười hai Bà Mụ hình dung sự ra đời và trưởng thành ban đầu của con người như công việc của những bàn tay khéo léo. Trong bản kể, Ngọc Hoàng giao việc nặn người cho mười hai nữ thần, còn lời kể ghi nhận nhiều cách lưu truyền về nhiệm vụ của các bà. Truyện có sức gợi ở cách dùng hoạt động tạo tác quen thuộc để trả lời một câu hỏi lớn về con người.\n\nSau khi thế giới được tạo lập, Ngọc Hoàng dùng phần chất tinh tuý để nặn người. Công việc được giao cho mười hai nữ thần khéo tay. Có cách kể cho rằng mỗi bà phụ trách một phần, có cách lại kể các bà làm chung. Điểm gặp nhau là mỗi người khi ra đời đều được các bà chăm nom hình hài, dạy nói và cười. Trách nhiệm về những chỗ chưa hoàn chỉnh cũng được kể là trách nhiệm chung.\n\nChủ đề suy nguyên trước hết thể hiện ở hành động nặn người. Một sự sống phức tạp được hình dung như sản phẩm có vật liệu và người thực hiện. Phần chất tinh tuý cho thấy vị trí được coi trọng của con người trong thế giới truyện. Từ kinh nghiệm quan sát vật liệu và bàn tay tạo tác, người xưa hình thành một lời giải thích có thể kể lại về nguồn gốc của mình. Chi tiết ấy không cần được đọc như kiến thức sinh học mà như dấu vết của cách nhận thức bằng hình tượng.\n\nĐiều làm hình tượng Mười hai Bà Mụ gần gũi là công việc chăm nom cụ thể. Các bà nắn tai, mắt, chân tay rồi dạy nói, dạy cười. Con người trong bản kể không chỉ có hình thể mà còn cần những khả năng giao tiếp đầu đời. Chuỗi việc nhỏ khiến quyền năng của thần hiện ra qua sự tỉ mỉ. Thay vì chỉ có một mệnh lệnh tạo ra muôn loài, truyện chú ý đến từng bộ phận và cử chỉ. Hình dung ấy có thể gợi cho người đọc sự chăm sóc mà một đứa trẻ cần nhận khi bước vào đời sống.\n\nNghệ thuật kể còn đáng chú ý ở việc giữ lại nhiều cách truyền. Các cụm có thuyết kể và có người lại kể cho thấy lời kể không cố xoá khác biệt để tạo ra một bản lịch sử duy nhất. Một cách hình dung thiên về phân công, cách kia thiên về làm chung; chúng vẫn gặp nhau ở nhiệm vụ chăm nom con người. Nhờ thế, hình tượng tập thể có độ mở của truyện lưu truyền. Người đọc được biết có những cách giải thích khác nhau, đồng thời vẫn theo được nội dung chung.\n\nCốt truyện không phát triển thành một xung đột gay gắt. Nó chủ yếu trình bày nguồn gốc và nhiệm vụ của các nữ thần. Vì vậy, khi đánh giá không nên áp tiêu chí kết thúc bất ngờ hoặc diễn biến tâm lí phức tạp của truyện hiện đại. Sức gợi nằm ở các chi tiết tạo hình và ý niệm trách nhiệm chung. Người kể ngôi thứ ba vừa thuật vừa đưa ra những cách kể khác nhau, phù hợp với việc giới thiệu sự tích. Sự giản dị của hành động nặn và dạy giúp câu chuyện về nguồn gốc không trở nên quá xa kinh nghiệm gia đình.\n\nKhi liên hệ tác phẩm với hiện tại, em chú ý đến thái độ chăm sóc sự sống. Mỗi người cần được đón nhận và hỗ trợ để phát triển khả năng của mình. Những cách giải thích cũ về chỗ chưa hoàn chỉnh của cơ thể không thể dùng để đánh giá phẩm giá một người. Điều người đọc có thể giữ lại là sự quan tâm đến từng đứa trẻ và trách nhiệm không bỏ mặc ai. Với hình tượng những nữ thần khéo tay cùng lối kể ghi nhận nhiều thuyết, Mười hai Bà Mụ cho thấy trí tưởng tượng dân gian đã tìm đến hoạt động chăm nom để hình dung về con người.",
+    "extra": {
+      "title": "Mười hai Bà Mụ",
+      "source": "S8",
+      "passage": "\nKhi các việc tạo lập thế giới đã xong, Ngọc Hoàng nghĩ đến muôn loài. Người dùng chất còn lại để nặn các giống vật, rồi chọn phần chất tinh tuý để nặn người. Việc nặn người được giao cho mười hai nữ thần khéo tay, dân gian gọi là Mười hai Bà Mụ.\n\nCó thuyết kể mỗi bà đảm nhiệm một việc: nắn tai, nắn mắt, nắn chân tay hoặc dạy nói, dạy cười. Có người lại kể các bà làm chung chứ không chia việc riêng. Dù theo cách kể nào, mỗi người ra đời cũng được hình dung đã qua bàn tay các bà chăm nom. Những chỗ chưa hoàn chỉnh là trách nhiệm chung của cả mười hai bà, không chỉ của một người.\n"
+    },
+    "notice": "Luyện chuyển giao kĩ năng: Cuộc tu bổ lại các giống vật có trong Ngữ văn 10 Chân trời sáng tạo. Không coi đây là ngữ liệu ngoài mọi SGK."
+  },
+  {
+    "number": 5,
+    "title": "Ông Đùng, bà Đùng / Nữ Oa vá trời",
+    "source": "S9",
+    "passage": "Ngày xưa, ở Mường Bi có đôi vợ chồng khổng lồ được gọi là ông Đùng, bà Đùng. Thân hình họ cao lớn vượt những ngọn núi. Khi ấy, mặt đất còn lồi lõm, cây mọc chằng chịt, nước tràn khắp nơi. Hai người nhổ cây và san đất để dân có nơi ở, nơi cày cấy.\n\nThấy nước vẫn lênh láng, ông Đùng bàn với vợ đào một đường dẫn nước. Ông bới đất đi trước, bà vét theo sau. Họ làm cả ngày lẫn đêm và vừa làm vừa chuyện trò. Nước theo đường đào chảy qua đồi núi về xuôi thành sông Đà.\n\nKhi nhìn lại, hai người thấy lòng sông không thẳng như dự định. Việc đào trong đêm và những chỗ chưa vét hết làm dòng nước uốn quanh; đá đất còn lại tạo thành thác ghềnh. Người kể dùng công việc của đôi vợ chồng khổng lồ để giải thích dòng sông và địa hình quen thuộc của xứ Mường.",
+    "questions": [
+      {
+        "stem": "Câu chuyện gắn với vùng nào?",
+        "choices": [
+          "Đỉnh Ô-lim-pơ.",
+          "Mường Bi và sông Đà.",
+          "Cửa Vũ Môn.",
+          "Một thành phố không tên ở châu Âu."
+        ],
+        "answer": 1,
+        "evidence": "ở Mường Bi",
+        "explanation": "Địa danh xác định không loại trừ lớp hình tượng thần thoại của người khổng lồ kiến tạo địa hình.",
+        "indicator": "Đ1",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Nhân vật trung tâm là ai?",
+        "choices": [
+          "Ông Đùng và bà Đùng.",
+          "Cung Công và Chúc Dung.",
+          "Quải và Mặt Trăng.",
+          "Mười hai bà."
+        ],
+        "answer": 0,
+        "evidence": "ông Đùng, bà Đùng",
+        "explanation": "Cả hai cùng tham gia công việc trong toàn đoạn.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Công việc nào được thực hiện trước việc đào đường nước?",
+        "choices": [
+          "Vá trời.",
+          "Thi vượt sóng.",
+          "Nhổ cây và san đất.",
+          "Dạy trẻ nói cười."
+        ],
+        "answer": 2,
+        "evidence": "nhổ cây và san đất",
+        "explanation": "Chuỗi việc đầu tạo nơi sống, sau đó mới dẫn nước.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Hai người phân công đào đường nước thế nào?",
+        "choices": [
+          "Bà chỉ đứng xem.",
+          "Ông nghỉ, bà làm hết.",
+          "Cả hai nhờ người khiêng kiệu.",
+          "Ông bới đất đi trước, bà vét theo sau."
+        ],
+        "answer": 3,
+        "evidence": "Ông bới đất đi trước, bà vét theo sau",
+        "explanation": "Văn bản cho biết cả hai đều làm, mỗi người ở một vị trí.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Dấu vết sinh kế nào được nêu trực tiếp?",
+        "choices": [
+          "Ở và cày cấy.",
+          "Thi khoa cử.",
+          "Luyện đá thành keo.",
+          "Mở cuộc thi hoá rồng."
+        ],
+        "answer": 0,
+        "evidence": "nơi ở, nơi cày cấy",
+        "explanation": "Công việc san đất gắn trực tiếp nhu cầu cư trú, nông nghiệp.",
+        "indicator": "Đ4",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Chi tiết nào thể hiện tầm vóc phi thường?",
+        "choices": [
+          "Hai người chuyện trò.",
+          "Nước chảy về xuôi.",
+          "Mặt đất có cây.",
+          "Thân hình vượt những ngọn núi."
+        ],
+        "answer": 3,
+        "evidence": "cao lớn vượt những ngọn núi",
+        "explanation": "Đây là sự phóng đại hình thể, khác những việc có thể gặp trong đời sống.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Sự phối hợp hai người giúp thể hiện điều gì?",
+        "choices": [
+          "Chỉ một người xứng đáng có công.",
+          "Mọi việc không cần cố gắng.",
+          "Sức lao động cùng nhau làm nên không gian sống.",
+          "Họ không quan tâm cộng đồng."
+        ],
+        "answer": 2,
+        "evidence": "Họ làm cả ngày lẫn đêm",
+        "explanation": "Hành động phối hợp và mục đích vì dân hỗ trợ nhận định; không có căn cứ tách công một người.",
+        "indicator": "Đ6",
+        "level": "Thông hiểu"
+      },
+      {
+        "stem": "Đoạn cuối có vai trò gì?",
+        "choices": [
+          "Phủ nhận mọi việc trước đó.",
+          "Nối việc đào với sự uốn quanh, thác ghềnh của sông.",
+          "Chuyển hẳn sang chuyện trăng.",
+          "Nêu tuổi thật của hai người."
+        ],
+        "answer": 1,
+        "evidence": "đá đất còn lại tạo thành thác ghềnh",
+        "explanation": "Kết thúc làm rõ chức năng cắt nghĩa địa hình; không phải thông tin địa chất đã kiểm chứng.",
+        "indicator": "Đ9",
+        "level": "Thông hiểu"
+      }
+    ],
+    "short": [
+      {
+        "stem": "Nêu chủ đề của đoạn kể và hai căn cứ để xác định.",
+        "rubric": [
+          {
+            "points": 0.5,
+            "text": "Nêu việc lí giải địa hình, sông Đà gắn lao động giúp dân."
+          },
+          {
+            "points": 0.25,
+            "text": "Căn cứ hành động san đất, dẫn nước."
+          },
+          {
+            "points": 0.25,
+            "text": "Căn cứ kết thúc giải thích dòng quanh và thác ghềnh."
+          }
+        ],
+        "sample": "Đoạn kể lí giải sự hình thành dòng sông và địa hình xứ Mường qua công việc của đôi vợ chồng khổng lồ, đồng thời gợi sự quý trọng lao động vì cộng đồng. Căn cứ thứ nhất là việc họ san đất, đào đường dẫn nước cho dân ở và cày cấy. Căn cứ thứ hai là đoạn cuối gắn chỗ chưa vét hết với dòng quanh và thác ghềnh của sông Đà.",
+        "indicators": [
+          "Đ7"
+        ]
+      },
+      {
+        "stem": "Từ việc cả ông và bà cùng tạo lập nơi sống, em suy nghĩ gì về cách ghi nhận đóng góp trong việc chung? Viết khoảng 5–7 câu.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Nêu cách ghi nhận công bằng."
+          },
+          {
+            "points": 0.25,
+            "text": "Dẫn việc ông bới, bà vét."
+          },
+          {
+            "points": 0.25,
+            "text": "Lí giải đóng góp khác nhau vẫn cần thiết."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu cách ứng xử cụ thể, không suy diễn quá văn bản."
+          }
+        ],
+        "sample": "Em nghĩ việc chung cần ghi nhận đóng góp của từng người. Trong đoạn kể, ông Đùng bới đất đi trước, bà Đùng vét theo sau; cả hai cùng làm nên đường nước. Công việc khác nhau nhưng cùng cần cho kết quả. Khi học nhóm, em không nên chỉ khen người thuyết trình mà quên người tìm tư liệu và kiểm tra bài. Em sẽ ghi rõ nhiệm vụ và cảm ơn các bạn theo phần đã làm. Cách ghi nhận ấy giúp mọi người thấy công sức của mình được tôn trọng.",
+        "indicators": [
+          "Đ10",
+          "Đ13"
+        ]
+      }
+    ],
+    "outline": [
+      "Phân tích đúng văn bản Nữ Oa ở phần Viết, không nhầm với Ông Đùng.",
+      "Tình thế tai hoạ, chuỗi hành động vá trời cứu người.",
+      "Hình tượng lao động tạo tác, vật liệu quen và quy mô vũ trụ.",
+      "Đánh giá tình thương, cách tổ chức trước – sau; không thêm cái chết của Nữ Oa."
+    ],
+    "essay": "Nữ Oa vá trời hình dung việc cứu thế giới bằng những hành động tạo tác cụ thể: luyện đá, vá chỗ thủng, dựng cột và ngăn nước. Bản kể đặt nữ thần trước tai hoạ do xung đột của các thần gây ra. Qua cách giải quyết ấy, truyện gợi khát vọng khôi phục cuộc sống yên ổn và xây dựng hình tượng một vị thần có sức mạnh gắn với lòng thương người.\n\nCâu chuyện mở ra khi con người đang sống bình yên. Cung Công đánh nhau với Chúc Dung, thua trận rồi đập đầu vào núi Bất Chu, khiến cột trời gãy. Trời rách, nước lũ và lửa đe doạ sự sống. Thấy con người khốn khổ, Nữ Oa luyện đá ngũ sắc vá trời, dựng chân rùa chống đỡ và dùng tro lau ngăn lũ. Khi công việc hoàn thành, mặt đất yên ổn trở lại, con người tưởng nhớ công lao của bà.\n\nChủ đề của truyện hiện rõ qua tình thế đối lập trước và sau tai hoạ. Sự bình yên bị phá vỡ bởi một cuộc xung đột, còn việc khôi phục đòi hỏi nhiều công việc nối tiếp. Trong thế giới thần thoại, thiên nhiên được hình dung như một cấu trúc có thể đổ vỡ khi cột chống gãy. Cách hình dung ấy cụ thể hoá nỗi sợ trước những biến động có thể đe doạ toàn bộ nơi sống. Tai hoạ không chỉ xảy đến cho một người nên hành động cứu giúp cũng mang ý nghĩa đối với muôn người.\n\nNữ Oa được khắc hoạ qua sự gắn bó giữa tình thương và việc làm. Bà nhìn thấy con người khốn khổ rồi quyết cứu họ, không dừng ở lời an ủi. Đá phải được luyện, chỗ thủng phải được vá và nước lũ phải được chặn. Chuỗi hành động cho thấy sức mạnh của nhân vật được sử dụng để gìn giữ sự sống. Khác với hành động nóng giận phá cột trời, công việc của bà mang hướng sửa chữa và nâng đỡ. Sự đối chiếu làm rõ giá trị của quyền năng khi nó phục vụ người đang chịu nạn.\n\nNét nghệ thuật nổi bật là sự kết hợp giữa quy mô vũ trụ và kinh nghiệm lao động. Vá vốn là việc sửa một vật bị rách, dựng cột là cách chống đỡ, còn luyện vật liệu gợi công việc chế tác. Đưa những hoạt động ấy lên bầu trời, người kể tạo ra các kì tích vừa lạ vừa có điểm tựa quen thuộc. Đá ngũ sắc, chân rùa và tro lau trở thành vật liệu giải quyết từng loại nguy cơ. Những chi tiết ấy giúp sức mạnh của nữ thần có hình ảnh rõ ràng thay vì chỉ được gọi chung là vô hạn.\n\nCốt truyện đi theo mạch bình yên, tai hoạ, hành động cứu giúp rồi trở lại bình yên. Trật tự đó làm mỗi việc Nữ Oa thực hiện đều hướng tới một vấn đề đã đặt ra. Người kể giấu mình có thể theo dõi sự việc ở trời và đất, thuật lại hành động của nhiều vị thần. Ngôn ngữ tập trung vào các động từ tạo tác khiến nhịp kể hướng về công việc. Kết thúc có việc tưởng nhớ công ơn nối nhân vật cứu thế với đời sống tinh thần của cộng đồng trong thế giới truyện.\n\nĐọc hôm nay, em trân trọng hình tượng sức mạnh biết sửa chữa hơn là phá huỷ. Câu chuyện có thể gợi ý thức giúp người gặp nạn và trách nhiệm với nơi sống chung. Tuy nhiên, các việc luyện đá vá trời hay dùng chân rùa chống trời thuộc trí tưởng tượng, không phải phương pháp ứng phó thiên tai thực tế. Giá trị của truyện nằm ở cách tạo hình khát vọng cứu người bằng chuỗi hành động cụ thể. Nhờ đó, tình thương của Nữ Oa được người đọc nhận ra qua những việc bà làm để sự sống tiếp tục.",
+    "extra": {
+      "title": "Nữ Oa vá trời",
+      "source": "S10",
+      "passage": "\nNgười Trung Hoa kể Nữ Oa là vị thần sinh ra loài người. Khi con người đang sống bình yên, Cung Công và Chúc Dung đánh nhau. Cung Công thua, đập đầu vào núi Bất Chu làm cột chống trời gãy. Trời rách, mặt đất rung chuyển, lửa cháy và nước lũ tràn ra.\n\nNữ Oa thấy con người khốn khổ nên quyết cứu họ. Bà gom đá ngũ sắc, luyện thành chất keo để vá những chỗ thủng. Bà lấy bốn chân của rùa khổng lồ dựng ở bốn phương làm cột chống trời. Bà còn đốt lau thành tro để chặn nước lũ, trừ con rồng đen và xua thú dữ. Sau những công việc ấy, mặt đất yên ổn trở lại. Con người tưởng nhớ công lao của bà.\n"
+    },
+    "notice": "Luyện mở rộng: Ông Đùng, bà Đùng là truyện cổ có lớp hình tượng thần thoại, được các nguồn phân loại khác nhau và đã xuất hiện ở cấp tiểu học. Không dùng như bằng chứng về một ngữ liệu hoàn toàn chưa học."
+  },
+  {
+    "number": 6,
+    "title": "Prô-mê-tê và loài người",
+    "source": "S11",
+    "passage": "Thuở thế giới còn vắng vẻ, hai anh em Prô-mê-tê và Ê-pi-mê-tê được giao việc tạo các loài. Ê-pi-mê-tê nhận làm trước. Thần dùng đất và nước nặn muôn vật, rồi cho mỗi loài một khả năng tự vệ: loài có nanh vuốt, loài chạy nhanh, loài có cánh hoặc sức mạnh. Khi phân phát xong, thần mới nhận ra vẫn còn con người chưa được nhận khả năng nào.\n\nPrô-mê-tê đến xem và thấy con người trần trụi, yếu ớt giữa những loài đã có cách tự vệ. Thần sửa lại hình người theo dáng các vị thần, cho đứng thẳng bằng hai chân để hai tay có thể làm việc. Sau đó, Prô-mê-tê lên cỗ xe của thần Mặt Trời lấy lửa trao cho loài người.\n\nTừ đây, con người có dáng đứng và ngọn lửa để bước vào đời sống. Bản kể đặt việc tạo muôn loài bên cạnh việc bù đắp cho con người, bằng cách hình dung đặc điểm và khả năng của các loài như những phần quà được phân phát.",
+    "questions": [
+      {
+        "stem": "Thời gian của truyện được giới thiệu thế nào?",
+        "choices": [
+          "Năm một thành phố được lập.",
+          "Một ngày có ngày tháng rõ.",
+          "Thuở thế giới còn vắng vẻ.",
+          "Thời gian ở tương lai năm 2100."
+        ],
+        "answer": 2,
+        "evidence": "Thuở thế giới còn vắng vẻ",
+        "explanation": "Thời gian khởi đầu được hình dung chung, không có niên đại lịch sử.",
+        "indicator": "Đ1",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Ai nhận làm việc tạo các loài trước?",
+        "choices": [
+          "Prô-mê-tê.",
+          "Quải.",
+          "Ngọc Hoàng.",
+          "Ê-pi-mê-tê."
+        ],
+        "answer": 3,
+        "evidence": "Ê-pi-mê-tê nhận làm trước",
+        "explanation": "Không nhầm người nhận làm trước với người sửa thiếu sót về sau.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Vật liệu tạo các loài là gì?",
+        "choices": [
+          "Đất và nước.",
+          "Đá ngũ sắc.",
+          "Chân hương.",
+          "Tro lau."
+        ],
+        "answer": 0,
+        "evidence": "dùng đất và nước",
+        "explanation": "Đây là vật liệu được nêu trực tiếp, không phải vật của các truyện khác.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Loài nào bị bỏ sót khi phân phát khả năng?",
+        "choices": [
+          "Loài có cánh.",
+          "Con người.",
+          "Loài chạy nhanh.",
+          "Loài có nanh vuốt."
+        ],
+        "answer": 1,
+        "evidence": "con người chưa được nhận khả năng nào",
+        "explanation": "Ba nhóm còn lại đã được nhận cách tự vệ.",
+        "indicator": "Đ2",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Prô-mê-tê lấy lửa từ đâu trong bản kể?",
+        "choices": [
+          "Bếp của cô gái.",
+          "Núi Bất Chu.",
+          "Cửa Vũ Môn.",
+          "Cỗ xe của thần Mặt Trời."
+        ],
+        "answer": 3,
+        "evidence": "lên cỗ xe của thần Mặt Trời lấy lửa",
+        "explanation": "Cần đọc đúng dị bản in trong đề; không tự đổi sang chi tiết từ bản khác.",
+        "indicator": "Đ3",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Những yếu tố nào gợi mối quan tâm đến lao động và sáng tạo văn hoá?",
+        "choices": [
+          "Chỉ có tên hai anh em.",
+          "Hai tay làm việc và việc trao lửa.",
+          "Ngày tháng chính xác.",
+          "Cuộc thi khiêng kiệu."
+        ],
+        "answer": 1,
+        "evidence": "hai tay có thể làm việc",
+        "explanation": "Khả năng dùng tay và lửa là những yếu tố được nêu, không phải mốc thời gian hoặc trò chơi.",
+        "indicator": "Đ4",
+        "level": "Nhận biết"
+      },
+      {
+        "stem": "Đặt thú có cách tự vệ cạnh người trần trụi có tác dụng gì?",
+        "choices": [
+          "Làm nổi bật tình thế cần được bù đắp của con người.",
+          "Chứng minh con người không thể tồn tại sau đó.",
+          "Xoá vai trò Prô-mê-tê.",
+          "Chỉ để kể số lượng loài."
+        ],
+        "answer": 0,
+        "evidence": "con người trần trụi, yếu ớt",
+        "explanation": "Tương phản tạo nguyên nhân cho việc sửa dáng và trao lửa. Đề không kết thúc ở sự bất lực.",
+        "indicator": "Đ9",
+        "level": "Thông hiểu"
+      },
+      {
+        "stem": "Vai trò của Prô-mê-tê trong mạch truyện là gì?",
+        "choices": [
+          "Lặp nguyên việc đã làm mà không sửa gì.",
+          "Ngăn con người dùng tay.",
+          "Nhận ra thiếu sót và giúp con người có khả năng bước vào đời sống.",
+          "Chỉ quan sát rồi bỏ đi."
+        ],
+        "answer": 2,
+        "evidence": "Thần sửa lại hình người",
+        "explanation": "Các hành động sửa và trao cho thấy vị thần là nhân vật giải quyết tình thế.",
+        "indicator": "Đ6",
+        "level": "Thông hiểu"
+      }
+    ],
+    "short": [
+      {
+        "stem": "Phân tích vai trò của chi tiết trao lửa trong bản kể.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Nêu hành động Prô-mê-tê lấy và trao lửa."
+          },
+          {
+            "points": 0.25,
+            "text": "Gắn với tình thế người chưa có khả năng tự vệ."
+          },
+          {
+            "points": 0.25,
+            "text": "Giải thích ý nghĩa lửa như yếu tố giúp con người tạo dựng đời sống."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu chức năng nối thần thoại nguồn gốc với sáng tạo văn hoá."
+          }
+        ],
+        "sample": "Prô-mê-tê lấy lửa sau khi nhận ra con người yếu ớt và sửa lại dáng người. Ngọn lửa là một phần bù đắp cho tình thế thiếu khả năng ban đầu. Chi tiết này cho phép liên tưởng đến năng lực tạo dựng đời sống và làm việc của con người. Nó cũng khiến truyện không dừng ở việc nặn hình mà mở sang việc trao một phương tiện của văn hoá.",
+        "indicators": [
+          "Đ6",
+          "Đ9"
+        ]
+      },
+      {
+        "stem": "Việc Prô-mê-tê xem lại công việc của người em tác động đến suy nghĩ của em về kiểm tra và hỗ trợ nhau thế nào? Viết khoảng 5–7 câu.",
+        "rubric": [
+          {
+            "points": 0.25,
+            "text": "Nêu tác động đối với suy nghĩ bản thân."
+          },
+          {
+            "points": 0.25,
+            "text": "Gắn hành động xem lại và phát hiện bỏ sót."
+          },
+          {
+            "points": 0.25,
+            "text": "Lí giải hỗ trợ là sửa thiếu sót, không chỉ trách móc."
+          },
+          {
+            "points": 0.25,
+            "text": "Nêu việc có thể làm, diễn đạt rõ."
+          }
+        ],
+        "sample": "Em thấy kiểm tra lại công việc có thể là cách hỗ trợ nhau. Prô-mê-tê xem việc người em làm và nhận ra con người bị bỏ sót. Thần tìm cách bù đắp thay vì chỉ nêu lỗi. Điều ấy khiến em nghĩ việc góp ý cần hướng đến kết quả chung. Khi làm bài nhóm, em sẽ đọc chéo phần của bạn và chỉ rõ chỗ cần sửa. Nếu em bị góp ý, em cũng cần xem bằng chứng trước khi tự ái. Sự hỗ trợ như vậy giúp cả nhóm giảm những sai sót không ai cố ý gây ra.",
+        "indicators": [
+          "Đ11",
+          "Đ13"
+        ]
+      }
+    ],
+    "outline": [
+      "Giới thiệu chủ đề tạo loài và bù đắp cho con người.",
+      "Hai anh em: phân phát chưa đủ, kiểm tra và sửa; không thêm hình phạt từ truyện khác.",
+      "Tương phản người – thú; dáng đứng, bàn tay, ngọn lửa.",
+      "Đánh giá cách cắt nghĩa nguồn gốc bằng lao động và tạo tác."
+    ],
+    "essay": "Prô-mê-tê và loài người kể về nguồn gốc các loài bằng hình ảnh những vị thần tạo tác và phân phát khả năng. Trong bản kể, con người ban đầu bị bỏ sót rồi được Prô-mê-tê sửa dáng, cho đứng thẳng và trao lửa. Sự chuyển biến ấy làm nổi bật mối quan tâm đến khả năng sống và làm việc của con người, đồng thời cho thấy cách thần thoại gắn nguồn gốc tự nhiên với sáng tạo văn hoá.\n\nMạch truyện bắt đầu khi Ê-pi-mê-tê nhận nhiệm vụ tạo các loài. Sau khi nặn bằng đất và nước, thần ban những khả năng tự vệ khác nhau nhưng quên phần con người. Prô-mê-tê đến kiểm tra, thấy người trần trụi giữa muôn vật đã có cách tự vệ. Thần sửa lại hình thể, cho người đứng bằng hai chân để hai tay làm việc, rồi lấy lửa từ cỗ xe thần Mặt Trời trao xuống. Kết quả ấy giải quyết tình thế thiếu sót được đặt ra từ đầu.\n\nChủ đề về con người hiện lên rõ nhờ sự tương phản với các loài khác. Muôn vật được nhận nanh vuốt, tốc độ, cánh hoặc sức mạnh; mỗi loài có một cách bảo vệ mình. Trong khi đó, con người chưa được ban khả năng nào. Cách kể phân phát quà cụ thể hoá sự khác nhau giữa các loài theo quan sát của người xưa. Nó đồng thời tạo ra một tình thế cần thay đổi, khiến người đọc chờ xem con người sẽ được giúp đỡ bằng cách nào.\n\nPrô-mê-tê không giải quyết bằng việc trao thêm đúng một thứ nanh hay vuốt. Thần sửa dáng người để đứng thẳng, nhờ đó hai tay có thể làm việc. Đây là chi tiết quan trọng vì khả năng của con người được gắn với hành động tạo dựng. Hình thể trong bản kể không chỉ để nhìn mà liên quan đến cách sống. Trí tưởng tượng dân gian dùng một sự sửa chữa có chủ ý của thần để cắt nghĩa đặc điểm vốn làm người xưa chú ý khi nhìn vào chính mình.\n\nNgọn lửa tiếp tục mở rộng ý nghĩa của sự bù đắp. Sau dáng đứng và bàn tay, người nhận một yếu tố có thể giúp bước vào đời sống văn hoá. Bản kể không liệt kê mọi công dụng của lửa, nên khi phân tích chỉ nên nêu ý nghĩa từ vị trí của chi tiết trong mạch truyện. Lửa đến sau khi tình thế yếu ớt được nhận ra và là phần quan trọng trong kết quả giúp đỡ. Vì vậy, việc trao lửa nối câu chuyện tạo hình với khả năng làm việc, xây dựng đời sống của con người.\n\nHai nhân vật thần được khắc hoạ qua hai cách thực hiện nhiệm vụ. Ê-pi-mê-tê có quyền năng tạo vật nhưng vẫn bỏ sót; Prô-mê-tê nhìn lại và sửa chữa. Nét hạn chế khiến thế giới thần không chỉ có sự hoàn hảo xa cách. Trong khi đó, hành động của Prô-mê-tê cho thấy sự quan tâm bằng việc làm cụ thể. Có thể đánh giá nhân vật từ chức năng giải quyết vấn đề ấy mà không cần thêm các thử thách, hình phạt thuộc những truyện khác về cùng vị thần.\n\nCốt truyện theo trật tự nhiệm vụ, thiếu sót, phát hiện và bù đắp nên khá dễ theo dõi. Người kể ngôi thứ ba thuật việc của hai anh em cùng kết quả đối với các loài. Vật liệu đất và nước, hành động nặn, sửa tạo điểm tựa quen thuộc cho những việc phi thường. Sự kết hợp giữa cái quen và cái kì ảo khiến câu hỏi nguồn gốc được trả lời bằng hình ảnh, thay vì bằng những nhận định trừu tượng.\n\nĐối với em, truyện gợi cả nhu cầu hiểu về con người và ý thức xem lại công việc để không bỏ sót người cần giúp. Những hành động của thần thuộc thế giới tưởng tượng, không phải kết luận khoa học về sự hình thành loài người. Nhưng cách bản kể hướng đến bàn tay và lửa vẫn giúp người đọc nhận ra mối quan tâm đến lao động, khả năng sống và sự chăm lo. Đó là giá trị có thể rút ra từ chính những chi tiết đã được kể.",
+    "extra": null,
+    "notice": "Luyện chuyển giao kĩ năng: truyện có trong Ngữ văn 10 Chân trời sáng tạo. Không gọi đây là ngữ liệu ngoài mọi SGK."
+  }
+]

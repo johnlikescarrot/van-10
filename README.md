@@ -1,52 +1,74 @@
-# Đề Cương Ôn Tập Giữa Học Kì I — Ngữ Văn 10 (Kết Nối Tri Thức Với Cuộc Sống • Năm Học 2026 – 2027)
+# Ôn tập giữa kì I Ngữ văn 10 — Kết nối tri thức, 2026–2027
 
-Tài liệu ôn tập chuyên sâu, hệ thống hóa theo khoa học nhận thức (*Cognitive Retention*) và bám sát **100% Ma trận – Bản đặc tả Kiểm tra Giữa kì I môn Ngữ văn lớp 10 năm học 2026 – 2027** (`MA TRẬN KIỂM TRA GIỮA KÌ 1 NGỮ VĂN 10 NĂM 2026-2027.docx`).
+**[Mở PDF hoàn chỉnh](./DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf)** · 49 trang A4 · bản biên tập ngày 29/10/2026.
 
-## 📄 Tài liệu PDF hoàn chỉnh
+Tài liệu tự luyện được viết lại và đối chiếu với ma trận DOCX trong kho. Đây **không phải** đề thi, hướng dẫn chấm chính thức hoặc dự báo đề của nhà trường. Đáp án chi tiết và các bài tham khảo do người biên soạn xây dựng.
 
-- **Tệp xuất bản chính thức:** [`DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf`](./DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf) *(65 trang khổ A4, nhúng trọn bộ phông chữ tiếng Việt học thuật `Be Vietnam Pro` & `Lora`, có mục lục và bookmark tương tác).*
+## Nội dung
 
-## 🎯 Cấu trúc chuẩn Ma trận & Bản đặc tả (90 phút • 11 câu • 10,0 điểm)
+1. **Đọc ma trận:** 90 phút; đọc hiểu 6,0 điểm, viết 4,0 điểm; 8 câu trắc nghiệm, 2 câu tự luận đọc hiểu, 1 bài viết. Bản đồ 13 yêu cầu đọc và 9 yêu cầu viết dùng mã biên tập để tiện theo dõi.
+2. **Tri thức Ngữ văn:** khái niệm truyện kể, người kể/ngôi kể/điểm nhìn, thần thoại và các thể loại gần nhau; đối chiếu các văn bản Bài 1 KNTT.
+3. **Tiếng Việt:** các cặp từ dễ lẫn, 16 mục từ hỗ trợ, phân tích nghệ thuật, mạch lạc, liên kết và 6 bài tập sửa câu.
+4. **Đọc hiểu:** 4 đoạn kể ngắn đi kèm **28 câu TN + 12 câu TL**; đáp án giải thích, bài trả lời tham khảo và tiêu chí tự kiểm tra đặt riêng sau câu hỏi.
+5. **Viết:** 5 yêu cầu kiểu bài, quy trình tìm ý–viết–sửa, đọc bài tham khảo *Quà Giáng sinh*, cách triển khai đoạn, mở/kết và thang tự chấm 4 điểm.
+6. **6 đề tự luyện:** mỗi đề có ngữ liệu, 8 TN + 2 TL + 1 bài viết; cả 6 đề đặt trước phần đáp án; có bằng chứng cho 48 đáp án TN, thang chấm TL, 6 dàn ý và **6 bài viết hoàn chỉnh**. Mỗi bài 600–800 đơn vị tách bằng khoảng trắng.
+7. **Bộ tự kiểm tra:** lịch 7 ngày có sản phẩm đầu ra, 24 cặp hỏi–đáp, phiếu sửa lỗi, checklist và trang tóm lược một trang (trang 47).
+8. **Phụ lục nguồn:** S1–S11, phân biệt nguồn gốc/nguồn thứ cấp, bản kể và giới hạn đối chiếu.
 
-| Phần thi | Phạm vi ngữ liệu & Kiểu bài | Số lượng câu | Tỉ lệ điểm | Phân bổ nhận thức |
-| :--- | :--- | :---: | :---: | :--- |
-| **I. Đọc hiểu** | Truyện **Thần thoại** *(100% ngữ liệu ngoài SGK)* | **10 câu** *(8 TNKQ + 2 TL)* | **6,0 điểm (60%)** | Nhận biết: 6 TN (3,0đ) • Thông hiểu: 2 TN (1,0đ) + 1 TL (1,0đ) • Vận dụng: 1 TL (1,0đ) |
-| **II. Viết** | Nghị luận **phân tích, đánh giá chủ đề & đặc sắc nghệ thuật** tác phẩm truyện thần thoại ngoài SGK | **01 bài văn** *(Câu 11 tích hợp `1*`)* | **4,0 điểm (40%)** | Nhận biết: 1,0đ (10%) • Thông hiểu: 1,0đ (10%) • Vận dụng: 2,0đ (20%) |
-| **Tổng cộng** | **Toàn đề kiểm tra (90 phút)** | **11 câu** | **10,0 điểm (100%)** | **Nhận biết 40% • Thông hiểu 30% • Vận dụng 30%** |
+PDF có mục lục bấm được, 94 bookmark, số trang và phông tiếng Việt nhúng. Thiết kế sử dụng Be Vietnam Pro (kèm giấy phép OFL); kí hiệu được bổ sung bằng phông dự phòng nhúng của Typst.
 
-## 📚 Kiến trúc 07 Phần của Đề cương (65 trang)
+## Những giới hạn được nêu rõ trong PDF
 
-1. **Phần I — Giải phẫu Ma trận & Bản đặc tả (2026 – 2027):** Giải mã kí hiệu `1*`, hai phương án cấu trúc đề thi thực tế (*Phương án A: 01 ngữ liệu tích hợp* & *Phương án B: 02 ngữ liệu độc lập*), bảng ánh xạ toàn bộ **22 chỉ báo** (13 chỉ báo Đọc hiểu + 9 chỉ báo Viết) và chiến thuật phân bổ 90 phút phòng thi.
-2. **Phần II — Hệ thống hóa Tri thức Ngữ văn & Thể loại Thần thoại:** Sơ đồ tư duy tự sự, khẩu quyết **“5K – 1C”** nhận diện thần thoại, ma trận phân biệt 5 thể loại tự sự (*Thần thoại – Sử thi – Truyền thuyết – Cổ tích – Truyện truyền kì*), hệ thống hóa 4 văn bản SGK Bài 1 để liên hệ mở rộng, giải phẫu 12 văn bản thần thoại ngoài SGK trọng tâm và đối sánh Đông – Tây.
-3. **Phần III — Tiếng Việt & Công cụ Ngôn ngữ (Tích hợp Bài 1, Bài 2, Bài 3 SGK KNTT):** Chuyên đề *Sử dụng từ Hán Việt* (khẩu quyết 4 lỗi **“Âm nhầm – Nghĩa lệch – Cảnh sai – Thừa lặp”**, bảng cặp từ dễ nhầm, từ điển bỏ túi 24 từ Hán Việt thần thoại), công thức 3 tầng phân tích 6 biện pháp tu từ và chuẩn mực mạch lạc – liên kết văn bản.
-4. **Phần IV — Phương pháp Giải nhanh Đọc hiểu & Ngân hàng 40 Câu hỏi theo Chỉ báo:** Chiến thuật loại nhiễu TNKQ, công thức **“GỌI – TRÍCH – GIẢI – CHỐT”** (Câu 9), đoạn văn 4 nhịp (Câu 10) và **40 câu hỏi thực chiến** (28 TNKQ + 12 Tự luận) phủ kín 13/13 chỉ báo kèm 100% đáp án & đoạn văn mẫu.
-5. **Phần V — Chuyên đề Viết bài văn Nghị luận Phân tích, Đánh giá Truyện Thần thoại (4,0 điểm):** Thang chấm chuẩn 0,25 điểm, mô hình dàn ý vạn năng **“Ngôi Đền 5 Tầng”**, kĩ thuật viết đoạn **P – E – E – V**, 4 khuôn Mở bài, 3 khuôn Kết bài, 8 nhận định lí luận văn học chọn lọc và 8 lỗi chí mạng cần tránh.
-6. **Phần VI — Bộ 06 Đề Kiểm tra Thực chiến Chuẩn 100% Ma trận (66 câu hỏi & đáp án toàn diện):**
-   - **Đề số 01 *(Phương án A)*:** *Nữ thần Mặt Trời và Mặt Trăng* (Nguyễn Đổng Chi).
-   - **Đề số 02 *(Phương án A)*:** *Thần Mưa (và Sự tích Cá chép hóa rồng)* (Nguyễn Đổng Chi).
-   - **Đề số 03 *(Phương án A)*:** *Nữ thần Lúa* (Thần thoại Việt Nam).
-   - **Đề số 04 *(Phương án B)*:** Đọc hiểu *Cuộc tu bổ lại các giống vật* + Viết nghị luận *Mười hai Bà Mụ* (Nguyễn Đổng Chi).
-   - **Đề số 05 *(Phương án B)*:** Đọc hiểu *Sự tích Ông Đùng, bà Đùng* (Thần thoại Mường) + Viết nghị luận *Nữ Oa vá trời* (Thần thoại Trung Quốc).
-   - **Đề số 06 *(Phương án A)*:** *Prô-mê-tê và loài người* (Thần thoại Hy Lạp — bản kể Nguyễn Văn Khoả).
-   - *Mỗi đề đều có bảng giải thích loại trừ phương án nhiễu cho 8 câu TNKQ, biểu điểm 0,25đ & đoạn văn mẫu cho Câu 9 – 10, cùng bài văn nghị luận mẫu hoàn chỉnh (~900 – 960 chữ) cho Câu 11.*
-7. **Phần VII — Hệ thống Ghi nhớ Siêu tốc & Lộ trình Nước rút 7 Ngày:** Lịch trình *Spaced Repetition* 7 ngày, bộ **24 thẻ Active Recall Flashcards**, *Trang Tóm lược Toàn năng (One-Page Master Cheat Sheet)* và *Checklist 5 Phút Vàng cuối giờ*.
+- Các ngữ liệu là **bản kể rút gọn, diễn đạt lại**, không phải trích nguyên văn sách in. Không gán tên người sưu tầm thành tác giả dân gian hoặc viện một ấn bản chưa kiểm tra.
+- *Cuộc tu bổ lại các giống vật* và *Prô-mê-tê và loài người* có trong SGK Chân trời sáng tạo. *Ông Đùng, bà Đùng* có giao thoa thể loại và đã xuất hiện ở cấp học khác. Đề 4–6 vì vậy dùng để chuyển giao kĩ năng, **không được quảng bá là ngữ liệu ngoài mọi SGK**.
+- Dung lượng 600–800 chữ, cách chia từng điểm nhỏ và gợi ý thời gian là thiết kế tự luyện; ma trận gốc không cung cấp các quy định chi tiết đó.
+- Ngữ liệu ngắn và một số phương án nhiễu rõ giúp luyện thao tác cơ bản; bộ đề chưa được thử nghiệm độ khó trên nhóm học sinh. Nên luyện thêm văn bản dài, chưa đọc do giáo viên chọn.
 
-## 🗂️ Cấu trúc Mã nguồn Typst (`src/`)
+## Dựng và kiểm tra
+
+Cần Python 3.11 trở lên. Không cần cài Typst CLI hoặc tải phông khi dựng; phông và giấy phép đã ở `assets/fonts/`.
+
+```bash
+python -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+
+# Kiểm tra dữ liệu biên tập độc lập
+.venv/bin/python -m unittest discover -s tests -v
+
+# Tạo lại JSON, chạy 15 kiểm tra dữ liệu, rồi dựng PDF đúng tên
+.venv/bin/python scripts/build.py
+
+# Kiểm tra PDF đã xuất và ghi báo cáo có SHA-256
+.venv/bin/python scripts/validate_pdf.py
+```
+
+Có thể xuất bản nháp ngoài Git:
+
+```bash
+.venv/bin/python scripts/build.py --output build/review.pdf
+.venv/bin/python scripts/validate_pdf.py build/review.pdf --report build/qa-report.json
+```
+
+`validate_pdf.py` kiểm tra sự hiện diện đầy đủ của đoạn văn, câu hỏi, phương án và bài tham khảo; A4; phông nhúng; biên trang; liên kết và bookmark; không có trang trắng hoặc kí tự thay thế. Những kiểm tra đó **không** tự xác nhận tính đúng đắn của mọi cách hiểu văn học, độ khó chuẩn hoá hoặc khả năng truy cập URL tại mọi thời điểm. Báo cáo xuất bản nằm ở [`research/qa-report.json`](research/qa-report.json).
+
+## Tổ chức mã nguồn
 
 ```text
-van-10/
-├── DE_CUONG_ON_TAP_GIUA_KI_1_NGU_VAN_10_KNTT_2026_2027.pdf   # Bản PDF hoàn chỉnh (65 trang)
-├── MA TRẬN KIỂM TRA GIỮA KÌ 1 NGỮ VĂN 10 NĂM 2026-2027.docx  # Ma trận & Bản đặc tả gốc
-├── README.md
-└── src/
-    ├── main.typ                 # Tệp gốc kết nối toàn bộ đề cương
-    ├── template.typ             # Hệ thống định dạng học thuật, bảng biểu, hộp tư duy & trang bìa
-    ├── part1_matrix.typ         # Phần I: Giải phẫu Ma trận & Bản đặc tả
-    ├── part2_knowledge.typ      # Phần II: Tri thức Ngữ văn & Thể loại Thần thoại
-    ├── part3_vietnamese.typ     # Phần III: Tiếng Việt (Từ Hán Việt, BPTT, Mạch lạc & Liên kết)
-    ├── part4_reading_skills.typ # Phần IV: Kĩ năng Đọc hiểu & Ngân hàng 40 câu theo chỉ báo
-    ├── part5_writing_skills.typ # Phần V: Phương pháp Viết bài văn nghị luận 4,0 điểm
-    ├── part6_exams_1_3.typ      # Phần VI (Đề 01 – Đề 03 kèm đáp án & bài văn mẫu)
-    ├── part7_exams_4_6.typ      # Phần VI (Đề 04 – Đề 06 kèm đáp án & bài văn mẫu)
-    └── part8_memory_kit.typ     # Phần VII: Lộ trình 7 ngày, Flashcards & Master Cheat Sheet
+src/main.typ                   Tệp dựng chính
+src/template.typ               Bìa, kiểu chữ, bảng, hộp và điều hướng
+src/part1_matrix.typ …          Bảy phần nội dung
+src/assessment.typ             Bộ dựng ngữ liệu, đề và đáp án
+src/exams.json, src/bank.json   Dữ liệu sinh từ hai script biên soạn
+src/sources.typ                Phụ lục S1–S11
+scripts/author_exams.py         Nguồn biên tập sáu đề, đáp án và bài viết
+scripts/author_bank.py          Nguồn biên tập 40 câu
+scripts/build.py               Dựng bản xuất bản
+scripts/validate_pdf.py         Kiểm tra PDF
+research/sources.json          Liên kết, loại nguồn và cách dùng
+research/EDITORIAL_REVIEW.md   Nhật kí đối chiếu và các sửa đổi quan trọng
+research/matrix-extracted.txt  Văn bản trích từ DOCX để kiểm tra chéo
+tests/test_content.py          15 kiểm tra cấu trúc, điểm và nội dung dữ liệu
+assets/fonts/                  Be Vietnam Pro + giấy phép OFL
 ```
+
+Sửa nội dung đề/ngân hàng ở `scripts/author_*.py` rồi dựng lại; không sửa riêng JSON vì lần dựng sau sẽ ghi đè. Giữ nguyên DOCX gốc làm căn cứ. Kiểm tra lại bố cục và báo cáo sau mỗi lần sửa trước khi thay PDF xuất bản.
