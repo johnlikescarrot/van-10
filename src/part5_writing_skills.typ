@@ -121,3 +121,113 @@ Lỗi nghiêm trọng nhất khiến 80% học sinh lớp 10 chỉ đạt 2,0/4,
   7. *Viết toàn bộ Thân bài dính liền thành 1 khối khổng lồ:* Phải tách Thân bài thành *4–5 đoạn văn rõ ràng*, mỗi đoạn mở đầu bằng câu chủ đề sáng sủa.
   8. *Trích dẫn sai nguyên văn:* Chỉ đặt trong ngoặc kép những cụm từ trích chính xác từng chữ từ đề thi; phần còn lại diễn đạt linh hoạt bằng lời văn của mình.
 ]
+
+= 5.5. Kho Từ vựng & Mẫu câu cho Bài Nghị luận 4,0 điểm
+
+Bài văn hay không nhờ "từ đẹp" mà nhờ #strong[từ đúng chỗ]. Ba bảng dưới đây cung cấp chất liệu ngôn ngữ theo đúng ba vị trí cần nhất: mở bài, thân bài và câu chốt luận điểm. Hãy chọn 2–3 mẫu câu mỗi loại và #strong[viết lại bằng giọng của mình] — đừng bê nguyên si, vì giám khảo nhận ra câu mẫu ngay.
+
+== A. Sáu kiểu Câu dẫn dắt Mở bài
+
+#study-table(
+  (1.1fr, 2.3fr, 2.4fr),
+  ("Kiểu dẫn dắt", "Mẫu câu", "Dùng khi"),
+
+  [*Từ văn hoá – lịch sử*], [“Trước khi có chữ viết, con người đã kể cho nhau nghe về những vị thần dựng nên trời đất. Mỗi dân tộc giữ lại một cách lí giải riêng, và cách lí giải ấy trở thành dấu vân tay văn hoá của họ.”], [Mở đầu bài có ý nghĩa khái quát, phù hợp mọi truyện thần thoại.],
+
+  [*Từ thể loại*], [“Thần thoại là thể loại truyện kể ra đời sớm nhất, khi con người còn chưa phân biệt được ranh giới giữa giấc mơ và hiện thực. Chính vì thế, đọc thần thoại là đọc lớp kí ức nguyên thuỷ của nhân loại.”], [Khi đề yêu cầu phân tích đặc trưng thể loại.],
+
+  [*Từ nhận định – lí luận*], [“C. Mác từng nói thần thoại là vẻ đẹp ‘một đi không trở lại’ của tuổi thơ nhân loại. Câu nói ấy đúng với [tên truyện]: một câu chuyện ngắn, nhưng chứa cả một quan niệm về vũ trụ.”], [Khi cần tạo ấn tượng học thuật, dùng cho bài khá trở lên.],
+
+  [*Từ câu hỏi tu từ*], [“Vì sao người xưa lại tin rằng sấm là tiếng quát của thần? Câu hỏi ấy dẫn ta về với [tên truyện], nơi một hiện tượng tự nhiên được giải thích bằng một câu chuyện kì lạ.”], [Khi ngữ liệu có một chi tiết gây tò mò.],
+
+  [*Từ so sánh liên văn bản*], [“Nếu thần thoại Hy Lạp đưa con người lên đỉnh Ô-lim-pơ thì thần thoại Việt Nam lại để thần linh ngồi bên bếp lửa. [Tên truyện] cho thấy rõ sự gần gũi ấy.”], [Khi bài cần thể hiện chiều sâu đối sánh.],
+
+  [*Từ trải nghiệm – liên hệ*], [“Mỗi lần nghe tiếng sấm đầu mùa, tôi lại nhớ đến câu chuyện tuổi thơ về vị thần cầm búa đá. Lớn lên mới hiểu, đó không chỉ là chuyện kể cho trẻ con.”], [Khi đề cho phép liên hệ; cần tiết chế để không sến.]
+)
+
+== B. Mười hai cặp từ "nhạt – đắt" nên thay trong bài
+
+#study-table(
+  (1.55fr, 1.55fr, 2.7fr),
+  ("Cách viết nhạt (hay gặp)", "Cách viết đắt hơn", "Ví dụ câu hoàn chỉnh"),
+
+  [*rất hay*], [*tinh tế / độc đáo*], [“Chi tiết thần sợ tiếng gà là một nét #strong[tinh tế] và hóm hỉnh.”],
+  [*cho thấy*], [*phơi bày / làm nổi bật*], [“Câu kết #strong[phơi bày] nỗi bất an ngàn đời của con người trước cái chết.”],
+  [*làm cho*], [*kiến tạo / tạo dựng*], [“Ba cõi #strong[kiến tạo] nên một sân khấu khổng lồ cho thần linh.”],
+  [*kể về*], [*tái hiện / dựng lại*], [“Truyện #strong[tái hiện] buổi đầu lập địa bằng một hình ảnh duy nhất: chiếc cột chống trời.”],
+  [*rất buồn*], [*day dứt / ngậm ngùi*], [“Câu kết để lại một nỗi #strong[ngậm ngùi] về thân phận hữu hạn.”],
+  [*rất đẹp*], [*rực rỡ / trong trẻo*], [“Hình ảnh nàng Hằng Nga bay lên cung trăng #strong[rực rỡ] mà cô độc.”],
+  [*to lớn*], [*kì vĩ / choáng ngợp*], [“Không gian #strong[kì vĩ] khiến con người chỉ còn biết cúi đầu.”],
+  [*thể hiện*], [*kết tinh / chưng cất*], [“Hình tượng Prô-mê-tê #strong[kết tinh] vẻ đẹp của trí tuệ và lòng hi sinh.”],
+  [*nói lên*], [*đặt ra / gợi mở*], [“Truyện #strong[đặt ra] câu hỏi về giới hạn của con người.”],
+  [*quan trọng*], [*then chốt / cốt lõi*], [“Chi tiết ấy giữ vai trò #strong[then chốt] trong việc lí giải hiện tượng.”],
+  [*nhiều*], [*dày đặc / trùng điệp*], [“Những yếu tố kì ảo xuất hiện #strong[dày đặc] nhưng không hề phá vỡ mạch truyện.”],
+  [*rất nổi tiếng*], [*in dấu sâu đậm*], [“Truyện đã #strong[in dấu sâu đậm] vào đời sống tâm linh của người Việt.”]
+)
+
+== C. Sáu mẫu câu Chốt luận điểm (dùng cuối mỗi đoạn thân bài)
+
+#mnemonic-box(title: "CÂU CHỐT LÀ “BẢN LĨNH” CỦA NGƯỜI VIẾT")[
+  #set text(size: 8.9pt)
+  • “Chính chi tiết ấy đã #strong[nâng] truyện lên khỏi giới hạn của một câu chuyện giải thích tự nhiên.”\
+  • “Đằng sau cái vỏ #strong[kì ảo] là một nhận thức #strong[hết sức thực tế] về giới hạn của con người.”\
+  • “Nếu bỏ chi tiết này, truyện vẫn kể được, nhưng sẽ #strong[mất đi cái phần người] nhất của nó.”\
+  • “Cái tài của tác giả dân gian là #strong[không giải thích] mà để người đọc tự hiểu.”\
+  • “Ở đây, #strong[nghệ thuật] và #strong[tín ngưỡng] không tách rời: cách kể chính là cách tin.”\
+  • “Đọc xong, ta không còn thấy đó là chuyện của người xưa, mà là #strong[câu hỏi của chính mình].”
+]
+
+= 5.6. Phòng Chấm bài: Từ 2,5 điểm lên 3,75 điểm
+
+Dưới đây là một đoạn thân bài #strong[thật] của học sinh (đã sửa tên), được chấm 2,5/4,0. Đọc kĩ, đối chiếu với phần chú thích, rồi xem bảng "lỗi – cách sửa" để thấy điểm số chuyển dịch từ đâu:
+
+#callout(title: "BÀI LÀM GỐC — 2,5 ĐIỂM", tone: "danger", icon: "✕")[
+  #set text(font: font-serif, size: 9.2pt)
+  Truyện Thần Sét kể về một vị thần rất mạnh. Thần chuyên trừng trị kẻ ác ở trần gian. Thần có cái búa đá rất to. Mỗi lần Ngọc Hoàng sai là thần đi ngay. Thần rất nóng tính nên có lần đánh nhầm người vô tội, vì thế thần bị phạt và rất sợ tiếng gà. Qua đó ta thấy thần Sét là một nhân vật rất thú vị, vừa mạnh mẽ vừa có điểm yếu. Truyện còn cho thấy trí tưởng tượng phong phú của nhân dân ta. Nhân dân ta đã sáng tạo ra thần Sét để giải thích hiện tượng sấm sét. Đây là một nét đẹp văn hoá của dân tộc.
+]
+
+#study-table(
+  (0.6fr, 1.6fr, 1.7fr, 1.9fr),
+  ("#", "Lỗi trong bài gốc", "Hệ quả điểm", "Câu văn đã sửa"),
+
+  [*1*], [Kể lại cốt truyện, không phân tích: 5/7 câu đầu đều là “thần làm gì”.], [Mất điểm ở tiêu chí “phân tích đặc sắc nghệ thuật”.],
+  [“Truyện chỉ dài vài chục dòng nhưng dựng được một nhân vật có hai mặt: #strong[sức mạnh tuyệt đối] và #strong[sự vụng về rất người].”],
+
+  [*2*], [Không có dẫn chứng nguyên văn, chỉ diễn xuôi.], [Lập luận thiếu chỗ dựa, khó đạt mức 0,5.],
+  [“Câu văn ‘*hễ thấy là đánh liền*’ cho thấy thần hành động theo phản xạ chứ không theo suy xét.”],
+
+  [*3*], [Dùng từ nhạt, lặp: “rất mạnh”, “rất nóng tính”, “rất thú vị”, “rất to”.], [Trừ điểm diễn đạt, bài mất cá tính.],
+  [“Sức mạnh của thần #strong[tuyệt đối], nhưng cách hành xử lại #strong[ấu trĩ].”],
+
+  [*4*], [Câu “Qua đó ta thấy…” dùng như cái van an toàn, không dẫn tới nhận định nào.], [Đoạn văn không có chốt luận điểm thực sự.],
+  [“Chính sự tương phản ấy khiến thần Sét trở thành một trong những hình tượng #strong[giàu tính người] nhất của thần thoại Việt Nam.”],
+
+  [*5*], [Nhận định chung chung: “trí tưởng tượng phong phú của nhân dân ta”.], [Không được tính điểm vì ai cũng viết được.],
+  [“Người xưa không có máy đo điện trường, nhưng họ có một cách khác để hiểu sấm: gán nó cho một vị thần nóng nảy.”],
+
+  [*6*], [Không đánh giá, không liên hệ.], [Mất trọn điểm Vận dụng (khoảng 1,0đ).],
+  [“Đọc truyện hôm nay, ta nhận ra: cách con người lí giải cái mình sợ cũng chính là cách họ #strong[làm dịu nỗi sợ] ấy.”],
+
+  [*7*], [Kết đoạn bằng một câu khẳng định chung “nét đẹp văn hoá”.], [Không tạo được dư âm.],
+  [“Một vị thần sợ tiếng gà, nghe thì buồn cười, nhưng chính chi tiết ấy khiến thần ở lại mãi trong trí nhớ người Việt.”]
+)
+
+#answer-box(title: "BẢNG QUY ĐỔI ĐIỂM: VÌ SAO BÀI SỬA ĐƯỢC 3,75")[
+  #set text(size: 8.9pt)
+  #study-table(
+    (1.9fr, 1.0fr, 1.0fr, 2.0fr),
+    ("Tiêu chí", "Bài gốc", "Bài sửa", "Việc đã làm"),
+
+    [Cấu trúc, giới thiệu, tóm tắt], [0,75], [0,75], [Giữ nguyên phần mở bài; tóm tắt rút xuống 3 câu.],
+    [Phân tích chủ đề], [0,50], [0,75], [Chuyển từ kể sang chỉ ra ý nghĩa của hành động và xung đột.],
+    [Phân tích nghệ thuật], [0,25], [0,75], [Đưa thuật ngữ (phóng đại, đối lập, chi tiết trào lộng) + dẫn chứng nguyên văn.],
+    [Đánh giá, lí lẽ], [0,25], [0,75], [Nêu nhận định riêng, so sánh với thần thoại khác.],
+    [Diễn đạt, chính tả], [0,50], [0,50], [Thay 12 từ nhạt, sửa 2 lỗi chính tả.],
+    [Sáng tạo], [0,25], [0,25], [Giữ nguyên một câu so sánh độc đáo ở kết bài.],
+    [*Tổng*], [*2,50*], [*3,75*], [*Không thêm kiến thức mới, chỉ đổi cách viết.*]
+  )
+]
+
+#callout(title: "BÀI HỌC RÚT RA", tone: "success", icon: "✓")[
+  Khoảng cách giữa 2,5 và 3,75 không phải là khoảng cách về #strong[hiểu bài] mà là khoảng cách về #strong[cách viết]. Học sinh trong bài trên hiểu truyện, kể đúng, nhưng viết như người kể chứ chưa như người #strong[phân tích]. Ba thao tác đã nâng điểm: (1) thay “kể” bằng “chỉ ra cơ chế”, (2) thêm dẫn chứng nguyên văn, (3) thêm một câu đánh giá sau mỗi dẫn chứng.
+]

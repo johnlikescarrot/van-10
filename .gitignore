@@ -1,0 +1,7 @@
+# Hệ thống (macOS / Windows)
+.DS_Store
+Thumbs.db
+
+# Bản dựng tạm
+*.aux
+*.log

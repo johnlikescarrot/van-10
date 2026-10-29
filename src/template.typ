@@ -429,8 +429,8 @@
             ],
             block(fill: c-jade-soft, radius: 5pt, inset: 8pt, width: 100%)[
               #align(center)[
-                #text(size: 15pt, weight: "bold", fill: c-jade)[106 CÂU]\
-                #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & 6 ĐỀ]\
+                #text(size: 15pt, weight: "bold", fill: c-jade)[178 CÂU]\
+                #text(size: 8pt, weight: "bold", fill: c-navy)[NGÂN HÀNG & 8 ĐỀ]\
                 #text(size: 7.4pt, fill: c-slate)[100% có đáp án,\ giải nhiễu & văn mẫu]
               ]
             ]
@@ -453,11 +453,41 @@
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[03. DÀN Ý VẠN NĂNG & VĂN MẪU 4,0Đ]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[Mô hình Ngôi Đền 5 Tầng phân tích chủ đề & nghệ thuật thần thoại kèm 06 bài văn mẫu hoàn chỉnh.]
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[Mô hình Ngôi Đền 5 Tầng phân tích chủ đề & nghệ thuật thần thoại kèm 08 bài văn mẫu hoàn chỉnh.]
           ],
           block(fill: rgb("#1D355E"), stroke: 0.6pt + rgb("#3B5B8C"), radius: 5pt, inset: 9pt, width: 100%)[
             #text(size: 8.6pt, weight: "bold", fill: rgb("#FCD34D"))[04. TRỌN BỘ CÂU HỎI & ĐÁP ÁN CHI TIẾT]\
-            #text(size: 8pt, fill: rgb("#E2E8F0"))[40 câu luyện theo chỉ báo + 06 đề thi chuẩn 90 phút (66 câu), giải thích từng phương án nhiễu & thang điểm 0,25.]
+            #text(size: 8pt, fill: rgb("#E2E8F0"))[70 câu luyện theo chỉ báo + 08 đề thi chuẩn 90 phút (88 câu), giải thích từng phương án nhiễu & thang điểm 0,25.]
+          ],
+        )
+
+        #v(7mm)
+        #grid(
+          columns: (1fr, 1fr, 1fr, 1fr),
+          column-gutter: 8pt,
+          block(fill: rgb("#132546"), stroke: 0.5pt + rgb("#2E5496"), radius: 4pt, inset: (x: 6pt, y: 6pt), width: 100%)[
+            #align(center)[
+              #text(size: 12pt, weight: "bold", fill: rgb("#FCD34D"))[08]\
+              #text(size: 6.8pt, fill: rgb("#CBD5E1"), tracking: 0.5pt)[PHẦN CHUYÊN SÂU]
+            ]
+          ],
+          block(fill: rgb("#132546"), stroke: 0.5pt + rgb("#2E5496"), radius: 4pt, inset: (x: 6pt, y: 6pt), width: 100%)[
+            #align(center)[
+              #text(size: 12pt, weight: "bold", fill: rgb("#FCD34D"))[40]\
+              #text(size: 6.8pt, fill: rgb("#CBD5E1"), tracking: 0.5pt)[FLASHCARDS]
+            ]
+          ],
+          block(fill: rgb("#132546"), stroke: 0.5pt + rgb("#2E5496"), radius: 4pt, inset: (x: 6pt, y: 6pt), width: 100%)[
+            #align(center)[
+              #text(size: 12pt, weight: "bold", fill: rgb("#FCD34D"))[30]\
+              #text(size: 6.8pt, fill: rgb("#CBD5E1"), tracking: 0.5pt)[CÂU ĐÚNG – SAI]
+            ]
+          ],
+          block(fill: rgb("#132546"), stroke: 0.5pt + rgb("#2E5496"), radius: 4pt, inset: (x: 6pt, y: 6pt), width: 100%)[
+            #align(center)[
+              #text(size: 12pt, weight: "bold", fill: rgb("#FCD34D"))[12]\
+              #text(size: 6.8pt, fill: rgb("#CBD5E1"), tracking: 0.5pt)[ĐỀ VIẾT + DÀN Ý]
+            ]
           ],
         )
 
@@ -493,7 +523,7 @@
       [*1. Mã hóa kép (Dual Coding):* Kết hợp bảng ma trận đối chiếu và sơ đồ cấu trúc để não bộ lưu trữ đồng thời kênh ngôn ngữ và kênh không gian.],
       [*2. Khẩu quyết âm vần (Chunking & Mnemonics):* Mọi cụm kiến thức phức tạp đều được nén thành công thức ngắn gọn (*5K–1C*, *GỌI–TRÍCH–GIẢI–CHỐT*).],
       [*3. Phòng vệ lỗi sai (Error Inoculation):* Hệ thống hộp *Cảnh báo bẫy phòng thi* chỉ rõ các phương án nhiễu hay đánh lừa học sinh nhất.],
-      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 40 câu theo chỉ báo + 06 đề thi thực chiến (66 câu) + 24 thẻ Flashcards kèm lộ trình ôn 7 ngày.]
+      [*4. Truy hồi chủ động (Active Recall):* Ngân hàng 70 câu theo chỉ báo + 08 đề thi thực chiến (88 câu) + 40 thẻ Flashcards kèm lộ trình 7 ngày và 3 ngày.]
     )
   ]
 

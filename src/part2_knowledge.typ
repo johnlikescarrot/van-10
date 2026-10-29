@@ -293,3 +293,195 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
 Đưa nhận xét đối sánh liên văn hoá vào đoạn đánh giá cuối Thân bài là #strong[“tuyệt chiêu lấy điểm 9+”]:
 - #strong[Điểm tương đồng phổ quát:] Đều nảy sinh từ tư duy *vạn vật hữu linh* buổi bình minh nhân loại; đều đặt nhân vật thần linh khổng lồ trong không gian vũ trụ và thời gian cổ sơ phiếm chỉ; đều sử dụng thủ pháp phóng đại kì ảo để cắt nghĩa tự nhiên và gửi gắm khát vọng chinh phục thế giới.
 - #strong[Bản sắc riêng độc đáo của Thần thoại Việt Nam:] Mang đậm dấu ấn #strong[nền văn minh nông nghiệp lúa nước nhiệt đới gió mùa] — các vị thần gần gũi, mộc mạc, bình dị như người nông dân Việt (biết cày cục đắp đất, nóng nảy sợ tiếng gà, hay quên gây hạn lụt, hờn dỗi khi sân bẩn...), ít có những cuộc chiến tranh quyền lực đẫm máu trên đỉnh Ô-lim-pơ như thần thoại Hy Lạp hay quy mô triều chính đồ sộ như thần thoại Trung Hoa, mà thấm đẫm *khát vọng mưa thuận gió hòa, mùa màng tươi tốt và lối sống hòa hợp, ân nghĩa với tự nhiên*.
+
+= 2.7. Bản đồ Hệ thống Thần thoại Việt Nam theo Nhóm Chức năng
+
+Đề thi lấy ngữ liệu #strong[ngoài SGK], nên học sinh không thể học thuộc từng truyện. Cách an toàn nhất là nắm #strong[ba nhóm chức năng] — mọi truyện thần thoại Việt Nam đều rơi vào một trong ba nhóm này, và mỗi nhóm có sẵn một bộ câu hỏi phân tích tương ứng:
+
+#study-table(
+  (1.15fr, 2.15fr, 2.0fr, 1.4fr),
+  ("Nhóm", "Chức năng & đặc điểm nhận diện", "Tác phẩm tiêu biểu", "Câu hỏi phân tích đặc trưng"),
+
+  [*1. Suy nguyên vũ trụ*\\ *(Giải thích thế giới hình thành thế nào)*],
+  [• Trả lời câu hỏi: trời, đất, mặt trời, mặt trăng, biển, mưa từ đâu mà có?\ • Nhân vật thường là #strong[đấng sáng tạo đơn độc], hành động có tính “khai thiên lập địa”.\ • Không gian rộng lớn, thời gian “thuở ấy” không xác định.],
+  [*Thần Trụ Trời* (chống cột tách trời đất), *Nữ Oa vá trời* (vá vết nứt trời), *Bàn Cổ khai thiên lập địa* (thân thể hoá núi sông), *Nữ thần Mặt Trời và Mặt Trăng* (hai chị em thay nhau chiếu sáng)],
+  [Truyện giải thích hiện tượng gì? Cách giải thích ấy thể hiện tư duy và khát vọng nào của người xưa?],
+
+  [*2. Suy nguyên muôn loài*\\ *(Giải thích con người và vạn vật sinh ra thế nào)*],
+  [• Trả lời câu hỏi: loài người, muôn thú, cây cỏ, các tật trên cơ thể từ đâu mà có?\ • Thường có #strong[cuộc “phân công” hoặc “tai nạn”] giải thích sự khác biệt giữa các loài.\ • Hay gặp mô-típ “sứ giả truyền lệnh sai” hoặc “người nặn ra người”.],
+  [*Nữ Oa tạo người* (nặn bằng đất sét), *Prô-mê-tê và loài người* (tái tạo dáng người), *Rắn già rắn lột* (lệnh Trời truyền nhầm), *Mười hai Bà Mụ* (nặn hình hài trẻ)],
+  [Truyện lí giải sự khác biệt nào? Sự “nhầm lẫn” hay “thử thách” ấy nói gì về thân phận con người?],
+
+  [*3. Sáng tạo & chinh phục*\\ *(Giải thích nghề, mùa vụ và cuộc vật lộn với tự nhiên)*],
+  [• Trả lời câu hỏi: vì sao có mưa gió sấm chớp, vì sao phải cày cấy, vì sao mùa màng bội thu hay thất bát?\ • Nhân vật là #strong[thần có tính cách rất người]: nóng nảy, đãng trí, hờn dỗi, tham ăn.\ • Kết thúc thường mở ra một #strong[tục lệ] hoặc một #strong[kinh nghiệm dân gian].],
+  [*Thần Mưa*, *Thần Gió*, *Thần Sét*, *Nữ thần Lúa*, *Ông Đùng bà Đùng*, *Hậu Nghệ bắn mặt trời*, *Cuộc tu bổ lại các giống vật*],
+  [Thần đã “làm sai” điều gì? Sai lầm ấy giải thích hiện tượng nào, và người xưa rút ra kinh nghiệm gì?]
+)
+
+#callout(title: "MẸO NHẬN DIỆN TRONG 10 GIÂY", tone: "gold", icon: "◈")[
+  Đọc câu mở đầu và câu kết của truyện. Nếu mở bằng “Thuở xưa, khi trời đất còn…” và kết bằng “Từ đó…”, truyện thuộc nhóm #strong[suy nguyên] (đang giải thích nguồn gốc). Nếu mở bằng “Ngọc Hoàng sai thần… xuống trần” và kết bằng một tục lệ (“mỗi khi trời sắp mưa, người ta…”) thì truyện thuộc nhóm #strong[sáng tạo] (đang giải thích kinh nghiệm và nghi lễ). Cách nhận diện này giúp chọn đúng hướng phân tích ngay từ câu hỏi đầu tiên.
+]
+
+= 2.8. Sáu Đặc trưng Thi pháp & Câu văn Mẫu để Viết Nghị luận
+
+Phần lớn học sinh phân tích thần thoại bằng cách kể lại truyện rồi thêm câu “thể hiện trí tưởng tượng phong phú của nhân dân”. Câu ấy đúng nhưng #strong[không có điểm], vì nó không chỉ ra được #strong[cơ chế nghệ thuật] nào. Bảng dưới đây biến sáu đặc trưng thi pháp thành sáu câu văn có thể dùng trực tiếp trong bài thi:
+
+#study-table(
+  (1.15fr, 2.35fr, 2.2fr),
+  ("Đặc trưng", "Biểu hiện & cách nhận ra trong ngữ liệu", "Câu văn mẫu dùng khi viết"),
+
+  [*1. Thời gian phiếm chỉ*],
+  [Không có mốc năm tháng cụ thể: “thuở xưa”, “ngày ấy”, “lúc trời đất còn hoang sơ”, “không biết bao nhiêu năm về trước”. Thời gian ấy không đo được, chỉ gợi được.],
+  [“Thời gian phiếm chỉ ‘thuở ấy’ đưa người đọc ra khỏi lịch sử để bước vào #strong[thời gian của huyền thoại], nơi mọi hiện tượng đều có thể được cắt nghĩa bằng hành động của thần linh.”],
+
+  [*2. Không gian vũ trụ nhiều cõi*],
+  [Ba tầng: #strong[thiên đình] (trên), #strong[trần gian/hạ giới] (giữa), #strong[thuỷ phủ/âm phủ] (dưới). Nhân vật di chuyển dễ dàng giữa các cõi, không bị ràng buộc bởi địa lí thực.],
+  [“Không gian ba cõi mở ra một sân khấu khổng lồ, nơi thần linh và con người cùng hành động; chính #strong[độ chênh lệch giữa các cõi] tạo nên cảm giác choáng ngợp của thần thoại.”],
+
+  [*3. Nhân vật khổng lồ, siêu nhiên*],
+  [Thân hình to lớn (Thần Trụ Trời “một mình đắp cột”), sức mạnh phi thường (Hậu Nghệ bắn chín mặt trời), hành động vượt giới hạn con người.\ Nhưng vẫn có #strong[những nhược điểm rất người]: nóng nảy, đãng trí, sợ tiếng gà, hay quên.],
+  [“Cái #strong[khổng lồ] và cái #strong[tầm thường] cùng tồn tại trong một nhân vật: thần Sét oai phong với búa đá lại sợ tiếng gà. Chính sự dung hợp ấy khiến thần thoại vừa thiêng liêng vừa gần gũi.”],
+
+  [*4. Cốt truyện đơn giản, đơn tuyến*],
+  [Một nhân vật chính, một chuỗi hành động, kết thúc giải thích một hiện tượng. Không có nhiều tuyến phụ, không có tình huống éo le như truyện hiện đại.],
+  [“Cốt truyện đơn tuyến không phải là nhược điểm nghệ thuật mà là #strong[hệ quả tất yếu của một thời đại] còn tư duy bằng hình tượng nguyên khối, chưa phân tách sự kiện khỏi huyền thoại.”],
+
+  [*5. Phóng đại và kì ảo*],
+  [Cường điệu số lượng (chín mặt trời, một vạn năm, mười tám ngàn năm), kích thước (đứng cao hơn năm lần đỉnh núi), và những chi tiết không thể xảy ra theo quy luật tự nhiên (nặn người từ đất, thân thể hoá núi sông).],
+  [“Thủ pháp phóng đại không phải là ‘nói quá’ tuỳ tiện: nó là #strong[ngôn ngữ của một nền văn hoá chưa có đơn vị đo lường trừu tượng], nên cái vô hạn được diễn đạt bằng những con số hữu hạn nhưng lớn đến choáng ngợp.”],
+
+  [*6. Tư duy hồn nhiên, tính nguyên hợp*],
+  [Lí giải tự nhiên bằng ý chí thần linh; đồng thời trộn lẫn tín ngưỡng, phong tục, tri thức nông nghiệp, triết lí sống trong cùng một truyện.],
+  [“Tính #strong[nguyên hợp] khiến mỗi truyện thần thoại vừa là khoa học đầu tiên, vừa là tôn giáo đầu tiên, vừa là văn học đầu tiên của dân tộc; đọc thần thoại là đọc #strong[lớp trầm tích văn hoá nguyên thuỷ] còn lắng lại.”]
+)
+
+= 2.9. Mười Hiểu nhầm Chết người về Thần thoại
+
+Những câu dưới đây đã từng xuất hiện trong bài làm của học sinh và bị trừ điểm, hoặc trở thành phương án nhiễu trong đề. Đọc để không mắc lại:
+
+#study-table(
+  (0.7fr, 2.15fr, 2.75fr),
+  ("#", "Hiểu nhầm", "Sự thật cần nhớ"),
+
+  [*1*], [“Thần thoại là truyện cổ tích.”],
+  [Cổ tích ra đời #strong[sau], có mô-típ “ở hiền gặp lành”, nhân vật là người bình thường và kết thúc có hậu. Thần thoại ra đời #strong[sớm nhất], nhân vật là thần linh, kết thúc nhằm #strong[cắt nghĩa tự nhiên], không nhằm an ủi.],
+
+  [*2*], [“Thần thoại và truyền thuyết giống nhau.”],
+  [Truyền thuyết gắn với #strong[nhân vật lịch sử và sự kiện có thật] (Thánh Gióng, Sơn Tinh – Thuỷ Tinh), có yếu tố lịch sử hoá; thần thoại gắn với #strong[thần linh và tự nhiên], không nhằm ghi chép lịch sử.],
+
+  [*3*], [“Thần thoại chỉ để giải thích thiên nhiên.”],
+  [Ngoài chức năng suy nguyên, thần thoại còn #strong[phản ánh đời sống xã hội] (quan hệ mẹ chồng – nàng dâu trong *Nữ thần Lúa*), #strong[lưu giữ phong tục] (cúng cơm mới), và #strong[thể hiện khát vọng] chinh phục tự nhiên.],
+
+  [*4*], [“Nhân vật thần thoại nào cũng là thần.”],
+  [Có những nhân vật là #strong[người có nguồn gốc thần linh] hoặc được phong thần sau khi chết (Thần Biển), thậm chí là loài vật (Rắn trong *Rắn già rắn lột*).],
+
+  [*5*], [“Phóng đại là bịa đặt, làm mất tính chân thực.”],
+  [Phóng đại là #strong[phương thức nhận thức] của người nguyên thuỷ: khi chưa có khái niệm trừu tượng, cái vô hạn phải được diễn đạt bằng hình ảnh khổng lồ. Nó tạo nên #strong[chân thực nghệ thuật], không phải chân thực hiện thực.],
+
+  [*6*], [“Cốt truyện đơn giản nghĩa là tác phẩm ít giá trị.”],
+  [Giá trị nằm ở #strong[hình tượng và ý nghĩa biểu tượng], không nằm ở độ phức tạp của cốt truyện. Một truyện 20 dòng có thể chứa cả một quan niệm vũ trụ.],
+
+  [*7*], [“Thần thoại Việt Nam chịu ảnh hưởng hoàn toàn từ Trung Hoa.”],
+  [Có #strong[giao thoa] (Ngọc Hoàng, Bàn Cổ, Nữ Oa), nhưng thần thoại Việt Nam giữ được sắc thái riêng: thần #strong[mộc mạc, gắn với lúa nước], ít tính triều chính, đậm chất đời thường.],
+
+  [*8*], [“Thần thoại không có yếu tố hiện thực.”],
+  [Trái lại, thần thoại phản ánh rất rõ #strong[đời sống kinh tế – xã hội]: kĩ thuật làm nông, tục thờ cúng, quan hệ gia đình, cách phân công lao động.],
+
+  [*9*], [“Nhân vật thần thoại không có tính cách.”],
+  [Thần thoại khắc hoạ tính cách rất đậm: Thần Sét #strong[nóng nảy], Thần Mưa #strong[đãng trí], Nữ thần Lúa #strong[hay hờn dỗi]. Đó là cách người xưa #strong[nhân cách hoá tự nhiên].],
+
+  [*10*], [“Thần thoại là tôn giáo.”],
+  [Thần thoại là #strong[kho truyện kể] về thần linh; tôn giáo là #strong[hệ thống tín ngưỡng và nghi lễ] có tổ chức. Hai phạm trù giao nhau nhưng không đồng nhất.]
+)
+
+= 2.10. Từ điển 20 Biểu tượng Thần thoại Thường gặp
+
+Khi đề hỏi “ý nghĩa của chi tiết/biểu tượng X”, học sinh thường chỉ nói “thể hiện sự kì vĩ”. Bảng dưới đây cho biết mỗi biểu tượng #strong[thường mang nghĩa gì] và #strong[dùng để làm gì] trong bài viết:
+
+#study-table(
+  (1.35fr, 2.25fr, 1.3fr, 0.95fr),
+  ("Biểu tượng", "Tầng nghĩa phổ biến", "Xuất hiện ở", "Dùng để"),
+
+  [*Cột trụ trời*], [Trục nối trời và đất; trật tự vũ trụ được thiết lập bằng lao động], [Thần Trụ Trời], [Ca ngợi sức lao động sáng tạo],
+  [*Búa đá / lưỡi tầm sét*], [Quyền lực trừng phạt của công lí; sức mạnh tự nhiên], [Thần Sét], [Nói về công lí và sự nghiêm khắc],
+  [*Cái quạt thần*], [Quyền năng điều khiển khí hậu; sự bất cẩn của thần], [Thần Gió], [Lí giải bão tố],
+  [*Bình nước / hũ nước*], [Nguồn sống, mùa màng; sự dự trữ của tự nhiên], [Thần Mưa], [Lí giải hạn hán, lũ lụt],
+  [*Hạt lúa / bông lúa*], [Sự sống, ấm no, chu kì mùa vụ], [Nữ thần Lúa], [Đề cao lao động nông nghiệp],
+  [*Áo lông / lốt rắn*], [Sự biến đổi, bất tử, chu kì sinh – tử], [Rắn già rắn lột], [Suy ngẫm về sinh mệnh],
+  [*Đất sét vàng*], [Vật liệu sáng tạo; thân phận con người từ cát bụi], [Nữ Oa tạo người], [Nói về nguồn gốc con người],
+  [*Ngọn lửa*], [Văn minh, trí tuệ, sự giải phóng khỏi tự nhiên], [Prô-mê-tê], [Ca ngợi trí tuệ và hi sinh],
+  [*Mặt trời*], [Sự sống và cái chết; quyền lực tối cao; thời gian], [Nữ thần Mặt Trời, Hậu Nghệ], [Lí giải ngày đêm, mùa vụ],
+  [*Mặt trăng*], [Âm tính, sự dịu dàng, nỗi cô đơn, thuỷ triều], [Nữ thần Mặt Trăng, Hằng Nga], [Nói về chia lìa, hoài niệm],
+  [*Biển*], [Bao la, thử thách, cội nguồn sự sống], [Thần Biển], [Nói về sự bao dung và thử thách],
+  [*Cầu vồng*], [Cầu nối sau cơn giông; dấu hiệu hoà giải], [Truyện dân gian], [Biểu tượng hi vọng],
+  [*Trống*], [Tiếng sấm, quyền uy, nhịp sinh hoạt cộng đồng], [Thần Sét], [Lí giải sấm sét],
+  [*Cờ lệnh*], [Mệnh lệnh của Trời, quyền lực trung tâm], [Thần Sét], [Nói về trật tự thiên đình],
+  [*Con gà*], [Sự thức tỉnh, ánh sáng, nỗi sợ của kẻ mạnh], [Thần Sét], [Tạo nét hài hước, gần gũi],
+  [*Nước*], [Sự sống, thanh tẩy, sức mạnh mềm], [Nhiều truyện], [Nói về sinh sôi],
+  [*Núi*], [Vững chãi, thử thách, ranh giới trời đất], [Sơn Tinh, Ông Đùng], [Nói về sức mạnh bền bỉ],
+  [*Đất*], [Mẹ, cội nguồn, sự nuôi dưỡng], [Nữ Oa, Nữ thần Lúa], [Nói về cội nguồn sự sống],
+  [*Gió*], [Tự do, sự thay đổi, sức mạnh vô hình], [Thần Gió], [Lí giải thời tiết],
+  [*Lửa*], [Tri thức, sự tiến hoá, lòng nhân ái], [Prô-mê-tê], [Đề cao văn minh]
+)
+
+= 2.11. Bảy Câu hỏi Vạn năng để "Giải mã" Bất kì Truyện Thần thoại Mới
+
+Trong phòng thi, ngữ liệu là một truyện bạn #strong[chưa từng đọc]. Bảy câu hỏi dưới đây, trả lời trong 3 phút bằng bút chì ra lề giấy, sẽ tạo ra dàn ý cho cả Câu 9, Câu 10 và phần Thân bài nghị luận:
+
+#formula-box(title: "MA TRẬN 7 CÂU HỎI — ÁP DỤNG CHO MỌI NGỮ LIỆU THẦN THOẠI", breakable-box: true)[
+  #set text(size: 9pt)
+  #grid(
+    columns: (1fr, 1fr),
+    column-gutter: 12pt,
+    row-gutter: 6pt,
+    [*1. Ai là nhân vật chính?* Tên gọi, nguồn gốc (thần, người, vật), hình dạng, chức năng.],
+    [*2. Truyện kể về “cái thiếu” gì?* Điều gì chưa có, đang sai, đang thiếu: trời đất chưa tách, loài người chưa có, mùa màng thất bát.],
+    [*3. Hành động nào giải quyết?* Chuỗi hành động của nhân vật, kèm phương tiện (búa, quạt, nỏ, đất sét).],
+    [*4. Kết quả và hiện tượng nào được giải thích?* Câu trả lời cho “vì sao bây giờ lại thế”.],
+    [*5. Chi tiết kì ảo nào đắt nhất?* Chọn #strong[một] chi tiết, phân tích cơ chế và ý nghĩa của nó.],
+    [*6. Nhân vật đại diện cho ai?* Cộng đồng, tự nhiên, một tầng lớp, hay chính người kể chuyện.],
+    [*7. Khát vọng nào được gửi gắm?* Chinh phục tự nhiên, lí giải thế giới, khẳng định sức lao động, hay ước mơ công lí.]
+  )
+]
+
+#callout(title: "CÁCH DÙNG BẢY CÂU HỎI TRONG PHÒNG THI", tone: "success", icon: "✓")[
+  Câu 1 và 2 trả lời cho #strong[Câu 9] (hiểu). Câu 4 và 5 trả lời cho #strong[Câu 10] (vận dụng, ý nghĩa chi tiết). Câu 6 và 7 tạo thành #strong[hai luận điểm đánh giá] trong bài nghị luận. Câu 3 chỉ cần tóm tắt 3–4 dòng ở phần mở bài. Bảy câu trả lời, ba câu hỏi của đề, một bài văn — tất cả từ ba phút nháp.
+]
+
+
+= 2.12. Bảng Tra 12 Thần thoại Ngoài SGK theo Mẫu Câu hỏi Thi
+
+Khi ôn, học sinh thường học theo truyện. Nhưng trong phòng thi, câu hỏi đến theo #strong[kiểu câu hỏi], không theo truyện. Bảng dưới đây đảo ngược cách học: tra theo dạng câu hỏi để thấy mỗi dạng cần nhớ gì ở mỗi truyện.
+
+#study-table(
+  (1.45fr, 1.7fr, 2.65fr),
+  ("Mẫu câu hỏi thường ra", "Truyện hay được hỏi", "Điều bắt buộc phải nhớ"),
+
+  [“Truyện lí giải hiện tượng tự nhiên nào?”],
+  [*Thần Trụ Trời*, *Thần Mưa*, *Thần Gió*, *Thần Sét*, *Nữ thần Mặt Trời và Mặt Trăng*],
+  [Mỗi truyện phải nhớ #strong[một hiện tượng] và #strong[một cơ chế]: trời đất tách ra (đắp cột), mưa – hạn (quên tưới), gió – bão (quạt quá tay), sấm sét (búa đá), ngày dài – ngắn (khiêng kiệu chậm).],
+
+  [“Chi tiết X có ý nghĩa gì?”],
+  [*Thần Sét* (sợ tiếng gà), *Rắn già rắn lột* (lệnh truyền nhầm), *Bàn Cổ* (thân thể hoá vạn vật)],
+  [Nhớ #strong[ba tầng nghĩa] của chi tiết: nghĩa đen (giải thích hiện tượng) – nghĩa biểu tượng (quan niệm về con người) – nghĩa thẩm mĩ (cái hài hước, cái kì vĩ).],
+
+  [“Nhân vật thể hiện khát vọng gì?”],
+  [*Hậu Nghệ*, *Khoa Phụ*, *Tinh Vệ*, *Prô-mê-tê*],
+  [Khát vọng #strong[chinh phục tự nhiên] và #strong[vượt qua giới hạn]. Kết cục thường là thất bại thực tế nhưng thắng lợi về tinh thần.],
+
+  [“Vì sao truyện vẫn còn sức hấp dẫn?”],
+  [Bất kì truyện nào],
+  [Ba lí do: #strong[tính nguyên hợp] (chứa nhiều lớp văn hoá), #strong[trí tưởng tượng] (cái kì vĩ, cái bất ngờ), #strong[chiều sâu nhân văn] (vẫn trả lời câu hỏi hôm nay).],
+
+  [“So sánh hai truyện” \ *(Phương án B)*],
+  [*Thần Mưa* – *Thần Gió*; *Bàn Cổ* – *Thần Trụ Trời*; *Nữ Oa* – *Prô-mê-tê*],
+  [Lập #strong[bảng 3 dòng]: điểm gặp gỡ (thể loại, chức năng) – điểm khác (cách lí giải, tính cách nhân vật) – nhận xét khái quát (điều khác biệt ấy nói gì về văn hoá).],
+
+  [“Chi tiết nào phản ánh đời sống văn hoá?”],
+  [*Cuộc tu bổ lại các giống vật* (chân ghế, chân hương), *Nữ thần Lúa* (cơm mới), *Thần Sét* (gõ mõ xua sấm)],
+  [Nhớ #strong[vật dụng] và #strong[tục lệ] đi kèm. Đây là loại câu dễ mất điểm nhất vì học sinh thường bỏ qua chi tiết nhỏ.],
+
+  [“Nêu chủ đề và căn cứ xác định chủ đề”],
+  [Bất kì truyện nào],
+  [Bốn căn cứ cố định: #strong[nhan đề] – #strong[hình tượng nhân vật] – #strong[sự kiện trung tâm] – #strong[câu kết giải thích]. Luôn nêu đủ bốn, không chỉ nêu chủ đề.]
+)

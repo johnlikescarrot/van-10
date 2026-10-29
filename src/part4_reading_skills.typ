@@ -2,8 +2,8 @@
 
 #part-banner(
   "PHẦN IV",
-  "Phương Pháp Giải Nhanh Đọc Hiểu & Ngân Hàng 40 Câu Theo Chỉ Báo",
-  "Kĩ thuật phá bẫy TNKQ • Công thức 4 bước ăn trọn điểm Câu 9 & Câu 10 • 40 câu hỏi thực chiến kèm đáp án 100%"
+  "Phương Pháp Giải Nhanh Đọc Hiểu & Ngân Hàng 70 Câu Theo Chỉ Báo",
+  "Kĩ thuật phá bẫy TNKQ • Công thức 4 bước ăn trọn điểm Câu 9 & Câu 10 • 70 câu thực chiến kèm đáp án 100% • 5 dạng câu hỏi lạ"
 )
 
 = 4.1. Chiến thuật Phá Nhiễu 8 Câu Trắc nghiệm Khách quan (Câu 1 – 8: 4,0 điểm)
@@ -68,7 +68,7 @@ Giám khảo chấm Câu 9 theo thang điểm thành phần `0,25đ + 0,50đ + 0
   - #strong[Nhịp 4 — Đánh thức Hành động Bản thân (Câu 6 — 0,25đ):] Chốt lại nhận thức và hành động thiết thực của người trẻ hôm nay.
 ]
 
-= 4.4. Ngân hàng 40 Câu Hỏi Thực Chiến Phủ Kín 13 Chỉ Báo Bản Đặc Tả
+= 4.4. Ngân hàng 40 Câu Gốc Phủ Kín 13 Chỉ Báo Bản Đặc Tả
 
 == Phần A. 28 Câu Trắc nghiệm Khách quan Phân theo Nhóm Chỉ báo
 
@@ -194,7 +194,7 @@ D. Xây dựng đê điều ngăn dòng nước lũ tràn về hạ giới.
 
 *Câu 20.* Câu văn nào dưới đây mắc lỗi dùng sai từ Hán Việt?\
 A. *Thần thoại thể hiện khát vọng chinh phục tự nhiên lớn lao của con người thời cổ đại.*\
-B. *Trí tưởng tượng bay bổng là một yếu điểm làm nên sức hấp dẫn đặc biệt của thần thoại.*\
+B. *Xác định đúng cốt truyện là yếu điểm khi phân tích một truyện thần thoại.*\
 C. *Tính hay quên là một yếu điểm khiến Thần Mưa có lúc gây ra hạn hán, lũ lụt cho hạ giới.*\
 D. *Hình tượng Prô-mê-tê kết tinh vẻ đẹp trí tuệ và lòng nhân ái bao la.*
 
