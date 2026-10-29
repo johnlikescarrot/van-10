@@ -129,7 +129,7 @@ D. Lời người kể chuyện mang giọng điệu bi thương, ai oán não n
   - *Đánh giá mở rộng (0,50đ):* Đối sánh với *Prô-mê-tê và loài người* (Hy Lạp) hoặc *Nữ Oa tạo người* (Trung Hoa) để thấy niềm tự hào nhân bản sâu sắc của người Việt cổ về phẩm giá con người.
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 04 (~900 CHỮ — PHÂN TÍCH MƯỜI HAI BÀ MỤ)")[
+#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 04 (~1.010 CHỮ MẪU ĐẦY ĐỦ — THỰC CHIẾN CẮT CÒN 600 – 800)")[
   Trong hành trình truy tìm cội nguồn vạn vật thuở hồng hoang, không câu hỏi nào làm rung động tâm trí con người cổ đại mãnh liệt bằng câu hỏi về chính mình: *Loài người từ đâu sinh ra, vì sao con người lại có trí khôn vượt lên muôn thú, và ai đã nắn nên hình hài kì diệu cùng nụ cười trong trẻo của mỗi hài nhi mới lọt lòng?* Nếu thần thoại Hy Lạp giải đáp câu hỏi ấy bằng ngọn lửa của Prô-mê-tê, thần thoại Trung Hoa gửi gắm vào bàn tay đất sét của Nữ Oa, thì tâm hồn người Việt cổ đã dệt nên thiên thần thoại ấm áp *Mười hai Bà Mụ* (trích *Lược khảo về thần thoại Việt Nam* của học giả Nguyễn Đổng Chi). Tác phẩm là khúc ca suy nguyên thấm đẫm tinh thần nhân bản, hấp dẫn người đọc bởi chiều sâu chủ đề tôn vinh con người cùng những nét đặc sắc mộc mạc mà tinh tế về nghệ thuật tự sự dân gian.
 
   Đặt trong mạch liên kết của hệ thần thoại sáng thế Việt Nam, *Mười hai Bà Mụ* mở ra khi mặt đất vừa mới phân khai, đã được hai nữ thần Mặt Trời và Mặt Trăng chiếu sáng, hun khô. Bắt tay vào kiến tạo sự sống, Ngọc Hoàng dùng những chất cặn còn sót lại trong trời đất nặn ra muôn loài cầm thú, côn trùng trước; sau đó mới gạn lấy phần chất trong, chất tinh túy nhất để công phu nặn ra loài người. Tiếp nối công cuộc ấy, Ngọc Hoàng giao phó cho mười hai vị nữ thần khéo tay — tục gọi là Mười hai Bà Mụ — trọng trách chăm nom, nắn lại tai mắt, tứ chi và dạy nói dạy cười cho từng đứa trẻ đỏ hỏn chào đời nơi trần thế, cùng nhau chia sẻ trách nhiệm chung về mọi khiếm khuyết của con người.
@@ -265,7 +265,7 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
   - *Đánh giá mở rộng (0,50đ):* Đối sánh Nữ Oa vá trời với *Thần Trụ Trời* (Việt Nam) để thấy mô-típ *cột chống trời* phổ quát phương Đông và vẻ đẹp riêng của hình tượng Nữ Thần Mẹ cứu thế.
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 05 (~950 CHỮ — PHÂN TÍCH NỮ OA VÁ TRỜI)")[
+#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 05 (~1.060 CHỮ MẪU ĐẦY ĐỦ — THỰC CHIẾN CẮT CÒN 600 – 800)")[
   Đại văn hào M. Gorki từng khẳng định đầy chí lí: *“Thần thoại là sự phản ánh thiên nhiên và cuộc đấu tranh với thiên nhiên trong trí tưởng tượng nghệ thuật của người tiền sử”*. Đứng trước những cơn cuồng nộ kinh hoàng của đất trời thuở sơ khai, con người cổ đại không chịu cúi đầu tuyệt vọng mà đã ký thác khát vọng sinh tồn bất diệt của mình vào những đấng thần linh cứu thế vĩ đại. Trong kho tàng thần thoại phương Đông, hiếm có tác phẩm nào khắc họa vẻ đẹp ấy tráng lệ và xúc động như *Nữ Oa vá trời* (thần thoại Trung Quốc). Tác phẩm là bản giao hưởng huyền thoại tuyệt mĩ, kết tinh hài hòa giữa chủ đề ngợi ca tình mẫu tử cứu nhân độ thế và những nét đặc sắc rực rỡ về hình thức nghệ thuật tự sự cổ đại.
 
   Câu chuyện bắt đầu từ biến cố kinh thiên động địa phá vỡ cuộc sống yên bình của loài người: Thủy thần Cung Công thua trận trước Hỏa thần Chúc Dung đã hổ thẹn đập đầu vào núi Bất Chu — cây cột chống trời phía Tây Bắc — khiến vòm trời rách toang, đất rung núi cháy, hồng thủy dâng tràn nhấn chìm nhân thế. Đau xót trước cảnh đàn con thơ ngoi ngóp tuyệt vọng, nữ thần Nữ Oa đã một mình ngày đêm khuân đất đội đá, luyện đá ngũ sắc thành keo vá lành vòm trời, chặt bốn chân rùa khổng lồ dựng cột chống vững bốn phương, đốt tro lau lách ngăn lũ, giết rồng đen xua ác thú và ghép ống sậy làm nhạc cụ trao cho con cháu, đưa mặt đất trở lại cảnh bốn mùa no ấm, thanh bình.
@@ -390,7 +390,7 @@ D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Tr
   - *Đánh giá mở rộng (0,50đ):* Đối sánh với *Mười hai Bà Mụ* và *Thần Lửa* của Việt Nam để làm bật tinh thần duy lí, tôn vinh tư thế đứng thẳng và khát vọng khai sáng văn minh đặc trưng của văn hoá Hy Lạp cổ đại.
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 06 (~960 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
+#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 06 (~1.060 CHỮ MẪU ĐẦY ĐỦ — THỰC CHIẾN CẮT CÒN 600 – 800)")[
   Trong lịch sử tư tưởng nhân loại, C. Mác từng tôn vinh Prô-mê-tê là *“vị thánh và người tử vì đạo cao quý nhất trong lịch triết học”* — biểu tượng bất diệt của trí tuệ khai sáng và tình yêu thương con người vô bờ bến. Quay ngược dòng thời gian về buổi bình minh rực rỡ của văn minh Địa Trung Hải qua bản kể tài hoa của học giả Nguyễn Văn Khoả (*Thần thoại Hy Lạp*), truyện *Prô-mê-tê và loài người* hiện lên như một viên kim cương lấp lánh của thể loại thần thoại cổ đại. Tác phẩm không chỉ chinh phục độc giả bằng chủ đề nhân văn sâu thẳm lí giải cội nguồn sức mạnh văn minh con người, mà còn cuốn hút mãnh liệt nhờ hệ thống hình thức nghệ thuật tự sự giàu kịch tính và chất thơ tráng lệ.
 
   Câu chuyện mở ra vào thuở hồng hoang khi thế gian mới chỉ có các vị thần và mặt đất mênh mông còn hết sức buồn tẻ. Được thần Bầu Trời U-ra-nôx và Đất Mẹ Gai-a ưng thuận, hai anh em Titan là Prô-mê-tê và Ê-pi-mê-tê bắt tay nhào nặn sự sống từ đất và nước. Cậu em Ê-pi-mê-tê hăm hở tranh làm trước, ban phát hết mọi đặc ân “vũ khí” phòng thân cho muôn loài cầm thú, để rồi đến cuối cùng lại lơ đễnh bỏ sót con người trong tình cảnh trần trụi, bấy yếu hoàn toàn. Không đành lòng nhìn con người diệt vong trước nanh vuốt thú dữ và thiên tai khắc nghiệt, người anh Prô-mê-tê thông minh đã tái tạo vóc dáng con người đứng thẳng thanh tao như thần linh, rồi dũng cảm băng lên bầu trời xa tít tắp châm lửa từ cỗ xe thần Mặt Trời Hê-li-ôx đem xuống trao tặng nhân gian, mở ra kỉ nguyên văn minh hạnh phúc cho loài người.
@@ -402,4 +402,138 @@ D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Tr
   Đặc biệt, nghệ thuật xây dựng nhân vật bằng #strong[thủ pháp tương phản kép] đã tạo nên sức hấp dẫn thẩm mĩ khó quên cho văn bản. Tương phản thứ nhất nằm ngay trong cặp nhân vật anh em mang ý nghĩa triết học từ chính tên gọi tiếng Hy Lạp: *Ê-pi-mê-tê* (kẻ nghĩ sau — hấp tấp, bản năng, đãng trí) đối lập gay gắt với *Prô-mê-tê* (người nghĩ trước — điềm tĩnh, thông tuệ, giàu trách nhiệm và tình thương). Tương phản thứ hai đặt sự *“hoàn hảo”* cơ bắp của muôn thú cạnh sự *“bấy yếu”* thể xác nhưng vô địch về văn minh tinh thần của con người có lửa. Hơn nữa, lời trần thuật ngôi thứ ba trong bản kể cực kì biến hóa: lúc rộn ràng với phép điệp cấu trúc *“Con thì...”* và phép liệt kê dồn dập khắc họa thế giới muôn loài; lúc lắng sâu trăn trở trong chuỗi câu hỏi tu từ nửa trực tiếp (*“Làm thế nào bây giờ?... Con người sẽ sống thế nào...?”*); lúc bừng sáng hào sảng khi ngọn lửa rực cháy khắp thế gian và khép lại bằng ba dòng thơ súc tích ngân vang như một khúc khải hoàn ca.
 
   Hơn ba thiên niên kỉ đã trôi qua kể từ buổi bình minh Hy Lạp cổ đại, song ngọn đuốc mà Prô-mê-tê châm từ cỗ xe Mặt Trời vẫn cháy sáng bất diệt trong tâm thức nhân loại — tương đồng kì diệu với niềm tự hào con người được gạn từ *“chất trong tinh túy”* trong thần thoại *Mười hai Bà Mụ* của dân tộc Việt Nam. Khép lại trang văn, mỗi người trẻ hôm nay càng thấm thía bổn phận đứng thẳng hiên ngang bằng đôi chân mình, không ngừng thắp sáng ngọn lửa tri thức và lòng nhân ái để viết tiếp hành trình văn minh rực rỡ của con người trên mặt đất.
+]
+
+// ============================================================================
+// ĐỀ MINH HỌA SỐ 07: THẦN LỬA (BÀ HỎA)
+// ============================================================================
+#exam-header("07", "Thần Lửa (Bà Hỏa)", "Phương án A: 01 ngữ liệu tích hợp")
+
+*I. PHẦN ĐỌC HIỂU (6,0 điểm)* — *Đọc văn bản sau và thực hiện các yêu cầu từ Câu 1 đến Câu 10:*
+
+#passage-box(
+  title: "THẦN LỬA",
+  source: "Theo Kho tàng thần thoại Việt Nam (Tuyển tập văn học dân gian Việt Nam), NXB Khoa học Xã hội"
+)[
+  Tương truyền, Thần Lửa là một bà già mặt mũi rất hung dữ. Người ta thường gọi là bà Hỏa. Thần chuyên giữ một thứ lửa rất mầu nhiệm, có thể đặt nồi không mà nấu ra đủ những thức ăn rất ngon lành. Nhưng thứ lửa ấy không phải là để cho hạ giới dùng.
+
+  Ngày ấy, có một ông lão đi vào trong rừng sâu, bỗng bắt gặp một bếp lửa của bà Thần Lửa lúc ấy đang đi đâu vắng. Ông ta mừng quýnh, bèn chặt một ống nứa không đặt lên bếp lửa. Chỉ trong một chốc, ống nứa tự nhiên thấy đầy cơm chín, lại có cả cá thịt nữa. Ông bèn đổ ra rá ăn một bụng no nê rồi ngủ luôn tại đó. Chẳng dè trong khi ông lão ngủ say thì bà Thần Lửa bất chợt trở về. Thấy có người lạ khám phá ngọn lửa mầu nhiệm của mình, bà liền rút bầu nước mang theo người ra tưới tắt bếp lửa rồi đi mất.
+
+  Chừng ông lão tỉnh dậy thấy tắt mất bếp, biết là thần Lửa không muốn cho mình hưởng, nhưng ông cụ cũng cố bươi đống tro tàn ra xem, thì may thay hãy còn một tí than đỏ. Ông lão mừng rỡ, vội bỏ vào khố bọc lại, mang về nhà nhen nhóm lên. Từ đó ngày nào cũng cơm thịt đề huề, gia đình ông lão sống rất sung túc. Và từ đó, ông lão luôn luôn giữ gìn ngọn lửa, không bao giờ dám để tắt.
+
+  Nhưng rồi một hôm, lúc ông cụ đi vắng, người con dâu đi ra suối múc nước về, bỗng thấy lửa bén vào vách mà nhà vắng không có ai cả. Chị ta lật đật mang cả vò nước xối vào khắp mọi nơi. Đến chừng ông lão trở về thì tiếc thay lửa đã tắt ngấm, không còn một chút than đỏ nào nữa.
+
+  Thần Lửa cũng có nhiều lúc hung dữ, cho bộ hạ đi tàn phá nhà cửa nhân gian, cây cối. Người ta thường phân biệt lửa của thần khi đốt nhà là một thứ lửa màu xanh xanh, liếm từ trên nóc xuống. Trong số bộ hạ của Thần Lửa có thằng Bợ hung ác quen thói. Nó ở với thần Lửa lâu năm, một hôm ăn cắp lửa của thần rồi trốn đi. Nó là kẻ thù của loài người. Hình như về sau nó bị thần bắt được và đày xuống địa ngục.
+]
+
+*Lựa chọn 01 đáp án đúng nhất cho mỗi câu hỏi từ Câu 1 đến Câu 8 (mỗi câu 0,5 điểm):*
+
+*Câu 1* #badge-biet. Hình tượng Thần Lửa (bà Hỏa) trong văn bản được xây dựng chủ yếu bằng thủ pháp nghệ thuật nào, và phản ánh cơ sở tư duy nào của người cổ đại?\
+A. Nhân hóa (thần hóa) tự nhiên thành một bà già có tính nết, bắt nguồn từ tư duy vạn vật hữu linh.\
+B. So sánh trùng điệp nhằm phóng đại vóc dáng của vị thần trong không gian vũ trụ.\
+C. Ẩn dụ chuyển đổi cảm giác để tả sức nóng của ngọn lửa.\
+D. Hoán dụ lấy bộ phận (ngọn lửa) để gọi toàn thể (bà Hỏa).
+
+*Câu 2* #badge-biet. Văn bản *Thần Lửa* chủ yếu thuộc tiểu loại thần thoại nào?\
+A. Thần thoại suy nguyên (lí giải nguồn gốc, bản chất tự nhiên).\
+B. Thần thoại sáng tạo văn hoá (ngợi ca anh hùng văn hoá truyền nghề).\
+C. Truyền thuyết lịch sử gắn với nhân vật và triều đại xác định.\
+D. Truyện cổ tích sinh hoạt với mô-típ ở hiền gặp lành.
+
+*Câu 3* #badge-biet. Chi tiết kì ảo *“chặt một ống nứa không đặt lên bếp lửa”, chỉ trong một chốc đã “đầy cơm chín, lại có cả cá thịt”* chủ yếu thể hiện ước mơ nào của người xưa?\
+A. Ước mơ có được thứ lửa thiêng nấu chín thức ăn, đem lại no đủ mà không phải vất vả kiếm tìm.\
+B. Khát vọng chế ra nồi đồng, niêu sắt thay cho ống nứa.\
+C. Mong muốn diệt trừ các loài thú dữ trong rừng sâu.\
+D. Khát vọng bay lên thiên đình gặp Ngọc Hoàng.
+
+*Câu 4* #badge-biet. Chi tiết người ta phân biệt *“lửa của thần khi đốt nhà là một thứ lửa màu xanh xanh, liếm từ trên nóc xuống”* giúp người xưa lí giải điều gì?\
+A. Những vụ hỏa hoạn bất ngờ, cháy nhanh từ mái xuống mà người xưa không rõ nguyên nhân.\
+B. Hiện tượng thủy triều dâng lên rút xuống ở vùng ven biển.\
+C. Sự hình thành các dòng sông uốn khúc quanh co.\
+D. Tập tính co một chân khi ngủ của chó và vịt.
+
+*Câu 5* #badge-biet. Đoạn kết nhắc đến *“thằng Bợ”* ăn cắp lửa rồi bị đày xuống địa ngục có vai trò gì trong hệ thống nhân vật của truyện?\
+A. Giải thích vì sao có những đám cháy do kẻ ác gây ra, đồng thời hoàn chỉnh tính cách hai mặt của Thần Lửa: vừa giữ lửa vừa có thể trừng phạt.\
+B. Giải thích nguồn gốc các loài côn trùng sống trong lòng đất.\
+C. Chứng minh Thần Lửa hoàn toàn ác độc, không có chút nhân từ nào.\
+D. Mở ra một hệ thần thoại mới về cõi âm phủ của người Việt cổ.
+
+*Câu 6* #badge-biet. Văn bản được kể theo ngôi thứ mấy và sử dụng phương thức biểu đạt chính nào?\
+A. Ngôi thứ nhất — Biểu cảm. #h(2.5em) B. Ngôi thứ ba — Tự sự.\
+C. Ngôi thứ ba — Nghị luận. #h(2.7em) D. Ngôi thứ hai — Miêu tả.
+
+*Câu 7* #badge-hieu. Từ việc Thần Lửa vừa ban cho ông lão hạt lửa để *“ngày nào cũng cơm thịt đề huề”*, vừa *“có nhiều lúc hung dữ, cho bộ hạ đi tàn phá nhà cửa nhân gian, cây cối”*, có thể thấy cách nhìn của người xưa về lửa như thế nào?\
+A. Lửa hoàn toàn là thứ đáng sợ, cần tránh xa.\
+B. Lửa mang quyền năng hai mặt: nuôi sống con người khi được làm chủ, nhưng cũng tàn phá khi vượt khỏi tầm kiểm soát.\
+C. Lửa là sản phẩm do con người tự chế ra, không liên quan đến thần linh.\
+D. Lửa chỉ xuất hiện ở cõi trời, không có mặt ở hạ giới.
+
+*Câu 8* #badge-hieu. Dòng nào khái quát đầy đủ nhất chủ đề của văn bản *Thần Lửa*?\
+A. Kể về cuộc đời bi kịch của một bà già cô đơn sống trong rừng sâu.\
+B. Ca ngợi trí thông minh của người con dâu biết dùng nước dập lửa.\
+C. Lí giải nguồn gốc, quyền năng hai mặt của ngọn lửa và gửi gắm bài học về sự trân trọng, cẩn trọng với của quý.\
+D. Phê phán thói tham lam của con người dám lấy lửa của thần linh.
+
+*Trả lời các câu hỏi Tự luận sau:*
+
+*Câu 9* #badge-hieu *(1,0 điểm).* Phân tích tác dụng của chi tiết ông lão bươi đống tro tàn, vớt được *“một tí than đỏ”* mang về nhen nhóm, rồi từ đó *“luôn luôn giữ gìn ngọn lửa, không bao giờ dám để tắt”* trong việc thể hiện nhận thức của người xưa.
+
+*Câu 10* #badge-vd *(1,0 điểm).* Từ chi tiết người con dâu thấy lửa bén vách bèn *“lật đật mang cả vò nước xối vào khắp mọi nơi”* làm mất hẳn bảo vật, anh/chị rút ra bài học gì về cách xử trí trước một sự cố bất ngờ trong học tập và cuộc sống? (Trình bày trong khoảng 5 – 7 dòng).
+
+*II. PHẦN VIẾT (4,0 điểm)*
+
+*Câu 11* #badge-biet #badge-hieu #badge-vd *(4,0 điểm).* Anh/chị hãy viết bài văn nghị luận (khoảng 600 – 800 chữ) phân tích, đánh giá chủ đề và những nét đặc sắc về hình thức nghệ thuật của truyện thần thoại *Thần Lửa* ở phần Đọc hiểu.
+
+#answer-box(title: "ĐÁP ÁN, GIẢI THÍCH LOẠI NHIỄU & HƯỚNG DẪN CHẤM ĐỀ SỐ 07")[
+  *1. Bảng Đáp án & Giải thích Phá nhiễu Phần Trắc nghiệm (4,0 điểm — mỗi câu đúng 0,5 điểm):*
+  #study-table(
+    (0.6fr, 0.6fr, 1.3fr, 4.5fr),
+    ("Câu", "Đ/A", "Chỉ báo", "Giải thích căn cứ & Loại trừ phương án nhiễu"),
+    [*1*], [*A*], [CB2, CB3 – Biết], [Ngọn lửa được gán hình dạng một bà già và tính nết hung dữ, biết giận, biết trả thù → nhân hóa (thần hóa) tự nhiên. B sai vì không có so sánh trùng điệp, không phóng đại vóc dáng; C sai vì không có ẩn dụ chuyển đổi cảm giác; D sai vì bà Hỏa là hình tượng nhân hóa trọn vẹn, không phải phép gọi tên bằng bộ phận.],
+    [*2*], [*A*], [CB3 – Biết], [Truyện dành phần lớn dung lượng để lí giải ngọn lửa từ đâu mà có, vì sao nấu chín thức ăn và vì sao lại gây cháy → *suy nguyên*. Loại B vì nhân vật chính là một vị thần tự nhiên, không phải anh hùng văn hoá truyền nghề; loại C, D vì sai thể loại.],
+    [*3*], [*A*], [CB3 – Biết], [Ống nứa rỗng tự đầy cơm cá là chi tiết kì ảo gắn với nhu cầu ăn no mặc ấm, tiêu biểu cho ước mơ làm chủ ngọn lửa nấu nướng của người xưa. B, C, D đưa những chi tiết không có trong văn bản.],
+    [*4*], [*A*], [CB3 – Biết], [Lửa xanh liếm từ nóc xuống là cách lí giải hồn nhiên về những vụ cháy nhà bất ngờ, lan rất nhanh từ mái xuống. B, C, D là hiện tượng được lí giải trong các thần thoại khác (*Thần Biển, Ông Đùng bà Đùng, Cuộc tu bổ lại các giống vật*).],
+    [*5*], [*A*], [CB2, CB9 – Biết], [Thằng Bợ vừa giải thích những đám cháy do kẻ ác gây ra, vừa làm rõ quyền năng của Thần Lửa: giữ lửa, ban lửa và trừng phạt kẻ đánh cắp. C sai vì Thần Lửa từng để lại tí than đỏ cho ông lão, không hoàn toàn ác; B, D suy diễn vượt quá văn bản.],
+    [*6*], [*B*], [CB3 – Biết], [Người kể giấu mình, gọi tên nhân vật (*ông lão, bà Thần Lửa, chị con dâu*) → ngôi thứ ba. Văn bản thuật lại chuỗi sự việc có trước có sau → phương thức biểu đạt chính là tự sự.],
+    [*7*], [*B*], [CB6, CB7 – Hiểu], [Hai chi tiết đặt cạnh nhau cho thấy nhận thức về tính hai mặt của lửa: nguồn sống và hiểm họa. A thu hẹp nghĩa; C ngược với văn bản (lửa là của thần); D mâu thuẫn với việc ông lão giữ được hạt lửa ở nhà.],
+    [*8*], [*C*], [CB7 – Hiểu], [Chủ đề = lí giải nguồn gốc và quyền năng của lửa + bài học về sự trân trọng, cẩn trọng (tục giữ lửa, sự vội vàng của người con dâu). A, B thu hẹp vào một chi tiết; D áp đặt thái độ phê phán mà văn bản không có.],
+  )
+
+  *2. Hướng dẫn chấm & Đoạn trả lời mẫu Câu 9 (1,0 điểm — Thông hiểu):*
+  - *GỌI (0,25đ):* Đây là chi tiết kì ảo then chốt, nơi người xưa lí giải việc con người có được ngọn lửa đầu tiên.
+  - *TRÍCH:* *“hãy còn một tí than đỏ ... vội bỏ vào khố bọc lại, mang về nhà nhen nhóm lên”*, *“luôn luôn giữ gìn ngọn lửa, không bao giờ dám để tắt”*.
+  - *GIẢI (0,50đ):* Hạt lửa còn sót lại trong tro tàn phản ánh kinh nghiệm thực tế của người xưa: lửa khó kiếm, dễ tắt, nên phải biết nhóm lại từ than hồng và phải canh giữ liên tục. Chi tiết ấy cũng thể hiện niềm tin lửa là vật thiêng của thần, con người chỉ nhận được một phần rất nhỏ, được ban chứ không phải tự tạo ra → thái độ biết ơn, nâng niu.
+  - *CHỐT (0,25đ):* Từ đây hình thành nếp sống gắn với bếp lửa của cư dân Việt: giữ lửa qua đêm, giữ than làm giống, coi bếp lửa là trung tâm của gia đình; đồng thời cho thấy tư duy vạn vật hữu linh và quan sát thực tế tinh tế của người xưa.
+
+  *3. Hướng dẫn chấm & Đoạn trả lời mẫu Câu 10 (1,0 điểm — Vận dụng):*
+  - *Nhịp 1 (0,25đ):* Bài học em chọn: trước một sự cố bất ngờ, cần giữ bình tĩnh, xác định đúng nguyên nhân và ranh giới của vấn đề trước khi hành động.
+  - *Nhịp 2 (0,25đ):* Trong truyện, chị con dâu thấy lửa bén vách đã vội dội cả vò nước, dập tắt cả hạt lửa quý mà đáng ra chỉ cần dập đúng chỗ bén vách là giữ được. Sự vội vàng biến một việc đáng làm thành một mất mát không thể cứu vãn.
+  - *Nhịp 3 (0,25đ):* Trong học tập và cuộc sống hôm nay cũng vậy: một lỗi nhỏ trong bài làm, một hiểu lầm với bạn bè hay một thông tin xấu trên mạng, nếu phản ứng quá vội thì hậu quả thường lớn hơn sự cố ban đầu.
+  - *Nhịp 4 (0,25đ):* Bản thân em tập thói quen dừng lại vài giây trước khi quyết định, hỏi rõ sự việc và nhờ người có kinh nghiệm cùng xử lí, bình tĩnh giữ lại những giá trị đáng giữ.
+
+  *4. Thang chấm Bài văn Nghị luận Câu 11 (4,0 điểm — xem chi tiết mục 5.3):*
+  - *Đảm bảo cấu trúc 3 phần (0,25đ):* Mở bài, Thân bài 4–5 đoạn, Kết bài; dung lượng 600 – 800 chữ.
+  - *Giới thiệu & tóm tắt (0,75đ):* Gọi đúng nhan đề *Thần Lửa*, thể loại thần thoại suy nguyên Việt Nam; tóm tắt 4–6 câu đủ 4 mốc: ông lão gặp bếp thần → ống nứa thành cơm cá → thần tưới tắt → vớt than đỏ đem về → con dâu dội vò nước làm mất lửa.
+  - *Phân tích, đánh giá Chủ đề (0,75đ):* (1) Lí giải nguồn gốc, quyền năng và tính hai mặt của ngọn lửa (*nuôi sống / tàn phá*); (2) Khát vọng làm chủ lửa để có cơm thịt đề huề và bài học trân trọng, giữ gìn của quý; dấu vết tín ngưỡng thờ lửa và tục giữ bếp lửa của người Việt.
+  - *Phân tích, đánh giá Hình thức Nghệ thuật (1,00đ):* Nhân hóa (thần hóa) ngọn lửa thành bà Hỏa có tính nết đời thường; chi tiết kì ảo gắn với vật dụng nhà nông (*ống nứa, rá, khố, vò nước, vách nứa*); cốt truyện đơn tuyến theo nhịp lặp hai lần được – mất; ngôi kể thứ ba với lời kể mộc mạc, khách quan; chi tiết thằng Bợ hoàn chỉnh tính cách hai mặt của thần.
+  - *Đánh giá tổng hợp & Mở rộng (0,50đ):* Đối sánh với hình tượng Prô-mê-tê lấy lửa trao cho loài người trong thần thoại Hy Lạp để thấy bản sắc riêng: lửa trong thần thoại Việt gắn với bếp nhà, với nỗi sợ cháy và với tục giữ lửa của cư dân lúa nước.
+  - *Chính tả, ngữ pháp (0,25đ) & Sáng tạo (0,50đ)* theo tiêu chí chung ở mục 5.3.
+]
+
+#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 07 (~1.040 CHỮ MẪU ĐẦY ĐỦ — THỰC CHIẾN CẮT CÒN 600 – 800)")[
+  Trong lịch sử văn minh nhân loại, việc biết nhóm lửa và giữ được lửa mở đầu cho mọi bước tiến còn lại. Ở buổi bình minh của tư duy, khi chưa có khái niệm phản ứng hóa học, người Việt cổ đã lí giải sự tồn tại của lửa bằng một câu chuyện rất đời thường: truyện *Thần Lửa*, hay bà Hỏa, được lưu trong kho tàng thần thoại Việt Nam. Chỉ qua một ngọn lửa mầu nhiệm nấu cơm từ ống nứa không và một vò nước dội vội làm tắt mất bảo vật, tác giả dân gian vừa cắt nghĩa nguồn gốc và quyền năng của lửa, vừa gửi gắm bài học về sự trân trọng và cẩn trọng. Hai điều ấy chính là chủ đề và đặc sắc nghệ thuật đáng bàn nhất của văn bản.
+
+  Chuyện kể rằng Thần Lửa là một bà già mặt mũi hung dữ, chuyên giữ thứ lửa mầu nhiệm đặt nồi không cũng nấu ra cơm cá. Một ông lão vào rừng sâu tình cờ gặp bếp lửa lúc thần đi vắng, bèn chặt ống nứa đặt lên, được một bữa no nê rồi ngủ lại. Thần trở về, tưới nước tắt bếp rồi bỏ đi. Bươi trong tro tàn, ông lão vớt được một tí than đỏ đem về nhen nhóm, nhờ đó gia đình sung túc và ông giữ lửa không dám để tắt. Về sau, khi ông đi vắng, người con dâu thấy lửa bén vách bèn dội cả vò nước, làm lửa tắt ngấm, cha con mất hẳn bảo vật của thần.
+
+  Trước hết, chủ đề của truyện nằm ở cách người xưa lí giải nguồn gốc và quyền năng của ngọn lửa. Với họ, lửa không phải là vật tự nhiên mà là vật thiêng do một vị thần giữ, vì thế con người chỉ có thể nhận được chứ không tự tạo ra. Chi tiết ống nứa rỗng chốc lát đã đầy cơm chín, có cả cá thịt, gói trọn ước mơ no đủ của người xưa: có lửa là có bữa ăn, có bữa ăn là có sự sống. Còn chi tiết ông lão vớt được một tí than đỏ trong đống tro tàn lại cho thấy một quan sát thực tế rất tinh: lửa dễ tắt, khó kiếm, chỉ cần giữ lại được một hạt than hồng là có thể nhen lại cả bếp. Từ đó hình thành nếp sống gắn với bếp lửa của cư dân Việt: giữ lửa qua đêm, giữ than làm giống, coi bếp là chỗ ấm nhất của ngôi nhà.
+
+  Lớp nghĩa thứ hai của chủ đề nằm ở cách nhìn hai mặt về lửa. Văn bản kể cả chuyện được lửa lẫn chuyện mất lửa và sợ lửa. Thần Lửa ban cho ông lão cơm thịt đề huề, song cũng có lúc *“hung dữ, cho bộ hạ đi tàn phá nhà cửa nhân gian, cây cối”*; lửa của thần đốt nhà thì *“màu xanh xanh, liếm từ trên nóc xuống”*, còn thằng Bợ ăn cắp lửa đi làm hại người. Cách lí giải ấy phản ánh kinh nghiệm của cư dân ở nhà sàn, nhà nứa: lửa nuôi sống cả nhà, nhưng chỉ một chút lơ là là trắng tay. Vì vậy bài học của truyện có hai mặt: trân trọng, giữ gìn thứ quý mình đang có, và bình tĩnh khi xử lí sự cố — sự vội vàng của người con dâu đã biến một việc đáng làm thành mất mát không thể cứu vãn.
+
+  Để làm bừng sáng chủ đề ấy, tác giả dân gian dùng hệ thống hình thức nghệ thuật mang đậm dấu ấn thể loại. Nổi bật nhất là thủ pháp thần hóa tự nhiên: ngọn lửa vô hình được gán hình dạng một bà già và một tính nết rất người — hung dữ, hay giận, sẵn sàng tưới tắt bếp khi thấy mình bị phát hiện. Nhờ thế, một hiện tượng tự nhiên trở thành nhân vật có thể ban ơn và trừng phạt. Các chi tiết kì ảo đi kèm lại được làm từ vật dụng quanh nhà: ống nứa, rá đựng cơm, khố bọc than, vò nước, vách nứa bén lửa. Trí tưởng tượng bay xa mà chân vẫn đứng trên nền nhà đất, và đó là lí do thần thoại Việt Nam mang giọng điệu mộc mạc của cư dân làm ruộng.
+
+  Về kết cấu, cốt truyện đơn tuyến nhưng có nhịp lặp đắt: hai lần được lửa, hai lần mất lửa. Lần đầu ông lão mất bếp thần nhưng vớt được hạt than đỏ; lần sau người con dâu làm mất hẳn vì thiếu cẩn trọng. Nhịp lặp ấy nhấn mạnh bài học ở cuối truyện. Ngôi kể thứ ba cho phép người kể quan sát cả trong rừng lẫn trong nhà, còn lời kể mộc mạc, không bình luận dài dòng, giữ được vẻ khách quan, cổ kính của truyện kể dân gian truyền miệng.
+
+  Đặt cạnh Prô-mê-tê lấy lửa trao cho loài người trong thần thoại Hy Lạp, bà Hỏa của người Việt hiện lên với một nét riêng. Prô-mê-tê mang ngọn đuốc văn minh đến cho nhân loại trong tư thế người anh hùng hiến dâng; bà Hỏa giữ lửa như một của quý gia đình, ban phát dè dặt và sẵn sàng thu lại. Khác biệt ấy bắt nguồn từ hoàn cảnh sống: cư dân lúa nước ở nhà sàn, quanh năm lo cơm nước cũng là lo giữ lửa, nên hiểu lửa trước hết qua bếp núc và qua nỗi sợ cháy.
+
+  Khép lại truyện *Thần Lửa*, người đọc hôm nay có thể mỉm cười trước hình ảnh một vị thần biết giận và một hạt than đỏ bọc trong khố. Sau nụ cười ấy là một di sản đáng trân trọng: trí tưởng tượng hồn nhiên của cha ông, kinh nghiệm giữ lửa của cư dân làm ruộng và lời nhắc sống cẩn trọng, biết ơn những điều bình dị đang nuôi sống mình mỗi ngày. Ngày nay bếp ga, bếp điện đã thay bếp củi, câu chuyện vẫn còn nguyên giá trị ấy — đó là lí do nó vẫn được học sinh lớp mười đọc lại mỗi năm học mới.
 ]

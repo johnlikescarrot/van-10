@@ -2,8 +2,8 @@
 
 #part-banner(
   "PHẦN VI",
-  "Bộ 06 Đề Kiểm Tra Giữa Kì I Chuẩn 100% Ma Trận & Đáp Án Toàn Diện",
-  "66 câu hỏi chuẩn cấu trúc 90 phút • Giải thích loại trừ từng phương án nhiễu • Thang chấm 0,25đ & 06 Bài văn mẫu hoàn chỉnh"
+  "Bộ 07 Đề Kiểm Tra Giữa Kì I Chuẩn 100% Ma Trận & Đáp Án Toàn Diện",
+  "77 câu hỏi chuẩn cấu trúc 90 phút • Giải thích loại trừ từng phương án nhiễu • Thang chấm 0,25đ & 07 Bài văn mẫu hoàn chỉnh"
 )
 
 // ============================================================================
@@ -114,7 +114,7 @@ D. Khuyên răn người già và người trẻ phải biết phân chia công 
   - *Đánh giá tổng hợp & Mở rộng (0,50đ):* Đối sánh với thần Mặt Trời Hê-li-ôx cưỡi cỗ xe lửa tráng lệ trong thần thoại Hy Lạp để thấy vẻ đẹp mộc mạc, đậm hồn quê Việt (*chiếc kiệu khiêng, nắm tro bếp, tiếng cối giã gạo*).
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 01 (~920 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
+#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 01 (~1.110 CHỮ MẪU ĐẦY ĐỦ — THỰC CHIẾN CẮT CÒN 600 – 800)")[
   Bàn về sức quyến rũ vĩnh hằng của thần thoại cổ đại, C. Mác từng nhận định đầy say mê rằng đó là *“thời thơ ấu bình thường của nhân loại”* — nơi vẻ đẹp hồn nhiên, trong trẻo *“một đi không trở lại”* mãi mãi tỏa sáng qua hàng ngàn năm lịch sử. Trở về buổi bình minh hồng hoang của dân tộc qua công trình *Lược khảo về thần thoại Việt Nam* của học giả Nguyễn Đổng Chi, người đọc không khỏi ngỡ ngàng trước vẻ đẹp vừa kì ảo vừa mộc mạc của truyện *Nữ thần Mặt Trời và Mặt Trăng*. Bằng trí tưởng tượng bay bổng kết hợp lối kể chuyện duyên dáng, tác phẩm không chỉ thể hiện chủ đề nhận thức, cắt nghĩa thế giới thiên văn đầy thú vị của người Việt cổ mà còn kết tinh những nét đặc sắc tiêu biểu về hình thức nghệ thuật của thể loại thần thoại suy nguyên.
 
   Thuộc nhóm thần thoại suy nguyên kể về nguồn gốc các hiện tượng tự nhiên, *Nữ thần Mặt Trời và Mặt Trăng* xoay quanh hai cô con gái của Ngọc Hoàng được giao sứ mệnh hằng ngày luân phiên ngồi kiệu đi xem xét hạ giới. Tác phẩm lần lượt giải thích vì sao ngày có khi dài khi ngắn qua bước chân của hai tốp người khiêng kiệu trẻ và già; lí giải vì sao ánh trăng dịu mát, có chu kì tròn – khuyết và quầng mờ qua sự việc cô Mặt Trăng nóng nảy bị mẹ trát tro lên mặt; đồng thời cắt nghĩa hiện tượng nhật thực, nguyệt thực cùng tập tục đánh chiêng trống, gõ cối giã gạo của dân gian qua câu chuyện người chồng Gấu đến thăm hai nữ thần.
@@ -235,7 +235,7 @@ D. Sự bất công của viên Ngự sử khi chấm thi ở cửa Vũ Môn.
   - *Đánh giá mở rộng (0,50đ):* Đối sánh Thần Mưa với *Thần Sét, Thần Gió* (SGK) để thấy hệ thống thần tự nhiên Việt Nam thống nhất, bình dị mà giàu giá trị văn hoá.
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 02 (~940 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
+#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 02 (~1.040 CHỮ MẪU ĐẦY ĐỦ — THỰC CHIẾN CẮT CÒN 600 – 800)")[
   Với cư dân văn minh nông nghiệp lúa nước Việt Nam từ ngàn xưa, nước và những cơn mưa trời luôn giữ vị trí sinh tử hàng đầu: *“Trông trời, trông đất, trông mây / Trông mưa, trông nắng, trông ngày, trông đêm”*. Chính từ mối gắn bó máu thịt với đồng ruộng và bầu trời ấy, trí tưởng tượng hồn nhiên của tổ tiên ta đã dệt nên thiên thần thoại đặc sắc *Thần Mưa* (trích trong *Lược khảo về thần thoại Việt Nam* của học giả Nguyễn Đổng Chi). Tác phẩm là viên ngọc quý kết tinh trọn vẹn vẻ đẹp của thể loại thần thoại suy nguyên Việt Nam, vừa cuốn hút người đọc bởi chiều sâu chủ đề nhận thức – nhân sinh phong phú, vừa tỏa sáng nhờ những nét đặc sắc độc đáo về hình thức nghệ thuật tự sự dân gian.
 
   *Thần Mưa* mở ra bằng hình tượng vị thần mang lốt rồng vĩ đại chuyên vâng lệnh Trời bay xuống sông biển hút nước rồi bay lên trời cao phun mưa nuôi sống thế gian. Do Thần Mưa có tật hay quên khiến hạ giới nơi hạn hán, nơi lụt lội, lại thêm công việc phân phối nước khắp mặt đất quá nặng nề, Trời đã mở cuộc sát hạch ba kì vượt sóng tại cửa Vũ Môn để tuyển chọn các loài thủy tộc tài giỏi hóa rồng phụ giúp. Giữa hàng loạt giống loài thất bại như cá rô chỉ qua một đợt sóng hay con tôm đuối sức ngã cong lưng ở đợt thứ ba, cá chép đã xuất sắc vượt liền ba đợt sóng dữ để hóa rồng oai nghi phun nước làm mưa cho trần thế.
@@ -356,7 +356,7 @@ D. Chứng minh lúa ngày xưa ngon hơn lúa ngày nay.
   - *Đánh giá mở rộng (0,50đ):* Liên hệ tín ngưỡng thờ Mẹ Lúa ở Đông Nam Á và ca dao Việt Nam (*“Dẻo thơm một hạt đắng cay muôn phần”*).
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 03 (~910 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
+#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 03 (~980 CHỮ MẪU ĐẦY ĐỦ — THỰC CHIẾN CẮT CÒN 600 – 800)")[
   Từ hàng ngàn năm dựng nước bên châu thổ những dòng sông lớn, cây lúa không chỉ là nguồn lương thực nuôi sống thể xác mà còn là linh hồn văn hoá của người Việt. Trong tâm thức thiêng liêng thuở hồng hoang, cha ông ta tin rằng mỗi nhành lúa trĩu bông ngoài đồng đều mang bóng dáng và hơi thở của một vị nữ thần hiền hậu. Truyện *Nữ thần Lúa* (trích *Kho tàng truyện thần thoại Việt Nam*) chính là kết tinh tuyệt đẹp của niềm tin *“vạn vật hữu linh”* ấy. Tác phẩm chinh phục người đọc qua bao thế hệ nhờ sự hòa quyện nhuần nhị giữa chủ đề suy nguyên giàu tính nhân bản và những nét đặc sắc tinh tế về hình thức nghệ thuật tự sự dân gian.
 
   Câu chuyện mở ra trong bối cảnh buổi sơ khai sau những trận lụt lội ghê gớm hủy diệt muôn loài, Ngọc Hoàng thương xót những người sống sót nên sai con gái là Nữ thần Lúa xuống trần gian nuôi sống nhân loại. Ban đầu, nhờ phép màu của nữ thần, lúa chín tự bò về tận nhà, ngắt bông bỏ vào nồi liền hóa thành cơm trắng thơm lành. Thế nhưng, chỉ vì một cô gái lười nhác để sân nhà ngập rác bẩn lại cáu gắt cầm cán chổi phang vào đầu bông lúa đang kéo về, Nữ thần Lúa giận dỗi biến đi, bắt con người từ đó phải tự tay gặt hái, phơi giã cực nhọc và hằng năm phải làm lễ cúng hồn Lúa (cúng cơm mới) để tạ lỗi, cầu mùa.

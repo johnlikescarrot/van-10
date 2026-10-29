@@ -259,7 +259,7 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
 
   [*7. Thần Lửa (Nữ thần Lửa)*\ *(Thần thoại Việt Nam)*],
   [Suy nguyên & sinh hoạt],
-  [Bà già hung dữ giữ ngọn lửa mầu nhiệm đặt ống nứa không cũng nấu ra cơm cá ngon lành. Ông lão đi rừng lấy được tàn than đỏ về nuôi nhà sung túc, nhưng con dâu dội nước chữa cháy làm tắt mất bảo vật.],
+  [Bà Hỏa mặt mũi hung dữ giữ ngọn lửa mầu nhiệm: đặt ống nứa không lên bếp cũng nấu ra cơm cá. Ông lão đi rừng lấy được *“một tí than đỏ”* đem về nhen nhóm, nhà sung túc; người con dâu thấy lửa bén vách vội dội vò nước làm tắt mất bảo vật. Bộ hạ *thằng Bợ* ăn cắp lửa, là kẻ thù của loài người.],
   [• Lí giải: Sức mạnh hai mặt của lửa (nuôi sống và thiêu hủy) cùng tập tục *giữ lửa bếp không bao giờ tắt* của người xưa.\ • Bài học bình tĩnh, cẩn trọng giữ gìn những giá trị quý báu.],
 
   [*8. Hai thần Đực Cái (Tứ Tượng – Nữ Oa)*\ *(Thần thoại Việt Nam)*],
@@ -287,6 +287,23 @@ Vì 100% đề thi lấy ngữ liệu ngoài SGK *Kết nối tri thức*, bản
   [Ê-pi-mê-tê đãng trí ban hết “vũ khí” sinh tồn cho muôn thú, để con người trần trụi bấy yếu. Prô-mê-tê thông minh tái tạo dáng người *đứng thẳng thanh tao như thần*, rồi băng lên cỗ xe thần Mặt Trời Hê-li-ôx *lấy ngọn lửa thiêng* trao cho loài người.],
   [• Lí giải: Dáng đứng thẳng hướng thiên, đôi tay lao động và *ngọn lửa văn minh* dạy con người muôn nghề.\ • Đề cao trí tuệ nhìn xa trông rộng, lòng nhân ái vì con người và sức mạnh văn hoá.]
 )
+
+#mnemonic-box(title: "BẢNG TRA CỨU NHANH: 12 THẦN THOẠI TRỌNG TÂM & VỊ TRÍ XUẤT HIỆN TRONG BỘ ĐỀ THỰC CHIẾN (PHẦN VI)")[
+  #study-table(
+    (2.0fr, 2.3fr, 2.6fr),
+    ("Tác phẩm", "Xuất hiện ở", "Dạng khai thác"),
+    [*Nữ thần Mặt Trời và Mặt Trăng*], [Đề 01 (trọn bộ)], [Đọc hiểu + Viết nghị luận (Phương án A)],
+    [*Thần Mưa*], [Đề 02 (trọn bộ)], [Đọc hiểu + Viết nghị luận (Phương án A)],
+    [*Nữ thần Lúa*], [Đề 03 (trọn bộ)], [Đọc hiểu + Viết nghị luận (Phương án A)],
+    [*Cuộc tu bổ lại các giống vật*], [Đề 04 (Đọc hiểu) + mục 5.11], [Đọc hiểu + Bài văn mẫu chú giải 5 tầng],
+    [*Mười hai Bà Mụ*], [Đề 04 (Viết)], [Viết nghị luận (Phương án B)],
+    [*Sự tích Ông Đùng, bà Đùng*], [Đề 05 (Đọc hiểu)], [Đọc hiểu (Phương án B)],
+    [*Nữ Oa vá trời*], [Đề 05 (Viết)], [Viết nghị luận (Phương án B)],
+    [*Prô-mê-tê và loài người*], [Đề 06 (trọn bộ)], [Đọc hiểu + Viết nghị luận (Phương án A)],
+    [*Thần Lửa (bà Hỏa)*], [Đề 07 (trọn bộ)], [Đọc hiểu + Viết nghị luận (Phương án A)],
+    [*Thần Biển • Hai thần Đực Cái • Đi san mặt đất*], [Kho dự phòng (mục 4.4 & 2.5)], [Ngân hàng câu hỏi & chất liệu đối sánh],
+  )
+]
 
 = 2.6. Đối sánh Đông – Tây: Thần thoại Việt Nam vs. Thần thoại Hy Lạp / Trung Hoa
 

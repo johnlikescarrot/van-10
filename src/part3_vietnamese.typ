@@ -58,7 +58,7 @@ Khi đề hỏi *“Nêu tác dụng của việc sử dụng hệ thống từ 
   [*Yếu điểm* vs. *Điểm yếu*], [*Yếu điểm* = điểm quan trọng then chốt.\ *Điểm yếu* = hạn chế, thiếu sót.], [Chủ đề là *yếu điểm* của tác phẩm; hay quên là *điểm yếu* của Thần Mưa.],
   [*Tri thức* vs. *Trí thức*], [*Tri thức* = hệ thống hiểu biết.\ *Trí thức* = người có học vấn chuyên môn.], [Tích lũy *tri thức* văn học; người *trí thức* yêu nước.],
   [*Cứu cánh* vs. *Cứu trợ*], [*Cứu cánh* = mục đích cuối cùng.\ *Cứu trợ* = giúp đỡ lúc hoạn nạn.], [Nghệ thuật vị nhân sinh lấy con người làm *cứu cánh* tối hậu.],
-  [*Bàng quan* vs. *Bàng quang*], [*Bàng quan* = đứng ngoài cuộc, thờ ơ.\ *Bàng quang* = cơ quan bóng đái.], [Không thể giữ thái độ *bàng quan* trước cái ác.],
+  [*Bàng quan* vs. *Bàng quang*], [*Bàng quan* = đứng ngoài cuộc, thờ ơ.\ *Bàng quang* = cơ quan chứa nước tiểu (bọng đái).], [Không thể giữ thái độ *bàng quan* trước cái ác.],
   [*Tham quan* vs. *Thăm quan*], [*Tham quan* = xem tận mắt để mở rộng hiểu biết (*“thăm quan”* là viết sai!).], [Đoàn học sinh đi *tham quan* di tích đền Tản Viên.],
   [*Độc giả / Khán giả / Thính giả*], [*Độc* = đọc sách báo; *Khán* = xem biểu diễn; *Thính* = nghe phát thanh.], [Truyện thần thoại chinh phục bao thế hệ *độc giả*.],
   [*Nhậm chức* vs. *Nhận chức*], [*Nhậm* (gánh vác chức vụ chính thức) trang trọng hơn *nhận*.], [Tử Văn đến *nhậm chức* Phán sự đền Tản Viên.],
