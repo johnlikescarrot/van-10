@@ -2,6 +2,7 @@
 
 #show: project-doc
 
+#include "guide_update.typ"
 #include "part1_matrix.typ"
 #include "part2_knowledge.typ"
 #include "part3_vietnamese.typ"

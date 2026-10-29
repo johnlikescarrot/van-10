@@ -9,7 +9,7 @@
 
 #passage-box(
   title: "CUỘC TU BỔ LẠI CÁC GIỐNG VẬT",
-  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003, tr. 77 – 78"
+  source: "Theo Nguyễn Đổng Chi, Lược khảo về thần thoại Việt Nam, NXB Khoa học Xã hội, Hà Nội, 2003"
 )[
   Ngọc Hoàng trước khi sáng tạo ra con người đã nặn ra vạn vật. Nhưng lúc sơ khởi, một phần vì thiếu nguyên liệu, một phần cũng vì vội vàng muốn có một thế giới ngay trong một sớm một chiều cho nên có một số động vật cơ thể cấu tạo chưa được đầy đủ: có con thiếu cánh, có con thiếu chân, v.v...
 
@@ -288,7 +288,7 @@ D. Xây dựng kết thúc bi kịch đầy nước mắt làm thức tỉnh lư
 
 #passage-box(
   title: "PRÔ-MÊ-TÊ VÀ LOÀI NGƯỜI",
-  source: "Theo Nguyễn Văn Khoả, Thần thoại Hy Lạp, tập I, NXB Khoa học Xã hội, Hà Nội, 1990, tr. 79 – 81"
+  source: "Theo Nguyễn Văn Khoả, Thần thoại Hy Lạp, tập I, NXB Khoa học Xã hội, Hà Nội, 1990"
 )[
   Thuở ấy thế gian chỉ mới có các vị thần. Mặt đất mênh mông, dẫu đã có khá nhiều vị thần cai quản song vẫn còn hết sức vắng vẻ. Không muốn để tình cảnh buồn tẻ đó kéo dài, bữa kia hai anh em Prô-mê-tê và Ê-pi-mê-tê xin với U-ra-nôx và Gai-a tạo ra cho thế gian thêm nhiều nhiều cái gì đó để cho cuộc sống đông vui. U-ra-nôx và Gai-a ưng thuận. Hai vị giao luôn việc đó cho hai anh em Prô-mê-tê và Ê-pi-mê-tê. Cậu em Ê-pi-mê-tê mừng quá, tranh ngay lấy việc đó và giao cho ông anh lo việc xem xét, sửa chữa lại sau. Ê-pi-mê-tê lấy đất và nước nhào nặn ra, trước hết, là các loài vật và ban cho mỗi con vật một đặc ân của thần, một “vũ khí” để có thể phòng thân, hộ mệnh, bảo vệ được cuộc sống của giống loài mình. Con thì được ban cho ân huệ chạy nhanh như gió. Con thì có đôi mắt sáng xanh nhìn thấu cả đêm đen. Con thì có thân hình khổng lồ mạnh khỏe hết chỗ nói. Có con thân hình bé nhỏ nhưng lại có nọc độc gớm ghê. Rồi con có bộ lông dày, con có sải cánh rộng. Con thì xuống nước không chìm, con thì trèo leo thoăn thoắt... Tóm lại mỗi con vật, mỗi giống loài đều có “vũ khí” cần thiết để sống được ở thế gian.
 
@@ -390,7 +390,7 @@ D. Biểu tượng cho sự trừng phạt khắc nghiệt của thần Mặt Tr
   - *Đánh giá mở rộng (0,50đ):* Đối sánh với *Mười hai Bà Mụ* và *Thần Lửa* của Việt Nam để làm bật tinh thần duy lí, tôn vinh tư thế đứng thẳng và khát vọng khai sáng văn minh đặc trưng của văn hoá Hy Lạp cổ đại.
 ]
 
-#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 06 (~960 CHỮ — CHUẨN ĐIỂM TUYỆT ĐỐI 4,0/4,0)")[
+#essay-box(title: "BÀI VĂN NGHỊ LUẬN MẪU HOÀN CHỈNH ĐỀ SỐ 06 (~960 CHỮ — THAM KHẢO)")[
   Trong lịch sử tư tưởng nhân loại, C. Mác từng tôn vinh Prô-mê-tê là *“vị thánh và người tử vì đạo cao quý nhất trong lịch triết học”* — biểu tượng bất diệt của trí tuệ khai sáng và tình yêu thương con người vô bờ bến. Quay ngược dòng thời gian về buổi bình minh rực rỡ của văn minh Địa Trung Hải qua bản kể tài hoa của học giả Nguyễn Văn Khoả (*Thần thoại Hy Lạp*), truyện *Prô-mê-tê và loài người* hiện lên như một viên kim cương lấp lánh của thể loại thần thoại cổ đại. Tác phẩm không chỉ chinh phục độc giả bằng chủ đề nhân văn sâu thẳm lí giải cội nguồn sức mạnh văn minh con người, mà còn cuốn hút mãnh liệt nhờ hệ thống hình thức nghệ thuật tự sự giàu kịch tính và chất thơ tráng lệ.
 
   Câu chuyện mở ra vào thuở hồng hoang khi thế gian mới chỉ có các vị thần và mặt đất mênh mông còn hết sức buồn tẻ. Được thần Bầu Trời U-ra-nôx và Đất Mẹ Gai-a ưng thuận, hai anh em Titan là Prô-mê-tê và Ê-pi-mê-tê bắt tay nhào nặn sự sống từ đất và nước. Cậu em Ê-pi-mê-tê hăm hở tranh làm trước, ban phát hết mọi đặc ân “vũ khí” phòng thân cho muôn loài cầm thú, để rồi đến cuối cùng lại lơ đễnh bỏ sót con người trong tình cảnh trần trụi, bấy yếu hoàn toàn. Không đành lòng nhìn con người diệt vong trước nanh vuốt thú dữ và thiên tai khắc nghiệt, người anh Prô-mê-tê thông minh đã tái tạo vóc dáng con người đứng thẳng thanh tao như thần linh, rồi dũng cảm băng lên bầu trời xa tít tắp châm lửa từ cỗ xe thần Mặt Trời Hê-li-ôx đem xuống trao tặng nhân gian, mở ra kỉ nguyên văn minh hạnh phúc cho loài người.

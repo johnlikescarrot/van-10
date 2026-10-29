@@ -8,7 +8,7 @@
 
 = 3.1. Chuyên đề Trọng tâm: Sử dụng Từ Hán Việt (SGK Ngữ văn 10 KNTT, tr. 28 – 29)
 
-Trong các đề kiểm tra Giữa kì I Ngữ văn 10 *Kết nối tri thức*, kiến thức #strong[Từ Hán Việt] xuất hiện trực tiếp ở: *(1) 1–2 câu hỏi trắc nghiệm Đọc hiểu (tìm từ Hán Việt, giải nghĩa từ Hán Việt trong ngữ cảnh thần thoại như “hạ giới”, “thiên đình”, “thủy phủ”, “sơ khởi”, “tu bổ”, “sinh linh”... hoặc nhận diện lỗi dùng từ); (2) Tiêu chí chuẩn dùng từ và sắc thái trang trọng của bài văn Nghị luận 4,0 điểm*.
+Từ Hán Việt là kiến thức hỗ trợ đọc và viết, được học ở Bài 1. Ma trận được cung cấp không ấn định số câu riêng về từ Hán Việt. Hãy giải nghĩa theo ngữ cảnh và dùng từ chính xác khi viết.
 
 == A. Cấu tạo Yếu tố Hán Việt & Từ ghép Hán Việt
 

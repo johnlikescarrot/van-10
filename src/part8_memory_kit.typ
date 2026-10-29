@@ -80,7 +80,7 @@ Khoa học thần kinh nhận thức chứng minh rằng học dồn một đêm
   - #strong[Câu 9 (Thông hiểu — 1,0đ, viết 6 – 8 dòng):] Mở đầu bằng từ khóa câu hỏi → Trích dẫn ngắn 1 – 2 cụm từ trong ngữ liệu đặt trong ngoặc kép `“...”` → Giải mã 2 chiều (*Tác dụng nghệ thuật sinh động/kì ảo* + *Ý nghĩa nội dung/chủ đề suy nguyên & nhân văn*).
   - #strong[Câu 10 (Vận dụng — 1,0đ, viết 6 – 8 dòng, hình thức 01 đoạn văn liền mạch):] *(1) Câu mở đoạn* nêu trực diện thông điệp/đồng tình → *(2) Lí giải* vì sao thông điệp đúng đắn, sâu sắc → *(3) Mở rộng/Phản đề* ngắn gọn → *(4) Liên hệ hành động thực tế* của tuổi trẻ hôm nay. *(Tuyệt đối không xuống dòng gạch đầu dòng nếu đề yêu cầu viết đoạn văn!)*
 
-  *3. DÀN Ý BẤT BẠI CHO BÀI VĂN NGHỊ LUẬN 4,0 ĐIỂM (CÂU 11 — KHOẢNG 700 – 900 CHỮ):*
+  *3. DÀN Ý BẤT BẠI CHO BÀI VĂN NGHỊ LUẬN 4,0 ĐIỂM (CÂU 11 — THEO YÊU CẦU ĐỀ):*
   - #strong[Mở bài (1 đoạn):] Dẫn dắt sức hấp dẫn thần thoại / nhận định văn học → Giới thiệu #strong[tên tác phẩm + thể loại thần thoại (quốc gia/sưu tầm) + nêu khái quát giá trị chủ đề & đặc sắc nghệ thuật].
   - #strong[Thân bài (4 đoạn rõ ràng):]
     1. *Đoạn 1 — Khái quát & Tóm tắt:* Nhóm thần thoại (*suy nguyên / sáng tạo*) + tóm tắt tinh gọn cốt truyện trong 5 – 7 dòng.
@@ -100,7 +100,7 @@ Trước khi đặt bút nộp bài lúc hết 90 phút, hãy dành đúng #stro
   (0.6fr, 2.2fr, 4.0fr),
   ("STT", "Hạng mục Kiểm tra", "Tiêu chuẩn An toàn Tuyệt đối Trước Khi Nộp Bài"),
   [*1*], [Đủ 8 câu Trắc nghiệm (4,0đ)], [Đã ghi rõ ràng phương án chọn (`A`, `B`, `C` hoặc `D`) cho tất cả Câu 1 → Câu 8; không bỏ trống, không tô/viết đè hai đáp án nhập nhằng ở bất kì câu nào.],
-  [*2*], [Câu 9 có Trích dẫn (1,0đ)], [Câu trả lời Câu 9 đã có ít nhất #strong[01 chi tiết / từ ngữ trích nguyên văn trong ngoặc kép] từ ngữ liệu và đã nêu đủ cả *ý nghĩa nội dung* lẫn *tác dụng nghệ thuật*.],
+  [*2*], [Câu 9 có Trích dẫn (1,0đ)], [Câu trả lời Câu 9 đã có ít nhất #strong[01 chi tiết đúng với ngữ liệu] từ ngữ liệu và đã nêu đủ cả *ý nghĩa nội dung* lẫn *tác dụng nghệ thuật*.],
   [*3*], [Hình thức Câu 10 (1,0đ)], [Nếu đề yêu cầu *“viết đoạn văn”*: kiểm tra xem có vô tình xuống dòng hay gạch đầu dòng không; đã có câu liên hệ nhận thức/hành động của bản thân chưa.],
   [*4*], [Mở bài Câu 11 đủ 3 thông tin], [Kiểm tra đoạn Mở bài đã gọi tên chính xác: #strong[(1) Tên truyện thần thoại + (2) Thể loại thần thoại / xuất xứ + (3) Vấn đề nghị luận (chủ đề & đặc sắc nghệ thuật)].],
   [*5*], [Cân đối Chủ đề & Nghệ thuật], [Thân bài Câu 11 không bị lệch sang kể chuyện xuôi; đã có đoạn văn riêng phân tích sâu #strong[hình thức nghệ thuật] và đoạn #strong[đối sánh liên hệ mở rộng].],
