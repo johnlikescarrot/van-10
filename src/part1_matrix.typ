@@ -84,7 +84,7 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
   ]
 )
 
-*Lưu ý quan trọng:* Bộ 06 Đề thi chuẩn Ma trận tại #strong[Phần VI] của đề cương này đã bao quát trọn vẹn #strong[cả hai phương án A và B] để học sinh làm chủ tuyệt đối mọi kịch bản ra đề!
+*Lưu ý quan trọng:* Bộ 08 Đề thi chuẩn Ma trận tại #strong[Phần VI] – #strong[VII] của đề cương này đã bao quát trọn vẹn #strong[cả hai phương án A và B] để học sinh làm chủ tuyệt đối mọi kịch bản ra đề!
 
 = 1.4. Ánh xạ 22 Chỉ báo Bản Đặc tả sang Dạng Câu hỏi Thực chiến
 
@@ -173,12 +173,12 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
     block(fill: rgb("#EFF8FF"), stroke: 0.8pt + rgb("#84CAFF"), radius: 4pt, inset: 7pt, width: 100%)[
       #text(size: 8pt, weight: "bold", fill: rgb("#175CD3"))[CHẶNG 1: PHÚT 01 – 10]\
       #text(size: 8.8pt, weight: "bold", fill: c-navy)[Đọc đề & 8 câu TNKQ]\
-      #text(size: 7.8pt, fill: c-slate)[Đọc câu hỏi trước → Gạch từ khóa ngữ liệu → Chốt 8 câu TNKQ (4,0đ).]
+      #text(size: 7.8pt, fill: c-slate)[Đọc câu hỏi trước → Gạch từ khóa ngữ liệu → Chốt 8 câu TNKQ (8 × 0,5 = 4,0đ).]
     ],
     block(fill: rgb("#FFFAEB"), stroke: 0.8pt + rgb("#FDB022"), radius: 4pt, inset: 7pt, width: 100%)[
       #text(size: 8pt, weight: "bold", fill: rgb("#B54708"))[CHẶNG 2: PHÚT 11 – 25]\
       #text(size: 8.8pt, weight: "bold", fill: c-navy)[Giải quyết Câu 9 & 10]\
-      #text(size: 7.8pt, fill: c-slate)[7 phút viết Câu 9 (4 bước) + 8 phút viết đoạn Câu 10 (2,0đ).]
+      #text(size: 7.8pt, fill: c-slate)[7 phút viết Câu 9 (4 bước, 1,0đ) + 8 phút viết đoạn Câu 10 (1,0đ).]
     ],
     block(fill: rgb("#F4F3FF"), stroke: 0.8pt + rgb("#9B8AFB"), radius: 4pt, inset: 7pt, width: 100%)[
       #text(size: 8pt, weight: "bold", fill: c-purple)[CHẶNG 3: PHÚT 26 – 85 (60 PHÚT TRỌNG TÂM)]\
@@ -191,4 +191,146 @@ Từ Bản đặc tả (*Đọc hiểu: Thần thoại ngoài SGK* và *Viết: 
       #text(size: 7.8pt, fill: c-slate)[Kiểm mã A/B/C/D, chính tả, dấu ngoặc kép trích dẫn.]
     ]
   )
+]
+
+= 1.6. Bảng Động từ Chỉ báo — "Đọc vị" Yêu cầu của Đề trước khi Viết
+
+Đề thi hiện đại không hỏi "em có nhớ bài không" mà hỏi "em làm được việc gì với kiến thức ấy". Mỗi câu hỏi mở đầu bằng một #strong[động từ chỉ báo] (command verb) — và chính động từ ấy quy định độ sâu của câu trả lời. Trả lời một câu "đánh giá" bằng thao tác "liệt kê" là mất điểm dù nội dung đúng; ngược lại, trả lời câu "nêu" bằng ba trang bình luận là mất thời gian vô ích. Bảng dưới đây là bảng "dịch" từ đề sang thao tác:
+
+#study-table(
+  (1.05fr, 1.85fr, 2.1fr, 1.7fr),
+  ("Cấp độ", "Động từ hiệu lệnh thường gặp", "Thao tác bắt buộc / Điều KHÔNG được làm", "Dạng câu hỏi thực tế trong đề"),
+
+  [*NHẬN BIẾT*\ #badge-biet],
+  [nhận biết, chỉ ra, xác định, kể tên, gọi tên, liệt kê, nêu, tái hiện, phát hiện, thống kê],
+  [• Tìm đúng #strong[một] thông tin có sẵn trong văn bản.\ • Trả lời bằng một cụm từ hoặc một câu ngắn.\ • #strong[Không] suy diễn, #strong[không] bình luận thêm.],
+  ["Văn bản trên thuộc thể loại nào?"; "Nhân vật chính của truyện là ai?"; "Chi tiết nào sau đây #strong[KHÔNG] xuất hiện trong văn bản?"; "Từ nào là từ Hán Việt?"],
+
+  [*THÔNG HIỂU*\ #badge-hieu],
+  [hiểu, giải thích, lí giải, cắt nghĩa, phân tích, khái quát, tóm tắt, so sánh, chỉ ra tác dụng, nêu ý nghĩa, làm rõ],
+  [• Phải huy động #strong[từ hai dữ kiện trở lên] rồi nối chúng bằng quan hệ nhân – quả, mục đích – kết quả.\ • Bắt buộc có #strong[dẫn chứng] (từ khóa hoặc câu trích ngắn).\ • #strong[Không] chỉ chép lại lời văn của tác giả.],
+  ["Vì sao Thần Mưa lại quên...?"; "Chi tiết 'X' có ý nghĩa gì?"; "Tác dụng của biện pháp phóng đại trong câu...?"; "Nhận xét về tính cách nhân vật qua hành động..." (đoạn 5–7 dòng)],
+
+  [*VẬN DỤNG*\ #badge-vd],
+  [đánh giá, bình luận, nhận xét, phê bình, liên hệ, rút ra bài học, đề xuất, vận dụng, cảm nhận, suy nghĩ, đồng tình/không đồng tình],
+  [• Nêu #strong[ý kiến riêng] (đồng tình / phản bác / đồng tình có điều chỉnh).\ • Bảo vệ bằng #strong[lí lẽ] và #strong[bằng chứng] — không cảm xúc trống rỗng.\ • Liên hệ được với đời sống, với văn bản khác hoặc với bản thân.],
+  ["Anh/chị có đồng tình với quan niệm...? Vì sao?" (đoạn 7–10 dòng); "Từ văn bản, hãy rút ra bài học cho bản thân"; "Nếu được viết lại kết thúc, anh/chị sẽ chọn cách nào? Lí giải."]
+)
+
+#trap-box(title: "HAI CẶP ĐỘNG TỪ HỌC SINH HAY “DỊCH SAI” NHẤT")[
+  #set text(size: 8.9pt)
+  • #strong[“Nêu” ≠ “Phân tích”]. “Nêu” chỉ cần gọi tên đúng; “phân tích” phải tách đối tượng thành các bộ phận rồi chỉ ra quan hệ giữa chúng. Viết 10 dòng cho câu “nêu” là tự đánh mất 5 phút của bài văn 4,0 điểm.\
+  • #strong[“Phân tích” ≠ “Đánh giá”]. Phân tích là *làm rõ cơ chế* (chi tiết này được xây dựng thế nào, tác dụng ra sao); đánh giá là *cân đo giá trị* (hay/dở, sâu sắc/hời hợt, còn sức sống hay không). Bài văn 4,0 điểm bắt buộc phải có #strong[cả hai] — thiếu đánh giá là mất trọn 1,5 điểm Vận dụng.
+]
+
+= 1.7. Chín Sai lầm Chiến lược Khiến Học sinh Mất 2 – 3 Điểm Oan
+
+Điểm thi Giữa kì I không chỉ mất ở chỗ "không biết bài". Phần lớn học sinh mất điểm vì những lỗi #strong[không liên quan đến kiến thức] — lỗi chiến lược và lỗi trình bày. Kiểm tra lại bài làm của mình theo bảng sau, mỗi dòng là một lỗi đã được đong đếm bằng điểm số thực tế:
+
+#study-table(
+  (0.75fr, 2.05fr, 1.7fr, 2.2fr),
+  ("#", "Sai lầm & biểu hiện điển hình", "Hậu quả đo được", "Cách khắc phục ngay trong phòng thi"),
+
+  [*1*],
+  [*Đọc ngữ liệu trước, đọc câu hỏi sau.* Mắt dán vào truyện, đọc hết 60 dòng rồi mới xem đề, sau đó phải quay lại dò từng chi tiết.],
+  [Mất 4–6 phút; đọc hiểu sai trọng tâm; dễ chọn phương án nhiễu vì "thấy quen quen".],
+  [Luôn #strong[đọc câu hỏi trước] (10 giây/câu), gạch từ khóa, rồi đọc ngữ liệu một lượt có định hướng.],
+
+  [*2*],
+  [*Bỏ trắng câu khó rồi quên quay lại.* Gặp câu 6 khó, định "tí nữa làm", cuối giờ không còn phút nào.],
+  [Mất trọn 0,5đ — tương đương 3–4 dòng phân tích trong bài văn.],
+  [Đánh dấu #strong[“?” bên lề] bằng bút chì và ghi giờ quay lại (ví dụ “quay lại phút 20”).],
+
+  [*3*],
+  [*Trả lời Câu 9 bằng một câu cụt, không dẫn chứng.* Ví dụ: “Thần Mưa rất nóng tính.”],
+  [Tối đa 0,25/1,0đ vì thiếu dẫn chứng và thiếu lí giải — đúng hiện tượng “biết mà không ghi được điểm”.],
+  [Ép mình viết đủ #strong[4 thành phần GỌI – TRÍCH – GIẢI – CHỐT] (xem Phần IV, mục 4.2).],
+
+  [*4*],
+  [*Biến Câu 10 thành bài văn mini.* Viết 20–25 dòng cho một câu 1,0 điểm.],
+  [Lấn 10 phút của bài nghị luận 4,0 điểm — điểm đổi rất bất lợi (1,0 điểm đổi lấy 1,5–2,0 điểm).],
+  [Khống chế #strong[10–12 dòng], đúng 3 nhịp: khẳng định – lí giải – bài học.],
+
+  [*5*],
+  [*Chép lại nguyên văn ngữ liệu.* Hỏi “tác dụng của phép phóng đại” nhưng trả lời bằng cách chép lại câu có phép phóng đại.],
+  [0 điểm nội dung, dù chữ đẹp và dài.],
+  [Chỉ trích #strong[từ khóa ngắn trong ngoặc kép] (“đứng cao hơn năm lần đỉnh núi”), phần còn lại là lời phân tích của mình.],
+
+  [*6*],
+  [*Kể lể cốt truyện chiếm 2/3 bài nghị luận.* Dành 25 phút kể lại truyện, 5 phút nói về nghệ thuật.],
+  [Mất 1,0–1,5đ ở nhóm tiêu chí “phân tích đặc sắc nghệ thuật” và “đánh giá”.],
+  [Tóm tắt #strong[tối đa 5 câu], sau đó mỗi đoạn thân bài phải có ít nhất #strong[một thuật ngữ nghệ thuật] (phóng đại, phiếm chỉ, kì ảo, đối lập...).],
+
+  [*7*],
+  [*Không có kết bài, hoặc kết bài “bài học rút ra là phải biết yêu thương”.*],
+  [Mất 0,25đ cấu trúc + 0,25đ ở tiêu chí sáng tạo; bài văn “hụt hơi”.],
+  [Dùng #strong[kết bài 3 câu]: khẳng định giá trị → sức sống của hình tượng → liên hệ ngắn, cụ thể.],
+
+  [*8*],
+  [*Sai từ Hán Việt trong chính bài nghị luận.* Viết “yếu điểm” thay “điểm yếu”, “bàng quan” thay “bàng bạc”, “chỉnh chu” thay “chỉn chu”.],
+  [Trừ 0,25đ “chuẩn chính tả, dùng từ” — và để lại ấn tượng xấu về cả bài.],
+  [Học thuộc #strong[10 cặp từ dễ nhầm] ở mục 3.1 và tự đọc lại bài một lượt chỉ để soát từ.],
+
+  [*9*],
+  [*Dùng bút xóa, viết chen, gạch xóa tùy tiện.* Bài làm lem nhem, giám khảo khó theo dõi luận điểm.],
+  [Không trừ điểm trực tiếp nhưng làm giảm hiệu quả của các tiêu chí “diễn đạt, sáng tạo”.],
+  [Sai thì #strong[gạch một nét ngang] và viết lại; tuyệt đối không viết chồng lên chữ cũ.]
+)
+
+= 1.8. Quy chuẩn Trình bày Bài thi — Ghi điểm bằng Hình thức
+
+Giám khảo chấm 60–90 bài trong một buổi; bài nào #strong[“nhìn thấy điểm”] trong 15 giây đầu sẽ được chấm kĩ hơn. Quy chuẩn dưới đây không nhằm làm bài “đẹp” mà để #strong[điểm không bị thất lạc] giữa hàng trăm bài giống nhau:
+
+#study-table(
+  (1.15fr, 2.5fr, 1.6fr, 1.45fr),
+  ("Phần", "Hình thức bắt buộc", "Điều giám khảo tìm", "Lỗi trừ điểm phổ biến"),
+
+  [*Trắc nghiệm*],
+  [Ghi đáp án theo #strong[một kiểu duy nhất]: khoanh tròn + ghi chữ cái in hoa ra lề phải (A, B, C, D). Không tô đen, không đánh dấu X.\ Mỗi dòng một câu: “Câu 1: A”.],
+  [Đáp án rõ ràng, không nhầm dòng khi chấm bằng máy hoặc chấm tay.],
+  [Khoanh mờ, sửa bằng bút xóa, ghi hai đáp án → 0 điểm.],
+
+  [*Câu 9* (1,0đ)],
+  [Trả lời thành #strong[một đoạn văn 5–7 dòng], không gạch đầu dòng rời rạc. Mở đầu bằng câu khẳng định trực tiếp vào câu hỏi.],
+  [Đủ 4 bước: gọi tên – trích dẫn – giải thích – chốt ý.],
+  [Chỉ nêu cảm nhận (“em thấy rất hay”) mà không giải thích cơ chế.],
+
+
+  [*Câu 10* (1,0đ)],
+  [Đoạn văn #strong[10–12 dòng], có câu chủ đề in đậm hoặc viết rõ ràng ở đầu đoạn (không cần kẻ khung).],
+  [Quan điểm cá nhân + lí lẽ + bài học cụ thể (không chung chung).],
+  [Viết lan man, “sáo rỗng”, không trả lời đúng vấn đề đề hỏi.],
+
+  [*Câu 11* (4,0đ)],
+  [Bài văn #strong[3 phần rõ ràng]: Mở bài (5–7 dòng) – Thân bài (4–5 đoạn, mỗi đoạn một luận điểm, xuống dòng rõ) – Kết bài (4–5 dòng).\ Có thể đặt số thứ tự luận điểm ở lề (1), (2) để giám khảo theo dõi.],
+  [Cấu trúc, hệ thống luận điểm, dẫn chứng nguyên văn, đánh giá có chiều sâu, chữ viết sạch.],
+  [Không xuống dòng giữa các luận điểm, thiếu kết bài, sai tên tác phẩm.]
+)
+
+#formula-box(title: "QUY TẮC “3 GIÂY CUỐI” — CỨU ĐIỂM TRƯỚC KHI NỘP BÀI", breakable-box: false)[
+  Trước khi nộp, đặt bút xuống và chỉ kiểm #strong[ba thứ]: (1) #strong[Đủ số câu] — 8 TNKQ + Câu 9 + Câu 10 + Câu 11, không bỏ trống dòng nào; (2) #strong[Đúng mã câu] — số thứ tự câu trả lời khớp với số câu hỏi, không lệch dòng; (3) #strong[Tên riêng] — viết hoa đúng tên nhân vật và tên truyện (Thần Trụ Trời, Tản Viên, Prô-mê-tê, Hê-ra-clét). Ba giây ấy thường bằng nửa điểm của cả bài.
+]
+
+= 1.9. Bảng Kiểm 10 Bước Trước Khi Viết Chữ Đầu tiên
+
+Mười bước dưới đây mất chưa đến ba phút, nhưng quyết định chất lượng của cả 90 phút còn lại. Đọc từ trên xuống, đánh dấu vào ô khi đã làm xong.
+
+#study-table(
+  (0.55fr, 2.05fr, 2.35fr, 1.35fr),
+  ("#", "Việc cần làm ngay khi nhận đề", "Cách làm cụ thể", "Thời gian"),
+
+  [*1*], [Ghi họ tên, số báo danh, tổng số tờ], [Điền đủ phần phách trước khi làm bài; đếm số tờ giấy thi và ghi rõ.], [60 giây],
+  [*2*], [Đọc lướt toàn bộ đề], [Xem có mấy ngữ liệu, câu 11 yêu cầu phân tích truyện nào. Chưa đọc kĩ nội dung.], [40 giây],
+  [*3*], [Đánh số thứ tự câu ra lề giấy nháp], [8 TNKQ + Câu 9 + Câu 10 + Câu 11; ghi mốc giờ dự kiến cho từng cụm.], [20 giây],
+  [*4*], [Đọc câu hỏi trước, ngữ liệu sau], [Gạch chân động từ hiệu lệnh của từng câu (nhận biết, lí giải, đánh giá).], [60 giây],
+  [*5*], [Đọc ngữ liệu một lượt có định hướng], [Vừa đọc vừa đánh dấu: tên nhân vật, chi tiết kì ảo, câu kết giải thích hiện tượng.], [3–4 phút],
+  [*6*], [Xác định thể loại và nhóm thần thoại], [Ghi ra lề: “thần thoại – suy nguyên/sáng tạo”. Đây là gốc của mọi câu trả lời.], [15 giây],
+  [*7*], [Trả lời 8 câu TNKQ theo thứ tự dễ → khó], [Câu nào chưa chắc thì đánh dấu “?” và ghi giờ quay lại.], [6–7 phút],
+  [*8*], [Viết Câu 9 theo 4 bước], [GỌI – TRÍCH – GIẢI – CHỐT; mỗi bước một câu, tổng 5–7 dòng.], [6 phút],
+  [*9*], [Viết Câu 10 theo 3 nhịp], [Khẳng định – lí giải – bài học; 10–12 dòng, không lan sang ý khác.], [8 phút],
+  [*10*], [Lập dàn ý Câu 11 ra nháp], [Ghi 5 tầng: giới thiệu, tóm tắt, chủ đề, nghệ thuật, đánh giá. Không viết câu hoàn chỉnh.], [6 phút]
+)
+
+#callout(title: "VÌ SAO PHẢI LÀM BƯỚC 6", tone: "primary", icon: "◆")[
+  Rất nhiều học sinh bỏ qua việc xác định thể loại vì nghĩ “đề đã ghi rồi”. Nhưng đề chỉ ghi #strong[thần thoại]; việc phân biệt #strong[suy nguyên] hay #strong[sáng tạo] là do mình. Chọn đúng nhóm thì phần “chủ đề” của Câu 9 và Tầng 3 của bài văn tự động đúng hướng: suy nguyên → nói về nhận thức, cắt nghĩa thế giới; sáng tạo → nói về khát vọng chinh phục, kinh nghiệm lao động. Chọn sai nhóm, cả hai phần sẽ lệch, dù dẫn chứng vẫn đúng.
 ]
